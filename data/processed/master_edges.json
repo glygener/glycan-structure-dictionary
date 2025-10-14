@@ -1,0 +1,182 @@
+[
+  {
+    "subj": "GSD:a7868da4-a6c2-4825-97b9-c86700b1c213",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5",
+    "comment": "GA1 is a related synonym of asialo-GM1"
+  },
+  {
+    "subj": "GSD:94c78688-31d6-41ea-b885-c811f945864d",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:20e88f5c-c2b3-59f6-be89-7e0e58465d7c",
+    "comment": "Pk antigen is a related synonym of Gb3"
+  },
+  {
+    "subj": "GSD:2721b555-911d-4079-a026-e761a752deb8",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:20e88f5c-c2b3-59f6-be89-7e0e58465d7c",
+    "comment": "CD77 is a related synonym of Gb3"
+  },
+  {
+    "subj": "GSD:cf106ff8-f5cf-494a-a7bd-47029cde0d2b",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:cb509f2c-8352-571e-987f-6afbb43dd3c5",
+    "comment": "P antigen is a related synonym of Gb4"
+  },
+  {
+    "subj": "GSD:07f53917-abb0-5512-9eb2-b97850950eee",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:07f53917-abb0-5512-9eb2-b97850950eee",
+    "comment": "mucin-type O-glycans is a related synonym of O-GalNAc glycans"
+  },
+  {
+    "subj": "GSD:d5606d4d-5018-4a71-997a-6b29f4187a99",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:89e36335-2fea-5ef3-a3a8-559985883dad",
+    "comment": "CA19-9 is a related synonym of sialyl Lewis a"
+  },
+  {
+    "subj": "GSD:0a5b0166-1241-5a4a-a0d8-d7d1970792c6",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:5c444dc8-d458-53df-88a8-65344b643df1",
+    "comment": "chondroitin sulfate A is a related synonym of chondroitin-4-sulfate"
+  },
+  {
+    "subj": "GSD:37210836-4c03-58ec-ae10-befc14eacc9e",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:0ef0d5e3-6dad-54e6-9bde-79eec7ce6000",
+    "comment": "chondroitin sulfate B is a related synonym of dermatan sulfate"
+  },
+  {
+    "subj": "GSD:0d5ea83b-21ec-59e0-a01e-35fb322984f4",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:38b53e04-c595-43d5-84ce-be2c1b8ff768",
+    "comment": "chondroitin sulfate C is a related synonym of chondroitin-6-sulfate"
+  },
+  {
+    "subj": "GSD:2815cc13-f565-4868-9cf2-9e7800568658",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:03eade63-065b-5266-b0d6-2d0feb657606",
+    "comment": "cisGM1 is a related synonym of GM1b"
+  },
+  {
+    "subj": "GSD:fbde2c9b-d9c5-4c7c-b3ef-93cbcc3ee9cb",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:3aa27544-ba80-5023-b104-e0747c328c0c",
+    "comment": "GM1a is a related synonym of GM1"
+  },
+  {
+    "subj": "GSD:18ddd830-8974-4494-a880-47eed3c79f17",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:18ddd830-8974-4494-a880-47eed3c79f17",
+    "comment": "Lc4 is a related synonym of lactotetraosylceramide"
+  },
+  {
+    "subj": "GSD:a7c3ef02-2f8b-4b92-8f06-445cc22031c0",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:0b994b4c-7d17-42aa-b8fe-71d08800b960",
+    "comment": "A2BG0 is a related synonym of A2B"
+  },
+  {
+    "subj": "GSD:bf0e78e7-7656-5f66-8677-a96d59743cfe",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:0605927f-fc12-42da-a5c2-1a52395ab7f8",
+    "comment": "G0 is a related synonym of A2"
+  },
+  {
+    "subj": "GSD:3eac30ef-5494-45c6-bdf5-108a05cf1890",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:558c6e29-6921-4fa8-81fb-105af7b1ac93",
+    "comment": "G0-N is a related synonym of A1"
+  },
+  {
+    "subj": "GSD:6fb1b3d1-7810-41fc-917e-44634e577d3c",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:0b994b4c-7d17-42aa-b8fe-71d08800b960",
+    "comment": "G0B is a related synonym of A2B"
+  },
+  {
+    "subj": "GSD:e2868821-1995-4872-983f-4231e9fd8faf",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:aeebc5be-14f5-4c03-b61f-a2936330a37e",
+    "comment": "G0F is a related synonym of FA2"
+  },
+  {
+    "subj": "GSD:e2aedcf6-3412-4ce7-8768-970fff170c92",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:0f6dff69-e331-4e34-9d72-7bbb67a604b5",
+    "comment": "G0FB is a related synonym of FA2B"
+  },
+  {
+    "subj": "GSD:e09b35de-0e6a-4fdd-a9b2-ad015b788603",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:1950a6af-7cbb-49cf-aae3-59bc276a5980",
+    "comment": "G1 is a related synonym of A2G1"
+  },
+  {
+    "subj": "GSD:aeeaceb1-5530-4598-b828-31015aceeaa0",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:4263014e-957d-44f1-b733-12302704fc09",
+    "comment": "G1F is a related synonym of FA2G1"
+  },
+  {
+    "subj": "GSD:a9dc8b21-25a3-4a48-8943-0c8e852ff46c",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:2d0aec1a-2f4b-44d7-9ff3-796bfdd88636",
+    "comment": "G2 is a related synonym of A2G2"
+  },
+  {
+    "subj": "GSD:c979ed9e-e4e2-4ec6-ae30-da5a7ad21b32",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:7bf91264-a639-48f4-a992-f1ad65f6d1e5",
+    "comment": "G2F is a related synonym of FA2G2"
+  },
+  {
+    "subj": "GSD:06a32dd0-c657-491d-bcf9-c719061df840",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:2e04d1a2-3da5-458f-8573-39514b94b7b7",
+    "comment": "G2FS1 is a related synonym of FA2G2S1"
+  },
+  {
+    "subj": "GSD:5750e9ec-7e77-491e-a140-3b90e2b0df83",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:54235f94-c902-44d0-994d-9235d7dc6fb7",
+    "comment": "G2FS2 is a related synonym of FA2G2S2"
+  },
+  {
+    "subj": "GSD:31920366-d0a5-4ca0-b9f7-3b9fceff0283",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:dd1653b0-671f-5a14-872b-aaa5a18bcd82",
+    "comment": "M3 (N-glycan) is a related synonym of Man3"
+  },
+  {
+    "subj": "GSD:f5c9087c-f814-4e25-8197-5801209af7e1",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:d7aaf087-4381-5ac9-889c-e4793293c978",
+    "comment": "M5 is a related synonym of Man5"
+  },
+  {
+    "subj": "GSD:2567d8db-d209-41bb-9f3e-86cc5bc11725",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:ac85d43d-be44-59fa-a524-580fbff1c6e3",
+    "comment": "M6 is a related synonym of Man6"
+  },
+  {
+    "subj": "GSD:b09056c6-2f81-4d26-9e20-c4cf7d1406f5",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:76f55f17-29ee-5938-bef1-bee233b36669",
+    "comment": "M7 is a related synonym of Man7"
+  },
+  {
+    "subj": "GSD:e46355aa-9afd-475b-8df0-ac024fd4e49d",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:652f4ddf-ec6a-59c8-ba0e-46a26173f4b7",
+    "comment": "M8 is a related synonym of Man8"
+  },
+  {
+    "subj": "GSD:7a9857d9-21b5-40a1-aa48-deb2cca160d8",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:171cbaf9-e31b-5be4-ab4c-b9a60cf10330",
+    "comment": "M9 is a related synonym of Man9"
+  }
+]

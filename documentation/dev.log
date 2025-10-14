@@ -1,0 +1,28 @@
+2025-08-28 12:21:33.670584 - INFO
+    [PREPROCESSING ORIGINAL GSD DATA]
+    Used `Glygen_CSV_Script_190entries.ipynb` to download glycan structure dictionary from the wikipage
+    -> `GlygenCSV_190_entries.csv`
+    Converted `GlygenCSV_190_entries.csv` to xlsx for manual review
+    -> `GlygenCSV_190_entries_v01.xlsx`
+    - Renamed column 'synonymns' to 'synonyms'
+    - Removed all long IUPAC strings that appeared under 'synonyms' on Raja's approval
+    - Removed all Essentials of Glycobiology chapters - spot check failed, will re-add chapters that contains sentence-level evidence (see below)
+    - Classified all entries into 'keep', 'discard', and 'review'
+    - Standardized all entry names: 'raw_term' + 'standardized_term'
+    - Convert 'keep' and 'review + discard' entries to jsonl
+    -> `terms_original_gsd_unreviewed.jsonl` -> will not process until further notice
+    -> `terms_original_gsd_keep.jsonl`
+
+2025-08-28 12:31:26.054035 - INFO
+    [PREPROCESSING ESSENTIALS OF GLYCOBIOLOGY TERMS]
+    Downloaded text from https://www.ncbi.nlm.nih.gov/books/NBK453044/
+    Separated text into documents, ensuring each sentence ends with a period
+    -> `essentials_of_glycobiology.jsonl`
+    Used GLiNER to extract glycan-related terms
+    Used LLMs to standardize, classify, and collapse terms
+    Linked each term with relevant text chunk in `essentials_of_glycobiology.jsonl`
+    - Each term is assigned a unique identifier (uuid4)
+    - Each text chunk is assigned a unique identifier (uuid4)
+    - Each text chunk referenced in `terms_essentials_of_glycobiology.jsonl` contains hyperlinks to the original textbook text chunk on the NCBI website
+    Manually reviewed and curated extracted terms
+    -> `terms_essentials_of_glycobiology.jsonl`

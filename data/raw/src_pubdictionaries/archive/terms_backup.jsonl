@@ -1,0 +1,232 @@
+{"source_term": "asialo-GM1", "mapped_to_uuid": "8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5", "action": "map"}
+{"source_term": "asialo-GM2", "mapped_to_uuid": "30a56b3d-0d9f-4b84-97ae-59c984f60006", "action": "add"}
+{"source_term": "asialo-GM3", "mapped_to_uuid": "441f2d1d-745c-4ef0-a4f5-5449e060b4dc", "action": "add"}
+{"source_term": "arabinan", "mapped_to_uuid": "5952daf4-735e-4d0d-95d0-6ddf95a0710a", "action": "add"}
+{"source_term": "chondroitin", "mapped_to_uuid": "c0561c11-1067-5e5a-ba4b-43ad894ccf41", "action": "map"}
+{"source_term": "chondroitin-4-sulfate", "mapped_to_uuid": "5c444dc8-d458-53df-88a8-65344b643df1", "action": "map"}
+{"source_term": "chondroitin-6-sulfate", "mapped_to_uuid": "0d5ea83b-21ec-59e0-a01e-35fb322984f4", "action": "map"}
+{"source_term": "Fuc(a1-3)GalNAc(b1)", "mapped_to_uuid": "ade8a5a9-57d3-4ff5-865b-88780709dfaf", "action": "add"}
+{"source_term": "GA2", "mapped_to_uuid": "c32609b5-fb10-4da5-9846-18edce240bd8", "action": "add"}
+{"source_term": "GD1a", "mapped_to_uuid": "ce08ddcb-1567-5caa-9ad2-9c2209277bcc", "action": "map"}
+{"source_term": "GD1b", "mapped_to_uuid": "e4e3df0d-c881-5a91-97fc-fbe47b595923", "action": "map"}
+{"source_term": "GD2", "mapped_to_uuid": "06872bcd-5545-43c5-8c70-f53410a81c69", "action": "map"}
+{"source_term": "GD3", "mapped_to_uuid": "1962f1ca-4998-4433-9692-49d9e37ac274", "action": "map"}
+{"source_term": "GM1", "mapped_to_uuid": "3aa27544-ba80-5023-b104-e0747c328c0c", "action": "map"}
+{"source_term": "GM1a", "mapped_to_uuid": "3aa27544-ba80-5023-b104-e0747c328c0c", "action": "map"}
+{"source_term": "GM1b", "mapped_to_uuid": "03eade63-065b-5266-b0d6-2d0feb657606", "action": "map"}
+{"source_term": "GM2", "mapped_to_uuid": "f05f9823-137e-586e-9ce6-90956a04b6bc", "action": "map"}
+{"source_term": "GM3", "mapped_to_uuid": "40982fbc-1026-5333-acdb-aafdf94892be", "action": "map"}
+{"source_term": "GM4", "mapped_to_uuid": "faa9b001-357d-4549-8f5d-8666e506e650", "action": "map"}
+{"source_term": "GP1c", "mapped_to_uuid": "52c8b4cc-801c-46fb-a0a3-223e0714c250", "action": "map"}
+{"source_term": "GQ1b", "mapped_to_uuid": "2f4047e2-bc8c-577d-9c8c-ed2e04227c65", "action": "map"}
+{"source_term": "GQ1c", "mapped_to_uuid": "031b8604-2a27-4fb3-84c4-56e35afce5bd", "action": "map"}
+{"source_term": "GT1a", "mapped_to_uuid": "82405327-1de3-4ba5-89aa-493256abad99", "action": "map"}
+{"source_term": "GT1b", "mapped_to_uuid": "926d7349-2069-5615-b469-3b6c845ce149", "action": "map"}
+{"source_term": "GT1c", "mapped_to_uuid": "3b3e1c65-614e-57dc-aa07-85a170fcf39a", "action": "map"}
+{"source_term": "GT2", "mapped_to_uuid": "4311fc01-86a7-47bd-8284-13f4e625161e", "action": "map"}
+{"source_term": "GT3", "mapped_to_uuid": "6d78ffdb-0cc7-4ec2-b143-6ee6fbf173ac", "action": "map"}
+{"source_term": "Gal(b1-3)GalNAc", "mapped_to_uuid": "9e14b0e8-3569-48e4-af19-f86179c64dfc", "action": "add"}
+{"source_term": "Gal(b1-4)[Fuc(a1-3)]Glc(b1)", "mapped_to_uuid": "6b2a64e9-4797-48ca-bcf2-292cbc93bce9", "action": "add"}
+{"source_term": "Gal-CTH", "mapped_to_uuid": "87989b2d-1f15-4fb9-80a6-178de7613a3b", "action": "add"}
+{"source_term": "GalNAc(b1-3)Gal(b1-4)GlcNAc", "mapped_to_uuid": "b15fba9a-268c-4eb9-a971-26c5c06d4e1a", "action": "add"}
+{"source_term": "GalNAc(b1-4)Gal", "mapped_to_uuid": "c0597b2b-399d-46d8-9bc4-183cac7cbf4c", "action": "add"}
+{"source_term": "GalNAc(b1-4)[Neu5Ac(a2-3)]Gal(b1)", "mapped_to_uuid": "fb8e0f86-86c7-40cc-a2fd-328b9f52f003", "action": "add"}
+{"source_term": "GalNAc(b1-4)[Neu5Gc(a2-3)]Gal(b1)", "mapped_to_uuid": "0aa070e9-6bca-4700-b148-c537b80006a9", "action": "add"}
+{"source_term": "GalNAc-GD1a", "mapped_to_uuid": "dd3d396c-6ed9-4487-8e19-6449f6519035", "action": "add"}
+{"source_term": "galabiosylceramide", "mapped_to_uuid": "da549328-b83d-479b-99f0-efa14c372db8", "action": "map"}
+{"source_term": "galactomannan", "mapped_to_uuid": "1d4660e2-b1f4-5dfd-8daa-7b23494e4747", "action": "map"}
+{"source_term": "galactosylceramide", "mapped_to_uuid": "7829c0b5-3df6-5e54-baad-fb4c64380426", "action": "map"}
+{"source_term": "galactosylgloboside", "mapped_to_uuid": "6af29d67-4678-43f2-9c9c-0c3bcf644218", "action": "add"}
+{"source_term": "Gb3", "mapped_to_uuid": "20e88f5c-c2b3-59f6-be89-7e0e58465d7c", "action": "map"}
+{"source_term": "Gb4", "mapped_to_uuid": "cb509f2c-8352-571e-987f-6afbb43dd3c5", "action": "map"}
+{"source_term": "Gb5", "mapped_to_uuid": "41b2fe6b-f72e-4862-8242-b434ce339bf6", "action": "map"}
+{"source_term": "Gg3", "mapped_to_uuid": "cc49bd2f-ba0c-4ad3-9727-8be4ef2ed4a9", "action": "add"}
+{"source_term": "Gg4", "mapped_to_uuid": "b137039e-0172-5d89-8fa3-68775f8d4016", "action": "map"}
+{"source_term": "Gg5", "mapped_to_uuid": "2e90df47-c162-4aeb-bad6-a8d4ef59b00a", "action": "add"}
+{"source_term": "GlcNAc(b1-3)Gal", "mapped_to_uuid": "608124e0-0589-49ef-8de2-a7899e40bad1", "action": "add"}
+{"source_term": "GlcNAc(b1-3)Gal(b1-4)GlcNAc", "mapped_to_uuid": "9d65912f-97d1-4625-9f11-3031f1408e33", "action": "add"}
+{"source_term": "globoside", "mapped_to_uuid": "ee15a6e1-4986-5710-b1f7-04d74d0ebfba", "action": "map"}
+{"source_term": "glucomannan", "mapped_to_uuid": "2312c43c-2cd4-563f-b74c-b95ee7b58642", "action": "map"}
+{"source_term": "glucronoarabinoxylan", "mapped_to_uuid": "77ceee42-d16d-590b-ae3e-94e617326342", "action": "map"}
+{"source_term": "glucronoxylan", "mapped_to_uuid": "68812b8d-f8a2-5064-86e7-b8389b0069d5", "action": "map"}
+{"source_term": "HNK-1", "mapped_to_uuid": "4aa392ab-169b-5da1-86a0-bb18312dba93", "action": "map"}
+{"source_term": "homogalacturonan", "mapped_to_uuid": "12a886f2-8d40-554c-93dd-cc2f8894e46c", "action": "map"}
+{"source_term": "KDN-Gal", "mapped_to_uuid": "504914ce-6a2e-4215-9408-b72fcf258e7e", "action": "add"}
+{"source_term": "LDN", "mapped_to_uuid": "715e1753-8dc5-4c32-b8b2-ea9e986f691f", "action": "add"}
+{"source_term": "LDN-F", "mapped_to_uuid": "b7812d76-e661-481a-bc07-21470f1c5f7f", "action": "map"}
+{"source_term": "LacNAc", "mapped_to_uuid": "04d45d70-b2b3-5f73-bbe0-cf1fd8a53b5d", "action": "map"}
+{"source_term": "LacNAc-Gal", "mapped_to_uuid": "461a0ae9-e18c-4b06-9e5e-62592fc337e2", "action": "add"}
+{"source_term": "lacto-N-neotetraose", "mapped_to_uuid": "e28ae0a4-cfce-4867-8526-e950e6405bcc", "action": "add"}
+{"source_term": "lacto-N-tetraose", "mapped_to_uuid": "f953302a-e368-43aa-8a00-f254d26bf693", "action": "add"}
+{"source_term": "lactogangliotetraosylceramide", "mapped_to_uuid": "6c972eec-6baf-4b08-a21b-58748889ad2f", "action": "add"}
+{"source_term": "lactosylceramide", "mapped_to_uuid": "0a063c08-7f72-5da7-9397-33bdcbc5315c", "action": "map"}
+{"source_term": "lactotetraosylceramide", "mapped_to_uuid": "18ddd830-8974-4494-a880-47eed3c79f17", "action": "add"}
+{"source_term": "Lc3", "mapped_to_uuid": "49675e4a-8a13-483b-a42b-96d1d2fa7139", "action": "map"}
+{"source_term": "Lc4", "mapped_to_uuid": "18ddd830-8974-4494-a880-47eed3c79f17", "action": "map"}
+{"source_term": "M3FX", "mapped_to_uuid": "b521334b-3fb2-4a74-9379-a44185d69144", "action": "add"}
+{"source_term": "Neu5Ac(a2-3)Gal(b1)", "mapped_to_uuid": "473ec64b-303a-53b4-842b-2f8156bc19d1", "action": "map"}
+{"source_term": "Neu5Ac(a2-3)Gal(b1-3)GalNAc", "mapped_to_uuid": "bd544174-9b27-4f63-b71b-c5666358a595", "action": "add"}
+{"source_term": "Neu5Ac(a2-3)Gal(b1-4)Glc", "mapped_to_uuid": "f261beda-27ca-45b9-a01a-35b48b50b7ce", "action": "add"}
+{"source_term": "Neu5Ac(a2-3)Gal(b1-4)GlcNAc", "mapped_to_uuid": "5c2de4b2-4008-4dd8-884f-973a690259aa", "action": "add"}
+{"source_term": "Neu5Ac(a2-6)Gal", "mapped_to_uuid": "159f879f-6c57-55d5-b09b-3da3ba2f6cc2", "action": "map"}
+{"source_term": "Neu5Ac(a2-6)GalNAc", "mapped_to_uuid": "bbd48827-78a7-4efd-a2fe-37d7b5886f8f", "action": "add"}
+{"source_term": "Neu5Ac(a2-8)Neu5Ac(a2-3)Gal", "mapped_to_uuid": "6c0aa996-d859-479b-8c37-d6710034a904", "action": "add"}
+{"source_term": "Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-3)GalNAc", "mapped_to_uuid": "8c8ff0f0-4ac8-4aaf-aed6-92368916beec", "action": "add"}
+{"source_term": "Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-4)Glc", "mapped_to_uuid": "3e6860e0-dd8d-46c4-9083-6d0dfbe438cf", "action": "add"}
+{"source_term": "Neu5Ac(a2-8)Neu5Gc(a2-3)Gal", "mapped_to_uuid": "f622cdfb-328b-4e57-8482-d08002907ef6", "action": "add"}
+{"source_term": "Neu5Ac(a2-8)Neu5Gc(a2-3)Gal(b1-4)Glc", "mapped_to_uuid": "cc87fa4e-1acc-4b6d-b257-543d6355e5fb", "action": "add"}
+{"source_term": "Neu5Gc(a2-3)Gal", "mapped_to_uuid": "d2b2f12c-b0ec-4b5f-a7ab-f139a386da5a", "action": "add"}
+{"source_term": "Neu5Gc(a2-3)Gal(b1-4)Glc", "mapped_to_uuid": "5c93c17c-c516-5bff-8b0d-1541c5ea340b", "action": "map"}
+{"source_term": "Neu5Gc(a2-3)Gal(b1-4)GlcNAc", "mapped_to_uuid": "6bd898e9-9419-4433-a380-c6601f5a44c5", "action": "add"}
+{"source_term": "Neu5Gc(a2-8)Neu5Ac(a2-3)Gal", "mapped_to_uuid": "4a8949f9-0e19-4fd6-b3f8-303d3e5fc3f7", "action": "add"}
+{"source_term": "Neu5Gc(a2-8)Neu5Gc(a2-3)Gal", "mapped_to_uuid": "12a83f46-619d-4aca-b4fa-db34f85715f0", "action": "add"}
+{"source_term": "O-GlcNAc", "mapped_to_uuid": "627dd562-b899-5fd3-8bb3-c5ad42f31300", "action": "map"}
+{"source_term": "O-acetyl-GD3", "mapped_to_uuid": "0e9b1351-6dfb-4858-bbab-ebe2758c9be9", "action": "map"}
+{"source_term": "paragloboside", "mapped_to_uuid": "eb2cc2a3-09f1-4c42-b7dd-d33349ea3dea", "action": "map"}
+{"source_term": "poly-KDN", "mapped_to_uuid": "a9009522-45f5-4fc5-ad82-df5e8c11148d", "action": "add"}
+{"source_term": "SD1a", "mapped_to_uuid": "cadabd03-d656-4bab-b508-2e1074b53d1a", "action": "add"}
+{"source_term": "SM3", "mapped_to_uuid": "7f747c20-dbac-4427-89e2-788cc4fd90ca", "action": "add"}
+{"source_term": "SM4s", "mapped_to_uuid": "65f5cada-eb8b-4f15-b7b5-04b914f1491b", "action": "add"}
+{"source_term": "SSEA-1", "mapped_to_uuid": "5a76e56e-4c2c-4bb9-ac80-226bc6d5b7f2", "action": "map"}
+{"source_term": "SSEA-3", "mapped_to_uuid": "263b5566-6e4e-41d1-9f12-c8339e6bf126", "action": "map"}
+{"source_term": "SSEA-4", "mapped_to_uuid": "eb14b505-7275-5888-9bc7-4b07107af0b3", "action": "map"}
+{"source_term": "VIM-2", "mapped_to_uuid": "22a00f8d-9902-4eef-8bc2-2b91bbce1310", "action": "map"}
+{"source_term": "xylogalacturonan", "mapped_to_uuid": "db5ed7f2-45f9-5e86-9eb1-bc412c33afc7", "action": "map"}
+{"source_term": "xyloglucan", "mapped_to_uuid": "6e9249d9-1b1b-5dbf-8561-76de16821a00", "action": "map"}
+{"source_term": "amylose", "mapped_to_uuid": "553a15fd-f3e1-4520-8d69-9c3d3b512bf1", "action": "add"}
+{"source_term": "cellobiose", "mapped_to_uuid": "1631d080-5dbb-5950-a0da-474aeb12d32d", "action": "map"}
+{"source_term": "cellotriose", "mapped_to_uuid": "4e6d2a6d-f729-4387-a94e-9997490ce215", "action": "add"}
+{"source_term": "chitin", "mapped_to_uuid": "87cba7f2-dfd0-5338-a6bb-0100197ad8ad", "action": "map"}
+{"source_term": "gellan", "mapped_to_uuid": "5d04f9d1-9d56-4056-9b47-2d7a8c0a6ca5", "action": "add"}
+{"source_term": "gentiobiose", "mapped_to_uuid": "964e6a6f-727b-4a18-bc7b-75437cb819e0", "action": "add"}
+{"source_term": "iGb3", "mapped_to_uuid": "cd817de8-1227-4cd7-a4cc-8aa89ce13ef5", "action": "add"}
+{"source_term": "iGb4", "mapped_to_uuid": "02f34de6-3acd-4b78-8238-381fc980095e", "action": "add"}
+{"source_term": "isomaltose", "mapped_to_uuid": "fda54e47-8840-42f2-9050-43ab3ffd6771", "action": "add"}
+{"source_term": "isopanose", "mapped_to_uuid": "7bab4295-b653-434a-bde8-2761f91b2f96", "action": "add"}
+{"source_term": "lactose", "mapped_to_uuid": "d3bfc2ac-dec1-4d3c-9caf-48b03084df86", "action": "add"}
+{"source_term": "maltose", "mapped_to_uuid": "6c2edbdf-0e8f-4cd6-ad02-1b204741afb0", "action": "add"}
+{"source_term": "melibiose", "mapped_to_uuid": "2e97c20e-d29c-4dbc-a4a9-6f5c1307d6d3", "action": "add"}
+{"source_term": "nLc4", "mapped_to_uuid": "c983b5f3-2adc-4db8-8a25-782035454a36", "action": "add"}
+{"source_term": "nLc6", "mapped_to_uuid": "2c77b391-acda-47d8-8143-7858a299a67c", "action": "add"}
+{"source_term": "panose", "mapped_to_uuid": "3dea9dc3-48cc-4ee9-87d0-8ecd5cd1d464", "action": "add"}
+{"source_term": "primeverose", "mapped_to_uuid": "630edab2-70df-4281-9437-1890f9de9636", "action": "add"}
+{"source_term": "rutinose", "mapped_to_uuid": "20f8cecb-eca0-4636-8263-f286a02e69cc", "action": "add"}
+{"source_term": "sialyl-Lewis a", "mapped_to_uuid": "89e36335-2fea-5ef3-a3a8-559985883dad", "action": "map"}
+{"source_term": "T antigen", "mapped_to_uuid": "5b6ede6e-9829-5690-a1a3-d1883b62d46d", "action": "map"}
+{"source_term": "core 1", "mapped_to_uuid": "d30c0796-5386-5d5a-b374-96d79431db98", "action": "map"}
+{"source_term": "core 2", "mapped_to_uuid": "84263c50-3256-5701-b917-3856baedd01f", "action": "map"}
+{"source_term": "core 3", "mapped_to_uuid": "0bdf4f51-9378-5d0c-a017-220cfd707bbe", "action": "map"}
+{"source_term": "core 4", "mapped_to_uuid": "380c3655-bfc9-5931-977b-294df335f2c3", "action": "map"}
+{"source_term": "core 5", "mapped_to_uuid": "0232300a-a001-4f35-a1b6-f3a3deb18ed9", "action": "add"}
+{"source_term": "core 6", "mapped_to_uuid": "3e753d46-1782-4e9d-9f42-9dd0a5e8e884", "action": "add"}
+{"source_term": "core 7", "mapped_to_uuid": "49dd0450-0151-425e-99df-1c389e492835", "action": "add"}
+{"source_term": "Lewis b", "mapped_to_uuid": "4327ef94-5fff-5d27-8f23-207afe82a8d1", "action": "map"}
+{"source_term": "Lewis x", "mapped_to_uuid": "89ba627c-cee9-5954-982f-3410e75fb006", "action": "map"}
+{"source_term": "Lewis y", "mapped_to_uuid": "c05f267e-fa66-4b1a-bd6c-4a250acb5376", "action": "map"}
+{"source_term": "i antigen", "mapped_to_uuid": "4e8ca135-621a-5f60-9db3-0873d1b18e94", "action": "map"}
+{"source_term": "2-3 sialylparagloboside", "mapped_to_uuid": "6580fbd2-fc40-47bb-875e-1cfbbfe285f0", "action": "map"}
+{"source_term": "GD1 alpha", "mapped_to_uuid": "ce08ddcb-1567-5caa-9ad2-9c2209277bcc", "action": "map"}
+{"source_term": "GT1a alpha", "mapped_to_uuid": "f77f9ead-efc0-4fe7-b422-53bee58ffb3f", "action": "add"}
+{"source_term": "2-6 sialyl-LacNAc-Gal", "mapped_to_uuid": "e04fcc39-8f52-5bae-8af2-bd7eafdf3b15", "action": "map"}
+{"source_term": "Pk antigen", "mapped_to_uuid": "94c78688-31d6-41ea-b885-c811f945864d", "action": "map"}
+{"source_term": "GD1 alpha", "mapped_to_uuid": "ce08ddcb-1567-5caa-9ad2-9c2209277bcc", "action": "map"}
+{"source_term": "6-sulfo LacNAc", "mapped_to_uuid": "453286d3-7558-4839-97f4-bc5a28f8f1d2", "action": "add"}
+{"source_term": "heparan sulfate", "mapped_to_uuid": "928fc0f5-5bfb-5be8-9eb6-dd405155d720", "action": "map"}
+{"source_term": "2-3 sialyl-lacto-N-tetraose", "mapped_to_uuid": "5e72cf7d-2a6a-44be-a29f-bcf3bf1260ba", "action": "map"}
+{"source_term": "asialo-GM1", "mapped_to_uuid": "8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5", "action": "map"}
+{"source_term": "6,6'-sulfo LacNAc", "mapped_to_uuid": "cebea50e-809e-4e6b-9b8b-3616fe363ba7", "action": "add"}
+{"source_term": "acharan sulfate", "mapped_to_uuid": "b4515395-fede-40c9-8d37-8fdf332bd82e", "action": "add"}
+{"source_term": "delta-heparan sulfate", "mapped_to_uuid": "8e5f1276-7205-4834-9d26-73c598c67828", "action": "add"}
+{"source_term": "alpha-galactosyl epitope", "mapped_to_uuid": "d7673802-e0d9-5653-b39e-076f90358a60", "action": "map"}
+{"source_term": "2-9,2-6 disialyllactosylceramide", "mapped_to_uuid": "9d4213ac-8c01-436a-82fc-31f84645bf00", "action": "add"}
+{"source_term": "6,6,6'-sulfo LacNAc", "mapped_to_uuid": "dc92a589-2b45-4a7e-a0ae-075c3b0fef26", "action": "add"}
+{"source_term": "monosialyl Gb5", "mapped_to_uuid": "6d1bae04-defe-4652-9469-676dbd4ed2cf", "action": "map"}
+{"source_term": "Lewis a", "mapped_to_uuid": "c5a61542-ca29-5ce2-bf63-a4f7caf9bf9c", "action": "map"}
+{"source_term": "galactose 3-O-sulfate", "mapped_to_uuid": "5a262e8e-7861-5764-aa44-fdfb05a1e92b", "action": "map"}
+{"source_term": "6,6'-sulfo LacNAc", "mapped_to_uuid": "cebea50e-809e-4e6b-9b8b-3616fe363ba7", "action": "map"}
+{"source_term": "6,6,6'-sulfo LacNAc", "mapped_to_uuid": "dc92a589-2b45-4a7e-a0ae-075c3b0fef26", "action": "map"}
+{"source_term": "GQ1b alpha", "mapped_to_uuid": "f506d575-33cd-4a4e-bf39-3475f3cda04c", "action": "add"}
+{"source_term": "disialyl I antigen", "mapped_to_uuid": "6992f144-8ef9-40aa-a942-8d55e3b98803", "action": "add"}
+{"source_term": "P1 antigen", "mapped_to_uuid": "d64e0922-936d-54e7-9182-bf7f2ccdba85", "action": "map"}
+{"source_term": "I antigen", "mapped_to_uuid": "d09ee5db-281c-40b1-95c3-53f11f4aef41", "action": "map"}
+{"source_term": "N-glycolyl GM2", "mapped_to_uuid": "31190c26-ebe4-406d-a196-64f29bf55e6e", "action": "map"}
+{"source_term": "core M2", "mapped_to_uuid": "9a0d5141-888d-51f3-b8b5-30b5a6456aa8", "action": "map"}
+{"source_term": "Tn antigen", "mapped_to_uuid": "25e2c658-4349-5dc1-ba23-f9dbe366f1e7", "action": "map"}
+{"source_term": "core 0", "mapped_to_uuid": "2387cdad-43b9-4c41-9c47-60f66326267c", "action": "add"}
+{"source_term": "fucosyl asialo-GM1", "mapped_to_uuid": "8014d96b-dd47-4d24-909b-ae92f36ed710", "action": "add"}
+{"source_term": "F1 alpha", "mapped_to_uuid": "e1288740-84b8-4762-980b-3f51b48d3a5f", "action": "add"}
+{"source_term": "beta galactose", "mapped_to_uuid": "ad1e80a4-92ce-5bc2-b892-ffbbfaff2a25", "action": "map"}
+{"source_term": "2-9,2-6 disialyllactosylceramide", "mapped_to_uuid": "9d4213ac-8c01-436a-82fc-31f84645bf00", "action": "map"}
+{"source_term": "9-O-acetyl GD3", "mapped_to_uuid": "0e9b1351-6dfb-4858-bbab-ebe2758c9be9", "action": "map"}
+{"source_term": "N-glycolyl GM3", "mapped_to_uuid": "3c8e4679-d370-4858-9016-f0d288c387b3", "action": "add"}
+{"source_term": "core 8", "mapped_to_uuid": "c201b527-626e-42df-9712-33a3cfdfbe05", "action": "add"}
+{"source_term": "N-acetyl GM2", "mapped_to_uuid": "f05f9823-137e-586e-9ce6-90956a04b6bc", "action": "map"}
+{"source_term": "Forssman antigen", "mapped_to_uuid": "2436d14a-7e6b-4999-b356-0d6bb0c091d9", "action": "map"}
+{"source_term": "poly-N-acetylneuraminic acid", "mapped_to_uuid": "3ba55485-7aec-45b4-acc6-0cde9f25ffb0", "action": "add"}
+{"source_term": "keratan sulfate", "mapped_to_uuid": "55518b88-605c-5d07-a328-555ccbea84d0", "action": "map"}
+{"source_term": "2-6 sialylparagloboside", "mapped_to_uuid": "996dbe5c-9f1d-4621-91b4-40768552f7de", "action": "add"}
+{"source_term": "N-glycolyl GD3", "mapped_to_uuid": "83b8053a-8f3f-49f5-ad14-33651663ef9a", "action": "add"}
+{"source_term": "core M1", "mapped_to_uuid": "d8e7f221-faf6-5ef2-8636-480671b984df", "action": "map"}
+{"source_term": "N-acetyl GM3", "mapped_to_uuid": "40982fbc-1026-5333-acdb-aafdf94892be", "action": "map"}
+{"source_term": "fucosyl GM1", "mapped_to_uuid": "e2e22b19-83c1-4c8b-999d-fe2fdff4941f", "action": "map"}
+{"source_term": "poly-N-glycolylneuraminic acid", "mapped_to_uuid": "1a223014-1b0b-4155-821c-f9f69aa8b422", "action": "add"}
+{"source_term": "core M3", "mapped_to_uuid": "67c80166-8447-5f77-b32c-17101f58e923", "action": "map"}
+{"source_term": "disialyl Gb5", "mapped_to_uuid": "7e394a4e-6c54-41e5-8225-85a90636f0d1", "action": "add"}
+{"source_term": "N-acetyl GD3", "mapped_to_uuid": "5abce0cd-a3c7-4211-9503-65b0cec1a97c", "action": "add"}
+{"source_term": "Lewis a (b1-3)Gal", "mapped_to_uuid": "c5a61542-ca29-5ce2-bf63-a4f7caf9bf9c", "action": "map"}
+{"source_term": "Lewis y (extended) / Hexasaccharide", "mapped_to_uuid": "03913360-7c86-4ed9-a762-d8deeb917f51", "action": "add"}
+{"source_term": "O-mannosyl glycan / mammalian", "mapped_to_uuid": "7f2b0e5a-45b8-5366-9e6d-892f75c98d6a", "action": "map"}
+{"source_term": "O-mannosyl glycan / yeast", "mapped_to_uuid": "225a830f-cc4a-42c0-8d60-ffca23cf7ac0", "action": "add"}
+{"source_term": "O-fucose glycan /EGF repeat", "mapped_to_uuid": "48cb33e8-fbc3-4bd5-a7b0-4568f69b2a46", "action": "add"}
+{"source_term": "O-fucose glycan /thrombospondin type 1 repeat", "mapped_to_uuid": "0f1d4f50-c1ce-442d-b509-85753f1af2fa", "action": "add"}
+{"source_term": "cyclic sialyl 6-sulfo Lewis X", "mapped_to_uuid": "f9c67ff8-e0cd-4772-a4c7-35b24484fd05", "action": "add"}
+{"source_term": "blood group A", "mapped_to_uuid": "4ca9f5d6-0295-44d3-802f-9e47db4093eb", "action": "add"}
+{"source_term": "blood group A trisaccharide", "mapped_to_uuid": "279d0705-3eab-4c6f-b0bd-d34ffa4ebc51", "action": "add"}
+{"source_term": "blood group A type 1", "mapped_to_uuid": "ae80aeaa-7f09-4089-bbf8-f939ca66e601", "action": "map"}
+{"source_term": "blood group A type 1 (difucosyl)", "mapped_to_uuid": "5bd9117e-6e5a-49a7-81e7-73ce5ebb17e1", "action": "add"}
+{"source_term": "blood group A type 2", "mapped_to_uuid": "48d6e2a5-4952-47e2-8500-2570e071f47c", "action": "map"}
+{"source_term": "blood group A type 2 (difucosyl)", "mapped_to_uuid": "fbf4a554-5562-42a7-9a51-4679b1b9fef7", "action": "add"}
+{"source_term": "blood group A type 3", "mapped_to_uuid": "eee3138f-0bab-4932-b162-1beac3aae6c3", "action": "map"}
+{"source_term": "blood group A type 4", "mapped_to_uuid": "7cd6a813-ec70-42d2-b3fd-a9301d75b6b6", "action": "map"}
+{"source_term": "9-O-acetyl sialic acid", "mapped_to_uuid": "9447ca95-04fd-5700-9db0-2a3ee02c2a4a", "action": "map"}
+{"source_term": "disialyl T antigen", "mapped_to_uuid": "b9e8ce59-d573-4456-b8ad-9918d317a450", "action": "map"}
+{"source_term": "sialyl Tn antigen", "mapped_to_uuid": "562a7a4f-9d8e-5682-ab69-9673ba3599c6", "action": "map"}
+{"source_term": "trifucosyl-Lewis b", "mapped_to_uuid": "4b1954a1-a4b9-4cda-9c47-4df9e13e87b4", "action": "map"}
+{"source_term": "trifucosyl-Lewis y", "mapped_to_uuid": "d7bc6703-411b-4861-b5aa-285099666f06", "action": "map"}
+{"source_term": "blood group B type 2", "mapped_to_uuid": "35f63383-e163-47c1-8217-36222c16ebcd", "action": "map"}
+{"source_term": "chondroitin sulfate D", "mapped_to_uuid": "5529f60d-2731-4786-9388-ceecabb6bbee", "action": "add"}
+{"source_term": "1-6 beta galactan", "mapped_to_uuid": "165697ec-4d3c-5222-b659-a519d5f852b1", "action": "map"}
+{"source_term": "beta 1-4 galactan", "mapped_to_uuid": "4abab09e-59b0-4c83-aed8-d8ce7e64819b", "action": "add"}
+{"source_term": "1-3,1-4 beta glucan", "mapped_to_uuid": "8f6f737c-2e91-4f67-8d78-0b81d0bfdcdf", "action": "add"}
+{"source_term": "blood group H", "mapped_to_uuid": "33654432-0fbb-5d63-964b-04779c68d99e", "action": "map"}
+{"source_term": "blood group H disaccharide", "mapped_to_uuid": "067fc20f-5196-4e52-8493-97120eff6a4c", "action": "add"}
+{"source_term": "blood group H type 1", "mapped_to_uuid": "fff47803-9624-5c8b-b6ac-f54c493cd27c", "action": "map"}
+{"source_term": "blood group H type 2", "mapped_to_uuid": "b8046ab9-0606-4e88-a54a-941c84879541", "action": "map"}
+{"source_term": "blood group H type 3", "mapped_to_uuid": "d68839cf-9b6b-4677-b896-ff47818e01a2", "action": "map"}
+{"source_term": "blood group H type 4", "mapped_to_uuid": "1a26c7ae-0b93-4167-b65b-4573d611d8f8", "action": "map"}
+{"source_term": "arabinogalactan type I", "mapped_to_uuid": "b7d754c5-bc4d-4fd3-9220-7b491f997a5a", "action": "add"}
+{"source_term": "human natural killer-1", "mapped_to_uuid": "4aa392ab-169b-5da1-86a0-bb18312dba93", "action": "map"}
+{"source_term": "sialyl 6-sulfo LacNAc", "mapped_to_uuid": "7498e0fb-3377-4ee2-8c37-33f0232748e8", "action": "add"}
+{"source_term": "GalNAc disialyl Lc4 hexasaccharide", "mapped_to_uuid": "70d9524d-9de9-4c8e-b739-a432f718e949", "action": "add"}
+{"source_term": "6'-sulfo sialyl Lewis X", "mapped_to_uuid": "6e033c8a-f202-509b-8b71-6eef358777b2", "action": "map"}
+{"source_term": "sialyl 6-sulfo Lewis X", "mapped_to_uuid": "1b3b03a6-b82a-52ea-a699-0da8aa1f3abc", "action": "map"}
+{"source_term": "Lewis a- Lewis X hybrid antigen", "mapped_to_uuid": "bf4125e8-7959-4ec2-b67f-ff8d0b0c3a3f", "action": "add"}
+{"source_term": "Lewis a- Lewis X hybrid antigen", "mapped_to_uuid": "bf4125e8-7959-4ec2-b67f-ff8d0b0c3a3f", "action": "map"}
+{"source_term": "Neu5Gc(a2-3)Gal / monosialoganglioside", "mapped_to_uuid": "d6eea297-7840-4efe-89df-52e5ddab9fb4", "action": "add"}
+{"source_term": "Neu5Ac(a2-3)Gal / monosialoganglioside", "mapped_to_uuid": "473ec64b-303a-53b4-842b-2f8156bc19d1", "action": "map"}
+{"source_term": "C-Series gangliosides oligosaccharide / hemato- or ganglio-type", "mapped_to_uuid": "ad4eef06-adc3-5576-ab88-d97ecabba171", "action": "map"}
+{"source_term": "6,6'- disulfo sialyl Lewis X", "mapped_to_uuid": "91fc54d8-dbde-484f-9f8c-11714ac788ff", "action": "add"}
+{"source_term": "sialyl Lewis a", "mapped_to_uuid": "89e36335-2fea-5ef3-a3a8-559985883dad", "action": "map"}
+{"source_term": "dimeric Lewis a", "mapped_to_uuid": "586e36e8-3c9a-4fca-951f-65c34a7ddd08", "action": "add"}
+{"source_term": "3'-sulfo Lewis a", "mapped_to_uuid": "a357412d-d20c-41b8-bec8-943295031c56", "action": "map"}
+{"source_term": "disialyl Lewis a", "mapped_to_uuid": "2c92929a-4f34-5166-a815-b20e3decb896", "action": "map"}
+{"source_term": "disialyl Lewis c", "mapped_to_uuid": "7a12fbed-8d5b-4843-a42a-fe3d68618294", "action": "add"}
+{"source_term": "sialyl Lewis c", "mapped_to_uuid": "6065c033-b855-4854-9681-32799c3d2bc6", "action": "add"}
+{"source_term": "2-6 sialyl i-Lewis x", "mapped_to_uuid": "91dd3f7a-c0ee-40d4-b499-630f1967b1ed", "action": "add"}
+{"source_term": "arabinogalactan type II", "mapped_to_uuid": "fe41c176-a401-474a-ad78-3d673587de95", "action": "add"}
+{"source_term": "sialyl Lewis x", "mapped_to_uuid": "32e928fb-1550-5e0a-945f-2218ac79b83c", "action": "map"}
+{"source_term": "3'-sulfo Lewis x", "mapped_to_uuid": "3c0d59b6-d558-45d7-998e-ea6531a58295", "action": "map"}
+{"source_term": "internal Lewis x", "mapped_to_uuid": "9e04b3e9-01f0-4809-8f77-6637925b4d40", "action": "add"}
+{"source_term": "dimeric Lewis x", "mapped_to_uuid": "980d0f39-e1ff-430f-bf65-3008c9cc2fd9", "action": "map"}
+{"source_term": "6-sulfo Lewis x", "mapped_to_uuid": "416c0ecc-e4db-48d3-a1dc-b960ae6cd923", "action": "add"}
+{"source_term": "sialyl Lewis x-i", "mapped_to_uuid": "314fa931-c71a-4fc8-a467-409f7a0862a3", "action": "add"}

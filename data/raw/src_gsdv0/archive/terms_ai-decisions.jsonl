@@ -1,0 +1,152 @@
+{"source_term": "α2-6-sialylated 6-sulfo-LacNAc", "mapped_to_uuid": "43d51cfc-740a-4ed3-b6e3-8ab535549b19", "action": "add"}
+{"source_term": "2-fucosyl GD1b", "mapped_to_uuid": "68240b82-aec7-43a6-9f7c-7e9ef1c7e2cb", "action": "add"}
+{"source_term": "2-fucosyl GM1", "mapped_to_uuid": "e2e22b19-83c1-4c8b-999d-fe2fdff4941f", "action": "add"}
+{"source_term": "3-sialyl LN (type 2)", "mapped_to_uuid": "5e72cf7d-2a6a-44be-a29f-bcf3bf1260ba", "action": "add"}
+{"source_term": "3'-sulfo Lewis a", "mapped_to_uuid": "a357412d-d20c-41b8-bec8-943295031c56", "action": "add"}
+{"source_term": "3'-sulfo Lewis X", "mapped_to_uuid": "3c0d59b6-d558-45d7-998e-ea6531a58295", "action": "add"}
+{"source_term": "6,6′-dissulfo sialyl Lewis X", "mapped_to_uuid": "dec6e71e-7eeb-409a-860a-bbb40a6aacd3", "action": "add"}
+{"source_term": "6-sialyl GalNAc", "mapped_to_uuid": "55e259ab-b5a0-4aa9-8d0d-9295762c2b22", "action": "add"}
+{"source_term": "9-O-acetyl GD3", "mapped_to_uuid": "0e9b1351-6dfb-4858-bbab-ebe2758c9be9", "action": "add"}
+{"source_term": "9-O-acetyl sialic acid", "mapped_to_uuid": "9447ca95-04fd-5700-9db0-2a3ee02c2a4a", "action": "map"}
+{"source_term": "alpha-gal antigen", "mapped_to_uuid": "d7673802-e0d9-5653-b39e-076f90358a60", "action": "map"}
+{"source_term": "alpha-galactosylceramide", "mapped_to_uuid": "bdd3ddc1-ed42-472f-adb3-0a8e726fb4c3", "action": "add"}
+{"source_term": "asialo-biantennary N-glycan", "mapped_to_uuid": "321dc49d-61cb-4258-bf08-06e2beb82bac", "action": "add"}
+{"source_term": "asialo-GM1", "mapped_to_uuid": "8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5", "action": "map"}
+{"source_term": "B-GM1", "mapped_to_uuid": "0c97b41d-c987-4746-8c44-cee9fcbd8367", "action": "add"}
+{"source_term": "biantennary N-glycan", "mapped_to_uuid": "abc37e9a-7363-5440-87f1-1e620ed70a9a", "action": "map"}
+{"source_term": "biantennary complex-type N-glycan", "mapped_to_uuid": "7548e42d-e075-5fef-a148-a06913542f40", "action": "map"}
+{"source_term": "blood group A determinant", "mapped_to_uuid": "7ec6f782-4bc2-57ae-a15d-27c73f9a14f7", "action": "map"}
+{"source_term": "blood group A type 1", "mapped_to_uuid": "ae80aeaa-7f09-4089-bbf8-f939ca66e601", "action": "add"}
+{"source_term": "blood group A type 2", "mapped_to_uuid": "48d6e2a5-4952-47e2-8500-2570e071f47c", "action": "add"}
+{"source_term": "blood group A type 3", "mapped_to_uuid": "eee3138f-0bab-4932-b162-1beac3aae6c3", "action": "add"}
+{"source_term": "blood group A type 4", "mapped_to_uuid": "7cd6a813-ec70-42d2-b3fd-a9301d75b6b6", "action": "add"}
+{"source_term": "blood group B type 1", "mapped_to_uuid": "0cd556eb-645e-4998-8348-4c3c3149852b", "action": "add"}
+{"source_term": "blood group B type 2", "mapped_to_uuid": "35f63383-e163-47c1-8217-36222c16ebcd", "action": "add"}
+{"source_term": "blood group B type 4", "mapped_to_uuid": "49f25ae6-69db-47ad-98eb-7f77ac4a169f", "action": "add"}
+{"source_term": "blood group H type 1", "mapped_to_uuid": "fff47803-9624-5c8b-b6ac-f54c493cd27c", "action": "map"}
+{"source_term": "blood group H type 2", "mapped_to_uuid": "b8046ab9-0606-4e88-a54a-941c84879541", "action": "add"}
+{"source_term": "blood group H type 3", "mapped_to_uuid": "d68839cf-9b6b-4677-b896-ff47818e01a2", "action": "add"}
+{"source_term": "blood group H type 4", "mapped_to_uuid": "1a26c7ae-0b93-4167-b65b-4573d611d8f8", "action": "add"}
+{"source_term": "chondroitin sulfate", "mapped_to_uuid": "3d250b8c-6c0f-5d52-9fd3-1a58a7660e1d", "action": "map"}
+{"source_term": "chondroitin sulfate/dermatan sulfate", "mapped_to_uuid": "7b7c9b97-5851-432f-b9ab-d0b64beb2d6e", "action": "add"}
+{"source_term": "complex-type N-glycan", "mapped_to_uuid": "8898cfbc-b227-5381-aa3b-2d6e8f5c855c", "action": "map"}
+{"source_term": "core 1 O-glycan", "mapped_to_uuid": "d30c0796-5386-5d5a-b374-96d79431db98", "action": "map"}
+{"source_term": "core 2 O-glycan", "mapped_to_uuid": "84263c50-3256-5701-b917-3856baedd01f", "action": "map"}
+{"source_term": "core 3 O-glycan", "mapped_to_uuid": "0bdf4f51-9378-5d0c-a017-220cfd707bbe", "action": "map"}
+{"source_term": "core 4 O-glycan", "mapped_to_uuid": "380c3655-bfc9-5931-977b-294df335f2c3", "action": "map"}
+{"source_term": "core-fucose", "mapped_to_uuid": "50d1be21-660a-5e10-a72d-f832009f71db", "action": "map"}
+{"source_term": "core-fucosylated biantennary N-glycan", "mapped_to_uuid": "38063ec7-c1bc-4a6a-8a19-d2a1e317f1cf", "action": "add"}
+{"source_term": "core-fucosylated biantennary complex-type N-glycan", "mapped_to_uuid": "afe9c1b5-d40d-478a-832e-a4147447e01b", "action": "add"}
+{"source_term": "Cytolipin R", "mapped_to_uuid": "b3ecdd11-4db0-453a-aa7e-0d2545bca353", "action": "add"}
+{"source_term": "dermatan sulfate", "mapped_to_uuid": "0ef0d5e3-6dad-54e6-9bde-79eec7ce6000", "action": "map"}
+{"source_term": "desialylated glycan", "mapped_to_uuid": "6862c102-0fcf-4a4e-b188-7094e1e0b892", "action": "add"}
+{"source_term": "difucosylated tetraantennary N-glycan", "mapped_to_uuid": "9affda3c-0fcc-4a74-8476-9b9bb7506499", "action": "add"}
+{"source_term": "dimeric Lewis x", "mapped_to_uuid": "980d0f39-e1ff-430f-bf65-3008c9cc2fd9", "action": "add"}
+{"source_term": "diphosphorylated Man6", "mapped_to_uuid": "85895dff-5b70-499b-8726-33dc83b66175", "action": "add"}
+{"source_term": "disialosyl globopentaosylceramide", "mapped_to_uuid": "068e7d8b-8192-4ae8-a4f4-8e5c8c5a2832", "action": "add"}
+{"source_term": "disialyl Lewis a", "mapped_to_uuid": "2c92929a-4f34-5166-a815-b20e3decb896", "action": "map"}
+{"source_term": "disialyl T antigen", "mapped_to_uuid": "b9e8ce59-d573-4456-b8ad-9918d317a450", "action": "add"}
+{"source_term": "disialylated fucosylated glycan", "mapped_to_uuid": "877a19d2-fc97-47d9-87b2-2bb658660f4b", "action": "add"}
+{"source_term": "Forssman glycolipid", "mapped_to_uuid": "2436d14a-7e6b-4999-b356-0d6bb0c091d9", "action": "add"}
+{"source_term": "fucosylated tetraantennary N-glycan", "mapped_to_uuid": "5b125ad0-374d-4de2-96dd-0c3ac0133556", "action": "add"}
+{"source_term": "fucosyl GM1", "mapped_to_uuid": "e2e22b19-83c1-4c8b-999d-fe2fdff4941f", "action": "map"}
+{"source_term": "fucosylated asialo-biantennary N-glycan", "mapped_to_uuid": "d38f6ccf-3575-4e17-b5db-17d3abc498bb", "action": "add"}
+{"source_term": "fucosylated biantennary N-glycan", "mapped_to_uuid": "73b79304-0089-48fc-afd4-82b84a0c1e53", "action": "add"}
+{"source_term": "fucosylated disialo-biantennary N-glycan", "mapped_to_uuid": "866054d3-8ca5-45cc-b742-d8bd1bd25a03", "action": "add"}
+{"source_term": "fucosylated lacdiNAc", "mapped_to_uuid": "b7812d76-e661-481a-bc07-21470f1c5f7f", "action": "add"}
+{"source_term": "fucosylated N-glycan", "mapped_to_uuid": "513ef5dc-3e7b-5d21-9757-fd24642c2e46", "action": "map"}
+{"source_term": "fucosylated triantennary N-glycan", "mapped_to_uuid": "b209bf99-fab6-4875-aaad-65c95d126517", "action": "add"}
+{"source_term": "galabiosylceramide", "mapped_to_uuid": "da549328-b83d-479b-99f0-efa14c372db8", "action": "add"}
+{"source_term": "galactosylceramide", "mapped_to_uuid": "7829c0b5-3df6-5e54-baad-fb4c64380426", "action": "map"}
+{"source_term": "Gb5", "mapped_to_uuid": "41b2fe6b-f72e-4862-8242-b434ce339bf6", "action": "add"}
+{"source_term": "GD1", "mapped_to_uuid": "d0c0ead3-30f7-5dbf-97a0-dc0aaf2624c4", "action": "map"}
+{"source_term": "GD1a", "mapped_to_uuid": "ce08ddcb-1567-5caa-9ad2-9c2209277bcc", "action": "map"}
+{"source_term": "GD1b", "mapped_to_uuid": "e4e3df0d-c881-5a91-97fc-fbe47b595923", "action": "map"}
+{"source_term": "GD2", "mapped_to_uuid": "06872bcd-5545-43c5-8c70-f53410a81c69", "action": "add"}
+{"source_term": "GD3", "mapped_to_uuid": "1962f1ca-4998-4433-9692-49d9e37ac274", "action": "add"}
+{"source_term": "globoside", "mapped_to_uuid": "ee15a6e1-4986-5710-b1f7-04d74d0ebfba", "action": "map"}
+{"source_term": "globotetraosylceramide", "mapped_to_uuid": "b137039e-0172-5d89-8fa3-68775f8d4016", "action": "map"}
+{"source_term": "globotriaosylceramide", "mapped_to_uuid": "6e3afd42-7bff-4b4d-b452-32d2229776d7", "action": "add"}
+{"source_term": "glucosylceramide", "mapped_to_uuid": "3d06d77f-0323-508b-8678-7e86c86b85c4", "action": "map"}
+{"source_term": "GM1", "mapped_to_uuid": "3aa27544-ba80-5023-b104-e0747c328c0c", "action": "map"}
+{"source_term": "GM2", "mapped_to_uuid": "f05f9823-137e-586e-9ce6-90956a04b6bc", "action": "map"}
+{"source_term": "GM3", "mapped_to_uuid": "40982fbc-1026-5333-acdb-aafdf94892be", "action": "map"}
+{"source_term": "GM4", "mapped_to_uuid": "faa9b001-357d-4549-8f5d-8666e506e650", "action": "add"}
+{"source_term": "GP1c", "mapped_to_uuid": "52c8b4cc-801c-46fb-a0a3-223e0714c250", "action": "add"}
+{"source_term": "GQ1b", "mapped_to_uuid": "2f4047e2-bc8c-577d-9c8c-ed2e04227c65", "action": "map"}
+{"source_term": "GQ1c", "mapped_to_uuid": "031b8604-2a27-4fb3-84c4-56e35afce5bd", "action": "add"}
+{"source_term": "GT1a", "mapped_to_uuid": "82405327-1de3-4ba5-89aa-493256abad99", "action": "add"}
+{"source_term": "GT1b", "mapped_to_uuid": "926d7349-2069-5615-b469-3b6c845ce149", "action": "map"}
+{"source_term": "GT1c", "mapped_to_uuid": "3b3e1c65-614e-57dc-aa07-85a170fcf39a", "action": "map"}
+{"source_term": "GT2", "mapped_to_uuid": "4311fc01-86a7-47bd-8284-13f4e625161e", "action": "add"}
+{"source_term": "GT3", "mapped_to_uuid": "6d78ffdb-0cc7-4ec2-b143-6ee6fbf173ac", "action": "add"}
+{"source_term": "heparan sulfate", "mapped_to_uuid": "928fc0f5-5bfb-5be8-9eb6-dd405155d720", "action": "map"}
+{"source_term": "heparin", "mapped_to_uuid": "1b759e1d-9070-5800-9001-ee81290ddc26", "action": "map"}
+{"source_term": "high-mannose N-glycan", "mapped_to_uuid": "bd55e967-56fc-57a8-a669-0f45c0eb9a21", "action": "map"}
+{"source_term": "HNK-1", "mapped_to_uuid": "4aa392ab-169b-5da1-86a0-bb18312dba93", "action": "map"}
+{"source_term": "hybrid N-glycan", "mapped_to_uuid": "d4bdcdc4-b702-5263-b380-9175249b1ed6", "action": "map"}
+{"source_term": "hyaluronan", "mapped_to_uuid": "6811049f-c1fb-5111-bcf3-360ba4f8e672", "action": "map"}
+{"source_term": "i antigen", "mapped_to_uuid": "4e8ca135-621a-5f60-9db3-0873d1b18e94", "action": "map"}
+{"source_term": "I antigen", "mapped_to_uuid": "d09ee5db-281c-40b1-95c3-53f11f4aef41", "action": "map"}
+{"source_term": "isoglobotetraosylceramide", "mapped_to_uuid": "8b2bb3d0-c127-4cc6-bd84-5a68c437cfbd", "action": "add"}
+{"source_term": "keratan sulfate", "mapped_to_uuid": "55518b88-605c-5d07-a328-555ccbea84d0", "action": "map"}
+{"source_term": "LacdiNac", "mapped_to_uuid": "cea1d668-1fe6-50d0-9982-477ee729a810", "action": "map"}
+{"source_term": "lactosylceramide", "mapped_to_uuid": "0a063c08-7f72-5da7-9397-33bdcbc5315c", "action": "map"}
+{"source_term": "lactotriaosylceramide", "mapped_to_uuid": "49675e4a-8a13-483b-a42b-96d1d2fa7139", "action": "add"}
+{"source_term": "LcGg4", "mapped_to_uuid": "761b72f4-76a5-4cab-b30b-ade71d188c64", "action": "add"}
+{"source_term": "Lewis a", "mapped_to_uuid": "c5a61542-ca29-5ce2-bf63-a4f7caf9bf9c", "action": "map"}
+{"source_term": "Lewis b", "mapped_to_uuid": "4327ef94-5fff-5d27-8f23-207afe82a8d1", "action": "map"}
+{"source_term": "Lewis x", "mapped_to_uuid": "89ba627c-cee9-5954-982f-3410e75fb006", "action": "map"}
+{"source_term": "Lewis y", "mapped_to_uuid": "c05f267e-fa66-4b1a-bd6c-4a250acb5376", "action": "add"}
+{"source_term": "monosialylated N-glycan", "mapped_to_uuid": "e2909941-ee43-4892-9296-c6912bb05d2d", "action": "add"}
+{"source_term": "monosialylated biantennary N-glycan", "mapped_to_uuid": "6524e495-c7f4-42c9-8e2d-c01e194e0738", "action": "add"}
+{"source_term": "monosialyl Gb5", "mapped_to_uuid": "6d1bae04-defe-4652-9469-676dbd4ed2cf", "action": "add"}
+{"source_term": "monosulfated globopentaosylceramide", "mapped_to_uuid": "46528fde-50a7-4fb7-be35-df185e4a262b", "action": "add"}
+{"source_term": "monosulfated globotetraosylceramide", "mapped_to_uuid": "1183ab6f-e3e9-4202-8e32-9848db7d5c9a", "action": "add"}
+{"source_term": "N-acetyl GM2", "mapped_to_uuid": "f05f9823-137e-586e-9ce6-90956a04b6bc", "action": "map"}
+{"source_term": "N-acetyllactosamine (type 1)", "mapped_to_uuid": "e505676f-d5ef-4f0c-9bad-d27deeb1b783", "action": "add"}
+{"source_term": "N-acetyllactosamine (type 2)", "mapped_to_uuid": "bcbf9c2c-276b-435e-a92d-848168f7bbf6", "action": "add"}
+{"source_term": "N-glycolyl GM2", "mapped_to_uuid": "31190c26-ebe4-406d-a196-64f29bf55e6e", "action": "add"}
+{"source_term": "N-glycans", "mapped_to_uuid": "b6aa2621-651c-5dc5-af13-e3dc0b932d37", "action": "map"}
+{"source_term": "nonfucosylated N-glycan", "mapped_to_uuid": "16c6fd08-f6b9-458a-b3c0-dc80fd54f9c8", "action": "add"}
+{"source_term": "nonfucosylated biantennary N-glycan", "mapped_to_uuid": "00a9532d-c9db-4be3-8b99-b887e9c93f97", "action": "add"}
+{"source_term": "nonfucosylated triantennary N-glycan", "mapped_to_uuid": "eacbb5c9-0c0b-4549-aad3-934ad108e24f", "action": "add"}
+{"source_term": "nonsialylated N-glycan", "mapped_to_uuid": "b557a57f-2ea1-404a-a7f1-8ef061e6ff1b", "action": "add"}
+{"source_term": "O-fucose glycan", "mapped_to_uuid": "90a94f3e-97fc-5377-bba5-0d13d2766193", "action": "map"}
+{"source_term": "O-linked N-acetylglucosamine", "mapped_to_uuid": "627dd562-b899-5fd3-8bb3-c5ad42f31300", "action": "map"}
+{"source_term": "O-glycan", "mapped_to_uuid": "d0dfe91d-737b-59d2-9fa5-746a0d0ed6ad", "action": "map"}
+{"source_term": "O-mannose glycan", "mapped_to_uuid": "7f2b0e5a-45b8-5366-9e6d-892f75c98d6a", "action": "map"}
+{"source_term": "P1 antigen", "mapped_to_uuid": "d64e0922-936d-54e7-9182-bf7f2ccdba85", "action": "map"}
+{"source_term": "Para-Forssman glycolipid", "mapped_to_uuid": "5cb29215-6edb-456a-a92c-2aed67ead976", "action": "add"}
+{"source_term": "paragloboside", "mapped_to_uuid": "eb2cc2a3-09f1-4c42-b7dd-d33349ea3dea", "action": "add"}
+{"source_term": "paucimannose N-glycan", "mapped_to_uuid": "146aba34-600b-5250-8eaa-78b19e76b286", "action": "map"}
+{"source_term": "polysialic acid", "mapped_to_uuid": "bbaf1170-1d3f-55a0-946d-268cf8f7fa4d", "action": "map"}
+{"source_term": "seminolipid", "mapped_to_uuid": "61fc05da-859e-45a7-af36-8b943a7bfbe0", "action": "add"}
+{"source_term": "sialopentaosylceramide", "mapped_to_uuid": "b7195725-a7d4-4717-afe0-2c903c708c2e", "action": "add"}
+{"source_term": "sialosyl paragloboside", "mapped_to_uuid": "6580fbd2-fc40-47bb-875e-1cfbbfe285f0", "action": "add"}
+{"source_term": "sialyl Lewis a", "mapped_to_uuid": "89e36335-2fea-5ef3-a3a8-559985883dad", "action": "map"}
+{"source_term": "sialyl Lewis x", "mapped_to_uuid": "32e928fb-1550-5e0a-945f-2218ac79b83c", "action": "map"}
+{"source_term": "sialyl T antigen", "mapped_to_uuid": "65e6cb17-b6e0-4548-83c1-6dd8fdf13c42", "action": "add"}
+{"source_term": "sialylated biantennary N-glycan", "mapped_to_uuid": "2af27ed8-674b-5471-adb0-e8456d8f0ea1", "action": "map"}
+{"source_term": "sialylated complex-type N-glycan", "mapped_to_uuid": "13c3b217-f4d2-5e5f-9349-c2754539e341", "action": "map"}
+{"source_term": "sialylated LacdiNAc", "mapped_to_uuid": "4e77fa02-7b3e-4502-961c-eb3128018267", "action": "add"}
+{"source_term": "sialylated tetraantennary N-glycan", "mapped_to_uuid": "8e044e80-03e0-433f-84b8-89c3b621e02a", "action": "add"}
+{"source_term": "sialyl Tn antigen", "mapped_to_uuid": "562a7a4f-9d8e-5682-ab69-9673ba3599c6", "action": "map"}
+{"source_term": "SSEA-1", "mapped_to_uuid": "5a76e56e-4c2c-4bb9-ac80-226bc6d5b7f2", "action": "add"}
+{"source_term": "SSEA-3", "mapped_to_uuid": "263b5566-6e4e-41d1-9f12-c8339e6bf126", "action": "add"}
+{"source_term": "SSEA-4", "mapped_to_uuid": "eb14b505-7275-5888-9bc7-4b07107af0b3", "action": "map"}
+{"source_term": "sulfated LacdiNAc", "mapped_to_uuid": "d7547529-9384-46c2-b359-ad455f8cba6d", "action": "add"}
+{"source_term": "sulfatide", "mapped_to_uuid": "f9726a72-e7bc-5b9f-bd06-b85ea099456d", "action": "map"}
+{"source_term": "T antigen", "mapped_to_uuid": "5b6ede6e-9829-5690-a1a3-d1883b62d46d", "action": "map"}
+{"source_term": "tetraantennary N-glycan", "mapped_to_uuid": "aee918cb-25f8-50b7-8174-0b8aee6bfdb1", "action": "map"}
+{"source_term": "tetraantennary complex-type N-glycan", "mapped_to_uuid": "283cf9cf-37cb-4610-ac96-5c27e7b5e032", "action": "add"}
+{"source_term": "Tn antigen", "mapped_to_uuid": "25e2c658-4349-5dc1-ba23-f9dbe366f1e7", "action": "map"}
+{"source_term": "triantennary complex-type N-glycan", "mapped_to_uuid": "9598324c-4144-4a36-9363-8b23621950d1", "action": "add"}
+{"source_term": "triantennary N-glycan", "mapped_to_uuid": "1471df12-b367-5f77-b47f-f8e31ae9707f", "action": "map"}
+{"source_term": "fucosylated trisialylated triantennary N-glycan", "mapped_to_uuid": "569eebe7-730f-4e21-8029-7101bad0fbe9", "action": "add"}
+{"source_term": "trifucosyl Lewis b", "mapped_to_uuid": "4b1954a1-a4b9-4cda-9c47-4df9e13e87b4", "action": "add"}
+{"source_term": "trifucosyl lewis y", "mapped_to_uuid": "d7bc6703-411b-4861-b5aa-285099666f06", "action": "add"}
+{"source_term": "trimannosyl core", "mapped_to_uuid": "f7cdf4f8-f80e-4ee7-9e4b-9bac207c7b34", "action": "add"}
+{"source_term": "trisialylated biantennary N-glycan", "mapped_to_uuid": "2f0d9e16-7fe0-4093-a503-040879ec7636", "action": "add"}
+{"source_term": "trisialylated triantennary N-glycan", "mapped_to_uuid": "02e8291e-5f4e-4181-98a5-ca7f185050fc", "action": "add"}
+{"source_term": "VIM-2", "mapped_to_uuid": "22a00f8d-9902-4eef-8bc2-2b91bbce1310", "action": "add"}

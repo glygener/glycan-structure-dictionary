@@ -1,0 +1,49 @@
+citation_eog = {
+    "title": "Glycan mappings from Essentials of Glycobiology",
+    "version": "v1.0",
+    "description": "This file contains glycan structural term mappings extracted from the Essentials of Glycobiology, 4E.",
+    "citation": "Varki A, Cummings RD, Esko JD, et al., editors. Essentials of Glycobiology [Internet]. 4th edition. Cold Spring Harbor (NY): Cold Spring Harbor Laboratory Press; 2022. Available from: https://www.ncbi.nlm.nih.gov/books/NBK579918/ doi: 10.1101/9781621824213",
+    "xref": "SRC:EOG_VARKI_4E",
+    "author": "CCHAY",
+    "date": "2025-09-04"
+}
+
+citation_glygen_curators = {
+    "title": "Glycan mappings From GlyGen curators",
+    "version": "v1.0",
+    "description": "This file contains glycan structural term mappings curated by GlyGen curators.",
+    "citation": "GlyGen",
+    "xref": "SRC:GLYGEN_CURATORS",
+    "author": "CCHAY",
+    "date": "2025-09-04"
+}
+
+citation_gsdv0 = {
+    "title": "Glycan mappings from the Glycan Structure Dictionary (version 0)",
+    "version": "v1.0",
+    "description": "This file contains glycan structural term mappings extracted from the original Glycan Structure Dictionary.",
+    "citation": "Vora J, Navelkar R, Vijay-Shanker K, et al. The Glycan Structure Dictionary-a dictionary describing commonly used glycan structure terms. Glycobiology. 2023;33(5):354-357. doi:10.1093/glycob/cwad014",
+    "xref": "SRC:GLYGEN_GSD_V0",
+    "author": "CCHAY",
+    "date": "2025-09-04"
+}
+
+citation_n-compo = {
+    "title": "Glycan mappings of N-glycan composition codes",
+    "version": "v1.0",
+    "description": "This file contains glycan structural term mappings (subset: N-glycan composition codes) curated by GlyGen curators",
+    "citation": "GlyGen",
+    "xref": "SRC:GLYGEN_CURATORS_N-COMPO",
+    "author": "CCHAY",
+    "date": "2025-09-04"
+}
+
+citation_pubdictionaries = {
+    "title": "Glycan mappings from glycan-image, PubDictionaries",
+    "version": "v1.0",
+    "description": "This file contains glycan structural term mappings extracted from the 'glycan-image' collection in PubDictionaries",
+    "citation": "Issaku, Available from: https://pubdictionaries.org/dictionaries/glycan-image",
+    "xref": "SRC:PUBDICTIONARIES-GLYCAN-IMAGE",
+    "author": "CCHAY",
+    "date": "2025-09-04"
+}
