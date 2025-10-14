@@ -1,27 +1,27 @@
 # Glycan Structure Dictionary (GSD)
 
-An AI-assisted pipeline for curating, normalizing, mapping, and consolidating glycan structure terminology from heterogeneous biomedical sources into a unified, de-duplicated reference knowledge base.
+An AI-assisted pipeline for curating, normalizing, mapping, and consolidating glycan structure terminology from heterogeneous biomedical sources into a unified knowledge base.
 
 ---
 ## Overview
-The repository builds a master dictionary of glycan structure terms by:
+This pipeline builds a master dictionary of glycan structure terms by:
 1. Ingesting heterogeneous source term sets (Essentials of Glycobiology, legacy GSD v0, curated publications, composition lists, curator-supplied sets, etc.).
 2. Normalizing and formatting raw term JSONL inputs into a canonical intermediate structure.
 3. Creating a semantic vector store (Chroma + OpenAI embeddings) for retrieval-augmented AI mapping.
 4. Running AI-assisted mapping agents to (a) map synonyms to existing concepts or (b) propose creation of new canonical terms.
-5. Reconciling AI action logs into term → UUID mappings.
+5. Reconciling AI action logs into term-to-UUID mappings.
 6. Post-processing: merging multiple sources into consolidated node (master_nodes.json) and edge (master_edges.json) registries with quality checks and backups.
 
 ---
-## Repository Structure (Relevant Subtree)
+## Repository Structure
 ```
 main/
   1_ai-assisted_term_matching/
     01_create_vectordb.py
-    02_ai_mapping_gsdv0.py
-    02_match_gsdv0_ai_mapping_with_uuid.py
-    03_ai_mapping_pubdictionaries.py
-    03_match_pubdict_ai_mapping_with_uuid.py
+    02a_ai_mapping_gsdv0.py
+    02b_match_gsdv0_ai_mapping_with_uuid.py
+    03a_ai_mapping_pubdictionaries.py
+    03b_match_pubdict_ai_mapping_with_uuid.py
   2_generate_mappings/
     postprocessing.py
     postprocessing_utils.py
@@ -43,7 +43,7 @@ data/
 ```
 
 ---
-## Data Model (Intermediate JSONL Records)
+## Data Model (JSONL Records)
 Each source terms file (`*terms.jsonl`) after formatting should produce lines like:
 ```
 {
@@ -71,33 +71,30 @@ Edges (`*edges.jsonl`) follow:
 ```
 
 ---
-## Workflow Stages
+## Workflow
 ### 1. Prepare Environment
 Create `.env` in repo root:
 ```
 OPENAI_API_KEY=your_key_here
 ```
-Install dependencies (example minimal set – extend as needed):
+> [!note]
+> An OpenAI API key enables the application to access LLM services. [Where to obtain an API key?](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://platform.openai.com/api-keys&ved=2ahUKEwjE1sX_vqSQAxUZL1kFHe88MkgQFnoECA4QAQ&usg=AOvVaw1YhcGDWJXhiKSfmL59Pnfn)
+
+Install dependencies:
 ```
 pip install langchain langchain-openai langchain-chroma python-dotenv requests
 ```
 
-### 2. (Optional) Format Raw Source Files
-Use helper in `3_utils` if incoming raw file is not yet normalized:
-- `util_raw_terms_formatter.py` – reshapes raw public dictionary inputs to canonical schema.
-- `util_uuid_formatter.py` – enforces `SRC:` / `GSD:` prefixes.
-- `util_related_synonyms_collector.py` – derives relation edges from `related_synonyms` field.
-
-### 3. Build Vector Store
+### 2. Build Vector Store
 Run `main/1_ai-assisted_term_matching/01_create_vectordb.py` to:
 - Read `terms_edited.jsonl` from a source (e.g., `src_gsdv0`)
 - Embed term + synonyms + description
 - Persist Chroma collection under `data/vector_store/`
 
-### 4. AI-Assisted Mapping
+### 3. AI-Assisted Mapping
 Two agent scripts:
-- `02_ai_mapping_gsdv0.py` – processes legacy GSD v0 terms.
-- `03_ai_mapping_pubdictionaries.py` – processes curated publication dictionaries.
+- `02a_ai_mapping_gsdv0.py` – processes legacy GSD v0 terms.
+- `03a_ai_mapping_pubdictionaries.py` – processes curated publication dictionaries.
 
 Agents:
 - Retrieve top-k similar entries via vector store
@@ -105,14 +102,14 @@ Agents:
 - Append action records to `terms_ai-decisions_*.jsonl`
 - Log reasoning to `ai_mapping_demo.log`
 
-### 5. Reconcile AI Decisions
+### 4. Reconcile AI Decisions
 Scripts:
-- `02_match_gsdv0_ai_mapping_with_uuid.py`
-- `03_match_pubdict_ai_mapping_with_uuid.py`
+- `02b_match_gsdv0_ai_mapping_with_uuid.py`
+- `03b_match_pubdict_ai_mapping_with_uuid.py`
 
 They join AI action outputs back onto original `terms_edited.jsonl` to produce enriched `terms_demo.jsonl` with definitive `term_uuid` field assignments.
 
-### 6. Post-Processing Merge
+### 5. Post-Processing Merge
 `2_generate_mappings/postprocessing.py` orchestrates consolidation:
 1. Backup existing `master_nodes.json` / `master_edges.json` (indexed copies in `processed/backup/`).
 2. Determine processing order: `src_eog` → `src_gsdv0` → `src_pubdictionaries` → `src_n-compo` → `src_glygen_curators`.
@@ -127,7 +124,7 @@ They join AI action outputs back onto original `terms_edited.jsonl` to produce e
 5. Post-merge QC: duplicate labels or `gsd_id` warnings.
 6. Process edges with `update_master_registered_edges_file()` (skip `[DISCARD]`).
 
-### 7. Outputs
+### 6. Outputs
 - `data/processed/master_nodes.json` – canonical glycan structure concept catalog.
 - `data/processed/master_edges.json` – semantic relations (currently synonym-like edges, extensible).
 
@@ -151,7 +148,7 @@ Post-merge checks warn on duplicated labels or `gsd_id` values (for curator revi
 | `util_iupac2gtc.py` | Convert IUPAC condensed → WURCS/GlyTouCan ID (older API version) |
 
 ---
-## ▶Quickstart
+## Quickstart
 ### Generate Vector Store & Map Terms
 ```bash
 # 1. Build embeddings
@@ -173,7 +170,7 @@ python main/2_generate_mappings/postprocessing.py
 
 ---
 ## Extending the Pipeline
-To add a new source (e.g., `src_newsource`):
+To add a new source (e.g., `src_NEWSOURCENAME`):
 1. Place `terms.jsonl` (and optionally `edges.jsonl`) under `data/raw/src_newsource/`.
 2. Ensure formatted schema (run formatter if needed).
 3. Add its identifier to `PROCESSING_ORDER` in `postprocessing.py` at the appropriate precedence.
@@ -184,14 +181,15 @@ To add a new source (e.g., `src_newsource`):
 Logs (`ai_mapping_demo.log`) capture agent tool calls and rationales. These are intended for curator audit and reproducibility of synonym decisions.
 
 ---
-## Backups
+## Automatic Backups
 Each run of `postprocessing.py` creates indexed backups of prior master files in `data/processed/backup/`, e.g.:
 ```
 master_nodes_001.json
 master_nodes_002.json
 ...
 ```
-Never manually edit files in `processed/`; regenerate them through the pipeline.
+> [!WARNING]
+> Never manually edit files in `processed/`; regenerate them through the pipeline.
 
 ---
 ## Notes
