@@ -1,0 +1,1774 @@
+{"original_term": "(n-1)-polysaccharides", "decision": "retain"}
+{"original_term": "-6Galβ1-4Manα 1-PO4-) repeat units", "decision": "retain"}
+{"original_term": "1-2-linked Rhap residues", "decision": "retain"}
+{"original_term": "1-3-linked β-Gal backbone", "decision": "retain"}
+{"original_term": "1-4-linked α-L-GulpA", "decision": "retain"}
+{"original_term": "1-4-linked β-D-GlcNAc", "decision": "retain"}
+{"original_term": "1-4-linked β-D-ManpA", "decision": "retain"}
+{"original_term": "1-6- and 1-3-linked β-Glc residues", "decision": "retain"}
+{"original_term": "1-6-linked β-Galp", "decision": "retain"}
+{"original_term": "10-mer", "decision": "remove"}
+{"original_term": "14-sugar glycan", "decision": "remove"}
+{"original_term": "2-6-branch", "decision": "retain"}
+{"original_term": "2-AA", "decision": "remove"}
+{"original_term": "2-AB", "decision": "remove"}
+{"original_term": "2-deoxy and 1,2-cis-linkages", "decision": "retain"}
+{"original_term": "2-fucosyllactose", "decision": "retain"}
+{"original_term": "2′-fucosyllactose", "decision": "retain"}
+{"original_term": "3,6-dideoxyhexoses", "decision": "retain"}
+{"original_term": "3-O-sulfated Gal", "decision": "retain"}
+{"original_term": "3-O-sulfated GlcNS6S unit", "decision": "retain"}
+{"original_term": "3-O-sulfation on GlcNAc", "decision": "retain"}
+{"original_term": "4-ManpA-1-4-GulpA-1 sequences", "decision": "retain"}
+{"original_term": "4-O-acetyl group", "decision": "retain"}
+{"original_term": "4-amino-4-deoxy-L-arabinose [L-Ara4N]", "decision": "retain"}
+{"original_term": "4-sulfated chondroitin sulfate", "decision": "retain"}
+{"original_term": "4epi-di-N-acetyllegionaminic acid", "decision": "retain"}
+{"original_term": "5-hydroxymethyl cytosine bases", "decision": "remove"}
+{"original_term": "6-Deoxyhexoses", "decision": "retain"}
+{"original_term": "6-O sulfated forms", "decision": "retain"}
+{"original_term": "6-O-sulfated disaccharides", "decision": "retain"}
+{"original_term": "6-O-sulfo groups", "decision": "retain"}
+{"original_term": "6′-sulfo-SLex", "decision": "retain"}
+{"original_term": "7/8/9-tri-O-acetyl Sias", "decision": "retain"}
+{"original_term": "8epi-di-N-acetylacinetaminic acid", "decision": "retain"}
+{"original_term": "8epi-di-N-acetyllegionaminic acid", "decision": "retain"}
+{"original_term": "9-O-acetylated Sias", "decision": "retain"}
+{"original_term": "9-O-acetylated glycoconjugates", "decision": "retain"}
+{"original_term": "A and B blood group determinants", "decision": "retain"}
+{"original_term": "A determinants", "decision": "retain"}
+{"original_term": "ABO glycans", "decision": "retain"}
+{"original_term": "ABO(H)", "decision": "remove"}
+{"original_term": "ABO(H) blood group glycans", "decision": "retain"}
+{"original_term": "AGXs", "decision": "remove"}
+{"original_term": "Ac-5SGlcNAc", "decision": "remove"}
+{"original_term": "Acceptor substrates", "decision": "remove"}
+{"original_term": "Aci5", "decision": "remove"}
+{"original_term": "Acyl esters", "decision": "remove"}
+{"original_term": "Adhesins", "decision": "remove"}
+{"original_term": "Aldoses", "decision": "remove"}
+{"original_term": "All major glycan classes", "decision": "remove"}
+{"original_term": "Amylopectin", "decision": "retain"}
+{"original_term": "Apiogalacturonans", "decision": "retain"}
+{"original_term": "Arabinogalactan proteins", "decision": "remove"}
+{"original_term": "Arthroseries cores", "decision": "retain"}
+{"original_term": "Attached glycans", "decision": "remove"}
+{"original_term": "B-blood group oligosaccharides", "decision": "retain"}
+{"original_term": "B4GALT1", "decision": "remove"}
+{"original_term": "BGB+E. coli", "decision": "remove"}
+{"original_term": "BSA-GlcNAcβ1-4GlcNAc", "decision": "retain"}
+{"original_term": "Biantennary complex-type N-glycans", "decision": "retain"}
+{"original_term": "Branched", "decision": "remove"}
+{"original_term": "Branched structures", "decision": "remove"}
+{"original_term": "C-9 ester", "decision": "remove"}
+{"original_term": "C-mannose", "decision": "retain"}
+{"original_term": "C-mannosylated proteins", "decision": "remove"}
+{"original_term": "C14:0 myristate", "decision": "remove"}
+{"original_term": "C18-lipid tail", "decision": "remove"}
+{"original_term": "C18–C22 species", "decision": "remove"}
+{"original_term": "C2-deoxy sugars", "decision": "retain"}
+{"original_term": "C20:3", "decision": "remove"}
+{"original_term": "C20:4", "decision": "remove"}
+{"original_term": "CAZy GT2 family", "decision": "remove"}
+{"original_term": "CAZy family GT44", "decision": "remove"}
+{"original_term": "CBM", "decision": "remove"}
+{"original_term": "CBMs", "decision": "remove"}
+{"original_term": "CD24PSL", "decision": "remove"}
+{"original_term": "CD24S10L", "decision": "remove"}
+{"original_term": "CDG", "decision": "remove"}
+{"original_term": "CDGs", "decision": "remove"}
+{"original_term": "COG subunits", "decision": "remove"}
+{"original_term": "CPGs", "decision": "remove"}
+{"original_term": "CPS structures", "decision": "retain"}
+{"original_term": "CPSs", "decision": "remove"}
+{"original_term": "CPSs and EPSs", "decision": "remove"}
+{"original_term": "CPSs/EPSs", "decision": "remove"}
+{"original_term": "CRDs", "decision": "remove"}
+{"original_term": "CSPG core proteins", "decision": "remove"}
+{"original_term": "CSPGs", "decision": "remove"}
+{"original_term": "CTLs", "decision": "remove"}
+{"original_term": "Carboxyl groups", "decision": "remove"}
+{"original_term": "Cell wall lipoteichoic acids", "decision": "remove"}
+{"original_term": "Cell-Surface Glycans", "decision": "remove"}
+{"original_term": "Ceramide", "decision": "remove"}
+{"original_term": "Ceramide structures", "decision": "remove"}
+{"original_term": "Ceramides", "decision": "remove"}
+{"original_term": "Certain glycan structures", "decision": "remove"}
+{"original_term": "Certain glycolipids", "decision": "remove"}
+{"original_term": "Chain terminators", "decision": "remove"}
+{"original_term": "Charged polysaccharides", "decision": "retain"}
+{"original_term": "Chitin oligosaccharides", "decision": "retain"}
+{"original_term": "Chondroitin", "decision": "remove"}
+{"original_term": "Chondroitin sulfate", "decision": "retain"}
+{"original_term": "Clustered sialoglycans", "decision": "retain"}
+{"original_term": "Competitive glycans", "decision": "remove"}
+{"original_term": "Complex", "decision": "remove"}
+{"original_term": "Complex and hybrid N-glycans", "decision": "retain"}
+{"original_term": "Complex and hybrid-type N-glycans", "decision": "retain"}
+{"original_term": "Complex glycans", "decision": "retain"}
+{"original_term": "Core 1", "decision": "retain"}
+{"original_term": "Core 1 structures", "decision": "retain"}
+{"original_term": "Core 2 O-GalNAc glycans", "decision": "retain"}
+{"original_term": "Core M1", "decision": "retain"}
+{"original_term": "Core M1 and M2 O-mannose glycans", "decision": "retain"}
+{"original_term": "Core M1 glycans", "decision": "retain"}
+{"original_term": "Core M2 O-mannose glycans", "decision": "retain"}
+{"original_term": "Core-1 Galβ1-3GalNAcα1-O-Ser/Thr structure", "decision": "retain"}
+{"original_term": "Cry5B ligands", "decision": "remove"}
+{"original_term": "D and L isomers", "decision": "remove"}
+{"original_term": "D series of aldoses", "decision": "remove"}
+{"original_term": "D sugar", "decision": "remove"}
+{"original_term": "D-aldoses", "decision": "remove"}
+{"original_term": "D-glycero-D-galacto", "decision": "remove"}
+{"original_term": "D-myo-inositol", "decision": "remove"}
+{"original_term": "DXD motif", "decision": "remove"}
+{"original_term": "Decasaccharide 8", "decision": "remove"}
+{"original_term": "Deoxyhexoses", "decision": "remove"}
+{"original_term": "Dha", "decision": "remove"}
+{"original_term": "Di-N-acetylpseudaminic acid", "decision": "remove"}
+{"original_term": "Distinctive glycans", "decision": "remove"}
+{"original_term": "Dol-P-P", "decision": "remove"}
+{"original_term": "Dol-P-linked tetrasaccharide", "decision": "retain"}
+{"original_term": "Dolichol-linked", "decision": "remove"}
+{"original_term": "E-PHA-binding glycans", "decision": "remove"}
+{"original_term": "E-PHA-binding glycoproteins", "decision": "remove"}
+{"original_term": "EGF domains", "decision": "remove"}
+{"original_term": "EGF repeat", "decision": "remove"}
+{"original_term": "EGF repeats", "decision": "remove"}
+{"original_term": "EGF-like", "decision": "remove"}
+{"original_term": "EGF-like domains", "decision": "remove"}
+{"original_term": "EGF-like repeats", "decision": "remove"}
+{"original_term": "EPS", "decision": "remove"}
+{"original_term": "EPS types", "decision": "remove"}
+{"original_term": "EPSs", "decision": "remove"}
+{"original_term": "ERAD substrates", "decision": "remove"}
+{"original_term": "Endo-N", "decision": "remove"}
+{"original_term": "Extensins", "decision": "remove"}
+{"original_term": "FSP", "decision": "remove"}
+{"original_term": "FaxGuDFSA", "decision": "remove"}
+{"original_term": "Fc N-glycans", "decision": "retain"}
+{"original_term": "Free HS oligosaccharides", "decision": "retain"}
+{"original_term": "Free glycans", "decision": "remove"}
+{"original_term": "Fructans", "decision": "retain"}
+{"original_term": "Fuc", "decision": "remove"}
+{"original_term": "Fucoidans", "decision": "retain"}
+{"original_term": "Fucosylated N-glycans", "decision": "retain"}
+{"original_term": "Fucα1-2Gal", "decision": "retain"}
+{"original_term": "Fucα1-2Galβ1-3GlcNAc1α-", "decision": "retain"}
+{"original_term": "Fucα1-3GlcNAc", "decision": "retain"}
+{"original_term": "Fully sialylated chains", "decision": "retain"}
+{"original_term": "G0 N-glycan", "decision": "retain"}
+{"original_term": "G0 N-glycans", "decision": "retain"}
+{"original_term": "G0 molecules", "decision": "remove"}
+{"original_term": "GAG chain", "decision": "retain"}
+{"original_term": "GAG chains", "decision": "retain"}
+{"original_term": "GAG family", "decision": "remove"}
+{"original_term": "GAG segments", "decision": "retain"}
+{"original_term": "GAG-binding proteins", "decision": "remove"}
+{"original_term": "GBP", "decision": "remove"}
+{"original_term": "GBPs", "decision": "remove"}
+{"original_term": "GD1 ganglioside", "decision": "retain"}
+{"original_term": "GD1a", "decision": "retain"}
+{"original_term": "GD1b", "decision": "retain"}
+{"original_term": "GGAs", "decision": "remove"}
+{"original_term": "GIPCs", "decision": "retain"}
+{"original_term": "GIPLs", "decision": "retain"}
+{"original_term": "GM1", "decision": "retain"}
+{"original_term": "GM1 ganglioside", "decision": "retain"}
+{"original_term": "GM1 pentasaccharide", "decision": "retain"}
+{"original_term": "GM2", "decision": "retain"}
+{"original_term": "GM3", "decision": "retain"}
+{"original_term": "GNE", "decision": "remove"}
+{"original_term": "GPI", "decision": "retain"}
+{"original_term": "GPI anchor", "decision": "retain"}
+{"original_term": "GPI anchors", "decision": "retain"}
+{"original_term": "GPI glycan", "decision": "retain"}
+{"original_term": "GPI glycan side chains", "decision": "retain"}
+{"original_term": "GPI glycans", "decision": "retain"}
+{"original_term": "GPI oligosaccharide", "decision": "retain"}
+{"original_term": "GPI-anchor", "decision": "retain"}
+{"original_term": "GPI-anchored glycoproteins", "decision": "remove"}
+{"original_term": "GPI-anchored proteins", "decision": "remove"}
+{"original_term": "GPI-glycan", "decision": "retain"}
+{"original_term": "GPI-synthesis inhibitors", "decision": "remove"}
+{"original_term": "GPIs", "decision": "retain"}
+{"original_term": "GQ1b", "decision": "retain"}
+{"original_term": "GRPs", "decision": "remove"}
+{"original_term": "GSL", "decision": "retain"}
+{"original_term": "GSL series", "decision": "retain"}
+{"original_term": "GSL structures", "decision": "retain"}
+{"original_term": "GSLs", "decision": "retain"}
+{"original_term": "GT and GH", "decision": "remove"}
+{"original_term": "GT families", "decision": "remove"}
+{"original_term": "GT-A enzymes", "decision": "remove"}
+{"original_term": "GT-A superfamily", "decision": "remove"}
+{"original_term": "GT-B", "decision": "remove"}
+{"original_term": "GT-B fold", "decision": "remove"}
+{"original_term": "GT1b", "decision": "retain"}
+{"original_term": "GT1c", "decision": "retain"}
+{"original_term": "GT27 CaZy family", "decision": "remove"}
+{"original_term": "Gal", "decision": "remove"}
+{"original_term": "Gal (B)", "decision": "remove"}
+{"original_term": "Gal moieties", "decision": "remove"}
+{"original_term": "Gal residues", "decision": "remove"}
+{"original_term": "Gal-Cer", "decision": "retain"}
+{"original_term": "Gal-Man-PO4- repeat unit", "decision": "retain"}
+{"original_term": "Gal-Man-PO4- repeats", "decision": "retain"}
+{"original_term": "Gal-terminating structures", "decision": "retain"}
+{"original_term": "GalCer", "decision": "retain"}
+{"original_term": "GalNAc", "decision": "remove"}
+{"original_term": "GalNAc (A)", "decision": "remove"}
+{"original_term": "GalNAc disaccharide", "decision": "retain"}
+{"original_term": "GalNAc-GD1a heptasaccharide 7", "decision": "retain"}
+{"original_term": "GalNAc-type O-glycans", "decision": "retain"}
+{"original_term": "GalNAcα1-3Gal", "decision": "retain"}
+{"original_term": "GalNAcα1-4", "decision": "remove"}
+{"original_term": "GalNAcα1-4GalNAcα1-3-diNAcBac-β1", "decision": "retain"}
+{"original_term": "GalNAcα1-4GalNAcα1-4", "decision": "retain"}
+{"original_term": "GalNAcβ1-3Galα1-4Galβ1-4Glc", "decision": "retain"}
+{"original_term": "GalNAcβ1-4GlcNAc", "decision": "retain"}
+{"original_term": "GalNAcβ1-4GlcNAcβ1-structure", "decision": "retain"}
+{"original_term": "Galactolipids", "decision": "retain"}
+{"original_term": "Galactose functionalized dendrimeric arms", "decision": "remove"}
+{"original_term": "Galactosylated SWCNTs", "decision": "remove"}
+{"original_term": "Galactosylceramide", "decision": "retain"}
+{"original_term": "Galectins", "decision": "remove"}
+{"original_term": "Galα1,3Galα- disaccharide", "decision": "retain"}
+{"original_term": "Galα1-3GalNAc", "decision": "retain"}
+{"original_term": "Galα1-3Galβ1-4GlcNAc-R", "decision": "retain"}
+{"original_term": "Galα1-3Glcα1- disaccharide", "decision": "retain"}
+{"original_term": "Galα1-4Gal determinants", "decision": "retain"}
+{"original_term": "Galα1-4Gal moiety", "decision": "retain"}
+{"original_term": "Galα1-4Galβ1-4Glc", "decision": "retain"}
+{"original_term": "Galα1–4Gal", "decision": "retain"}
+{"original_term": "Galα1–4Gal-Cer residues", "decision": "retain"}
+{"original_term": "Galβ1-3 residues", "decision": "remove"}
+{"original_term": "Galβ1-3GalNAcα-O-protein moieties", "decision": "retain"}
+{"original_term": "Galβ1-3GalNAcαS/T", "decision": "retain"}
+{"original_term": "Galβ1-3GalNAcβ1-4Gal", "decision": "retain"}
+{"original_term": "Galβ1-3GlcNAc", "decision": "retain"}
+{"original_term": "Galβ1-3GlcNAcβ1-3Galβ1-4GlcNAc", "decision": "retain"}
+{"original_term": "Galβ1-4Glc", "decision": "retain"}
+{"original_term": "Galβ1-4Glc-Cer", "decision": "retain"}
+{"original_term": "Galβ1-4GlcNAc", "decision": "retain"}
+{"original_term": "Galβ1-4GlcNAc-R", "decision": "retain"}
+{"original_term": "Galβ1-4GlcNAcβ1-3 repeats", "decision": "retain"}
+{"original_term": "Galβ1-4Manα1-PO4", "decision": "retain"}
+{"original_term": "Ganglioside GM3", "decision": "retain"}
+{"original_term": "Ganglioside immunogens", "decision": "remove"}
+{"original_term": "Gangliosides", "decision": "remove"}
+{"original_term": "Gb3", "decision": "retain"}
+{"original_term": "Gb4", "decision": "retain"}
+{"original_term": "Gg4", "decision": "retain"}
+{"original_term": "Glc", "decision": "remove"}
+{"original_term": "Glc disaccharide", "decision": "retain"}
+{"original_term": "Glc-Cer", "decision": "retain"}
+{"original_term": "Glc3Man9GlcNAc2", "decision": "retain"}
+{"original_term": "Glc3Man9GlcNAc2-Asn", "decision": "retain"}
+{"original_term": "Glc3Man9GlcNAc2-P-P-Dol", "decision": "retain"}
+{"original_term": "Glc3Man9GlcNAc2Asn", "decision": "retain"}
+{"original_term": "GlcA", "decision": "remove"}
+{"original_term": "GlcA-GlcNAc RUs", "decision": "retain"}
+{"original_term": "GlcAβ1-3GalNAc repeats", "decision": "retain"}
+{"original_term": "GlcAβ1-3Galβ-R", "decision": "retain"}
+{"original_term": "GlcAβ1-3GlcNAcβ1-4", "decision": "retain"}
+{"original_term": "GlcAβ1-4GlcNAcα1-4", "decision": "retain"}
+{"original_term": "GlcCer", "decision": "retain"}
+{"original_term": "GlcNAc", "decision": "remove"}
+{"original_term": "GlcNAc pentasaccharide", "decision": "retain"}
+{"original_term": "GlcNAc phosphodiester", "decision": "retain"}
+{"original_term": "GlcNAc-P", "decision": "retain"}
+{"original_term": "GlcNAc-P-Man phosphodiesters", "decision": "retain"}
+{"original_term": "GlcNAc-P-T", "decision": "remove"}
+{"original_term": "GlcNAc-T", "decision": "remove"}
+{"original_term": "GlcNAc-terminating glycoconjugates", "decision": "retain"}
+{"original_term": "GlcNAcs", "decision": "remove"}
+{"original_term": "GlcNAcα-Arg", "decision": "retain"}
+{"original_term": "GlcNAcαβ1-2Manα1-6", "decision": "retain"}
+{"original_term": "GlcNAcβ1-2Manα1-3", "decision": "retain"}
+{"original_term": "GlcNAcβ1-4Gal", "decision": "retain"}
+{"original_term": "GlcNAcβ1-4Glc-Cer", "decision": "retain"}
+{"original_term": "GlcNAcβ1-4GlcNAc", "decision": "retain"}
+{"original_term": "GlcNAcβ1-4Man-R", "decision": "retain"}
+{"original_term": "GlcNR-phosphatidylinositols", "decision": "retain"}
+{"original_term": "GlcUA", "decision": "remove"}
+{"original_term": "Glcα1-PO4-Man", "decision": "retain"}
+{"original_term": "Glcα1–4Glc repeating disaccharides", "decision": "retain"}
+{"original_term": "Glcβ1-3Fucα-O-Ser/Thr", "decision": "retain"}
+{"original_term": "Glcβ1-4Glc-OMe", "decision": "retain"}
+{"original_term": "GlcβCer bond", "decision": "retain"}
+{"original_term": "Glucuronoxylans", "decision": "retain"}
+{"original_term": "Glycoconjugates and GBPs", "decision": "remove"}
+{"original_term": "Glycodelin A", "decision": "remove"}
+{"original_term": "Glycodelin S", "decision": "remove"}
+{"original_term": "Glycodendrimers", "decision": "remove"}
+{"original_term": "Glycogen", "decision": "retain"}
+{"original_term": "Glycoglycerolipids", "decision": "retain"}
+{"original_term": "Glycosaminoglycan chains", "decision": "retain"}
+{"original_term": "Glycosidic linkages", "decision": "remove"}
+{"original_term": "Glycosphingolipids", "decision": "retain"}
+{"original_term": "Glycosylated polymers", "decision": "remove"}
+{"original_term": "Glycosylphosphatidylinositols", "decision": "retain"}
+{"original_term": "Glypicans", "decision": "remove"}
+{"original_term": "Gram-negative", "decision": "remove"}
+{"original_term": "Gram-positive", "decision": "remove"}
+{"original_term": "H-antigen", "decision": "retain"}
+{"original_term": "HAPLNs", "decision": "remove"}
+{"original_term": "HMOs", "decision": "retain"}
+{"original_term": "HNK-1", "decision": "retain"}
+{"original_term": "HNK-1-containing glycosphingolipids", "decision": "retain"}
+{"original_term": "HRGPs", "decision": "remove"}
+{"original_term": "HS GlcNAc", "decision": "remove"}
+{"original_term": "HS chain", "decision": "retain"}
+{"original_term": "HS chains", "decision": "retain"}
+{"original_term": "HS glycosaminoglycan chains", "decision": "retain"}
+{"original_term": "HS glycosaminoglycans", "decision": "retain"}
+{"original_term": "HS polymers", "decision": "retain"}
+{"original_term": "HS polysaccharides", "decision": "retain"}
+{"original_term": "HS proteoglycan", "decision": "remove"}
+{"original_term": "HS proteoglycans", "decision": "remove"}
+{"original_term": "HS side chains", "decision": "retain"}
+{"original_term": "HS structure", "decision": "retain"}
+{"original_term": "HS-derived units", "decision": "retain"}
+{"original_term": "HS/CS oligosaccharides", "decision": "retain"}
+{"original_term": "HSPGs", "decision": "remove"}
+{"original_term": "HSs", "decision": "retain"}
+{"original_term": "Hapten sugars", "decision": "remove"}
+{"original_term": "Heavily O-glycosylated gel-forming mucins", "decision": "remove"}
+{"original_term": "Hemicelluloses", "decision": "retain"}
+{"original_term": "Hemicellulosic polysaccharides", "decision": "retain"}
+{"original_term": "Heparan sulfate", "decision": "retain"}
+{"original_term": "Heparan sulfate glycosaminoglycans", "decision": "retain"}
+{"original_term": "Heparan sulfate proteoglycans", "decision": "remove"}
+{"original_term": "Heteroxylans", "decision": "retain"}
+{"original_term": "HexNAc and hexosamine residues", "decision": "remove"}
+{"original_term": "HexNAc-HexNAc core", "decision": "retain"}
+{"original_term": "HexNAc2-3 motifs", "decision": "retain"}
+{"original_term": "Hexosamines", "decision": "remove"}
+{"original_term": "Hexoses", "decision": "remove"}
+{"original_term": "Human O-GalNAc glycans", "decision": "retain"}
+{"original_term": "Human milk oligosaccharides", "decision": "retain"}
+{"original_term": "Hyaluronan", "decision": "retain"}
+{"original_term": "Hyaluronan chains", "decision": "retain"}
+{"original_term": "Hyaluronan oligosaccharides", "decision": "retain"}
+{"original_term": "Hybrid N-glycans", "decision": "retain"}
+{"original_term": "IUPAC-like", "decision": "remove"}
+{"original_term": "IdoA rings", "decision": "remove"}
+{"original_term": "IdoA2S", "decision": "retain"}
+{"original_term": "Intact glycans", "decision": "remove"}
+{"original_term": "Intact sialoglycans", "decision": "retain"}
+{"original_term": "KS chains", "decision": "retain"}
+{"original_term": "Kdn", "decision": "remove"}
+{"original_term": "Kdo", "decision": "remove"}
+{"original_term": "Kdop-containing lipids", "decision": "retain"}
+{"original_term": "Keratan sulfate chains", "decision": "retain"}
+{"original_term": "Keratan sulfates", "decision": "retain"}
+{"original_term": "L sugar", "decision": "remove"}
+{"original_term": "L-selectin ligands", "decision": "remove"}
+{"original_term": "L-type", "decision": "remove"}
+{"original_term": "LLO", "decision": "remove"}
+{"original_term": "LLOs", "decision": "remove"}
+{"original_term": "LOS", "decision": "retain"}
+{"original_term": "LPG", "decision": "retain"}
+{"original_term": "LPPG", "decision": "retain"}
+{"original_term": "LPSs", "decision": "retain"}
+{"original_term": "LRP2 O-glycans", "decision": "retain"}
+{"original_term": "LTAs", "decision": "retain"}
+{"original_term": "LacNAc structure", "decision": "retain"}
+{"original_term": "LacNAc units", "decision": "retain"}
+{"original_term": "LacdiNAc structures", "decision": "retain"}
+{"original_term": "Large glycoconjugates", "decision": "remove"}
+{"original_term": "Lea and Leb glycans", "decision": "retain"}
+{"original_term": "Leg5", "decision": "remove"}
+{"original_term": "Leishmania LPG", "decision": "remove"}
+{"original_term": "Leishmania lipophosphoglycan (LPG)", "decision": "remove"}
+{"original_term": "Levan type fructans", "decision": "retain"}
+{"original_term": "Lewis a", "decision": "retain"}
+{"original_term": "Lewis antigens", "decision": "retain"}
+{"original_term": "Lewis blood group antigens", "decision": "retain"}
+{"original_term": "Lewis type glycans", "decision": "retain"}
+{"original_term": "Lewis x", "decision": "retain"}
+{"original_term": "Lewis x (Lex)", "decision": "retain"}
+{"original_term": "Lewis x glycan structures", "decision": "retain"}
+{"original_term": "Lewis x–containing structures", "decision": "retain"}
+{"original_term": "Lewis x–like structures", "decision": "retain"}
+{"original_term": "Lewis x–modified glycans", "decision": "retain"}
+{"original_term": "Lewis-type structures", "decision": "retain"}
+{"original_term": "Lignin", "decision": "remove"}
+{"original_term": "Linear poly-N-acetyllactosamine units", "decision": "retain"}
+{"original_term": "Low molecular weight glycans", "decision": "remove"}
+{"original_term": "Low-molecular-weight heparins", "decision": "retain"}
+{"original_term": "Low-molecular-weight oligosaccharides", "decision": "remove"}
+{"original_term": "Lung surfactant lipids", "decision": "remove"}
+{"original_term": "LysM family", "decision": "remove"}
+{"original_term": "M1–M3", "decision": "retain"}
+{"original_term": "M3 glycan", "decision": "retain"}
+{"original_term": "M6P phosphodiesters", "decision": "retain"}
+{"original_term": "M6P phosphomonoesters", "decision": "retain"}
+{"original_term": "M6P recognition marker", "decision": "retain"}
+{"original_term": "M6P-containing N-glycans", "decision": "retain"}
+{"original_term": "M7BC", "decision": "retain"}
+{"original_term": "M8B", "decision": "retain"}
+{"original_term": "MAG", "decision": "remove"}
+{"original_term": "MDOs", "decision": "retain"}
+{"original_term": "MLGs", "decision": "retain"}
+{"original_term": "MLIIIα/β", "decision": "remove"}
+{"original_term": "Major brain ganglioside structures", "decision": "retain"}
+{"original_term": "Mammalian sialidases", "decision": "remove"}
+{"original_term": "Man", "decision": "remove"}
+{"original_term": "Man-6-P", "decision": "retain"}
+{"original_term": "Man-6-P targeting signal", "decision": "remove"}
+{"original_term": "Man-6-P-containing glycans", "decision": "retain"}
+{"original_term": "Man2-3GlcNAc2", "decision": "retain"}
+{"original_term": "Man3GlcNAc2", "decision": "retain"}
+{"original_term": "Man5GlcNAc2", "decision": "retain"}
+{"original_term": "Man6GlcNAc2", "decision": "retain"}
+{"original_term": "Man7–9GlcNAc2 oligosaccharides", "decision": "retain"}
+{"original_term": "ManLAM", "decision": "retain"}
+{"original_term": "ManNAc", "decision": "remove"}
+{"original_term": "Mannose thioglycoside", "decision": "remove"}
+{"original_term": "Mannose-6-P", "decision": "remove"}
+{"original_term": "Mannose-conjugated glycodendrimers", "decision": "remove"}
+{"original_term": "Manα1-2Manα1-6Manα1-4GlcNα1-6Inositolphospholipid", "decision": "retain"}
+{"original_term": "Manα1-3Man disaccharides", "decision": "retain"}
+{"original_term": "Manβ1-4Glc-Cer", "decision": "retain"}
+{"original_term": "Matrix Glycans", "decision": "remove"}
+{"original_term": "Membrane-bound sialoglycans", "decision": "retain"}
+{"original_term": "Methanochondroitin", "decision": "retain"}
+{"original_term": "Milk oligosaccharides", "decision": "retain"}
+{"original_term": "Modified glycans", "decision": "remove"}
+{"original_term": "More complex GSLs", "decision": "remove"}
+{"original_term": "Most glycans", "decision": "remove"}
+{"original_term": "Mucin-type O-glycans", "decision": "retain"}
+{"original_term": "Mucins", "decision": "remove"}
+{"original_term": "MurNAc", "decision": "remove"}
+{"original_term": "MurNAc acceptors", "decision": "remove"}
+{"original_term": "MurNAc residues", "decision": "remove"}
+{"original_term": "Mycolic acids", "decision": "remove"}
+{"original_term": "N- and O-glycans", "decision": "retain"}
+{"original_term": "N- and O-glycopeptides", "decision": "remove"}
+{"original_term": "N- and O-glycoproteins", "decision": "remove"}
+{"original_term": "N- and O-linked chains", "decision": "retain"}
+{"original_term": "N- and O-linked glycans", "decision": "retain"}
+{"original_term": "N- and O-linked glycopeptides", "decision": "remove"}
+{"original_term": "N- and O-linked proteoglycans", "decision": "remove"}
+{"original_term": "N- and O-sulfate esters", "decision": "remove"}
+{"original_term": "N- or O-linked glycans", "decision": "retain"}
+{"original_term": "N-, 2-O, and 6-O sulfated forms", "decision": "retain"}
+{"original_term": "N-GlcNAc", "decision": "remove"}
+{"original_term": "N-acetyl-D-glucosamine", "decision": "remove"}
+{"original_term": "N-acetylated amino sugars", "decision": "remove"}
+{"original_term": "N-acetylated hexoses", "decision": "remove"}
+{"original_term": "N-acetylglucosamine", "decision": "remove"}
+{"original_term": "N-acetylglucosamine residues", "decision": "remove"}
+{"original_term": "N-acetylglucosamine-containing glycosidic linkages", "decision": "retain"}
+{"original_term": "N-acetyllactosamine moieties", "decision": "retain"}
+{"original_term": "N-acetylneuraminic acid", "decision": "remove"}
+{"original_term": "N-acetylneuraminic acid (Neu5Ac)", "decision": "remove"}
+{"original_term": "N-glycan classes", "decision": "retain"}
+{"original_term": "N-glycan corneal-type KS", "decision": "retain"}
+{"original_term": "N-glycan-containing glycoproteins", "decision": "remove"}
+{"original_term": "N-glycan-type", "decision": "retain"}
+{"original_term": "N-glycans on yeast glycoproteins", "decision": "retain"}
+{"original_term": "N-glycolyl group", "decision": "remove"}
+{"original_term": "N-glycome", "decision": "remove"}
+{"original_term": "N-glycomes", "decision": "remove"}
+{"original_term": "N-glycopeptides", "decision": "remove"}
+{"original_term": "N-glycosylated", "decision": "remove"}
+{"original_term": "N-glycosylation", "decision": "retain"}
+{"original_term": "N-glycosylation disorders", "decision": "remove"}
+{"original_term": "N-linked", "decision": "retain"}
+{"original_term": "N-linked branched octosaccharide", "decision": "retain"}
+{"original_term": "N-linked glycoproteins", "decision": "remove"}
+{"original_term": "N-linked glycosylation", "decision": "retain"}
+{"original_term": "N-linked hexasaccharide", "decision": "retain"}
+{"original_term": "N-linked oligomannose", "decision": "retain"}
+{"original_term": "N-linked oligomannose-type glycans", "decision": "retain"}
+{"original_term": "N-linked oligosaccharides", "decision": "retain"}
+{"original_term": "N-linked tetrasaccharide", "decision": "retain"}
+{"original_term": "NAc-domains", "decision": "remove"}
+{"original_term": "NDP-sugar-dependent", "decision": "remove"}
+{"original_term": "Natural glycans", "decision": "remove"}
+{"original_term": "Natural polysaccharides", "decision": "retain"}
+{"original_term": "Neu5Ac", "decision": "remove"}
+{"original_term": "Neu5Ac sialic acids", "decision": "remove"}
+{"original_term": "Neu5Acα2-3Gal", "decision": "retain"}
+{"original_term": "Neu5Acα2-6GalNAcα", "decision": "retain"}
+{"original_term": "Neu5Acα2-6HexNAc", "decision": "retain"}
+{"original_term": "Neu5Acα2-8", "decision": "retain"}
+{"original_term": "Neu5Acα2–3Gal-", "decision": "retain"}
+{"original_term": "Neu5Acα2–3Gal-containing oligosaccharides", "decision": "retain"}
+{"original_term": "Neu5Acα2–3Gal-terminated glycans", "decision": "retain"}
+{"original_term": "Neu5Acα2–6Gal linkages", "decision": "retain"}
+{"original_term": "Neu5Acα2–6Gal-containing oligosaccharides", "decision": "retain"}
+{"original_term": "Neu5Gc", "decision": "remove"}
+{"original_term": "Neu5Gcα2–3Galβ1–4Glc", "decision": "retain"}
+{"original_term": "Noncellulosic matrix polysaccharides", "decision": "retain"}
+{"original_term": "Nonlabeled glycans", "decision": "remove"}
+{"original_term": "Nonulosonic Acids", "decision": "remove"}
+{"original_term": "Nonulosonic acids", "decision": "remove"}
+{"original_term": "Nucleotide-activated monosaccharides", "decision": "remove"}
+{"original_term": "Nucleotide-activated sugars", "decision": "remove"}
+{"original_term": "NulO", "decision": "remove"}
+{"original_term": "NulO-glycans", "decision": "retain"}
+{"original_term": "NulOs", "decision": "remove"}
+{"original_term": "O- and N-glycans", "decision": "retain"}
+{"original_term": "O-Fuc", "decision": "remove"}
+{"original_term": "O-Fucose", "decision": "remove"}
+{"original_term": "O-GalNAc", "decision": "remove"}
+{"original_term": "O-GalNAc (Tn)", "decision": "retain"}
+{"original_term": "O-GalNAc cores", "decision": "retain"}
+{"original_term": "O-GalNAc glycans", "decision": "retain"}
+{"original_term": "O-GalNAc residues", "decision": "remove"}
+{"original_term": "O-GalNAc-Gal (T)", "decision": "retain"}
+{"original_term": "O-GalNAc-glycans", "decision": "retain"}
+{"original_term": "O-GalNAc-linked sialoglycans", "decision": "retain"}
+{"original_term": "O-Glc", "decision": "remove"}
+{"original_term": "O-Glc glycans", "decision": "retain"}
+{"original_term": "O-GlcNAc", "decision": "remove"}
+{"original_term": "O-GlcNAcase", "decision": "remove"}
+{"original_term": "O-GlcNAcylated", "decision": "remove"}
+{"original_term": "O-GlcNAcylated proteins", "decision": "remove"}
+{"original_term": "O-GlcNAcylation", "decision": "remove"}
+{"original_term": "O-Linked Glc-Gal disaccharides", "decision": "retain"}
+{"original_term": "O-Linked glycan diversity", "decision": "remove"}
+{"original_term": "O-Linked mannose", "decision": "retain"}
+{"original_term": "O-Man", "decision": "remove"}
+{"original_term": "O-Man glycans", "decision": "retain"}
+{"original_term": "O-Mannose glycans", "decision": "retain"}
+{"original_term": "O-PS", "decision": "retain"}
+{"original_term": "O-PSs", "decision": "retain"}
+{"original_term": "O-acetyl groups", "decision": "remove"}
+{"original_term": "O-acetylated Sias", "decision": "retain"}
+{"original_term": "O-acetylated sialic acid receptors", "decision": "remove"}
+{"original_term": "O-acetylated sialic acids", "decision": "retain"}
+{"original_term": "O-acetylated species", "decision": "remove"}
+{"original_term": "O-antigen", "decision": "retain"}
+{"original_term": "O-antigens", "decision": "retain"}
+{"original_term": "O-fucose", "decision": "remove"}
+{"original_term": "O-fucose glycans", "decision": "retain"}
+{"original_term": "O-glucose", "decision": "remove"}
+{"original_term": "O-glycan chains", "decision": "retain"}
+{"original_term": "O-glycan terminal motifs", "decision": "retain"}
+{"original_term": "O-glycopeptides", "decision": "remove"}
+{"original_term": "O-glycosylated", "decision": "remove"}
+{"original_term": "O-glycosylated mucins", "decision": "remove"}
+{"original_term": "O-glycosylated proteins", "decision": "remove"}
+{"original_term": "O-glycosylation", "decision": "retain"}
+{"original_term": "O-linked", "decision": "remove"}
+{"original_term": "O-linked GlcNAc", "decision": "retain"}
+{"original_term": "O-linked KS", "decision": "retain"}
+{"original_term": "O-linked fucose", "decision": "retain"}
+{"original_term": "O-linked glucose residues", "decision": "retain"}
+{"original_term": "O-linked glycan structures", "decision": "retain"}
+{"original_term": "O-linked glycoconjugates", "decision": "remove"}
+{"original_term": "O-linked glycoproteins", "decision": "remove"}
+{"original_term": "O-linked mannose", "decision": "retain"}
+{"original_term": "O-linked mannose core", "decision": "retain"}
+{"original_term": "O-linked mucins", "decision": "remove"}
+{"original_term": "O-linked oligosaccharide", "decision": "retain"}
+{"original_term": "O-linked sialoglycans", "decision": "retain"}
+{"original_term": "O-linked sugars", "decision": "remove"}
+{"original_term": "O-linked β-N-acetylglucosamine", "decision": "retain"}
+{"original_term": "O-mannose glycans", "decision": "retain"}
+{"original_term": "O-mannose initiated glycans", "decision": "retain"}
+{"original_term": "O-mannose moieties", "decision": "retain"}
+{"original_term": "O-mannose-based chains", "decision": "retain"}
+{"original_term": "O-mannose-based glycans", "decision": "retain"}
+{"original_term": "O-mannosyl glycans", "decision": "retain"}
+{"original_term": "O-polysaccharides", "decision": "retain"}
+{"original_term": "O-xylose-linked", "decision": "retain"}
+{"original_term": "O-xylose-linked GAG chains", "decision": "retain"}
+{"original_term": "O-β-GlcNAc", "decision": "retain"}
+{"original_term": "OGN", "decision": "remove"}
+{"original_term": "OGT/OGA", "decision": "remove"}
+{"original_term": "OGT/OGA substrates", "decision": "remove"}
+{"original_term": "OPGs", "decision": "remove"}
+{"original_term": "Oligogalacturonides", "decision": "retain"}
+{"original_term": "Oligomannose-type N-glycans", "decision": "retain"}
+{"original_term": "Oligomannosyl N-glycans", "decision": "retain"}
+{"original_term": "Oligomerization domains", "decision": "remove"}
+{"original_term": "P blood group antigens", "decision": "retain"}
+{"original_term": "P-blood group", "decision": "retain"}
+{"original_term": "P1 determinant", "decision": "retain"}
+{"original_term": "PA14 domains", "decision": "remove"}
+{"original_term": "PAMPs", "decision": "remove"}
+{"original_term": "PAPS", "decision": "remove"}
+{"original_term": "PC-modified glycosaminoglycans", "decision": "retain"}
+{"original_term": "PG repeats", "decision": "remove"}
+{"original_term": "PLM antigens", "decision": "retain"}
+{"original_term": "PNAG", "decision": "retain"}
+{"original_term": "PPGs", "decision": "remove"}
+{"original_term": "PSGL-1", "decision": "remove"}
+{"original_term": "Paucimannose glycans", "decision": "retain"}
+{"original_term": "Pectin", "decision": "retain"}
+{"original_term": "Pectins", "decision": "retain"}
+{"original_term": "Pentoses", "decision": "remove"}
+{"original_term": "Poly-LacNAc chains", "decision": "retain"}
+{"original_term": "PolySia", "decision": "retain"}
+{"original_term": "Protein O-Man residues", "decision": "retain"}
+{"original_term": "Pseudaminic acids", "decision": "retain"}
+{"original_term": "Pure glycans", "decision": "remove"}
+{"original_term": "RFMS", "decision": "remove"}
+{"original_term": "RG-I", "decision": "retain"}
+{"original_term": "RG-II", "decision": "retain"}
+{"original_term": "RRVs", "decision": "remove"}
+{"original_term": "Rhamnogalacturonan-I", "decision": "retain"}
+{"original_term": "Rhizobium exopolysaccharides", "decision": "retain"}
+{"original_term": "S-domains", "decision": "remove"}
+{"original_term": "S-layer", "decision": "remove"}
+{"original_term": "S-linked Glcp", "decision": "retain"}
+{"original_term": "S-tolylglucopyranose", "decision": "remove"}
+{"original_term": "S5GlcNHex", "decision": "retain"}
+{"original_term": "SAMPs", "decision": "remove"}
+{"original_term": "SLRPs", "decision": "remove"}
+{"original_term": "SLea", "decision": "retain"}
+{"original_term": "SLex", "decision": "retain"}
+{"original_term": "SLex structure", "decision": "retain"}
+{"original_term": "SLex-containing O-glycan", "decision": "retain"}
+{"original_term": "SLex-related glycans", "decision": "retain"}
+{"original_term": "SSEA-4", "decision": "retain"}
+{"original_term": "ST6Gal-I", "decision": "remove"}
+{"original_term": "Schiff bases", "decision": "remove"}
+{"original_term": "Schistosome glycans", "decision": "remove"}
+{"original_term": "Sda antigens", "decision": "retain"}
+{"original_term": "Sea urchin glycans", "decision": "remove"}
+{"original_term": "Ser/Thr-linked O-mannose glycans", "decision": "retain"}
+{"original_term": "Ser/Thr-linked glycans", "decision": "retain"}
+{"original_term": "Series A", "decision": "remove"}
+{"original_term": "Series F", "decision": "remove"}
+{"original_term": "Serrate", "decision": "remove"}
+{"original_term": "Serrate/Jagged", "decision": "remove"}
+{"original_term": "Short-chain glycosylceramides", "decision": "retain"}
+{"original_term": "Sia", "decision": "remove"}
+{"original_term": "Sia family", "decision": "remove"}
+{"original_term": "Sia ligands", "decision": "remove"}
+{"original_term": "Sia-containing glycans", "decision": "retain"}
+{"original_term": "Sia-containing ligands", "decision": "remove"}
+{"original_term": "Sia-glycosides", "decision": "retain"}
+{"original_term": "Sialic acid", "decision": "remove"}
+{"original_term": "Sialic acid residues", "decision": "remove"}
+{"original_term": "Sialic acids", "decision": "remove"}
+{"original_term": "Sialoglycans", "decision": "retain"}
+{"original_term": "Sialyl motifs", "decision": "retain"}
+{"original_term": "Sialyl-6-sulfo-Lewis x", "decision": "retain"}
+{"original_term": "Sialyl-Lewis x", "decision": "retain"}
+{"original_term": "Sialyl-Tn structure", "decision": "retain"}
+{"original_term": "Sialylated N-glycans", "decision": "retain"}
+{"original_term": "Sialylated glycans", "decision": "retain"}
+{"original_term": "Sias", "decision": "remove"}
+{"original_term": "Siaα2-3/6Galβ1-4GlcNAc", "decision": "retain"}
+{"original_term": "Siaα2-6Galβ1-4GlcNAc", "decision": "retain"}
+{"original_term": "Siglec family", "decision": "remove"}
+{"original_term": "Siglecs", "decision": "remove"}
+{"original_term": "Soluble low-molecular-weight compounds", "decision": "remove"}
+{"original_term": "Starch polymers", "decision": "retain"}
+{"original_term": "Structural glycoproteins", "decision": "remove"}
+{"original_term": "Substituted galacturonans", "decision": "retain"}
+{"original_term": "Sulfated GAGs", "decision": "retain"}
+{"original_term": "Sulfated glycosaminoglycans", "decision": "retain"}
+{"original_term": "Sulfated-GAG-binding proteins", "decision": "remove"}
+{"original_term": "Surface glycoconjugates", "decision": "remove"}
+{"original_term": "Syndecan-1 ectodomains", "decision": "remove"}
+{"original_term": "Syndecans", "decision": "remove"}
+{"original_term": "T-antigen", "decision": "retain"}
+{"original_term": "TPRs", "decision": "remove"}
+{"original_term": "TSRs", "decision": "remove"}
+{"original_term": "Terminal Sia residues", "decision": "retain"}
+{"original_term": "Terminal monosaccharides", "decision": "remove"}
+{"original_term": "Terminal sialic acids", "decision": "retain"}
+{"original_term": "Terminal sugars", "decision": "remove"}
+{"original_term": "Tetrasaccharide", "decision": "remove"}
+{"original_term": "The common classes of glycans", "decision": "remove"}
+{"original_term": "The glycan moieties", "decision": "remove"}
+{"original_term": "The glycan moieties of a glycoprotein", "decision": "remove"}
+{"original_term": "The steviol glycosides", "decision": "remove"}
+{"original_term": "The unusual polysialic acid chains", "decision": "retain"}
+{"original_term": "Truncated O-GalNAc glycans", "decision": "retain"}
+{"original_term": "Truncated O-glycans", "decision": "retain"}
+{"original_term": "Type 2", "decision": "remove"}
+{"original_term": "Type-1", "decision": "remove"}
+{"original_term": "Type-1 H determinants", "decision": "retain"}
+{"original_term": "Type-1 and -2 units", "decision": "retain"}
+{"original_term": "Type-1 units", "decision": "retain"}
+{"original_term": "Type-2", "decision": "remove"}
+{"original_term": "Type-2 structures", "decision": "retain"}
+{"original_term": "Type-2 units", "decision": "retain"}
+{"original_term": "Type-3", "decision": "remove"}
+{"original_term": "Type-4", "decision": "remove"}
+{"original_term": "Type-4 chains", "decision": "retain"}
+{"original_term": "Type-I H determinants", "decision": "retain"}
+{"original_term": "UDP-α-Gal", "decision": "remove"}
+{"original_term": "Undegraded oligosaccharides", "decision": "remove"}
+{"original_term": "Unique glycans", "decision": "remove"}
+{"original_term": "Uronic acids", "decision": "remove"}
+{"original_term": "WTAs", "decision": "retain"}
+{"original_term": "Wall teichoic acids", "decision": "retain"}
+{"original_term": "Xyloglucan oligosaccharides", "decision": "retain"}
+{"original_term": "Xylosides", "decision": "remove"}
+{"original_term": "Yeast N-glycans", "decision": "retain"}
+{"original_term": "a-series", "decision": "remove"}
+{"original_term": "a-series gangliosides", "decision": "retain"}
+{"original_term": "acceptor substrates", "decision": "remove"}
+{"original_term": "acetals", "decision": "remove"}
+{"original_term": "acidic disaccharide repeating units", "decision": "retain"}
+{"original_term": "acinetaminic acid", "decision": "remove"}
+{"original_term": "acyl chains", "decision": "remove"}
+{"original_term": "acyl esters", "decision": "remove"}
+{"original_term": "adamantyl groups", "decision": "remove"}
+{"original_term": "adhesins", "decision": "remove"}
+{"original_term": "aggrecan", "decision": "remove"}
+{"original_term": "aggrecan family", "decision": "remove"}
+{"original_term": "aggrecan superfamily", "decision": "remove"}
+{"original_term": "aglycones", "decision": "remove"}
+{"original_term": "aldehydes", "decision": "remove"}
+{"original_term": "alditol acetates", "decision": "remove"}
+{"original_term": "alditols", "decision": "remove"}
+{"original_term": "aldohexose", "decision": "remove"}
+{"original_term": "aldohexose group", "decision": "remove"}
+{"original_term": "aldoses", "decision": "remove"}
+{"original_term": "alkylacylphosphatidylinositol-anchored glycan", "decision": "retain"}
+{"original_term": "altered tumor glycans", "decision": "remove"}
+{"original_term": "alternating N–acetylmuramic acids", "decision": "retain"}
+{"original_term": "alternating sugars", "decision": "remove"}
+{"original_term": "amino groups", "decision": "remove"}
+{"original_term": "amyloid protein precursors", "decision": "remove"}
+{"original_term": "animal N- and O-glycans", "decision": "retain"}
+{"original_term": "animal cell glycans", "decision": "remove"}
+{"original_term": "animal glycans", "decision": "remove"}
+{"original_term": "animal glycosaminoglycans", "decision": "retain"}
+{"original_term": "animal systems", "decision": "remove"}
+{"original_term": "anionic sugars", "decision": "remove"}
+{"original_term": "antigenic glycan motifs", "decision": "remove"}
+{"original_term": "antigenic glycoconjugate structures", "decision": "remove"}
+{"original_term": "apiogalacturonans", "decision": "retain"}
+{"original_term": "arabino-oligosaccharides", "decision": "retain"}
+{"original_term": "arabinogalactan proteins", "decision": "remove"}
+{"original_term": "arabinoglucuronoxylans", "decision": "retain"}
+{"original_term": "arabinose", "decision": "remove"}
+{"original_term": "arabinosyl GTs", "decision": "remove"}
+{"original_term": "archaellins", "decision": "remove"}
+{"original_term": "arthro-series", "decision": "retain"}
+{"original_term": "arthro-series glycolipids", "decision": "retain"}
+{"original_term": "arthroseries", "decision": "retain"}
+{"original_term": "arthroseries glycans", "decision": "retain"}
+{"original_term": "arthroseries glycolipids", "decision": "retain"}
+{"original_term": "asparagine–N-linked glycans", "decision": "retain"}
+{"original_term": "attached glycans", "decision": "remove"}
+{"original_term": "atypical sequons", "decision": "remove"}
+{"original_term": "b-series", "decision": "retain"}
+{"original_term": "b-series gangliosides", "decision": "retain"}
+{"original_term": "bacillosamine", "decision": "remove"}
+{"original_term": "backbone structures", "decision": "remove"}
+{"original_term": "basement membrane proteoglycans", "decision": "remove"}
+{"original_term": "biantennary", "decision": "remove"}
+{"original_term": "biantennary GlcNAc2Man3GlcNAc2", "decision": "retain"}
+{"original_term": "biantennary N-glycan", "decision": "retain"}
+{"original_term": "biantennary N-glycans", "decision": "retain"}
+{"original_term": "biantennary complex", "decision": "remove"}
+{"original_term": "biological domains", "decision": "remove"}
+{"original_term": "bisected complex-type N-glycans", "decision": "retain"}
+{"original_term": "bisecting GlcNAc", "decision": "retain"}
+{"original_term": "bisecting GlcNAc residues", "decision": "retain"}
+{"original_term": "bisecting GlcNAcT-III", "decision": "remove"}
+{"original_term": "blood group B determinant", "decision": "retain"}
+{"original_term": "blood group B glycans", "decision": "retain"}
+{"original_term": "blood group antigens", "decision": "retain"}
+{"original_term": "blood group–related structures", "decision": "remove"}
+{"original_term": "brain ganglioside GM2", "decision": "retain"}
+{"original_term": "brain ganglioside glycans", "decision": "retain"}
+{"original_term": "brain gangliosides", "decision": "retain"}
+{"original_term": "brain glycolipids", "decision": "retain"}
+{"original_term": "branched", "decision": "remove"}
+{"original_term": "branched N-glycan", "decision": "retain"}
+{"original_term": "branched oligosaccharide", "decision": "retain"}
+{"original_term": "branched pentasaccharide", "decision": "retain"}
+{"original_term": "branched structures", "decision": "remove"}
+{"original_term": "branched α2-3Sia", "decision": "retain"}
+{"original_term": "branched-chain sugars", "decision": "remove"}
+{"original_term": "branching", "decision": "remove"}
+{"original_term": "c-series gangliosides", "decision": "retain"}
+{"original_term": "cadherin domains", "decision": "remove"}
+{"original_term": "callose", "decision": "retain"}
+{"original_term": "cancer-associated glycolipid glycans", "decision": "retain"}
+{"original_term": "cancer-associated ligands", "decision": "remove"}
+{"original_term": "capsular polysaccharides", "decision": "retain"}
+{"original_term": "carbohydrate moieties", "decision": "remove"}
+{"original_term": "carbohydrate structures", "decision": "remove"}
+{"original_term": "carboxylates", "decision": "remove"}
+{"original_term": "cartilage proteoglycan", "decision": "remove"}
+{"original_term": "cell-surface glycans", "decision": "retain"}
+{"original_term": "cell-surface glycoconjugates", "decision": "remove"}
+{"original_term": "cell-surface receptors", "decision": "remove"}
+{"original_term": "cell-surface sialic acids", "decision": "retain"}
+{"original_term": "cellobiose", "decision": "retain"}
+{"original_term": "cellobiose units", "decision": "retain"}
+{"original_term": "cellulose", "decision": "retain"}
+{"original_term": "cellulose microfibrils", "decision": "remove"}
+{"original_term": "cellulose-binding modules", "decision": "remove"}
+{"original_term": "cellulose-derived oligomers", "decision": "retain"}
+{"original_term": "ceramide moiety", "decision": "remove"}
+{"original_term": "ceramides", "decision": "remove"}
+{"original_term": "certain glycan structures", "decision": "remove"}
+{"original_term": "certain glycans", "decision": "remove"}
+{"original_term": "certain sialylated glycolipids", "decision": "retain"}
+{"original_term": "chains", "decision": "remove"}
+{"original_term": "challenging targets", "decision": "remove"}
+{"original_term": "chiral hydroxymethylene units", "decision": "remove"}
+{"original_term": "chiral nematic phases", "decision": "remove"}
+{"original_term": "chitin", "decision": "retain"}
+{"original_term": "chitin elicitors", "decision": "remove"}
+{"original_term": "chitin oligosaccharide", "decision": "retain"}
+{"original_term": "chitin oligosaccharides", "decision": "retain"}
+{"original_term": "chitin polysaccharides", "decision": "retain"}
+{"original_term": "chito-oligosaccharins", "decision": "retain"}
+{"original_term": "chitobiose", "decision": "retain"}
+{"original_term": "chondroitin", "decision": "retain"}
+{"original_term": "chondroitin and heparan sulfate proteoglycans", "decision": "remove"}
+{"original_term": "chondroitin chains", "decision": "retain"}
+{"original_term": "chondroitin sulfate", "decision": "retain"}
+{"original_term": "chondroitin sulfate A and C", "decision": "retain"}
+{"original_term": "chondroitin sulfate B", "decision": "retain"}
+{"original_term": "chondroitin sulfate chain", "decision": "retain"}
+{"original_term": "chondroitin sulfate proteoglycan", "decision": "remove"}
+{"original_term": "chondroitin sulfate proteoglycans", "decision": "remove"}
+{"original_term": "chondroitin sulfate/dermatan sulfate", "decision": "retain"}
+{"original_term": "chondroitin sulfates", "decision": "retain"}
+{"original_term": "chondroitin synthases", "decision": "remove"}
+{"original_term": "chondroitin/dermatan sulfates", "decision": "retain"}
+{"original_term": "cis-diols", "decision": "remove"}
+{"original_term": "cis-glycosidic linkages", "decision": "retain"}
+{"original_term": "cis-interacting sialylated glycans", "decision": "retain"}
+{"original_term": "cis-ligands", "decision": "remove"}
+{"original_term": "classes of glycans", "decision": "remove"}
+{"original_term": "classical", "decision": "remove"}
+{"original_term": "classical A and B blood group determinants", "decision": "retain"}
+{"original_term": "colitose", "decision": "remove"}
+{"original_term": "collagens", "decision": "remove"}
+{"original_term": "common host glycan structures", "decision": "retain"}
+{"original_term": "complementary glycans", "decision": "remove"}
+{"original_term": "complex", "decision": "remove"}
+{"original_term": "complex N-glycan", "decision": "retain"}
+{"original_term": "complex N-glycans", "decision": "retain"}
+{"original_term": "complex N-linked glycans", "decision": "retain"}
+{"original_term": "complex O-glycans", "decision": "retain"}
+{"original_term": "complex and hybrid N-glycans", "decision": "retain"}
+{"original_term": "complex carbohydrate structures", "decision": "retain"}
+{"original_term": "complex carbohydrates", "decision": "remove"}
+{"original_term": "complex exopolysaccharides", "decision": "retain"}
+{"original_term": "complex gangliosides", "decision": "retain"}
+{"original_term": "complex glycan structures", "decision": "retain"}
+{"original_term": "complex glycans", "decision": "retain"}
+{"original_term": "complex glycolipids", "decision": "retain"}
+{"original_term": "complex human-like glycans", "decision": "retain"}
+{"original_term": "complex oligosaccharides", "decision": "retain"}
+{"original_term": "complex or hybrid N-glycans", "decision": "retain"}
+{"original_term": "complex sialylated N-glycans", "decision": "retain"}
+{"original_term": "complex type", "decision": "remove"}
+{"original_term": "complex type N-glycans", "decision": "retain"}
+{"original_term": "complex-type", "decision": "remove"}
+{"original_term": "complex-type N-glycans", "decision": "retain"}
+{"original_term": "complex-type biantennary N-glycans", "decision": "retain"}
+{"original_term": "complex-type glycan", "decision": "retain"}
+{"original_term": "complex-type glycans", "decision": "retain"}
+{"original_term": "complex-type sialylated glycans", "decision": "retain"}
+{"original_term": "conjugated sialylated and fucosylated glycans", "decision": "retain"}
+{"original_term": "core 1", "decision": "retain"}
+{"original_term": "core 1 O-GalNAc glycans", "decision": "retain"}
+{"original_term": "core 1 O-glycan", "decision": "retain"}
+{"original_term": "core 1 O-glycan structure", "decision": "retain"}
+{"original_term": "core 1 O-glycans", "decision": "retain"}
+{"original_term": "core 1 and 2 O-GalNAc glycans", "decision": "retain"}
+{"original_term": "core 1 and 2 O-glycans", "decision": "retain"}
+{"original_term": "core 1 and core 2", "decision": "retain"}
+{"original_term": "core 1 and core 2 O-GalNAc glycans", "decision": "retain"}
+{"original_term": "core 1 and core 2 O-glycans", "decision": "retain"}
+{"original_term": "core 1 structures", "decision": "retain"}
+{"original_term": "core 2", "decision": "retain"}
+{"original_term": "core 2 O-GalNAc glycans", "decision": "retain"}
+{"original_term": "core 2 O-glycans", "decision": "retain"}
+{"original_term": "core 2 and 4 O-GalNAc glycans", "decision": "retain"}
+{"original_term": "core 2 glycans", "decision": "retain"}
+{"original_term": "core 3", "decision": "retain"}
+{"original_term": "core 3 O-GalNAc glycans", "decision": "retain"}
+{"original_term": "core 3 and 4 O-GalNAc glycans", "decision": "retain"}
+{"original_term": "core M1", "decision": "retain"}
+{"original_term": "core M2", "decision": "retain"}
+{"original_term": "core M2 glycans", "decision": "retain"}
+{"original_term": "core M3 glycan", "decision": "retain"}
+{"original_term": "core M3 glycans", "decision": "retain"}
+{"original_term": "core N-linked glycosylation", "decision": "retain"}
+{"original_term": "core fucose", "decision": "retain"}
+{"original_term": "core glycans", "decision": "retain"}
+{"original_term": "core oligosaccharide", "decision": "retain"}
+{"original_term": "core proteins", "decision": "remove"}
+{"original_term": "core structures", "decision": "retain"}
+{"original_term": "core trisaccharide", "decision": "retain"}
+{"original_term": "core-1 O-glycan", "decision": "retain"}
+{"original_term": "core-1 O-glycans", "decision": "retain"}
+{"original_term": "core-1 structure", "decision": "retain"}
+{"original_term": "core-2 O-glycans", "decision": "retain"}
+{"original_term": "core-2-based O-glycan", "decision": "retain"}
+{"original_term": "cores", "decision": "remove"}
+{"original_term": "cores 1–4", "decision": "retain"}
+{"original_term": "cores of all types of glycoprotein glycans", "decision": "retain"}
+{"original_term": "cyclic glucans", "decision": "retain"}
+{"original_term": "cycling monosaccharides", "decision": "remove"}
+{"original_term": "cyclohexene", "decision": "remove"}
+{"original_term": "cytokeratins", "decision": "remove"}
+{"original_term": "cytoplasmic glycoconjugates", "decision": "remove"}
+{"original_term": "decasaccharide", "decision": "retain"}
+{"original_term": "decasaccharides", "decision": "remove"}
+{"original_term": "defined structure", "decision": "remove"}
+{"original_term": "degraded glycans", "decision": "remove"}
+{"original_term": "deoxyhexoses", "decision": "remove"}
+{"original_term": "deoxysugars", "decision": "remove"}
+{"original_term": "dermatan", "decision": "remove"}
+{"original_term": "dermatan sulfate", "decision": "retain"}
+{"original_term": "dermatan sulfate proteoglycans", "decision": "remove"}
+{"original_term": "dermatan sulfates", "decision": "retain"}
+{"original_term": "determinant", "decision": "remove"}
+{"original_term": "deuterostomes", "decision": "remove"}
+{"original_term": "dextrans", "decision": "retain"}
+{"original_term": "di-N-acetylacinetaminic acid", "decision": "retain"}
+{"original_term": "diNAcBac", "decision": "retain"}
+{"original_term": "diacetamidodideoxyglucopyranose", "decision": "retain"}
+{"original_term": "diesters", "decision": "remove"}
+{"original_term": "difucosylated oligosaccharides", "decision": "retain"}
+{"original_term": "diphosphate esters", "decision": "remove"}
+{"original_term": "disaccharide fragments", "decision": "retain"}
+{"original_term": "disaccharide repeating units", "decision": "retain"}
+{"original_term": "disaccharides and trisaccharides", "decision": "remove"}
+{"original_term": "disialyl-Lewis a", "decision": "retain"}
+{"original_term": "dolichol oligosaccharides", "decision": "retain"}
+{"original_term": "dolichol sugars", "decision": "remove"}
+{"original_term": "dolichol-P-Man", "decision": "remove"}
+{"original_term": "dolichol-P-mannose", "decision": "remove"}
+{"original_term": "dolichol-linked oligosaccharides", "decision": "retain"}
+{"original_term": "dolichol-linked sugars", "decision": "remove"}
+{"original_term": "dolichyl-linked N-glycosylation precursors", "decision": "retain"}
+{"original_term": "domain folds", "decision": "remove"}
+{"original_term": "dp4-dp20", "decision": "remove"}
+{"original_term": "dystroglycan", "decision": "remove"}
+{"original_term": "endogenous cell-surface gangliosides", "decision": "retain"}
+{"original_term": "endogenous glycan structures", "decision": "remove"}
+{"original_term": "endogenous glycans", "decision": "remove"}
+{"original_term": "endogenous glycoconjugates", "decision": "remove"}
+{"original_term": "endoglycan", "decision": "remove"}
+{"original_term": "endomucin", "decision": "remove"}
+{"original_term": "enzymes that recognize specific glycan substrates", "decision": "remove"}
+{"original_term": "erythrocyte sialoglycans", "decision": "retain"}
+{"original_term": "ethanolamine phosphate residues", "decision": "remove"}
+{"original_term": "eukaryotic N-glycans", "decision": "retain"}
+{"original_term": "eukaryotic glycans", "decision": "remove"}
+{"original_term": "eukaryotic glycosaminoglycans", "decision": "retain"}
+{"original_term": "exogenous glycans", "decision": "remove"}
+{"original_term": "exopolysaccharide", "decision": "retain"}
+{"original_term": "exopolysaccharides", "decision": "retain"}
+{"original_term": "exposed GlcNAc residues", "decision": "retain"}
+{"original_term": "exposed galactose", "decision": "retain"}
+{"original_term": "extended Gal-containing glycans", "decision": "retain"}
+{"original_term": "extended chitobiose glycan", "decision": "retain"}
+{"original_term": "extended core-1 O-glycans", "decision": "retain"}
+{"original_term": "extending chito-motifs", "decision": "retain"}
+{"original_term": "extensins", "decision": "remove"}
+{"original_term": "extensively modified glycosaminoglycan chains", "decision": "retain"}
+{"original_term": "extracellular glycoconjugates", "decision": "remove"}
+{"original_term": "extracellular polysaccharides", "decision": "retain"}
+{"original_term": "fibronectin type II repeat", "decision": "remove"}
+{"original_term": "fibronectin type II repeats", "decision": "remove"}
+{"original_term": "fish egg glycoproteins", "decision": "remove"}
+{"original_term": "flavonoid glycosides", "decision": "remove"}
+{"original_term": "flexible oligosaccharide ligands", "decision": "remove"}
+{"original_term": "fourth and fifth sugars", "decision": "remove"}
+{"original_term": "free glycan", "decision": "remove"}
+{"original_term": "free glycan structures", "decision": "retain"}
+{"original_term": "free oligosaccharides", "decision": "retain"}
+{"original_term": "frog egg mucins", "decision": "remove"}
+{"original_term": "fructans", "decision": "retain"}
+{"original_term": "fucoidans", "decision": "retain"}
+{"original_term": "fucose", "decision": "remove"}
+{"original_term": "fucose moiety", "decision": "remove"}
+{"original_term": "fucose-carrying PAMPs", "decision": "remove"}
+{"original_term": "fucosyl residues", "decision": "remove"}
+{"original_term": "fucosylated", "decision": "remove"}
+{"original_term": "fucosylated Hex-HexNAc", "decision": "retain"}
+{"original_term": "fucosylated and xylosylated glycans", "decision": "retain"}
+{"original_term": "fucosylated compounds", "decision": "remove"}
+{"original_term": "fucosylated glycans", "decision": "retain"}
+{"original_term": "fucosylated glycoconjugates", "decision": "remove"}
+{"original_term": "fucosylated oligosaccharides", "decision": "retain"}
+{"original_term": "fullerenols", "decision": "remove"}
+{"original_term": "fumigatus galactomannan-Manα1–2Manα1–2Manα1–6Manα1–4GlcN-inositolphosphoceramide", "decision": "retain"}
+{"original_term": "furanoses", "decision": "remove"}
+{"original_term": "galabiose", "decision": "retain"}
+{"original_term": "galabiose-containing oligosaccharides", "decision": "retain"}
+{"original_term": "galactans", "decision": "retain"}
+{"original_term": "galactoceramides", "decision": "retain"}
+{"original_term": "galactofuranose (f)", "decision": "remove"}
+{"original_term": "galactolipids", "decision": "retain"}
+{"original_term": "galactomannans", "decision": "retain"}
+{"original_term": "galactose", "decision": "remove"}
+{"original_term": "galactose residues", "decision": "remove"}
+{"original_term": "galactose terminated branches", "decision": "retain"}
+{"original_term": "galactose units", "decision": "remove"}
+{"original_term": "galactose-containing glycans", "decision": "retain"}
+{"original_term": "galactose-containing glycolipids", "decision": "retain"}
+{"original_term": "galactose-containing ligands", "decision": "remove"}
+{"original_term": "galactosylated", "decision": "retain"}
+{"original_term": "galactosylated glycoproteins", "decision": "retain"}
+{"original_term": "galectins", "decision": "remove"}
+{"original_term": "ganglio-oligosaccharides", "decision": "retain"}
+{"original_term": "ganglio-series", "decision": "retain"}
+{"original_term": "ganglioside", "decision": "retain"}
+{"original_term": "ganglioside GM1", "decision": "retain"}
+{"original_term": "ganglioside series", "decision": "retain"}
+{"original_term": "ganglioside-like glycans", "decision": "retain"}
+{"original_term": "gangliosides", "decision": "retain"}
+{"original_term": "gangliosidoses", "decision": "remove"}
+{"original_term": "globo-series", "decision": "retain"}
+{"original_term": "glucan", "decision": "retain"}
+{"original_term": "glucan chains", "decision": "retain"}
+{"original_term": "glucans", "decision": "retain"}
+{"original_term": "glucoceramides", "decision": "retain"}
+{"original_term": "glucomannans", "decision": "retain"}
+{"original_term": "glucosamine", "decision": "remove"}
+{"original_term": "glucosamines", "decision": "remove"}
+{"original_term": "glucose polymers", "decision": "retain"}
+{"original_term": "glucose-containing glycans", "decision": "retain"}
+{"original_term": "glucosinolates", "decision": "remove"}
+{"original_term": "glucosylceramides", "decision": "retain"}
+{"original_term": "glucuronic acid", "decision": "remove"}
+{"original_term": "glucuronic acids", "decision": "remove"}
+{"original_term": "glucuronoarabinoxylans", "decision": "retain"}
+{"original_term": "glucuronoxylans", "decision": "retain"}
+{"original_term": "glucuronylated", "decision": "retain"}
+{"original_term": "glycan antigens", "decision": "remove"}
+{"original_term": "glycan arrays", "decision": "remove"}
+{"original_term": "glycan category", "decision": "remove"}
+{"original_term": "glycan chains", "decision": "remove"}
+{"original_term": "glycan determinants", "decision": "retain"}
+{"original_term": "glycan isomers", "decision": "retain"}
+{"original_term": "glycan ligand", "decision": "remove"}
+{"original_term": "glycan ligands", "decision": "remove"}
+{"original_term": "glycan portion", "decision": "remove"}
+{"original_term": "glycan side chains", "decision": "remove"}
+{"original_term": "glycan side-chains", "decision": "remove"}
+{"original_term": "glycan strands", "decision": "remove"}
+{"original_term": "glycan structural components", "decision": "retain"}
+{"original_term": "glycan structure(s)", "decision": "retain"}
+{"original_term": "glycan-binding proteins", "decision": "remove"}
+{"original_term": "glycan-containing structures", "decision": "remove"}
+{"original_term": "glycans carrying two M6P residues", "decision": "retain"}
+{"original_term": "glycans characteristic of microorganisms", "decision": "remove"}
+{"original_term": "glycans from bacteria or less well-characterized organisms", "decision": "remove"}
+{"original_term": "glycans with free-reducing termini", "decision": "retain"}
+{"original_term": "glycans with terminal Fuc", "decision": "retain"}
+{"original_term": "glycerolipids", "decision": "remove"}
+{"original_term": "glyco-epitopes", "decision": "remove"}
+{"original_term": "glycoRNAs", "decision": "remove"}
+{"original_term": "glycocalyx", "decision": "remove"}
+{"original_term": "glycoconjugate structures", "decision": "remove"}
+{"original_term": "glycodendrimers", "decision": "remove"}
+{"original_term": "glycoforms of glycoproteins and glycolipids", "decision": "remove"}
+{"original_term": "glycogen", "decision": "remove"}
+{"original_term": "glycogenes", "decision": "remove"}
+{"original_term": "glycoglycerolipids", "decision": "remove"}
+{"original_term": "glycolipid species", "decision": "remove"}
+{"original_term": "glycolipids and glycoproteins", "decision": "remove"}
+{"original_term": "glycome", "decision": "remove"}
+{"original_term": "glyconanomaterials", "decision": "remove"}
+{"original_term": "glycopeptides", "decision": "remove"}
+{"original_term": "glycophospholipid anchors", "decision": "remove"}
+{"original_term": "glycopolymers", "decision": "remove"}
+{"original_term": "glycoprotein O- and N-glycans", "decision": "retain"}
+{"original_term": "glycoprotein ligands", "decision": "remove"}
+{"original_term": "glycoproteins and glycolipids", "decision": "remove"}
+{"original_term": "glycoproteins of parasites", "decision": "remove"}
+{"original_term": "glycosaminoglycan chains", "decision": "retain"}
+{"original_term": "glycoside", "decision": "remove"}
+{"original_term": "glycosides", "decision": "remove"}
+{"original_term": "glycosidic linkages", "decision": "remove"}
+{"original_term": "glycosphingolipid", "decision": "remove"}
+{"original_term": "glycosphingolipid glycans", "decision": "retain"}
+{"original_term": "glycosphingolipids", "decision": "remove"}
+{"original_term": "glycosylated metabolites", "decision": "remove"}
+{"original_term": "glycosyldiacylglycerolipids", "decision": "retain"}
+{"original_term": "glycosylinositolphosphorylceramides", "decision": "retain"}
+{"original_term": "glycosylphosphatidylinositol", "decision": "retain"}
+{"original_term": "glycosylphosphatidylinositol (GPI) anchors", "decision": "retain"}
+{"original_term": "glycosylphosphatidylinositols", "decision": "retain"}
+{"original_term": "glypican family", "decision": "remove"}
+{"original_term": "glypicans", "decision": "remove"}
+{"original_term": "green algae", "decision": "remove"}
+{"original_term": "group B", "decision": "remove"}
+{"original_term": "group C", "decision": "remove"}
+{"original_term": "group I", "decision": "remove"}
+{"original_term": "gut mucosal glycans", "decision": "remove"}
+{"original_term": "heavy chains", "decision": "remove"}
+{"original_term": "hemicellulose", "decision": "retain"}
+{"original_term": "hemicelluloses", "decision": "retain"}
+{"original_term": "heparan", "decision": "remove"}
+{"original_term": "heparan sulfate", "decision": "retain"}
+{"original_term": "heparan sulfate (HS) proteoglycans", "decision": "remove"}
+{"original_term": "heparan sulfate chains", "decision": "retain"}
+{"original_term": "heparan sulfate proteoglycans", "decision": "remove"}
+{"original_term": "heparan sulfate/heparin", "decision": "retain"}
+{"original_term": "heparin", "decision": "retain"}
+{"original_term": "heparin chains", "decision": "retain"}
+{"original_term": "heparin hexasaccharide", "decision": "retain"}
+{"original_term": "heparin oligosaccharides", "decision": "retain"}
+{"original_term": "heptose", "decision": "remove"}
+{"original_term": "heptose residues", "decision": "remove"}
+{"original_term": "heterogeneous glycan structures", "decision": "remove"}
+{"original_term": "heteropolysaccharides", "decision": "retain"}
+{"original_term": "heteroxylans", "decision": "retain"}
+{"original_term": "hexasaccharides", "decision": "retain"}
+{"original_term": "hexopyranoses", "decision": "remove"}
+{"original_term": "hexose", "decision": "remove"}
+{"original_term": "hexoses", "decision": "remove"}
+{"original_term": "hexuloses", "decision": "remove"}
+{"original_term": "high mannose glycans", "decision": "retain"}
+{"original_term": "high mannose type", "decision": "retain"}
+{"original_term": "high mannose-type oligosaccharides", "decision": "retain"}
+{"original_term": "high-mannose N-glycan", "decision": "retain"}
+{"original_term": "high-mannose N-glycans", "decision": "retain"}
+{"original_term": "high-mannose and paucimannose N-glycans", "decision": "retain"}
+{"original_term": "high-mannose and paucimannose glycans", "decision": "retain"}
+{"original_term": "high-mannose glycans", "decision": "retain"}
+{"original_term": "high-mannose oligosaccharides", "decision": "retain"}
+{"original_term": "high-mannose or paucimannose glycans", "decision": "retain"}
+{"original_term": "high-mannose or paucimannose type", "decision": "retain"}
+{"original_term": "high-mannose-type N-glycans", "decision": "retain"}
+{"original_term": "high-mannose-type glycans", "decision": "retain"}
+{"original_term": "high-molecular-weight glycoproteins", "decision": "remove"}
+{"original_term": "highly branched complex-type N-glycans", "decision": "retain"}
+{"original_term": "highly branched structures", "decision": "remove"}
+{"original_term": "highly defined glycan structures", "decision": "remove"}
+{"original_term": "histidine-rich glycoproteins", "decision": "remove"}
+{"original_term": "homogalacturonan", "decision": "retain"}
+{"original_term": "homogalacturonan-containing glycans", "decision": "retain"}
+{"original_term": "homogalacturonans", "decision": "retain"}
+{"original_term": "homogeneous peptide N-glycans", "decision": "retain"}
+{"original_term": "homopolysaccharides and heteropolysaccharides", "decision": "retain"}
+{"original_term": "host and dietary glycans", "decision": "remove"}
+{"original_term": "host cell-surface glycoconjugates", "decision": "remove"}
+{"original_term": "host glycans", "decision": "remove"}
+{"original_term": "host-derived mucosal glycans", "decision": "remove"}
+{"original_term": "human gangliosides", "decision": "retain"}
+{"original_term": "human glycan epitopes", "decision": "retain"}
+{"original_term": "human glycans", "decision": "remove"}
+{"original_term": "human milk oligosaccharides", "decision": "retain"}
+{"original_term": "human sialylated biantennary N-glycans", "decision": "retain"}
+{"original_term": "human-like N-glycans", "decision": "retain"}
+{"original_term": "human-type terminal glycans", "decision": "retain"}
+{"original_term": "hyaladherins", "decision": "remove"}
+{"original_term": "hyalectins", "decision": "remove"}
+{"original_term": "hyaluronan", "decision": "retain"}
+{"original_term": "hyaluronan oligosaccharides", "decision": "retain"}
+{"original_term": "hyaluronic acid–binding proteins", "decision": "remove"}
+{"original_term": "hybrid", "decision": "remove"}
+{"original_term": "hybrid and complex N-glycans", "decision": "retain"}
+{"original_term": "hybrid and complex glycans", "decision": "retain"}
+{"original_term": "hybrid and complex-type N-glycan", "decision": "retain"}
+{"original_term": "hybrid or complex glycans", "decision": "retain"}
+{"original_term": "hybrid type", "decision": "remove"}
+{"original_term": "hybrid-type N-glycans", "decision": "retain"}
+{"original_term": "hybrid-type chains", "decision": "retain"}
+{"original_term": "hybrid-type structures", "decision": "retain"}
+{"original_term": "hydroxylysines", "decision": "remove"}
+{"original_term": "hydroxyproline-rich proteoglycans", "decision": "remove"}
+{"original_term": "immunoglobulin superfamily", "decision": "remove"}
+{"original_term": "incomplete O-glycans", "decision": "retain"}
+{"original_term": "incomplete glycans", "decision": "retain"}
+{"original_term": "incomplete or truncated glycans", "decision": "retain"}
+{"original_term": "incomplete protein-bound glycans", "decision": "retain"}
+{"original_term": "increased tetra-antennary branching", "decision": "retain"}
+{"original_term": "individual monosaccharides", "decision": "remove"}
+{"original_term": "inner core", "decision": "remove"}
+{"original_term": "inositol-acylated GPI proteins", "decision": "remove"}
+{"original_term": "inositolphosphoceramide-anchored glycan", "decision": "retain"}
+{"original_term": "inositolphosphoceramide-based protein-linked GPIs", "decision": "retain"}
+{"original_term": "intact glycopeptides", "decision": "remove"}
+{"original_term": "interglycosidic bonds", "decision": "remove"}
+{"original_term": "interglycosidic linkages", "decision": "remove"}
+{"original_term": "intermediate LLO structures", "decision": "retain"}
+{"original_term": "internal", "decision": "remove"}
+{"original_term": "internal 6-O-sulfated glucosamine residues", "decision": "retain"}
+{"original_term": "internal carbohydrate motifs", "decision": "retain"}
+{"original_term": "internal sequences", "decision": "remove"}
+{"original_term": "introduced glycans", "decision": "retain"}
+{"original_term": "invertebrate glycoproteins", "decision": "remove"}
+{"original_term": "isolated disaccharides", "decision": "remove"}
+{"original_term": "isolated glycoprotein", "decision": "remove"}
+{"original_term": "isoprenoid-linked monosaccharides", "decision": "retain"}
+{"original_term": "keratan sulfate", "decision": "retain"}
+{"original_term": "keratan sulfate chains", "decision": "retain"}
+{"original_term": "keratan sulfates", "decision": "retain"}
+{"original_term": "keratan sulfate–related antigens", "decision": "retain"}
+{"original_term": "ketoses", "decision": "remove"}
+{"original_term": "labeled glycans", "decision": "remove"}
+{"original_term": "lacto-series", "decision": "retain"}
+{"original_term": "large and complex glycans and glycoconjugates", "decision": "remove"}
+{"original_term": "large polymannosyl glycans", "decision": "retain"}
+{"original_term": "lecticans", "decision": "remove"}
+{"original_term": "legionaminic acid", "decision": "remove"}
+{"original_term": "legionaminic acids", "decision": "remove"}
+{"original_term": "ligands", "decision": "remove"}
+{"original_term": "linear and branched glycan chains", "decision": "retain"}
+{"original_term": "linear and branched oligosaccharides", "decision": "retain"}
+{"original_term": "linear and branched structures", "decision": "remove"}
+{"original_term": "linear and/or branched structure", "decision": "remove"}
+{"original_term": "linear fucose", "decision": "remove"}
+{"original_term": "linear homo-oligomers", "decision": "remove"}
+{"original_term": "linear or branched oligosaccharide chains", "decision": "remove"}
+{"original_term": "linkages", "decision": "remove"}
+{"original_term": "lipid A", "decision": "remove"}
+{"original_term": "lipid A-core", "decision": "retain"}
+{"original_term": "lipid-linked glycan", "decision": "retain"}
+{"original_term": "lipid-linked oligosaccharide", "decision": "retain"}
+{"original_term": "lipid-linked oligosaccharide precursor", "decision": "retain"}
+{"original_term": "lipid-linked oligosaccharides", "decision": "retain"}
+{"original_term": "lipid-linked sugar donors", "decision": "remove"}
+{"original_term": "lipid-linked tetrasaccharide", "decision": "retain"}
+{"original_term": "lipid-phosphate-linked sugars", "decision": "retain"}
+{"original_term": "lipo-oligosaccharides", "decision": "retain"}
+{"original_term": "lipochitooligosaccharides", "decision": "retain"}
+{"original_term": "lipoglycans", "decision": "retain"}
+{"original_term": "lipooligosaccharides", "decision": "retain"}
+{"original_term": "lipopeptidophosphoglycan", "decision": "retain"}
+{"original_term": "lipopolysaccharide O-antigens", "decision": "retain"}
+{"original_term": "lipopolysaccharides", "decision": "retain"}
+{"original_term": "lipoteichoic acid", "decision": "remove"}
+{"original_term": "lipoteichoic acids", "decision": "remove"}
+{"original_term": "long glycan chains", "decision": "remove"}
+{"original_term": "long-chain extracellular polysaccharides", "decision": "retain"}
+{"original_term": "long-chain glycosphingolipids", "decision": "retain"}
+{"original_term": "longer oligosaccharide", "decision": "remove"}
+{"original_term": "loops", "decision": "remove"}
+{"original_term": "lysosomal hydrolases", "decision": "remove"}
+{"original_term": "lysozyme-type enzymes", "decision": "remove"}
+{"original_term": "lysozyme-type fold", "decision": "remove"}
+{"original_term": "major classes of eukaryotic glycans", "decision": "retain"}
+{"original_term": "major glycan classes", "decision": "retain"}
+{"original_term": "major glycan families", "decision": "retain"}
+{"original_term": "maltose", "decision": "remove"}
+{"original_term": "mammalian N- and O-glycan structures", "decision": "retain"}
+{"original_term": "mammalian N-glycans", "decision": "retain"}
+{"original_term": "mammalian glycan antigens", "decision": "retain"}
+{"original_term": "mammalian glycans", "decision": "retain"}
+{"original_term": "mammalian glycoproteins", "decision": "remove"}
+{"original_term": "mammalian glycosaminoglycan chains", "decision": "retain"}
+{"original_term": "mammalian-type lipid-linked oligosaccharides", "decision": "retain"}
+{"original_term": "mannan", "decision": "retain"}
+{"original_term": "mannan chains", "decision": "retain"}
+{"original_term": "mannans", "decision": "retain"}
+{"original_term": "mannogen", "decision": "remove"}
+{"original_term": "mannose", "decision": "remove"}
+{"original_term": "mannose chains", "decision": "retain"}
+{"original_term": "mannose functional groups", "decision": "remove"}
+{"original_term": "mannose glycans", "decision": "retain"}
+{"original_term": "mannose residues", "decision": "remove"}
+{"original_term": "mannose ring", "decision": "remove"}
+{"original_term": "mannose-carrying PAMPs", "decision": "remove"}
+{"original_term": "mannose-containing glycans", "decision": "retain"}
+{"original_term": "mannose-rich glycans", "decision": "retain"}
+{"original_term": "mannose-terminated N-glycans", "decision": "retain"}
+{"original_term": "mannosides", "decision": "retain"}
+{"original_term": "mannosylated lipoarabinomannan", "decision": "retain"}
+{"original_term": "maternal glycans", "decision": "remove"}
+{"original_term": "matriglycan", "decision": "retain"}
+{"original_term": "matrix proteoglycans", "decision": "remove"}
+{"original_term": "mature N- and O-glycans", "decision": "retain"}
+{"original_term": "mature sialoglycoconjugates", "decision": "remove"}
+{"original_term": "medium size glycans", "decision": "remove"}
+{"original_term": "membrane fragments", "decision": "remove"}
+{"original_term": "membrane glycolipids", "decision": "retain"}
+{"original_term": "membrane-bound mucins", "decision": "remove"}
+{"original_term": "membrane-derived oligosaccharides", "decision": "remove"}
+{"original_term": "methanochondroitin", "decision": "retain"}
+{"original_term": "microbial glycans", "decision": "remove"}
+{"original_term": "microbial surface glycans", "decision": "remove"}
+{"original_term": "microfibrils", "decision": "remove"}
+{"original_term": "milk oligosaccharides", "decision": "retain"}
+{"original_term": "minor glycans", "decision": "remove"}
+{"original_term": "misfolded glycoproteins", "decision": "remove"}
+{"original_term": "modifications of glycans", "decision": "remove"}
+{"original_term": "modified and phosphorylated glycans", "decision": "retain"}
+{"original_term": "modified sialic acids", "decision": "retain"}
+{"original_term": "modified sugars", "decision": "remove"}
+{"original_term": "mono-, di-, and trisulfated disaccharides", "decision": "retain"}
+{"original_term": "monoantennary", "decision": "retain"}
+{"original_term": "monoglucosylated", "decision": "retain"}
+{"original_term": "monoglucosylated high-mannose glycans", "decision": "retain"}
+{"original_term": "monosaccharide building blocks", "decision": "remove"}
+{"original_term": "monosaccharide precursors", "decision": "remove"}
+{"original_term": "monosaccharide type", "decision": "remove"}
+{"original_term": "monosaccharide-labeled glycoproteins", "decision": "remove"}
+{"original_term": "monosaccharides and disaccharides", "decision": "remove"}
+{"original_term": "monosaccharides and oligosaccharides", "decision": "remove"}
+{"original_term": "monosialylated ganglioside", "decision": "retain"}
+{"original_term": "more complex glycans", "decision": "remove"}
+{"original_term": "most glycan structures", "decision": "remove"}
+{"original_term": "most major glycan classes", "decision": "remove"}
+{"original_term": "most natural or designed glycans", "decision": "remove"}
+{"original_term": "mucin", "decision": "remove"}
+{"original_term": "mucin domains", "decision": "remove"}
+{"original_term": "mucin glycans", "decision": "retain"}
+{"original_term": "mucin glycoproteins", "decision": "remove"}
+{"original_term": "mucin repeats", "decision": "remove"}
+{"original_term": "mucin sialoglycans", "decision": "retain"}
+{"original_term": "mucin structures", "decision": "remove"}
+{"original_term": "mucin type O-glycosylation", "decision": "retain"}
+{"original_term": "mucin type glycans", "decision": "retain"}
+{"original_term": "mucin-containing glycoproteins", "decision": "remove"}
+{"original_term": "mucin-like", "decision": "remove"}
+{"original_term": "mucin-like O-glycosylated membrane proteins", "decision": "remove"}
+{"original_term": "mucin-type", "decision": "remove"}
+{"original_term": "mucin-type O-glycans", "decision": "retain"}
+{"original_term": "mucin-type O-glycoproteins", "decision": "remove"}
+{"original_term": "mucin-type domains", "decision": "remove"}
+{"original_term": "mucins", "decision": "remove"}
+{"original_term": "multiantennary N-glycans", "decision": "retain"}
+{"original_term": "multiantennary complex-type N-glycans", "decision": "retain"}
+{"original_term": "multiple glycans", "decision": "remove"}
+{"original_term": "multiple glycoforms", "decision": "remove"}
+{"original_term": "multiple plasma glycoproteins", "decision": "remove"}
+{"original_term": "murein", "decision": "retain"}
+{"original_term": "mycolyl-AG-peptidoglycan complex", "decision": "retain"}
+{"original_term": "myelin-associated glycoprotein", "decision": "remove"}
+{"original_term": "myeloglycans", "decision": "retain"}
+{"original_term": "native glycan ligands", "decision": "remove"}
+{"original_term": "natural glycans", "decision": "remove"}
+{"original_term": "neoglycans", "decision": "remove"}
+{"original_term": "neoglycoconjugates", "decision": "remove"}
+{"original_term": "neoglycoprotein", "decision": "remove"}
+{"original_term": "neoglycoproteins", "decision": "remove"}
+{"original_term": "neolacto-series", "decision": "retain"}
+{"original_term": "neural ganglioside structures", "decision": "retain"}
+{"original_term": "neuraminidase inhibitors", "decision": "remove"}
+{"original_term": "neutral and ionic polysaccharides", "decision": "retain"}
+{"original_term": "neutral core oligosaccharide", "decision": "retain"}
+{"original_term": "neutral cores", "decision": "retain"}
+{"original_term": "neutral glycans", "decision": "remove"}
+{"original_term": "neutral monosaccharides", "decision": "remove"}
+{"original_term": "neutral sugars", "decision": "remove"}
+{"original_term": "nonhuman glycans", "decision": "remove"}
+{"original_term": "nonsulfated glycosaminoglycan", "decision": "retain"}
+{"original_term": "nonulosonic acids", "decision": "remove"}
+{"original_term": "novel glycans", "decision": "remove"}
+{"original_term": "nuclear O-glycans", "decision": "retain"}
+{"original_term": "nuclear and cytoplasmic glycoproteins", "decision": "remove"}
+{"original_term": "nucleocytoplasmic glycans", "decision": "retain"}
+{"original_term": "nucleotide sugar donors", "decision": "remove"}
+{"original_term": "nucleotide sugars", "decision": "remove"}
+{"original_term": "nucleotide-activated oligosaccharides", "decision": "remove"}
+{"original_term": "nucleotide-activated sugars", "decision": "remove"}
+{"original_term": "oligogalacturonides", "decision": "retain"}
+{"original_term": "oligoglucosides", "decision": "retain"}
+{"original_term": "oligomannose", "decision": "retain"}
+{"original_term": "oligomannose (or high-mannose) type", "decision": "retain"}
+{"original_term": "oligomannose N-glycans", "decision": "retain"}
+{"original_term": "oligomannose-type", "decision": "retain"}
+{"original_term": "oligomannose-type N-glycans", "decision": "retain"}
+{"original_term": "oligomannose-type glycans", "decision": "retain"}
+{"original_term": "oligomannosides", "decision": "retain"}
+{"original_term": "oligomannosidic glycans", "decision": "retain"}
+{"original_term": "oligomannosyl N-glycans", "decision": "retain"}
+{"original_term": "oligomannosyl structures", "decision": "retain"}
+{"original_term": "oligosaccharide sequences", "decision": "remove"}
+{"original_term": "oligosaccharide side chains", "decision": "remove"}
+{"original_term": "oligosaccharides and polysaccharides", "decision": "remove"}
+{"original_term": "oligosaccharins", "decision": "remove"}
+{"original_term": "open ring", "decision": "remove"}
+{"original_term": "oral mucins", "decision": "remove"}
+{"original_term": "osmoregulated periplasmic glucans", "decision": "retain"}
+{"original_term": "outer core", "decision": "retain"}
+{"original_term": "outer core oligosaccharide structure", "decision": "retain"}
+{"original_term": "outer-chain glycosylation", "decision": "retain"}
+{"original_term": "outer-core glycans", "decision": "retain"}
+{"original_term": "paracrystalline microfibrils", "decision": "remove"}
+{"original_term": "parallel strands", "decision": "remove"}
+{"original_term": "parasite GBPs", "decision": "remove"}
+{"original_term": "parasite glycans", "decision": "retain"}
+{"original_term": "partially methylated monosaccharides", "decision": "remove"}
+{"original_term": "pathogen-derived glycans", "decision": "retain"}
+{"original_term": "paucimannose", "decision": "retain"}
+{"original_term": "paucimannose N-glycans", "decision": "retain"}
+{"original_term": "paucimannose glycans", "decision": "retain"}
+{"original_term": "paucimannose oligosaccharides", "decision": "retain"}
+{"original_term": "paucimannose type glycans", "decision": "retain"}
+{"original_term": "paucimannose-type", "decision": "retain"}
+{"original_term": "paucimannose-type glycans", "decision": "retain"}
+{"original_term": "paucimannosidic", "decision": "retain"}
+{"original_term": "paucimannosidic N-linked glycans", "decision": "retain"}
+{"original_term": "paucimannosidic glycans", "decision": "retain"}
+{"original_term": "paucimannosidic structures", "decision": "retain"}
+{"original_term": "pectic", "decision": "remove"}
+{"original_term": "pectin", "decision": "remove"}
+{"original_term": "pectin-derived oligogalacturonides", "decision": "retain"}
+{"original_term": "pectins", "decision": "remove"}
+{"original_term": "pentasaccharide", "decision": "retain"}
+{"original_term": "pentoses", "decision": "remove"}
+{"original_term": "penultimate β-linked Gal residues", "decision": "retain"}
+{"original_term": "peptide portions", "decision": "remove"}
+{"original_term": "peptidoglycam", "decision": "remove"}
+{"original_term": "peracetylated 2,3,4-tri-O-methyl-hexoses", "decision": "retain"}
+{"original_term": "periodic α1–6Glc branches", "decision": "retain"}
+{"original_term": "perlecan", "decision": "remove"}
+{"original_term": "phenolic glycosides", "decision": "remove"}
+{"original_term": "phosphacan", "decision": "remove"}
+{"original_term": "phosphate esters", "decision": "remove"}
+{"original_term": "phosphates", "decision": "remove"}
+{"original_term": "phosphatidylinositol mannosides", "decision": "retain"}
+{"original_term": "phosphomannans", "decision": "retain"}
+{"original_term": "phosphopeptidomannans", "decision": "retain"}
+{"original_term": "phosphorylated glycans", "decision": "retain"}
+{"original_term": "phosphorylcholine-modified GAG-like structures", "decision": "retain"}
+{"original_term": "phosphorylcholine-modified structures", "decision": "retain"}
+{"original_term": "placental chondroitin sulfate A", "decision": "retain"}
+{"original_term": "poly(Manα1-6)n backbone", "decision": "retain"}
+{"original_term": "poly-LacNAc", "decision": "retain"}
+{"original_term": "poly-LacNAc chains", "decision": "retain"}
+{"original_term": "poly-N-acetyllactosamine sequences", "decision": "retain"}
+{"original_term": "poly-N-acetyllactosamines", "decision": "retain"}
+{"original_term": "poly-lacto-N-biose structures", "decision": "retain"}
+{"original_term": "polySia", "decision": "retain"}
+{"original_term": "polySia chains", "decision": "retain"}
+{"original_term": "polySias", "decision": "retain"}
+{"original_term": "polyanionic", "decision": "remove"}
+{"original_term": "polyfucose branches", "decision": "retain"}
+{"original_term": "polyglucosan bodies", "decision": "remove"}
+{"original_term": "polyglycerol chains", "decision": "remove"}
+{"original_term": "polyglycosylceramides", "decision": "retain"}
+{"original_term": "polymannosylated glycans", "decision": "retain"}
+{"original_term": "polymers", "decision": "remove"}
+{"original_term": "polyprenol", "decision": "remove"}
+{"original_term": "polyribitol", "decision": "remove"}
+{"original_term": "polyribitol or polyglycerol chains", "decision": "remove"}
+{"original_term": "polysaccharide A", "decision": "retain"}
+{"original_term": "polysaccharide backbone", "decision": "retain"}
+{"original_term": "polysaccharide repeating units", "decision": "retain"}
+{"original_term": "polysaccharide strands", "decision": "retain"}
+{"original_term": "polysaccharides and oligosaccharides", "decision": "remove"}
+{"original_term": "polysialic acid", "decision": "retain"}
+{"original_term": "polysialic acids", "decision": "retain"}
+{"original_term": "ppGalNAcTs", "decision": "remove"}
+{"original_term": "ppGlcNAcTs", "decision": "remove"}
+{"original_term": "preassembled undecaprenol-PP-linked oligosaccharides", "decision": "retain"}
+{"original_term": "predicted structures", "decision": "remove"}
+{"original_term": "primary and secondary cell wall heteroxylans", "decision": "retain"}
+{"original_term": "primary glycans", "decision": "remove"}
+{"original_term": "prokaryotic nonulosonic acids", "decision": "retain"}
+{"original_term": "proline/hydroxyproline-rich proteoglycans", "decision": "remove"}
+{"original_term": "protein-linked GPIs", "decision": "retain"}
+{"original_term": "protein-linked glycans", "decision": "retain"}
+{"original_term": "proteoglycan core proteins", "decision": "remove"}
+{"original_term": "pseudomurein", "decision": "retain"}
+{"original_term": "pseudopeptidoglycan", "decision": "retain"}
+{"original_term": "pure glycans", "decision": "remove"}
+{"original_term": "putative repeating unit", "decision": "remove"}
+{"original_term": "pyranose (p) ring", "decision": "remove"}
+{"original_term": "pyranose ring", "decision": "remove"}
+{"original_term": "pyranoses", "decision": "remove"}
+{"original_term": "pyruvylated", "decision": "retain"}
+{"original_term": "raffinose oligosaccharides", "decision": "retain"}
+{"original_term": "rare monosaccharides", "decision": "remove"}
+{"original_term": "rare sugars", "decision": "remove"}
+{"original_term": "recombinant glycoproteins", "decision": "remove"}
+{"original_term": "reducing end sugar", "decision": "retain"}
+{"original_term": "reducing sugars", "decision": "remove"}
+{"original_term": "reducing terminal sugar", "decision": "remove"}
+{"original_term": "related but distinct glycans", "decision": "remove"}
+{"original_term": "related moieties", "decision": "remove"}
+{"original_term": "related nonulosonic sugars", "decision": "remove"}
+{"original_term": "relatively small glycans", "decision": "remove"}
+{"original_term": "released glycans", "decision": "remove"}
+{"original_term": "repeating disaccharides", "decision": "remove"}
+{"original_term": "repeating sulfate-substituted GalNAcβ4GlcAβ3 disaccharides", "decision": "retain"}
+{"original_term": "repetitive polysaccharides", "decision": "remove"}
+{"original_term": "rhamnogalacturonan", "decision": "retain"}
+{"original_term": "rhamnogalacturonan domain", "decision": "retain"}
+{"original_term": "rhamnogalacturonans", "decision": "retain"}
+{"original_term": "rhamnomannans", "decision": "retain"}
+{"original_term": "sLex", "decision": "retain"}
+{"original_term": "sLex tetrasaccharide", "decision": "retain"}
+{"original_term": "saccharides", "decision": "remove"}
+{"original_term": "secondary wall xylans", "decision": "retain"}
+{"original_term": "secreted glycan chains", "decision": "remove"}
+{"original_term": "secreted mucins", "decision": "remove"}
+{"original_term": "secreted polysaccharides", "decision": "remove"}
+{"original_term": "secretory pathway glycans", "decision": "remove"}
+{"original_term": "secretory pathway–type O-glycans", "decision": "retain"}
+{"original_term": "secretory pathway–type glycans", "decision": "remove"}
+{"original_term": "secretory proteins", "decision": "remove"}
+{"original_term": "selected hemicelluloses", "decision": "remove"}
+{"original_term": "selectins", "decision": "remove"}
+{"original_term": "self-glycans", "decision": "remove"}
+{"original_term": "sequences", "decision": "remove"}
+{"original_term": "serglycin", "decision": "remove"}
+{"original_term": "short glycolipids", "decision": "retain"}
+{"original_term": "short hyaluronan chains", "decision": "retain"}
+{"original_term": "sialic acid", "decision": "remove"}
+{"original_term": "sialic acid residues", "decision": "remove"}
+{"original_term": "sialic acid termini", "decision": "retain"}
+{"original_term": "sialic acid types", "decision": "remove"}
+{"original_term": "sialic acid-containing glycans", "decision": "retain"}
+{"original_term": "sialic acids", "decision": "remove"}
+{"original_term": "sialic acid–dependent carbohydrate-binding proteins", "decision": "remove"}
+{"original_term": "sialoadhesins", "decision": "remove"}
+{"original_term": "sialofucosylated glycolipids", "decision": "retain"}
+{"original_term": "sialoglycan polymers", "decision": "retain"}
+{"original_term": "sialoglycans", "decision": "retain"}
+{"original_term": "sialoglycolipids", "decision": "retain"}
+{"original_term": "sialyl Lewis x", "decision": "retain"}
+{"original_term": "sialyl Lewis x structure", "decision": "retain"}
+{"original_term": "sialyl Lewis x–capped glycan", "decision": "retain"}
+{"original_term": "sialyl motifs", "decision": "retain"}
+{"original_term": "sialyl-6-sulfo-Lex structures", "decision": "retain"}
+{"original_term": "sialyl-Lewis x", "decision": "retain"}
+{"original_term": "sialyl-Lewis x tetrasaccharide derivatives", "decision": "retain"}
+{"original_term": "sialyl-Lewis-related structures", "decision": "retain"}
+{"original_term": "sialyl-Tn", "decision": "retain"}
+{"original_term": "sialyl-Tn structure", "decision": "retain"}
+{"original_term": "sialylated", "decision": "remove"}
+{"original_term": "sialylated LOS", "decision": "retain"}
+{"original_term": "sialylated LOS structures", "decision": "retain"}
+{"original_term": "sialylated N-acetyllactosamines", "decision": "retain"}
+{"original_term": "sialylated O-GalNAc glycans", "decision": "retain"}
+{"original_term": "sialylated O-glycans", "decision": "retain"}
+{"original_term": "sialylated and/or sulfated determinants", "decision": "retain"}
+{"original_term": "sialylated compounds", "decision": "remove"}
+{"original_term": "sialylated fucosylated Hex-HexNAc", "decision": "retain"}
+{"original_term": "sialylated fucosylated lactosamines", "decision": "retain"}
+{"original_term": "sialylated glycans", "decision": "remove"}
+{"original_term": "sialylated glycoconjugates", "decision": "remove"}
+{"original_term": "sialylated glycolipids", "decision": "retain"}
+{"original_term": "sialylated glycosphingolipids", "decision": "retain"}
+{"original_term": "sialylated ligands", "decision": "remove"}
+{"original_term": "sialylated milk oligosaccharides", "decision": "retain"}
+{"original_term": "sialylated, fucosylated glycans", "decision": "remove"}
+{"original_term": "similar glycosaminoglycans", "decision": "remove"}
+{"original_term": "simple glycans", "decision": "remove"}
+{"original_term": "simple mono- or disaccharides", "decision": "remove"}
+{"original_term": "simple monosaccharides", "decision": "remove"}
+{"original_term": "simplified core structures", "decision": "retain"}
+{"original_term": "single glycoforms of EPO", "decision": "remove"}
+{"original_term": "six-carbon aldoses", "decision": "remove"}
+{"original_term": "six-carbon ketoses", "decision": "remove"}
+{"original_term": "skeletal type", "decision": "remove"}
+{"original_term": "small glycans", "decision": "remove"}
+{"original_term": "small leucine-rich proteoglycans", "decision": "remove"}
+{"original_term": "small oligosaccharides", "decision": "remove"}
+{"original_term": "small soluble glycans", "decision": "remove"}
+{"original_term": "smaller glyco-clusters", "decision": "remove"}
+{"original_term": "soybean glycoproteins", "decision": "remove"}
+{"original_term": "specialized glycans", "decision": "remove"}
+{"original_term": "species-specific milk oligosaccharides", "decision": "retain"}
+{"original_term": "specific carbohydrate structures", "decision": "remove"}
+{"original_term": "specific classes of glycans", "decision": "remove"}
+{"original_term": "specific glycans", "decision": "remove"}
+{"original_term": "specific glycoforms of a glycoprotein", "decision": "remove"}
+{"original_term": "specific sugar structures", "decision": "remove"}
+{"original_term": "sphingoid bases", "decision": "remove"}
+{"original_term": "sphingolipids", "decision": "remove"}
+{"original_term": "sphingomyelin", "decision": "remove"}
+{"original_term": "starch", "decision": "retain"}
+{"original_term": "structural polysaccharides", "decision": "retain"}
+{"original_term": "structurally related polysaccharides", "decision": "retain"}
+{"original_term": "structures", "decision": "remove"}
+{"original_term": "substituted galacturonan", "decision": "retain"}
+{"original_term": "sugar chains", "decision": "remove"}
+{"original_term": "sugar hemiacetals", "decision": "remove"}
+{"original_term": "sugars", "decision": "remove"}
+{"original_term": "sulfate esters", "decision": "remove"}
+{"original_term": "sulfated", "decision": "remove"}
+{"original_term": "sulfated GAG", "decision": "retain"}
+{"original_term": "sulfated GAG-binding proteins", "decision": "remove"}
+{"original_term": "sulfated GAGs", "decision": "retain"}
+{"original_term": "sulfated N-glycans", "decision": "retain"}
+{"original_term": "sulfated galactans", "decision": "retain"}
+{"original_term": "sulfated glucuronosyl glycans", "decision": "retain"}
+{"original_term": "sulfated glycans", "decision": "retain"}
+{"original_term": "sulfated glycosaminoglycan", "decision": "retain"}
+{"original_term": "sulfated glycosaminoglycan chains", "decision": "retain"}
+{"original_term": "sulfated glycosaminoglycans", "decision": "retain"}
+{"original_term": "sulfated heparin pentasaccharide", "decision": "retain"}
+{"original_term": "sulfated mucin type glycans", "decision": "retain"}
+{"original_term": "sulfated polysaccharides", "decision": "retain"}
+{"original_term": "sulfated subunits", "decision": "remove"}
+{"original_term": "sulfated terminal β-linked GalNAc", "decision": "retain"}
+{"original_term": "sulfated tyrosines", "decision": "remove"}
+{"original_term": "sulfated α1-3Fuc-based linear polymers", "decision": "retain"}
+{"original_term": "sulfated-GAG-binding proteins", "decision": "remove"}
+{"original_term": "sulfated-GalNAc", "decision": "retain"}
+{"original_term": "sulfates", "decision": "remove"}
+{"original_term": "sulfatide", "decision": "retain"}
+{"original_term": "sulfatides", "decision": "retain"}
+{"original_term": "sulfoquinovose", "decision": "remove"}
+{"original_term": "sulphate residues", "decision": "remove"}
+{"original_term": "surface glycans", "decision": "remove"}
+{"original_term": "surface glycoconjugates", "decision": "remove"}
+{"original_term": "syndecan family", "decision": "remove"}
+{"original_term": "syndecans", "decision": "remove"}
+{"original_term": "target glycans", "decision": "remove"}
+{"original_term": "target structure", "decision": "remove"}
+{"original_term": "techoic acids", "decision": "remove"}
+{"original_term": "teichoic acid polymers", "decision": "retain"}
+{"original_term": "teichoic acid type", "decision": "remove"}
+{"original_term": "teichoic acids", "decision": "remove"}
+{"original_term": "terminal Gal or GalNAc residues", "decision": "retain"}
+{"original_term": "terminal Gal residues", "decision": "retain"}
+{"original_term": "terminal Gal/GalNAc residues", "decision": "retain"}
+{"original_term": "terminal GalNAc", "decision": "retain"}
+{"original_term": "terminal GlcNAc", "decision": "retain"}
+{"original_term": "terminal Lewis b blood group antigen-containing glycans", "decision": "retain"}
+{"original_term": "terminal N-acetylglucosamine residues", "decision": "retain"}
+{"original_term": "terminal fucose residues", "decision": "retain"}
+{"original_term": "terminal glucuronic acid", "decision": "retain"}
+{"original_term": "terminal glycan sequences", "decision": "remove"}
+{"original_term": "terminal glycans", "decision": "remove"}
+{"original_term": "terminal groups", "decision": "remove"}
+{"original_term": "terminal mannose N-glycans", "decision": "retain"}
+{"original_term": "terminal mannose residues", "decision": "retain"}
+{"original_term": "terminal monosaccharide units", "decision": "remove"}
+{"original_term": "terminal or subterminal glycans", "decision": "remove"}
+{"original_term": "terminal saccharides", "decision": "remove"}
+{"original_term": "terminal sequences", "decision": "remove"}
+{"original_term": "terminal sialic acids", "decision": "retain"}
+{"original_term": "terminal sugar residues", "decision": "remove"}
+{"original_term": "terminal sugar sequences", "decision": "remove"}
+{"original_term": "terminal sugars", "decision": "remove"}
+{"original_term": "terminal α-galactose residues", "decision": "retain"}
+{"original_term": "terminal α-linked mannose or fucose residues", "decision": "retain"}
+{"original_term": "terminal α1–6Man", "decision": "retain"}
+{"original_term": "terminal β-galactose", "decision": "retain"}
+{"original_term": "terminal β-linked Gal", "decision": "retain"}
+{"original_term": "terminal β-linked Gal or GalNAc", "decision": "retain"}
+{"original_term": "terminal β-linked Gal or GalNAc residues", "decision": "retain"}
+{"original_term": "tertiary/quaternary structures", "decision": "remove"}
+{"original_term": "tetrasaccharide", "decision": "remove"}
+{"original_term": "therapeutic glycoproteins", "decision": "remove"}
+{"original_term": "three classes of glycans", "decision": "remove"}
+{"original_term": "thrombospondin type 1 repeats", "decision": "remove"}
+{"original_term": "thrombospondin-type repeats", "decision": "remove"}
+{"original_term": "trans-Delta", "decision": "remove"}
+{"original_term": "trans-Serrate", "decision": "remove"}
+{"original_term": "trans-glycosidic linkages", "decision": "retain"}
+{"original_term": "trans-sialidases", "decision": "remove"}
+{"original_term": "transmembrane heparan sulfate proteoglycans", "decision": "remove"}
+{"original_term": "trehalose-6,6-dimycolate", "decision": "retain"}
+{"original_term": "tri- and tetra-antennary N-glycans", "decision": "retain"}
+{"original_term": "tri- or tetrasaccharide repeats", "decision": "retain"}
+{"original_term": "tri-Man", "decision": "retain"}
+{"original_term": "triple helical polypeptides", "decision": "remove"}
+{"original_term": "truncated N-glycans", "decision": "retain"}
+{"original_term": "truncated core 1 structures", "decision": "retain"}
+{"original_term": "truncated glycans", "decision": "retain"}
+{"original_term": "truncated or altered glycans", "decision": "retain"}
+{"original_term": "tumor-associated glycans", "decision": "remove"}
+{"original_term": "type 1 blood group H structure", "decision": "retain"}
+{"original_term": "type I", "decision": "remove"}
+{"original_term": "type I transmembrane glycoproteins", "decision": "remove"}
+{"original_term": "type II", "decision": "remove"}
+{"original_term": "undecaprenol diphosphate-linked O-PSs", "decision": "retain"}
+{"original_term": "undecaprenol diphosphate-linked intermediates", "decision": "remove"}
+{"original_term": "undecaprenyl carriers", "decision": "remove"}
+{"original_term": "undecaprenylphosphate", "decision": "remove"}
+{"original_term": "unknown structures", "decision": "remove"}
+{"original_term": "unsaturation", "decision": "remove"}
+{"original_term": "unstructured regions", "decision": "remove"}
+{"original_term": "unusual structures", "decision": "remove"}
+{"original_term": "unwanted glycans", "decision": "remove"}
+{"original_term": "uronic acids", "decision": "remove"}
+{"original_term": "variable galactopyranose repeats", "decision": "retain"}
+{"original_term": "viral glycoproteins", "decision": "remove"}
+{"original_term": "wall teichoic acids", "decision": "remove"}
+{"original_term": "xylan", "decision": "retain"}
+{"original_term": "xylans", "decision": "retain"}
+{"original_term": "xylogalacturonans", "decision": "retain"}
+{"original_term": "xyloglucan", "decision": "retain"}
+{"original_term": "xyloglucan oligosaccharides", "decision": "retain"}
+{"original_term": "xyloglucans", "decision": "retain"}
+{"original_term": "xylose residues", "decision": "remove"}
+{"original_term": "xylosides", "decision": "retain"}
+{"original_term": "yeast glycans", "decision": "remove"}
+{"original_term": "yellow-green algae", "decision": "remove"}
+{"original_term": "zwitterionic structures", "decision": "remove"}
+{"original_term": "α anomers", "decision": "remove"}
+{"original_term": "α(1-3)GalNAc", "decision": "retain"}
+{"original_term": "α- or β-linked sugars", "decision": "remove"}
+{"original_term": "α-D-mannosyl fullerenes", "decision": "remove"}
+{"original_term": "α-DG", "decision": "remove"}
+{"original_term": "α-GalNAc", "decision": "remove"}
+{"original_term": "α-GalNAc residues", "decision": "remove"}
+{"original_term": "α-Helices", "decision": "remove"}
+{"original_term": "α-dystroglycan", "decision": "remove"}
+{"original_term": "α-helices", "decision": "remove"}
+{"original_term": "α-helix", "decision": "remove"}
+{"original_term": "α-linked O-fucose modification", "decision": "retain"}
+{"original_term": "α-linked mannose", "decision": "retain"}
+{"original_term": "α-linked polyglucose nanofilaments", "decision": "retain"}
+{"original_term": "α-mannans", "decision": "retain"}
+{"original_term": "α-mannose-containing glycans", "decision": "retain"}
+{"original_term": "α-methylmannoside", "decision": "remove"}
+{"original_term": "α-sialyl linkages", "decision": "retain"}
+{"original_term": "α1-4GlcNAc", "decision": "retain"}
+{"original_term": "α1–6Man", "decision": "retain"}
+{"original_term": "α2-3sialyllactosamines", "decision": "retain"}
+{"original_term": "α2-6Gal(NAc)", "decision": "retain"}
+{"original_term": "α2-6Gal(NAc) linkages", "decision": "retain"}
+{"original_term": "αGal", "decision": "retain"}
+{"original_term": "αGlcTs", "decision": "remove"}
+{"original_term": "β anomers", "decision": "remove"}
+{"original_term": "β-(1,3)-glucans", "decision": "retain"}
+{"original_term": "β-1,3-glucan", "decision": "retain"}
+{"original_term": "β-1,3-glucan oligosaccharides", "decision": "retain"}
+{"original_term": "β-1,3-glucans", "decision": "retain"}
+{"original_term": "β-1,4-glucan oligosaccharides", "decision": "retain"}
+{"original_term": "β-1,4-glucans", "decision": "retain"}
+{"original_term": "β-1,4-mannuronate moieties", "decision": "retain"}
+{"original_term": "β-1,4/β-1,3 glucans", "decision": "retain"}
+{"original_term": "β-1,4/β-1,3-glucan", "decision": "retain"}
+{"original_term": "β-1-3 branches", "decision": "retain"}
+{"original_term": "β-D-Glucose", "decision": "remove"}
+{"original_term": "β-D-glucopyranose", "decision": "remove"}
+{"original_term": "β-D-xylosides", "decision": "retain"}
+{"original_term": "β-Gal-containing disaccharides", "decision": "retain"}
+{"original_term": "β-GalNAc", "decision": "remove"}
+{"original_term": "β-GlcNAc", "decision": "remove"}
+{"original_term": "β-N-acetylgalactosaminides", "decision": "retain"}
+{"original_term": "β-N-acetylglucosaminides", "decision": "retain"}
+{"original_term": "β-Trefoil proteins", "decision": "remove"}
+{"original_term": "β-galactose-containing glycoconjugates", "decision": "retain"}
+{"original_term": "β-galactosides", "decision": "retain"}
+{"original_term": "β-glucan", "decision": "retain"}
+{"original_term": "β-glucans", "decision": "retain"}
+{"original_term": "β-glucosides", "decision": "retain"}
+{"original_term": "β-linked Gal", "decision": "retain"}
+{"original_term": "β-linked Gal residues", "decision": "retain"}
+{"original_term": "β-linked Kdo residues", "decision": "retain"}
+{"original_term": "β-linked cell-surface Gal/GalNAc containing glycans", "decision": "retain"}
+{"original_term": "β-linked galactose", "decision": "retain"}
+{"original_term": "β-linked polymers", "decision": "remove"}
+{"original_term": "β-mannosides", "decision": "retain"}
+{"original_term": "β-prism", "decision": "remove"}
+{"original_term": "β-propeller", "decision": "remove"}
+{"original_term": "β-sandwich", "decision": "remove"}
+{"original_term": "β-sheet-containing domains", "decision": "remove"}
+{"original_term": "β-sheets", "decision": "remove"}
+{"original_term": "β-strand", "decision": "remove"}
+{"original_term": "β-strands", "decision": "remove"}
+{"original_term": "β-trefoil", "decision": "remove"}
+{"original_term": "β-trefoil fold", "decision": "remove"}
+{"original_term": "β-trefoil proteins", "decision": "remove"}
+{"original_term": "β1-2GlcNAc", "decision": "retain"}
+{"original_term": "β1-4GalNAc", "decision": "retain"}
+{"original_term": "β1-4GlcNAc", "decision": "retain"}
+{"original_term": "β1-6GlcNAc", "decision": "retain"}
+{"original_term": "β1-6GlcNAcT", "decision": "remove"}
+{"original_term": "β1-6GlcNAcTs", "decision": "remove"}
+{"original_term": "β2-linked mannose polymers", "decision": "retain"}
+{"original_term": "βGalNAc", "decision": "remove"}
+{"original_term": "βGlcA", "decision": "remove"}
+{"original_term": "βGlcTs", "decision": "remove"}

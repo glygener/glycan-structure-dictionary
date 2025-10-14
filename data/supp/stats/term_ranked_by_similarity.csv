@@ -1,0 +1,1683 @@
+term,avg_similarity,count,max_similarity
+terminal mannose residues,0.991582,1,0.991582
+furanoses,0.990346,2,0.990451
+fucoidans,0.987624,3,0.991381
+a-series gangliosides,0.985598,1,0.985598
+high-mannose-type glycans,0.983700,3,0.990825
+d sugar,0.978314,1,0.978314
+xylogalacturonans,0.976570,1,0.976570
+cyclic glucans,0.976298,2,0.980754
+apiogalacturonans,0.975106,2,0.977752
+nucleotide-activated monosaccharides,0.974601,1,0.974601
+g0 n-glycans,0.974360,1,0.974360
+galactans,0.973884,1,0.973884
+galnac-type o-glycans,0.972984,1,0.972984
+decasaccharides,0.972975,2,0.976922
+core m1 glycans,0.972875,2,0.975934
+hemicelluloses,0.972661,5,0.997178
+complex type,0.969814,1,0.969814
+dolichol-linked oligosaccharides,0.969384,1,0.969384
+flavonoid glycosides,0.969098,2,0.969822
+variable galactopyranose repeats,0.966789,1,0.966789
+surface glycoconjugates,0.965930,3,0.971597
+pyranoses,0.965845,1,0.965845
+myeloglycans,0.964770,1,0.964770
+hexasaccharides,0.962978,2,0.967378
+sia-containing glycans,0.961339,1,0.961339
+hexosamines,0.960211,1,0.960211
+pseudaminic acids,0.958314,1,0.958314
+c20:3,0.957689,1,0.957689
+core m2,0.956461,1,0.956461
+oligomannosyl structures,0.956114,1,0.956114
+mannose-terminated n-glycans,0.955739,1,0.955739
+glycosides,0.955438,6,0.979890
+α-mannans,0.954996,1,0.954996
+α-mannose-containing glycans,0.954319,1,0.954319
+chondroitin sulfate proteoglycans,0.952554,1,0.952554
+lewis type glycans,0.952212,1,0.952212
+core m2 glycans,0.951481,1,0.951481
+aggrecan superfamily,0.949666,1,0.949666
+b-series gangliosides,0.948511,2,0.972494
+o-glycopeptides,0.948502,4,0.987456
+o-mannose-based chains,0.948485,1,0.948485
+core m1,0.948385,3,0.963868
+hexopyranoses,0.947637,1,0.947637
+hexuloses,0.946098,1,0.946098
+complex-type,0.944569,1,0.944569
+β-d-glucose,0.944417,1,0.944417
+biantennary complex-type n-glycans,0.944051,1,0.944051
+core 2 o-glycans,0.943505,1,0.943505
+hemicellulosic polysaccharides,0.942954,1,0.942954
+oligomannose-type glycans,0.942285,2,0.986713
+β-d-glucopyranose,0.940144,1,0.940144
+man-6-p-containing glycans,0.939429,2,0.987851
+galβ1-4glc,0.939185,1,0.939185
+oligosaccharins,0.935771,1,0.935771
+hybrid type,0.935026,1,0.935026
+c20:4,0.933977,1,0.933977
+terminal monosaccharides,0.930171,1,0.930171
+n-glycopeptides,0.930152,3,0.987881
+n-glycan-type,0.930051,1,0.930051
+neutral and ionic polysaccharides,0.929984,1,0.929984
+glcaβ1-3glcnacβ1-4,0.929440,1,0.929440
+glcα1–4glc repeating disaccharides,0.928799,1,0.928799
+rhamnogalacturonans,0.928390,2,0.934529
+neu5acα2–6gal-containing oligosaccharides,0.928053,1,0.928053
+yeast n-glycans,0.927789,1,0.927789
+linear and branched structures,0.927165,1,0.927165
+phosphate esters,0.926574,1,0.926574
+flexible oligosaccharide ligands,0.925094,1,0.925094
+linear and branched oligosaccharides,0.923709,1,0.923709
+m6p-containing n-glycans,0.922416,5,0.962414
+acyl esters,0.921362,2,0.925067
+lipochitooligosaccharides,0.920907,1,0.920907
+hybrid-type chains,0.920571,1,0.920571
+s-tolylglucopyranose,0.920448,1,0.920448
+nac-domains,0.920150,1,0.920150
+n- and o-linked proteoglycans,0.920009,1,0.920009
+oligomannosides,0.917456,1,0.917456
+homopolysaccharides and heteropolysaccharides,0.913975,1,0.913975
+erythrocyte sialoglycans,0.912793,1,0.912793
+core m3 glycans,0.912084,1,0.912084
+human-like n-glycans,0.911729,1,0.911729
+high mannose-type oligosaccharides,0.911386,1,0.911386
+complex-type glycans,0.911158,1,0.911158
+complex oligosaccharides,0.910735,1,0.910735
+terminal α-galactose residues,0.910256,2,0.932486
+core 1 structures,0.909345,2,0.914876
+sulfated glucuronosyl glycans,0.908753,1,0.908753
+n-acetylglucosamine-containing glycosidic linkages,0.907965,1,0.907965
+core m2 o-mannose glycans,0.906837,1,0.906837
+l sugar,0.905662,1,0.905662
+xyloglucans,0.905449,3,0.935900
+β-mannosides,0.904257,1,0.904257
+multiantennary n-glycans,0.903468,1,0.903468
+primary glycans,0.902926,1,0.902926
+pentoses,0.902498,3,0.917695
+c2-deoxy sugars,0.901996,1,0.901996
+ganglio-series,0.900481,2,0.938031
+dolichol oligosaccharides,0.899673,1,0.899673
+monosaccharide type,0.898648,2,0.940844
+mammalian n-glycans,0.898226,2,0.911779
+dolichol-linked sugars,0.896895,1,0.896895
+core 1 and 2 o-glycans,0.895634,1,0.895634
+heteroxylans,0.894123,3,0.914384
+o-acetylated sialic acids,0.893337,3,0.974874
+β-n-acetylglucosaminides,0.892787,2,0.967228
+gag-binding proteins,0.892142,5,0.955535
+linkages,0.890765,1,0.890765
+neu5acα2–3gal-containing oligosaccharides,0.890751,1,0.890751
+internal carbohydrate motifs,0.890330,1,0.890330
+monoglucosylated high-mannose glycans,0.890232,1,0.890232
+terminal sequences,0.888961,1,0.888961
+fucosylated n-glycans,0.888405,1,0.888405
+"β-1,3-glucans",0.886202,3,0.928309
+α-helices,0.886076,3,0.935628
+glucuronoxylans,0.885679,3,0.904794
+g0 molecules,0.884664,1,0.884664
+complex-type sialylated glycans,0.884041,1,0.884041
+linear or branched oligosaccharide chains,0.883504,1,0.883504
+"β-1,4-glucan oligosaccharides",0.882767,1,0.882767
+lipid-linked oligosaccharides,0.882663,2,0.954986
+paucimannose n-glycans,0.882255,1,0.882255
+β-galactose-containing glycoconjugates,0.879383,1,0.879383
+β-strands,0.878975,3,0.907009
+hs/cs oligosaccharides,0.878844,1,0.878844
+β1-6glcnact,0.878505,1,0.878505
+unusual structures,0.876735,2,0.899277
+hydroxylysines,0.876105,1,0.876105
+ganglio-oligosaccharides,0.875368,1,0.875368
+hss,0.874325,1,0.874325
+o-xylose-linked gag chains,0.873923,1,0.873923
+β-glucans,0.873491,6,0.952427
+o-mannose-based glycans,0.873148,1,0.873148
+chondroitin and heparan sulfate proteoglycans,0.873081,1,0.873081
+hexoses,0.872982,5,0.955848
+native glycan ligands,0.871442,1,0.871442
+sialyl motifs,0.870470,2,0.872491
+core 2 glycans,0.870338,1,0.870338
+c-mannosylated proteins,0.867277,1,0.867277
+mucin type glycans,0.866924,2,0.912611
+oligomannose n-glycans,0.866472,4,0.916657
+terminal mannose n-glycans,0.861924,1,0.861924
+glycopolymers,0.861871,1,0.861871
+hyaluronan oligosaccharides,0.860193,9,0.966732
+m6p phosphomonoesters,0.857631,2,0.868903
+o-glycosylated,0.857243,1,0.857243
+type-4 chains,0.857214,1,0.857214
+m6p phosphodiesters,0.856001,1,0.856001
+glycan-containing structures,0.855894,1,0.855894
+sda antigens,0.855689,1,0.855689
+tri- and tetra-antennary n-glycans,0.855659,1,0.855659
+mammalian-type lipid-linked oligosaccharides,0.855423,1,0.855423
+n- and o-glycopeptides,0.853921,1,0.853921
+small oligosaccharides,0.853742,2,0.883242
+dextrans,0.853219,1,0.853219
+glucuronoarabinoxylans,0.853046,1,0.853046
+glucosinolates,0.852990,1,0.852990
+gal-terminating structures,0.852168,1,0.852168
+oligomannosyl n-glycans,0.851033,13,0.994073
+monosaccharides and oligosaccharides,0.850896,1,0.850896
+high-mannose oligosaccharides,0.849852,1,0.849852
+major brain ganglioside structures,0.849589,1,0.849589
+extended core-1 o-glycans,0.848486,2,0.864492
+outer-core glycans,0.847443,1,0.847443
+sialylated milk oligosaccharides,0.847154,2,0.889616
+cbms,0.846854,9,0.964821
+animal cell glycans,0.846783,1,0.846783
+ltas,0.846157,12,0.986473
+heparan sulfate glycosaminoglycans,0.844778,1,0.844778
+hyalectins,0.843764,1,0.843764
+mlgs,0.843679,2,0.920144
+type-2 structures,0.843515,3,0.901978
+hs glycosaminoglycans,0.842932,1,0.842932
+glucosylceramides,0.842404,1,0.842404
+s-domains,0.839453,2,0.851400
+sialofucosylated glycolipids,0.839326,1,0.839326
+glycogenes,0.837519,9,0.981853
+terminal sugar sequences,0.837405,1,0.837405
+intact sialoglycans,0.836762,1,0.836762
+medium size glycans,0.836539,1,0.836539
+low-molecular-weight oligosaccharides,0.835443,1,0.835443
+sulfate esters,0.835289,2,0.908840
+neoglycoconjugates,0.835164,1,0.835164
+poly-n-acetyllactosamines,0.835032,2,0.841943
+xyloglucan oligosaccharides,0.834111,2,0.851673
+basement membrane proteoglycans,0.833755,1,0.833755
+sulfatides,0.833268,2,0.921907
+diphosphate esters,0.832775,1,0.832775
+mucin-type o-glycans,0.832317,7,0.990201
+gangliosides,0.831828,51,0.976672
+lewis x–containing structures,0.831701,1,0.831701
+gt and gh,0.831262,2,0.839509
+lipo-oligosaccharides,0.829720,1,0.829720
+fucosylated glycans,0.829658,4,0.888967
+high-mannose-type n-glycans,0.828826,1,0.828826
+rhamnogalacturonan,0.827969,4,0.857281
+incomplete o-glycans,0.825931,2,0.831273
+alkylacylphosphatidylinositol-anchored glycan,0.825504,1,0.825504
+hybrid-type n-glycans,0.825066,3,0.870835
+o-galnac-linked sialoglycans,0.824753,2,0.864888
+p blood group antigens,0.824566,2,0.849015
+β2-linked mannose polymers,0.824059,1,0.824059
+high-mannose n-glycans,0.823494,2,0.866543
+glcnac-p-man phosphodiesters,0.823390,1,0.823390
+glycan determinants,0.823197,1,0.823197
+cis-diols,0.823003,1,0.823003
+cis-interacting sialylated glycans,0.821101,1,0.821101
+nonlabeled glycans,0.820690,1,0.820690
+cytokeratins,0.820462,1,0.820462
+competitive glycans,0.820452,1,0.820452
+c-series gangliosides,0.820302,1,0.820302
+lrp2 o-glycans,0.819353,2,0.921119
+mannose-conjugated glycodendrimers,0.818927,1,0.818927
+o-mannose initiated glycans,0.817786,1,0.817786
+sia-glycosides,0.817758,1,0.817758
+aglycones,0.816976,1,0.816976
+high-mannose glycans,0.815906,2,0.945470
+glcnacβ1-4glcnac,0.815675,1,0.815675
+core fucose,0.814730,1,0.814730
+ppgs,0.814669,1,0.814669
+high mannose type,0.814603,1,0.814603
+sulfated glycosaminoglycan chains,0.814333,1,0.814333
+sialoglycolipids,0.813982,1,0.813982
+galβ1-4glc-cer,0.813875,1,0.813875
+teichoic acid type,0.813146,1,0.813146
+sugar hemiacetals,0.813022,1,0.813022
+n- or o-linked glycans,0.812811,1,0.812811
+b-blood group oligosaccharides,0.811977,1,0.811977
+β-galactosides,0.811096,10,0.988544
+animal n- and o-glycans,0.810815,1,0.810815
+neu5acα2-6galnacα,0.810521,2,0.813421
+galα1-4gal determinants,0.809149,1,0.809149
+sulfated glycosaminoglycans,0.808519,9,0.981042
+oligomannosidic glycans,0.807795,1,0.807795
+α-galnac,0.806939,1,0.806939
+β-n-acetylgalactosaminides,0.805773,1,0.805773
+neu5acα2-3gal,0.805447,3,0.857360
+ganglioside-like glycans,0.803702,1,0.803702
+galα1-3galnac,0.803115,1,0.803115
+gag segments,0.802767,1,0.802767
+slex-containing o-glycan,0.802285,1,0.802285
+glycodendrimers,0.801060,3,0.849623
+homogalacturonan-containing glycans,0.800544,1,0.800544
+arthroseries,0.799968,9,0.974445
+pectins,0.799785,8,0.991117
+glca-glcnac rus,0.799265,1,0.799265
+a-series,0.799025,1,0.799025
+simplified core structures,0.798787,1,0.798787
+heteropolysaccharides,0.798556,1,0.798556
+hybrid-type structures,0.798399,1,0.798399
+eukaryotic n-glycans,0.798006,1,0.798006
+faxgudfsa,0.795730,1,0.795730
+β1-6glcnacts,0.795707,1,0.795707
+sialylated glycans,0.795449,13,0.945989
+n-glycomes,0.795285,2,0.918419
+the steviol glycosides,0.794798,1,0.794798
+"β-(1,3)-glucans",0.794218,2,0.824108
+o-man glycans,0.792914,9,0.978211
+blood group–related structures,0.792855,1,0.792855
+human-type terminal glycans,0.792836,1,0.792836
+o-linked ks,0.792061,1,0.792061
+glycan antigens,0.791156,2,0.791418
+arabinoglucuronoxylans,0.791144,1,0.791144
+d series of aldoses,0.788527,1,0.788527
+opgs,0.788046,10,0.964986
+galβ1-3galnacβ1-4gal,0.787279,1,0.787279
+transmembrane heparan sulfate proteoglycans,0.787122,1,0.787122
+asparagine–n-linked glycans,0.785198,1,0.785198
+saccharides,0.785164,1,0.785164
+slex-related glycans,0.784279,2,0.898437
+n-linked oligomannose-type glycans,0.783086,1,0.783086
+aldohexose,0.781786,1,0.781786
+complex sialylated n-glycans,0.778235,1,0.778235
+interglycosidic linkages,0.777824,2,0.801235
+core 2 o-galnac glycans,0.777196,7,0.937970
+chondroitin/dermatan sulfates,0.776774,2,0.904541
+oligomannose,0.776139,3,0.821520
+aggrecan family,0.775769,2,0.929701
+β-gal-containing disaccharides,0.774240,1,0.774240
+oligomannose-type n-glycans,0.774134,5,0.946279
+heparan sulfate proteoglycans,0.773418,6,0.966896
+gsls,0.772281,63,0.987077
+neu5ac sialic acids,0.771569,2,0.869101
+partially methylated monosaccharides,0.770974,2,0.775241
+eps types,0.770766,1,0.770766
+β-glucan,0.768041,2,0.797898
+sulfated mucin type glycans,0.767380,1,0.767380
+homogalacturonan,0.767234,6,0.914067
+biantennary n-glycans,0.764579,6,0.890152
+sia ligands,0.764567,1,0.764567
+egf domains,0.762690,1,0.762690
+o-mannose glycans,0.762538,16,0.948973
+hybrid and complex glycans,0.762090,3,0.823889
+levan type fructans,0.761618,1,0.761618
+α-linked mannose,0.761538,2,0.954942
+β-glucosides,0.761329,4,0.988414
+gag family,0.760607,1,0.760607
+sphingoid bases,0.759107,3,0.893490
+nulos,0.758618,20,0.987049
+gm1 pentasaccharide,0.758485,1,0.758485
+sialyl-6-sulfo-lewis x,0.757887,1,0.757887
+hnk-1-containing glycosphingolipids,0.757523,1,0.757523
+eukaryotic glycosaminoglycans,0.757453,1,0.757453
+chondroitin synthases,0.756663,1,0.756663
+mannose-rich glycans,0.753793,1,0.753793
+cadherin domains,0.753661,1,0.753661
+gipcs,0.750999,6,0.875323
+tumor-associated glycans,0.750429,1,0.750429
+type-1 units,0.749832,2,0.779495
+isoprenoid-linked monosaccharides,0.748216,1,0.748216
+wtas,0.748042,16,0.987206
+glycoconjugate structures,0.747612,2,0.800855
+glucans,0.747266,6,0.960819
+type i transmembrane glycoproteins,0.746462,1,0.746462
+β-galnac,0.746207,1,0.746207
+chondroitin chains,0.745907,5,0.979234
+terminal saccharides,0.745806,2,0.947142
+complex n-glycans,0.744601,14,0.961679
+fucosylated oligosaccharides,0.744586,1,0.744586
+core-2 o-glycans,0.744332,1,0.744332
+n-acetylated hexoses,0.743723,1,0.743723
+hs proteoglycans,0.743690,15,0.979801
+mammalian glycoproteins,0.743358,1,0.743358
+hrgps,0.743208,1,0.743208
+group c,0.743169,1,0.743169
+aldoses,0.742856,4,0.913440
+isolated disaccharides,0.741270,1,0.741270
+sia family,0.740742,1,0.740742
+sialic acids,0.740568,53,0.991551
+hybrid or complex glycans,0.739405,1,0.739405
+cspgs,0.739334,3,0.767031
+thrombospondin-type repeats,0.739058,1,0.739058
+chain terminators,0.738661,1,0.738661
+sulfated gags,0.738537,11,0.935608
+cdgs,0.737907,4,0.929867
+fucose-carrying pamps,0.736570,1,0.736570
+ketoses,0.736479,5,0.917689
+noncellulosic matrix polysaccharides,0.735693,1,0.735693
+gd1b,0.735369,1,0.735369
+adamantyl groups,0.734725,1,0.734725
+core m1 and m2 o-mannose glycans,0.733956,1,0.733956
+core 2 and 4 o-galnac glycans,0.733844,1,0.733844
+o-linked glc-gal disaccharides,0.733650,1,0.733650
+mannose-carrying pamps,0.733541,1,0.733541
+mucin-type,0.733204,1,0.733204
+neoglycoproteins,0.733050,2,0.789531
+rg-ii,0.732881,9,0.814194
+galnac (a),0.731335,2,0.761935
+fucosyl residues,0.731237,1,0.731237
+endoglycan,0.731217,1,0.731217
+deoxyhexoses,0.730820,2,0.884069
+ser/thr-linked glycans,0.730820,2,0.905735
+complex glycans,0.730749,21,0.956922
+hexnac2-3 motifs,0.730634,1,0.730634
+paucimannosidic n-linked glycans,0.730400,1,0.730400
+6-o-sulfated disaccharides,0.729750,1,0.729750
+paucimannose type glycans,0.729605,1,0.729605
+e-pha-binding glycans,0.728888,1,0.728888
+large polymannosyl glycans,0.728756,1,0.728756
+long-chain extracellular polysaccharides,0.726440,1,0.726440
+charged polysaccharides,0.726434,1,0.726434
+mannans,0.725598,10,0.969990
+α-galnac residues,0.725408,1,0.725408
+oligomannose-type,0.724745,2,0.936656
+loops,0.724499,2,0.792005
+core 1 o-glycans,0.723964,5,0.945907
+hspgs,0.723600,1,0.723600
+truncated n-glycans,0.723507,1,0.723507
+chondroitin,0.723082,19,0.913584
+n- and o-glycoproteins,0.722741,1,0.722741
+glcβ1-4glc-ome,0.722405,1,0.722405
+p-blood group,0.721891,1,0.721891
+s-linked glcp,0.721768,1,0.721768
+core 3 o-galnac glycans,0.721246,2,0.734930
+complex,0.721197,12,0.943743
+extensively modified glycosaminoglycan chains,0.720397,1,0.720397
+mannose ring,0.720201,1,0.720201
+undegraded oligosaccharides,0.719519,1,0.719519
+lacto-series,0.719448,1,0.719448
+glycans with free-reducing termini,0.719375,1,0.719375
+galnac,0.719369,7,0.944643
+ac-5sglcnac,0.719098,1,0.719098
+tetrasaccharide,0.717481,3,0.911399
+glcnr-phosphatidylinositols,0.717288,1,0.717288
+phosphacan,0.716749,1,0.716749
+hybrid n-glycans,0.716489,1,0.716489
+collagens,0.713522,1,0.713522
+fucα1-2gal,0.713320,3,0.728589
+galactosylceramide,0.713266,1,0.713266
+globo-series,0.713121,2,0.948338
+conjugated sialylated and fucosylated glycans,0.712624,1,0.712624
+membrane-bound sialoglycans,0.711841,1,0.711841
+xylans,0.711441,5,0.923396
+sulfated polysaccharides,0.710729,1,0.710729
+fish egg glycoproteins,0.710055,2,0.803434
+heparin oligosaccharides,0.709859,7,0.988498
+ks chains,0.709309,1,0.709309
+galactose units,0.706848,1,0.706848
+d and l isomers,0.706335,1,0.706335
+complex glycan structures,0.706195,1,0.706195
+o-pss,0.705641,3,0.958250
+inositolphosphoceramide-anchored glycan,0.705430,1,0.705430
+more complex gsls,0.705349,1,0.705349
+group i,0.704617,1,0.704617
+periodic α1–6glc branches,0.704387,1,0.704387
+o-linked glcnac,0.702971,2,0.717921
+glcnac-p-t,0.700671,2,0.718675
+hmos,0.700307,15,0.872389
+terminal α1–6man,0.700266,1,0.700266
+sialyl-lewis-related structures,0.700200,1,0.700200
+uronic acids,0.699578,2,0.904898
+st6gal-i,0.699025,1,0.699025
+o-linked glycan structures,0.698689,1,0.698689
+o-linked sugars,0.698297,1,0.698297
+type-2 units,0.698016,3,0.905456
+galnacβ1-4glcnac,0.695569,1,0.695569
+neoglycans,0.695494,1,0.695494
+glcnac-terminating glycoconjugates,0.695302,1,0.695302
+o-galnac glycans,0.694667,71,0.987145
+sulfated gag-binding proteins,0.694620,1,0.694620
+invertebrate glycoproteins,0.694604,1,0.694604
+n- and o-glycans,0.694505,11,0.841856
+mucin-containing glycoproteins,0.694254,1,0.694254
+sialoglycans,0.693683,23,0.966639
+repeating disaccharides,0.693385,1,0.693385
+syndecans,0.693347,6,0.897748
+sialyl lewis x,0.693262,1,0.693262
+mannogen,0.691073,1,0.691073
+hs chains,0.690470,13,0.966044
+pnag,0.690461,7,0.929592
+primary and secondary cell wall heteroxylans,0.688830,1,0.688830
+triple helical polypeptides,0.688544,1,0.688544
+mucin structures,0.688294,1,0.688294
+mannose functional groups,0.688156,1,0.688156
+terminal sugars,0.688085,3,0.867326
+sialoglycan polymers,0.688046,1,0.688046
+tri- or tetrasaccharide repeats,0.687703,1,0.687703
+secretory pathway–type glycans,0.686891,1,0.686891
+β anomers,0.686434,1,0.686434
+incomplete or truncated glycans,0.685843,1,0.685843
+o-glcnac,0.685126,95,0.986809
+glucose-containing glycans,0.684731,1,0.684731
+complex gangliosides,0.684453,2,0.721693
+arthro-series,0.683982,1,0.683982
+sulfated tyrosines,0.683740,1,0.683740
+n-glycan-containing glycoproteins,0.683684,1,0.683684
+classes of glycans,0.682986,1,0.682986
+homogalacturonans,0.682686,2,0.880665
+sialylated fucosylated lactosamines,0.682540,1,0.682540
+rare monosaccharides,0.682318,1,0.682318
+gag chain,0.681987,6,0.970188
+αglcts,0.681459,1,0.681459
+ppglcnacts,0.681162,1,0.681162
+mammalian glycans,0.680761,4,0.803238
+idoa2s,0.680379,3,0.706810
+slrps,0.679891,4,0.799936
+n-linked branched octosaccharide,0.676927,1,0.676927
+"β-1,4/β-1,3 glucans",0.676043,1,0.676043
+substituted galacturonan,0.675842,1,0.675842
+histidine-rich glycoproteins,0.675505,2,0.970703
+o-glcnacylated proteins,0.675359,5,0.856269
+sialyl lewis x–capped glycan,0.673766,1,0.673766
+glcaβ1-4glcnacα1-4,0.673333,1,0.673333
+b-series,0.671959,3,0.812971
+intact glycopeptides,0.671522,3,0.872537
+pseudopeptidoglycan,0.670322,1,0.670322
+truncated glycans,0.670038,1,0.670038
+specific classes of glycans,0.670024,1,0.670024
+"sialylated, fucosylated glycans",0.669122,1,0.669122
+lewis-type structures,0.668791,1,0.668791
+idoa rings,0.668727,1,0.668727
+lecticans,0.667847,3,0.854440
+gram-negative,0.667628,1,0.667628
+agxs,0.667599,1,0.667599
+o-linked glucose residues,0.667245,2,0.701102
+neu5acα2-6hexnac,0.666360,1,0.666360
+cd24psl,0.665954,1,0.665954
+complex and hybrid n-glycans,0.664659,3,0.841049
+major glycan classes,0.662881,3,0.744577
+milk oligosaccharides,0.661775,9,0.939077
+core-1 o-glycans,0.661297,2,0.800430
+galactose-containing ligands,0.660737,1,0.660737
+parasite gbps,0.660705,1,0.660705
+truncated o-glycans,0.660439,1,0.660439
+o-mannose moieties,0.659935,1,0.659935
+gal-man-po4- repeat unit,0.659087,1,0.659087
+dp4-dp20,0.659084,1,0.659084
+β-linked galactose,0.658381,2,0.672215
+polysia chains,0.657153,2,0.773035
+complex-type n-glycans,0.656900,4,0.834293
+man,0.655849,3,0.890227
+gag chains,0.655833,21,0.981868
+glycophospholipid anchors,0.654791,1,0.654791
+egf-like repeats,0.654693,3,0.687000
+cspg core proteins,0.653763,1,0.653763
+d-myo-inositol,0.653752,1,0.653752
+pg repeats,0.653365,3,0.868976
+galactomannans,0.653280,2,0.854197
+cycling monosaccharides,0.653011,1,0.653011
+fc n-glycans,0.652958,1,0.652958
+poly-lacnac,0.651407,3,0.869617
+novel glycans,0.649941,2,0.847540
+trans-glycosidic linkages,0.649683,1,0.649683
+phosphorylcholine-modified structures,0.649440,1,0.649440
+dermatan sulfate proteoglycans,0.648952,1,0.648952
+sulfated n-glycans,0.648415,2,0.791037
+polyfucose branches,0.648181,1,0.648181
+undecaprenol diphosphate-linked intermediates,0.646512,1,0.646512
+legionaminic acids,0.646432,2,0.899070
+pyruvylated,0.646318,1,0.646318
+complex-type glycan,0.646231,1,0.646231
+monosaccharide-labeled glycoproteins,0.645982,1,0.645982
+o-linked sialoglycans,0.644949,2,0.717154
+hs glcnac,0.644785,1,0.644785
+fucose moiety,0.644101,2,0.667619
+capsular polysaccharides,0.643525,8,0.874354
+sulfated glycans,0.642718,3,0.927018
+9-o-acetylated sias,0.642648,1,0.642648
+n-linked hexasaccharide,0.641204,1,0.641204
+gangliosidoses,0.640835,1,0.640835
+gt1b,0.640529,3,0.888934
+core oligosaccharide,0.639854,5,0.866506
+high-mannose or paucimannose glycans,0.638796,1,0.638796
+o-galnac-glycans,0.638369,2,0.695569
+cd24s10l,0.638148,1,0.638148
+c18–c22 species,0.637817,1,0.637817
+high mannose glycans,0.636921,1,0.636921
+α-d-mannosyl fullerenes,0.635448,2,0.708910
+l-selectin ligands,0.634887,1,0.634887
+large glycoconjugates,0.634737,1,0.634737
+gpi-synthesis inhibitors,0.634419,1,0.634419
+human sialylated biantennary n-glycans,0.632956,1,0.632956
+sialylated and/or sulfated determinants,0.632868,1,0.632868
+the unusual polysialic acid chains,0.632558,1,0.632558
+gq1b,0.632457,1,0.632457
+brain gangliosides,0.632149,1,0.632149
+oligosaccharides and polysaccharides,0.631172,1,0.631172
+2-6-branch,0.630501,1,0.630501
+archaellins,0.630155,6,0.928937
+free oligosaccharides,0.630099,1,0.630099
+complex or hybrid n-glycans,0.629678,1,0.629678
+cpss,0.628844,12,0.942086
+pathogen-derived glycans,0.628123,1,0.628123
+n-linked glycosylation,0.627829,3,0.763110
+protein-linked gpis,0.627659,1,0.627659
+paucimannose glycans,0.627581,3,0.882395
+common host glycan structures,0.626944,1,0.626944
+modified glycans,0.626131,1,0.626131
+o-linked β-n-acetylglucosamine,0.624905,1,0.624905
+low molecular weight glycans,0.624171,1,0.624171
+"β-1,3-glucan oligosaccharides",0.623780,3,0.855619
+acinetaminic acid,0.623755,1,0.623755
+linear and branched glycan chains,0.623504,2,0.705748
+n- and o-linked glycans,0.622134,4,0.809989
+syndecan family,0.621572,1,0.621572
+1-4-linked β-d-glcnac,0.621243,1,0.621243
+mucin-type o-glycoproteins,0.620828,1,0.620828
+keratan sulfate chains,0.620122,2,0.654314
+polysaccharide repeating units,0.619730,1,0.619730
+glucuronic acid,0.618943,1,0.618943
+exopolysaccharides,0.618564,1,0.618564
+chito-oligosaccharins,0.618119,2,0.660453
+β1-4galnac,0.617962,1,0.617962
+gbp,0.617570,12,0.883982
+sulfated α1-3fuc-based linear polymers,0.616797,1,0.616797
+"β-1,4-mannuronate moieties",0.615623,1,0.615623
+sulfated subunits,0.615538,1,0.615538
+secretory pathway–type o-glycans,0.615432,1,0.615432
+cis-glycosidic linkages,0.614618,3,0.794639
+disialyl-lewis a,0.614592,1,0.614592
+serglycin,0.614255,1,0.614255
+hyaladherins,0.614001,2,0.938072
+o-xylose-linked,0.613069,1,0.613069
+β-sheets,0.612588,2,0.833322
+secondary wall xylans,0.612209,1,0.612209
+mannan,0.611956,1,0.611956
+polysaccharide a,0.611824,1,0.611824
+blood group antigens,0.611793,1,0.611793
+major classes of eukaryotic glycans,0.611411,1,0.611411
+"β-1,4-glucans",0.611408,1,0.611408
+complex o-glycans,0.611309,2,0.687871
+type-1,0.611271,3,0.826768
+glypicans,0.611253,6,0.909686
+gal residues,0.611043,1,0.611043
+xylosides,0.610993,4,0.948209
+microbial glycans,0.609907,3,0.715800
+proline/hydroxyproline-rich proteoglycans,0.609564,2,0.792733
+glycosylated polymers,0.609419,1,0.609419
+nonulosonic acids,0.609002,6,0.911849
+sia-containing ligands,0.608864,1,0.608864
+mannosylated lipoarabinomannan,0.608492,1,0.608492
+rhamnogalacturonan-i,0.608369,2,0.724516
+α(1-3)galnac,0.608163,1,0.608163
+neu5acα2–3gal-terminated glycans,0.607926,1,0.607926
+gram-positive,0.607868,1,0.607868
+major glycan families,0.607805,1,0.607805
+host-derived mucosal glycans,0.607354,1,0.607354
+gpi anchors,0.607204,4,0.796698
+human gangliosides,0.607002,1,0.607002
+high-mannose and paucimannose n-glycans,0.606649,1,0.606649
+glycogen,0.605899,8,0.779216
+galactose-containing glycolipids,0.605452,1,0.605452
+mammalian n- and o-glycan structures,0.604694,1,0.604694
+maltose,0.604461,1,0.604461
+manβ1-4glc-cer,0.603599,1,0.603599
+human o-galnac glycans,0.603502,1,0.603502
+complex carbohydrates,0.603444,1,0.603444
+galnacβ1-3galα1-4galβ1-4glc,0.603371,2,0.804650
+terminal n-acetylglucosamine residues,0.603200,4,0.639113
+schiff bases,0.602875,2,0.745740
+yeast glycans,0.602526,1,0.602526
+nucleotide sugar donors,0.601979,1,0.601979
+aggrecan,0.601671,2,0.611180
+large and complex glycans and glycoconjugates,0.601624,1,0.601624
+paucimannose oligosaccharides,0.601298,2,0.880424
+gsl series,0.601203,2,0.913234
+pure glycans,0.600750,2,0.704024
+glycosylphosphatidylinositols,0.600699,2,0.638910
+antigenic glycan motifs,0.599903,1,0.599903
+teichoic acids,0.599422,2,0.677144
+core 1 o-galnac glycans,0.599256,3,0.842413
+galβ1-4glcnac,0.598090,4,0.977007
+α-dg,0.597772,1,0.597772
+pyranose ring,0.597537,2,0.819692
+glcnac pentasaccharide,0.596914,1,0.596914
+pentasaccharide,0.596427,3,0.707646
+α anomers,0.595682,1,0.595682
+mag,0.595292,2,0.830153
+structural glycoproteins,0.595232,1,0.595232
+man-6-p,0.595011,2,0.650479
+manα1-3man disaccharides,0.594900,1,0.594900
+paucimannosidic glycans,0.594545,1,0.594545
+nuclear o-glycans,0.594519,1,0.594519
+phosphorylcholine-modified gag-like structures,0.593962,1,0.593962
+o-man,0.593956,3,0.785343
+monosaccharides and disaccharides,0.593826,1,0.593826
+acyl chains,0.593529,1,0.593529
+glycoglycerolipids,0.592880,5,0.773996
+oral mucins,0.591564,1,0.591564
+complex type n-glycans,0.591224,1,0.591224
+lysm family,0.591189,1,0.591189
+multiantennary complex-type n-glycans,0.591079,1,0.591079
+terminal gal/galnac residues,0.591014,1,0.591014
+clustered sialoglycans,0.590020,1,0.590020
+o-fucose glycans,0.589793,8,0.815795
+n-glycan classes,0.589780,1,0.589780
+cpss and epss,0.586803,3,0.690720
+glcnacβ1-4gal,0.586697,1,0.586697
+ggas,0.586641,2,0.633008
+alternating sugars,0.586605,1,0.586605
+preassembled undecaprenol-pp-linked oligosaccharides,0.585674,1,0.585674
+species-specific milk oligosaccharides,0.585464,1,0.585464
+sulfates,0.585008,1,0.585008
+difucosylated oligosaccharides,0.584847,1,0.584847
+aldohexose group,0.584785,1,0.584785
+glycerolipids,0.583820,2,0.699822
+paucimannose-type glycans,0.583691,1,0.583691
+nulo-glycans,0.583149,2,0.850358
+sialyl-lewis x,0.583114,9,0.735208
+β-linked kdo residues,0.582530,1,0.582530
+branched n-glycan,0.582020,1,0.582020
+o-fucose,0.580088,18,0.790968
+gne,0.579488,1,0.579488
+ceramides,0.578858,3,0.622871
+mannose-6-p,0.578658,1,0.578658
+brain ganglioside gm2,0.578579,1,0.578579
+mdos,0.578302,3,0.740724
+protein o-man residues,0.577243,1,0.577243
+fibronectin type ii repeats,0.576152,1,0.576152
+neolacto-series,0.575947,2,0.677174
+hs polymers,0.575693,1,0.575693
+core glycans,0.574809,1,0.574809
+galβ1-3galnacαs/t,0.574796,1,0.574796
+small leucine-rich proteoglycans,0.573993,1,0.573993
+animal glycans,0.573864,4,0.786328
+skeletal type,0.573799,1,0.573799
+3-o-sulfation on glcnac,0.573363,2,0.689247
+bisected complex-type n-glycans,0.573157,1,0.573157
+n-acetyllactosamine moieties,0.572577,1,0.572577
+kdn,0.572512,1,0.572512
+cartilage proteoglycan,0.571591,1,0.571591
+rrvs,0.571570,1,0.571570
+reducing sugars,0.570840,3,0.622944
+nucleotide-activated sugars,0.570699,3,0.876428
+glcα1-po4-man,0.570454,1,0.570454
+hybrid,0.568564,12,0.760916
+b4galt1,0.568542,1,0.568542
+galβ1-3glcnacβ1-3galβ1-4glcnac,0.567645,1,0.567645
+o-linked glycoproteins,0.567581,1,0.567581
+sias,0.566923,33,0.934353
+glycosphingolipids,0.566912,36,0.941422
+type-4,0.566746,3,0.782151
+pamps,0.565860,2,0.758885
+mucins,0.565281,13,0.894801
+branched α2-3sia,0.564532,1,0.564532
+ganglioside gm1,0.564156,1,0.564156
+βgalnac,0.563621,1,0.563621
+galα1-4galβ1-4glc,0.562897,1,0.562897
+mannose glycans,0.562619,1,0.562619
+sia,0.561776,9,0.826685
+sulfated terminal β-linked galnac,0.561655,1,0.561655
+fucosylated and xylosylated glycans,0.561525,1,0.561525
+galβ1-3galnacα-o-protein moieties,0.560944,1,0.560944
+galα1-3glcα1- disaccharide,0.560936,2,0.648338
+hemicellulose,0.560789,3,0.721193
+decasaccharide,0.560755,2,0.594443
+unsaturation,0.560645,1,0.560645
+nucleotide sugars,0.559979,9,0.927701
+glc3man9glcnac2,0.559870,2,0.595784
+simple mono- or disaccharides,0.559690,1,0.559690
+lewis x–modified glycans,0.559115,1,0.559115
+lipooligosaccharides,0.557785,1,0.557785
+biantennary complex,0.557243,1,0.557243
+heterogeneous glycan structures,0.557210,1,0.557210
+xyloglucan,0.557153,1,0.557153
+sulfated glycosaminoglycan,0.556135,2,0.706494
+α1–6man,0.556026,3,0.650550
+short hyaluronan chains,0.555851,1,0.555851
+o-linked mannose,0.554585,3,0.766325
+"n-, 2-o, and 6-o sulfated forms",0.553759,1,0.553759
+keratan sulfates,0.553627,2,0.599502
+sugars,0.552848,2,0.773062
+longer oligosaccharide,0.551940,1,0.551940
+parasite glycans,0.551699,1,0.551699
+α-sialyl linkages,0.551482,1,0.551482
+lewis blood group antigens,0.551124,2,0.630181
+terminal α-linked mannose or fucose residues,0.550947,1,0.550947
+glucuronic acids,0.549882,1,0.549882
+outer core oligosaccharide structure,0.548943,1,0.548943
+natural glycans,0.548931,3,0.555444
+endomucin,0.548741,1,0.548741
+mannosides,0.548579,1,0.548579
+complex and hybrid-type n-glycans,0.547622,1,0.547622
+core 1 and 2 o-galnac glycans,0.547469,5,0.624338
+gb3,0.546818,3,0.616912
+microbial surface glycans,0.546781,1,0.546781
+mannose residues,0.546535,2,0.784561
+type 1 blood group h structure,0.546034,1,0.546034
+certain glycan structures,0.545977,2,0.816090
+hybrid and complex-type n-glycan,0.545609,2,0.588344
+monosaccharide precursors,0.544418,1,0.544418
+neutral monosaccharides,0.544172,1,0.544172
+hs glycosaminoglycan chains,0.544146,1,0.544146
+galβ1-4glcnacβ1-3 repeats,0.544017,1,0.544017
+o-galnac,0.543206,23,0.831664
+lewis x (lex),0.543137,1,0.543137
+nuclear and cytoplasmic glycoproteins,0.542944,1,0.542944
+o-galnac (tn),0.542918,2,0.634910
+gbps,0.542489,19,0.877416
+terminal or subterminal glycans,0.542145,1,0.542145
+glc3man9glcnac2-p-p-dol,0.540535,1,0.540535
+ppgalnacts,0.540481,1,0.540481
+o-mannosyl glycans,0.539981,1,0.539981
+core 1 and core 2 o-galnac glycans,0.539534,2,0.578335
+polysialic acid,0.538956,4,0.774906
+type-1 h determinants,0.538106,2,0.602059
+neu5acα2-8,0.536010,1,0.536010
+sialylated los structures,0.535676,1,0.535676
+galactose-containing glycans,0.535585,2,0.687308
+protein-linked glycans,0.535505,1,0.535505
+α- or β-linked sugars,0.535285,1,0.535285
+cellobiose,0.534345,1,0.534345
+terminal lewis b blood group antigen-containing glycans,0.534162,1,0.534162
+"trehalose-6,6-dimycolate",0.533609,1,0.533609
+lipopolysaccharides,0.533147,6,0.932452
+hybrid and complex n-glycans,0.533014,2,0.736465
+o-glycan terminal motifs,0.531780,2,0.795156
+sialylated glycolipids,0.531453,1,0.531453
+more complex glycans,0.531256,2,0.542181
+highly branched structures,0.531068,1,0.531068
+glycosidic linkages,0.530985,2,0.729942
+disaccharides and trisaccharides,0.530176,1,0.530176
+extensins,0.530036,4,0.634442
+lysosomal hydrolases,0.529925,1,0.529925
+arabinosyl gts,0.529849,1,0.529849
+sialylated n-acetyllactosamines,0.528695,2,0.794654
+nonsulfated glycosaminoglycan,0.528017,1,0.528017
+callose,0.527282,4,0.685770
+zwitterionic structures,0.526896,1,0.526896
+glycopeptides,0.525571,10,0.913001
+brain glycolipids,0.523938,1,0.523938
+arabinose,0.523848,1,0.523848
+glycan chains,0.523768,6,0.891510
+decasaccharide 8,0.522768,1,0.522768
+10-mer,0.522116,1,0.522116
+chondroitin sulfate,0.521847,8,0.818851
+unique glycans,0.521311,1,0.521311
+hs chain,0.521247,1,0.521247
+chondroitin sulfate b,0.520956,1,0.520956
+intact glycans,0.520294,2,0.593981
+slex structure,0.519701,1,0.519701
+αgal,0.519163,1,0.519163
+branched,0.519105,4,0.805237
+arthroseries glycans,0.517784,1,0.517784
+glycosaminoglycan chains,0.517429,3,0.659694
+core 1 o-glycan structure,0.517373,1,0.517373
+n-glcnac,0.517298,2,0.632490
+8epi-di-n-acetylacinetaminic acid,0.516464,1,0.516464
+a determinants,0.516220,1,0.516220
+galnac-gd1a heptasaccharide 7,0.516083,1,0.516083
+cores 1–4,0.515563,2,0.524882
+substituted galacturonans,0.515339,1,0.515339
+terminal glucuronic acid,0.515147,1,0.515147
+cell-surface glycans,0.514347,11,0.894012
+lewis x–like structures,0.514284,1,0.514284
+glcnacαβ1-2manα1-6,0.513960,1,0.513960
+βglcts,0.513918,1,0.513918
+fully sialylated chains,0.513864,1,0.513864
+phosphates,0.513280,2,0.574323
+glycans from bacteria or less well-characterized organisms,0.513184,1,0.513184
+branching,0.513054,2,0.643776
+1-6-linked β-galp,0.512912,1,0.512912
+cbm,0.512610,1,0.512610
+carboxyl groups,0.511312,1,0.511312
+samps,0.511074,3,0.639411
+galactosylated glycoproteins,0.510981,1,0.510981
+membrane glycolipids,0.510940,1,0.510940
+exposed glcnac residues,0.510165,1,0.510165
+n-acetylated amino sugars,0.510090,1,0.510090
+gd1 ganglioside,0.507715,1,0.507715
+lipid-linked sugar donors,0.507578,1,0.507578
+glcnacβ1-2manα1-3,0.507244,1,0.507244
+α-dystroglycan,0.507105,7,0.783239
+mannose,0.506889,8,0.662913
+fructans,0.506634,3,0.786089
+2-fucosyllactose,0.506469,2,0.612642
+o-linked glycoconjugates,0.505761,1,0.505761
+polysaccharide backbone,0.504256,1,0.504256
+epss,0.504079,8,0.943966
+group b,0.503638,1,0.503638
+lipoteichoic acids,0.502744,2,0.709220
+heptose residues,0.502453,1,0.502453
+crds,0.502248,7,0.690985
+"β-1,4/β-1,3-glucan",0.502114,1,0.502114
+neutral glycans,0.501725,1,0.501725
+siaα2-3/6galβ1-4glcnac,0.501231,2,0.523604
+"galα1,3galα- disaccharide",0.501023,1,0.501023
+core 3 and 4 o-galnac glycans,0.500740,2,0.597031
+manlam,0.499725,4,0.672196
+glcnac,0.499353,12,0.866746
+chitobiose,0.498915,1,0.498915
+m6p recognition marker,0.498318,1,0.498318
+target glycans,0.497994,1,0.497994
+n-linked glycoproteins,0.497820,2,0.533993
+matrix proteoglycans,0.497690,1,0.497690
+α2-6gal(nac) linkages,0.497012,1,0.497012
+chondroitin sulfate chain,0.496685,1,0.496685
+glycoprotein ligands,0.495833,1,0.495833
+carboxylates,0.495398,1,0.495398
+type-3,0.495278,3,0.698884
+high-mannose or paucimannose type,0.494976,1,0.494976
+ser/thr-linked o-mannose glycans,0.494385,1,0.494385
+glycoconjugates and gbps,0.494048,1,0.494048
+monosaccharide building blocks,0.493873,1,0.493873
+mucin-like o-glycosylated membrane proteins,0.493610,1,0.493610
+o-acetylated sialic acid receptors,0.493398,2,0.498722
+oligogalacturonides,0.493304,6,0.684400
+neu5ac,0.492943,4,0.623272
+chitin elicitors,0.492550,1,0.492550
+terminal sialic acids,0.492414,2,0.494253
+terminal fucose residues,0.491360,1,0.491360
+glucan chains,0.491333,3,0.605414
+nucleotide-activated oligosaccharides,0.490892,1,0.490892
+sialyl lewis x structure,0.490841,2,0.697838
+modifications of glycans,0.490192,1,0.490192
+dolichol-linked,0.489863,1,0.489863
+glcnacβ1-4glc-cer,0.489786,1,0.489786
+dha,0.489690,1,0.489690
+challenging targets,0.489647,1,0.489647
+cpgs,0.489266,1,0.489266
+"β-1,3-glucan",0.489167,1,0.489167
+glycan arrays,0.489061,2,0.654798
+galabiose,0.488561,3,0.554571
+lipid-phosphate-linked sugars,0.487801,1,0.487801
+n-linked tetrasaccharide,0.487138,3,0.571224
+core 1 and core 2 o-glycans,0.486569,1,0.486569
+glc3man9glcnac2-asn,0.486113,1,0.486113
+galnac disaccharide,0.485951,1,0.485951
+o-glc glycans,0.485462,1,0.485462
+glc disaccharide,0.485443,1,0.485443
+trans-serrate,0.485435,1,0.485435
+core-1 o-glycan,0.485060,1,0.485060
+sialylated n-glycans,0.484817,1,0.484817
+hnk-1,0.484258,1,0.484258
+gpi glycans,0.484187,1,0.484187
+extracellular glycoconjugates,0.483350,2,0.648094
+phosphomannans,0.483231,1,0.483231
+gal,0.482905,5,0.856164
+membrane-derived oligosaccharides,0.482719,1,0.482719
+repeating sulfate-substituted galnacβ4glcaβ3 disaccharides,0.482398,1,0.482398
+penultimate β-linked gal residues,0.482291,1,0.482291
+rhizobium exopolysaccharides,0.482182,1,0.482182
+terminal glycan sequences,0.481759,1,0.481759
+tsrs,0.481751,10,0.954542
+8epi-di-n-acetyllegionaminic acid,0.481298,1,0.481298
+terminal groups,0.480944,1,0.480944
+neural ganglioside structures,0.480834,1,0.480834
+arthro-series glycolipids,0.480411,1,0.480411
+polyanionic,0.479788,1,0.479788
+gm1,0.479568,3,0.719896
+glcaβ1-3galβ-r,0.479007,1,0.479007
+egf repeats,0.478968,7,0.963945
+fucosylated,0.478695,3,0.617647
+o-glycosylated proteins,0.477965,1,0.477965
+sialic acid residues,0.477834,5,0.599733
+human milk oligosaccharides,0.477689,6,0.656393
+9-o-acetylated glycoconjugates,0.477325,1,0.477325
+high-mannose and paucimannose glycans,0.477108,1,0.477108
+three classes of glycans,0.476966,1,0.476966
+techoic acids,0.476370,1,0.476370
+relatively small glycans,0.476343,1,0.476343
+homogeneous peptide n-glycans,0.475993,1,0.475993
+sphingomyelin,0.475909,1,0.475909
+di-n-acetylacinetaminic acid,0.475850,1,0.475850
+gsl,0.475623,5,0.714900
+branched structures,0.475414,2,0.644697
+fucosylated glycoconjugates,0.475379,1,0.475379
+t-antigen,0.475043,1,0.475043
+glcnac-t,0.474420,1,0.474420
+glcnac-p,0.472788,2,0.638255
+related nonulosonic sugars,0.472593,1,0.472593
+reducing terminal sugar,0.472109,1,0.472109
+carbohydrate moieties,0.472075,1,0.472075
+"3,6-dideoxyhexoses",0.471872,3,0.692405
+mucin-type domains,0.471796,1,0.471796
+ctls,0.471116,1,0.471116
+hydroxyproline-rich proteoglycans,0.470933,2,0.582826
+galnacα1-3gal,0.470849,1,0.470849
+n-glycan corneal-type ks,0.470686,1,0.470686
+type i,0.470300,2,0.576010
+c-mannose,0.469027,3,0.684171
+type-i h determinants,0.468610,1,0.468610
+schistosome glycans,0.468542,1,0.468542
+β-propeller,0.468295,2,0.469572
+glycolipids and glycoproteins,0.468191,1,0.468191
+defined structure,0.467918,1,0.467918
+6′-sulfo-slex,0.466366,2,0.532770
+xylan,0.466305,2,0.652089
+phenolic glycosides,0.465025,1,0.465025
+pectin-derived oligogalacturonides,0.464951,1,0.464951
+n-acetyl-d-glucosamine,0.464421,2,0.614946
+n-glycosylation,0.463749,4,0.605838
+matrix glycans,0.463294,1,0.463294
+glcaβ1-3galnac repeats,0.462626,1,0.462626
+lppg,0.462418,2,0.467577
+mannose-containing glycans,0.462218,1,0.462218
+m3 glycan,0.461956,2,0.515474
+core-1 structure,0.461406,1,0.461406
+polysia,0.461135,13,0.735428
+bisecting glcnac residues,0.461032,1,0.461032
+high-molecular-weight glycoproteins,0.460739,1,0.460739
+gpis,0.460545,5,0.529053
+psgl-1,0.459504,2,0.498994
+highly defined glycan structures,0.459286,1,0.459286
+udp-α-gal,0.458936,1,0.458936
+gpi,0.457412,7,0.580273
+introduced glycans,0.457197,1,0.457197
+o-linked fucose,0.457028,2,0.620486
+terminal glcnac,0.456993,1,0.456993
+chondroitin sulfate a and c,0.454865,1,0.454865
+ndp-sugar-dependent,0.454548,1,0.454548
+n-glycosylated,0.454354,4,0.696136
+matriglycan,0.454303,3,0.617340
+fullerenols,0.454225,2,0.602293
+n-acetylneuraminic acid,0.453266,2,0.627323
+secretory pathway glycans,0.453214,1,0.453214
+gal-man-po4- repeats,0.453121,2,0.525695
+β1-4glcnac,0.452774,1,0.452774
+o-fuc,0.452667,7,0.732733
+β-sandwich,0.452504,2,0.455836
+n-glycome,0.452217,2,0.531344
+n-acetylglucosamine,0.452185,5,0.899645
+misfolded glycoproteins,0.452047,1,0.452047
+4-amino-4-deoxy-l-arabinose [l-ara4n],0.451164,1,0.451164
+mammalian glycosaminoglycan chains,0.450564,2,0.586358
+terminal sia residues,0.450468,1,0.450468
+altered tumor glycans,0.450368,1,0.450368
+sialic acid,0.449797,19,0.764798
+core 1,0.449693,7,0.648578
+o-galnac residues,0.449352,1,0.449352
+dinacbac,0.449318,1,0.449318
+six-carbon ketoses,0.448995,1,0.448995
+dolichol sugars,0.448816,1,0.448816
+pectin,0.448447,7,0.739868
+4-sulfated chondroitin sulfate,0.448317,1,0.448317
+six-carbon aldoses,0.448024,1,0.448024
+hs polysaccharides,0.446601,1,0.446601
+sialylated compounds,0.446542,1,0.446542
+sialylated,0.446398,4,0.763978
+animal glycosaminoglycans,0.446201,2,0.447563
+glcβcer bond,0.445944,1,0.445944
+lewis x,0.445848,3,0.540854
+egf repeat,0.445535,2,0.539115
+endogenous glycoconjugates,0.444875,1,0.444875
+sulfated galactans,0.444239,1,0.444239
+terminal β-galactose,0.444208,1,0.444208
+lpss,0.443753,2,0.601194
+heparan sulfate chains,0.442933,1,0.442933
+natural polysaccharides,0.442567,1,0.442567
+m1–m3,0.442358,1,0.442358
+n-linked,0.441518,1,0.441518
+host glycans,0.441225,4,0.774562
+perlecan,0.440975,1,0.440975
+heparan sulfate,0.440797,13,0.669659
+trans-delta,0.440341,1,0.440341
+pseudomurein,0.439584,3,0.649783
+glycans with terminal fuc,0.439424,1,0.439424
+sulphate residues,0.439389,1,0.439389
+cores,0.439305,2,0.604399
+gd1a,0.439304,2,0.524169
+m7bc,0.439240,5,0.505375
+n-linked oligomannose,0.438494,3,0.644836
+egf-like domains,0.437865,1,0.437865
+small soluble glycans,0.437462,1,0.437462
+linear homo-oligomers,0.437300,1,0.437300
+tprs,0.436750,1,0.436750
+"mono-, di-, and trisulfated disaccharides",0.436628,2,0.528287
+lipid a-core,0.436608,4,0.639423
+β-trefoil,0.436220,1,0.436220
+similar glycosaminoglycans,0.435913,1,0.435913
+poly-lacto-n-biose structures,0.435383,1,0.435383
+bsa-glcnacβ1-4glcnac,0.435338,1,0.435338
+released glycans,0.434992,2,0.443498
+galabiose-containing oligosaccharides,0.434813,1,0.434813
+type ii,0.434542,3,0.663177
+dolichyl-linked n-glycosylation precursors,0.434356,1,0.434356
+α2-6gal(nac),0.434105,1,0.434105
+cry5b ligands,0.433625,1,0.433625
+sulfated-gag-binding proteins,0.433544,2,0.459326
+n-linked oligosaccharides,0.433385,1,0.433385
+gal (b),0.432720,2,0.447062
+fucose,0.432624,1,0.432624
+terminal gal or galnac residues,0.432518,1,0.432518
+complex-type biantennary n-glycans,0.432277,1,0.432277
+extracellular polysaccharides,0.431961,3,0.498798
+hyaluronan,0.431925,23,0.749897
+polysias,0.431318,2,0.604987
+biantennary n-glycan,0.430710,2,0.540022
+murnac acceptors,0.430336,1,0.430336
+galactoceramides,0.429940,1,0.429940
+glucoceramides,0.429349,1,0.429349
+highly branched complex-type n-glycans,0.428881,1,0.428881
+deoxysugars,0.428839,2,0.544071
+polyglycosylceramides,0.428699,1,0.428699
+leishmania lpg,0.427882,1,0.427882
+sialylated o-galnac glycans,0.427851,1,0.427851
+β-1-3 branches,0.427813,1,0.427813
+c18-lipid tail,0.427801,1,0.427801
+"2-deoxy and 1,2-cis-linkages",0.427314,1,0.427314
+2′-fucosyllactose,0.425655,1,0.425655
+d-aldoses,0.425312,1,0.425312
+o-acetylated species,0.425191,1,0.425191
+lacdinac structures,0.425106,1,0.425106
+d-glycero-d-galacto,0.424991,1,0.424991
+sialyl-tn structure,0.423900,2,0.427986
+mannan chains,0.423029,1,0.423029
+colitose,0.422977,1,0.422977
+sialic acid termini,0.422734,2,0.475616
+o-galnac cores,0.422016,1,0.422016
+truncated o-galnac glycans,0.421720,1,0.421720
+biantennary,0.421386,3,0.541931
+glucosamines,0.421067,1,0.421067
+polymannosylated glycans,0.420913,1,0.420913
+β-linked polymers,0.420902,1,0.420902
+glycoprotein o- and n-glycans,0.420895,1,0.420895
+hexose,0.420481,2,0.468490
+galβ1-4glcnac-r,0.420349,1,0.420349
+neu5gc,0.419831,5,0.661541
+host cell-surface glycoconjugates,0.419809,1,0.419809
+chitin,0.419636,4,0.719448
+eps,0.419262,4,0.605122
+rhamnomannans,0.419086,1,0.419086
+o-antigens,0.418753,6,0.619957
+paracrystalline microfibrils,0.418728,1,0.418728
+mycolic acids,0.418700,1,0.418700
+sulfated heparin pentasaccharide,0.418361,1,0.418361
+erad substrates,0.417898,1,0.417898
+man3glcnac2,0.417436,2,0.516970
+galactose functionalized dendrimeric arms,0.417379,1,0.417379
+raffinose oligosaccharides,0.417103,1,0.417103
+hapten sugars,0.416643,2,0.429445
+lipoglycans,0.416478,1,0.416478
+the common classes of glycans,0.416077,1,0.416077
+kdo,0.415808,2,0.566493
+galactose,0.415315,5,0.587260
+grps,0.414762,4,0.470688
+cell-surface receptors,0.414077,1,0.414077
+complex exopolysaccharides,0.413832,1,0.413832
+hs side chains,0.413373,1,0.413373
+o-linked,0.413310,2,0.455799
+nulo,0.413047,2,0.436532
+alditol acetates,0.412420,1,0.412420
+maternal glycans,0.412270,1,0.412270
+di-n-acetylpseudaminic acid,0.412074,1,0.412074
+polyprenol,0.411943,1,0.411943
+manα1-2manα1-6manα1-4glcnα1-6inositolphospholipid,0.411834,1,0.411834
+glycocalyx,0.411298,2,0.492098
+ganglioside series,0.410548,1,0.410548
+o-acetyl groups,0.410049,1,0.410049
+disaccharide repeating units,0.409862,1,0.409862
+specific sugar structures,0.409721,1,0.409721
+leishmania lipophosphoglycan (lpg),0.409675,1,0.409675
+simple monosaccharides,0.409415,1,0.409415
+gipls,0.408601,1,0.408601
+lipid-linked glycan,0.408224,2,0.548461
+complex n-glycan,0.407513,3,0.512794
+adhesins,0.407453,3,0.510692
+terminal gal residues,0.407444,3,0.558690
+certain sialylated glycolipids,0.407110,1,0.407110
+classical a and b blood group determinants,0.406851,1,0.406851
+high-mannose n-glycan,0.406792,2,0.501730
+surface glycans,0.406642,1,0.406642
+7/8/9-tri-o-acetyl sias,0.405945,1,0.405945
+galα1-3galβ1-4glcnac-r,0.405791,2,0.457608
+oligoglucosides,0.404820,1,0.404820
+sialylated los,0.404424,1,0.404424
+dol-p-p,0.404410,3,0.488280
+cyclohexene,0.404389,1,0.404389
+cellulose,0.404182,5,0.677525
+lea and leb glycans,0.404153,1,0.404153
+slea,0.404139,3,0.566725
+teichoic acid polymers,0.403883,1,0.403883
+cell wall lipoteichoic acids,0.403040,1,0.403040
+o-glcnacylation,0.402072,8,0.534659
+parallel strands,0.401304,1,0.401304
+o-linked oligosaccharide,0.401192,1,0.401192
+glypican family,0.400999,2,0.490912
+branched-chain sugars,0.400880,2,0.428574
+biological domains,0.400695,1,0.400695
+e-pha-binding glycoproteins,0.400483,1,0.400483
+sialyl-6-sulfo-lex structures,0.400341,1,0.400341
+certain glycans,0.400275,2,0.465134
+2-aa,0.400090,1,0.400090
+6-deoxyhexoses,0.399991,1,0.399991
+mucin,0.399912,1,0.399912
+paucimannose,0.399554,3,0.581615
+increased tetra-antennary branching,0.399222,1,0.399222
+low-molecular-weight heparins,0.398546,1,0.398546
+starch polymers,0.398115,1,0.398115
+prokaryotic nonulosonic acids,0.397901,1,0.397901
+extended gal-containing glycans,0.397631,1,0.397631
+o-linked mucins,0.397354,1,0.397354
+small glycans,0.397009,1,0.397009
+6-o sulfated forms,0.396651,1,0.396651
+microfibrils,0.396459,1,0.396459
+gt-b fold,0.395757,1,0.395757
+cytoplasmic glycoconjugates,0.395539,1,0.395539
+dolichol-p-mannose,0.394942,3,0.584558
+sialic acid types,0.394753,2,0.515907
+sialic acid-containing glycans,0.394431,1,0.394431
+glycoforms of glycoproteins and glycolipids,0.394160,1,0.394160
+isolated glycoprotein,0.393952,1,0.393952
+glycan isomers,0.393793,1,0.393793
+structural polysaccharides,0.393696,1,0.393696
+o- and n-glycans,0.392822,1,0.392822
+simple glycans,0.392190,1,0.392190
+outer-chain glycosylation,0.391941,1,0.391941
+arabinogalactan proteins,0.391913,2,0.447763
+keratan sulfate–related antigens,0.391884,1,0.391884
+specific carbohydrate structures,0.391872,2,0.415851
+monoantennary,0.391319,1,0.391319
+ogt/oga,0.391231,1,0.391231
+sea urchin glycans,0.390987,1,0.390987
+classical,0.390955,1,0.390955
+galα1–4gal,0.390622,1,0.390622
+heparan sulfate/heparin,0.390534,1,0.390534
+glycan ligands,0.390533,2,0.442116
+secreted glycan chains,0.390369,1,0.390369
+poly(manα1-6)n backbone,0.389699,1,0.389699
+dermatan sulfates,0.389378,1,0.389378
+siaα2-6galβ1-4glcnac,0.388247,1,0.388247
+arthroseries cores,0.388100,1,0.388100
+glycan side-chains,0.387740,1,0.387740
+mature sialoglycoconjugates,0.387039,1,0.387039
+proteoglycan core proteins,0.386828,1,0.386828
+soluble low-molecular-weight compounds,0.386805,1,0.386805
+human glycans,0.386566,1,0.386566
+paucimannosidic,0.386564,2,0.505975
+heparin chains,0.384864,1,0.384864
+polyglycerol chains,0.384714,1,0.384714
+phosphorylated glycans,0.384245,1,0.384245
+core structures,0.384189,3,0.537851
+glca,0.384109,1,0.384109
+slex,0.383725,3,0.414493
+amino groups,0.383052,2,0.395399
+pyranose (p) ring,0.382492,1,0.382492
+man5glcnac2,0.382412,2,0.445888
+α-helix,0.382033,1,0.382033
+all major glycan classes,0.381461,1,0.381461
+lignin,0.381085,1,0.381085
+phosphopeptidomannans,0.380492,1,0.380492
+complex carbohydrate structures,0.380366,1,0.380366
+core 3,0.379891,2,0.394212
+gt-a enzymes,0.379623,1,0.379623
+o-glc,0.379417,3,0.429282
+free glycans,0.379157,1,0.379157
+heparin hexasaccharide,0.378816,1,0.378816
+α-linked o-fucose modification,0.378729,1,0.378729
+lewis a,0.378466,1,0.378466
+glucosamine,0.377971,3,0.423795
+myelin-associated glycoprotein,0.377458,1,0.377458
+most major glycan classes,0.377197,2,0.438173
+a and b blood group determinants,0.377086,1,0.377086
+viral glycoproteins,0.377006,1,0.377006
+o-glcnacase,0.376893,3,0.448228
+o-glycosylated mucins,0.376881,1,0.376881
+murnac residues,0.376878,2,0.386232
+(n-1)-polysaccharides,0.376833,1,0.376833
+exopolysaccharide,0.376579,1,0.376579
+glcnacs,0.376426,1,0.376426
+glc3man9glcnac2asn,0.376074,1,0.376074
+cell-surface glycoconjugates,0.375780,2,0.399516
+anionic sugars,0.375549,1,0.375549
+glycan structural components,0.374976,1,0.374976
+llos,0.374702,1,0.374702
+terminal galnac,0.373733,1,0.373733
+glycan strands,0.373547,3,0.412370
+aldehydes,0.373299,2,0.424925
+o-acetylated sias,0.373263,2,0.413253
+truncated core 1 structures,0.373189,2,0.438662
+lewis antigens,0.373110,3,0.579350
+cellulose-binding modules,0.372760,1,0.372760
+β-linked gal residues,0.372295,1,0.372295
+core trisaccharide,0.371880,3,0.449139
+"peracetylated 2,3,4-tri-o-methyl-hexoses",0.371456,1,0.371456
+β-sheet-containing domains,0.371339,1,0.371339
+therapeutic glycoproteins,0.371041,1,0.371041
+hexnac and hexosamine residues,0.370895,1,0.370895
+glucomannans,0.370778,1,0.370778
+structures,0.370759,4,0.464034
+distinctive glycans,0.369995,1,0.369995
+selectins,0.369320,1,0.369320
+14-sugar glycan,0.369197,1,0.369197
+4epi-di-n-acetyllegionaminic acid,0.369126,1,0.369126
+linear and/or branched structure,0.368550,1,0.368550
+complex glycolipids,0.368356,1,0.368356
+o-antigen,0.368120,1,0.368120
+extending chito-motifs,0.367914,1,0.367914
+galβ1-3glcnac,0.367647,1,0.367647
+glcnac phosphodiester,0.367466,1,0.367466
+sulfatide,0.367451,5,0.383891
+thrombospondin type 1 repeats,0.367180,1,0.367180
+selected hemicelluloses,0.366952,1,0.366952
+galactosylated,0.366743,1,0.366743
+galnacβ1-4glcnacβ1-structure,0.366663,1,0.366663
+glcnacα-arg,0.366538,1,0.366538
+sugar chains,0.366479,1,0.366479
+gt1c,0.366372,1,0.366372
+o-linked mannose core,0.365734,1,0.365734
+o-polysaccharides,0.365288,2,0.418815
+inner core,0.364922,2,0.430357
+inositol-acylated gpi proteins,0.364736,1,0.364736
+methanochondroitin,0.364175,6,0.401960
+β-trefoil proteins,0.363994,2,0.375062
+cellulose microfibrils,0.363652,2,0.403022
+chiral nematic phases,0.363440,1,0.363440
+galectins,0.363064,7,0.434062
+n- and o-sulfate esters,0.362486,1,0.362486
+g0 n-glycan,0.362336,1,0.362336
+polysialic acids,0.362275,1,0.362275
+glc,0.361716,1,0.361716
+gm1 ganglioside,0.361587,1,0.361587
+chondroitin sulfates,0.361561,2,0.445706
+sialylated o-glycans,0.360830,1,0.360830
+glycolipid species,0.360466,1,0.360466
+undecaprenol diphosphate-linked o-pss,0.359970,1,0.359970
+gb4,0.359871,2,0.433020
+6-o-sulfo groups,0.359783,1,0.359783
+abo(h) blood group glycans,0.359747,1,0.359747
+1-3-linked β-gal backbone,0.359598,1,0.359598
+structurally related polysaccharides,0.359330,1,0.359330
+o-β-glcnac,0.358542,3,0.462058
+glycosphingolipid glycans,0.357955,1,0.357955
+sphingolipids,0.357614,2,0.393385
+mucin glycoproteins,0.357303,2,0.358371
+dystroglycan,0.357020,1,0.357020
+α-methylmannoside,0.356713,1,0.356713
+individual monosaccharides,0.356316,1,0.356316
+type-1 and -2 units,0.355884,1,0.355884
+reducing end sugar,0.355815,1,0.355815
+chitin oligosaccharide,0.355392,2,0.418777
+wall teichoic acids,0.355259,2,0.409730
+sialylated glycosphingolipids,0.354407,1,0.354407
+most natural or designed glycans,0.354360,1,0.354360
+intermediate llo structures,0.354184,1,0.354184
+c-9 ester,0.353797,1,0.353797
+terminal sugar residues,0.353626,1,0.353626
+immunoglobulin superfamily,0.353567,1,0.353567
+hyaluronan chains,0.353062,1,0.353062
+exogenous glycans,0.352275,3,0.428856
+nonhuman glycans,0.352133,3,0.429457
+most glycans,0.351827,1,0.351827
+fibronectin type ii repeat,0.351762,1,0.351762
+ogn,0.351721,1,0.351721
+mannose thioglycoside,0.351673,1,0.351673
+recombinant glycoproteins,0.350805,1,0.350805
+ganglioside,0.350141,2,0.392860
+gg4,0.349471,1,0.349471
+amyloid protein precursors,0.349232,1,0.349232
+o-galnac-gal (t),0.348932,1,0.348932
+lipoteichoic acid,0.348791,1,0.348791
+unwanted glycans,0.348452,1,0.348452
+gt families,0.348306,2,0.364420
+sulfated,0.347830,2,0.370871
+oligosaccharide side chains,0.347699,1,0.347699
+galnacα1-4galnacα1-3-dinacbac-β1,0.347286,1,0.347286
+series a,0.347241,1,0.347241
+lysozyme-type fold,0.346952,1,0.346952
+lipopeptidophosphoglycan,0.346919,1,0.346919
+undecaprenylphosphate,0.346870,2,0.398882
+neu5acα2–3gal-,0.346763,1,0.346763
+gpi-anchored proteins,0.346706,2,0.441335
+endo-n,0.346485,1,0.346485
+ethanolamine phosphate residues,0.346286,1,0.346286
+starch,0.346099,3,0.493817
+galβ1-3 residues,0.346046,2,0.393988
+βglca,0.345881,1,0.345881
+n-glycosylation disorders,0.345870,1,0.345870
+labeled glycans,0.345790,1,0.345790
+β-glcnac,0.344978,1,0.344978
+hs-derived units,0.344954,1,0.344954
+type 2,0.344424,1,0.344424
+heptose,0.343963,1,0.343963
+rg-i,0.343946,1,0.343946
+inositolphosphoceramide-based protein-linked gpis,0.343480,1,0.343480
+fucosylated compounds,0.343427,1,0.343427
+internal,0.343199,1,0.343199
+endogenous cell-surface gangliosides,0.343170,1,0.343170
+pa14 domains,0.342994,2,0.413209
+glucuronylated,0.342925,1,0.342925
+mycolyl-ag-peptidoglycan complex,0.342865,1,0.342865
+gal moieties,0.342854,1,0.342854
+bacillosamine,0.342758,1,0.342758
+o-linked glycan diversity,0.342634,1,0.342634
+dermatan sulfate,0.342421,3,0.364819
+α-linked polyglucose nanofilaments,0.342329,1,0.342329
+man6glcnac2,0.341379,1,0.341379
+glucan,0.341307,5,0.431633
+acetals,0.341058,1,0.341058
+placental chondroitin sulfate a,0.340751,1,0.340751
+type-2,0.340327,1,0.340327
+mucin type o-glycosylation,0.340215,1,0.340215
+arabino-oligosaccharides,0.339567,1,0.339567
+n-acetylglucosamine residues,0.339212,2,0.406369
+linear poly-n-acetyllactosamine units,0.338506,1,0.338506
+β-prism,0.338464,1,0.338464
+glcnacβ1-4man-r,0.338380,1,0.338380
+5-hydroxymethyl cytosine bases,0.338377,1,0.338377
+kdop-containing lipids,0.337971,1,0.337971
+xylose residues,0.337541,2,0.359100
+minor glycans,0.337063,1,0.337063
+iupac-like,0.336974,1,0.336974
+gpi glycan side chains,0.336920,1,0.336920
+fsp,0.336361,2,0.392933
+cancer-associated glycolipid glycans,0.336134,1,0.336134
+extended chitobiose glycan,0.335858,1,0.335858
+mature n- and o-glycans,0.335835,1,0.335835
+core-2-based o-glycan,0.335770,1,0.335770
+gpi-anchored glycoproteins,0.335754,1,0.335754
+glycan ligand,0.334778,1,0.334778
+man2-3glcnac2,0.333620,1,0.333620
+syndecan-1 ectodomains,0.333079,1,0.333079
+glycosylinositolphosphorylceramides,0.332436,1,0.332436
+eukaryotic glycans,0.332207,2,0.340677
+β-d-xylosides,0.332021,1,0.332021
+galcer,0.331533,4,0.372205
+sequences,0.331507,1,0.331507
+cpss/epss,0.331404,1,0.331404
+4-o-acetyl group,0.331298,1,0.331298
+carbohydrate structures,0.331100,1,0.331100
+diacetamidodideoxyglucopyranose,0.330958,1,0.330958
+neu5gcα2–3galβ1–4glc,0.330905,1,0.330905
+dolichol-p-man,0.330191,1,0.330191
+l-type,0.329766,1,0.329766
+o-glycan chains,0.329696,1,0.329696
+mannose chains,0.329513,1,0.329513
+complex human-like glycans,0.329407,1,0.329407
+sulfated gag,0.329205,1,0.329205
+galactolipids,0.328957,2,0.332143
+degraded glycans,0.328902,2,0.341370
+3-o-sulfated gal,0.328807,1,0.328807
+oligosaccharide sequences,0.328356,1,0.328356
+dermatan,0.328008,1,0.328008
+lipid-linked tetrasaccharide,0.327810,1,0.327810
+glyco-epitopes,0.327686,1,0.327686
+siglecs,0.327669,2,0.394121
+monoglucosylated,0.327649,2,0.379942
+putative repeating unit,0.327550,1,0.327550
+acceptor substrates,0.327445,2,0.338667
+ceramide,0.327328,1,0.327328
+monosialylated ganglioside,0.326707,1,0.326707
+backbone structures,0.326602,2,0.393620
+galα1-4gal moiety,0.326473,1,0.326473
+abo glycans,0.326012,1,0.326012
+mucin domains,0.325835,1,0.325835
+endogenous glycans,0.325820,3,0.349913
+repetitive polysaccharides,0.325645,1,0.325645
+glycodelin s,0.325483,1,0.325483
+man7–9glcnac2 oligosaccharides,0.325481,1,0.325481
+lipid a,0.325184,2,0.395187
+keratan sulfate,0.324870,4,0.391512
+acidic disaccharide repeating units,0.324862,1,0.324862
+c14:0 myristate,0.324649,1,0.324649
+4-manpa-1-4-gulpa-1 sequences,0.324377,1,0.324377
+2-ab,0.323912,1,0.323912
+β1-2glcnac,0.323372,1,0.323372
+1-2-linked rhap residues,0.322835,1,0.322835
+mucin repeats,0.322801,1,0.322801
+heparan sulfate (hs) proteoglycans,0.322542,1,0.322542
+interglycosidic bonds,0.322235,1,0.322235
+cps structures,0.322053,1,0.322053
+human glycan epitopes,0.322012,1,0.322012
+gm2,0.321890,3,0.341543
+diesters,0.321638,1,0.321638
+bisecting glcnac,0.321610,2,0.351696
+frog egg mucins,0.321402,1,0.321402
+glycan category,0.321069,1,0.321069
+specific glycans,0.320943,3,0.380714
+ligands,0.320038,1,0.320038
+bgb+e. coli,0.319828,2,0.321800
+fuc,0.319755,1,0.319755
+gpi-anchor,0.319646,1,0.319646
+multiple glycoforms,0.319438,1,0.319438
+complementary glycans,0.319012,1,0.319012
+bisecting glcnact-iii,0.318718,1,0.318718
+disaccharide fragments,0.318637,1,0.318637
+chitin polysaccharides,0.318228,1,0.318228
+lipid-linked oligosaccharide precursor,0.318154,1,0.318154
+green algae,0.317993,2,0.318448
+glycodelin a,0.317965,1,0.317965
+internal sequences,0.317947,1,0.317947
+los,0.317885,1,0.317885
+cazy gt2 family,0.317867,1,0.317867
+α2-3sialyllactosamines,0.317615,1,0.317615
+serrate,0.317441,2,0.332090
+n-glycans on yeast glycoproteins,0.317380,1,0.317380
+smaller glyco-clusters,0.316879,1,0.316879
+siglec family,0.316563,1,0.316563
+attached glycans,0.316291,2,0.366030
+sialylated ligands,0.316278,2,0.347047
+multiple plasma glycoproteins,0.315587,1,0.315587
+certain glycolipids,0.315544,1,0.315544
+peptide portions,0.315353,2,0.344221
+o-ps,0.315124,4,0.370178
+neu5acα2–6gal linkages,0.314569,1,0.314569
+glycosyldiacylglycerolipids,0.314491,1,0.314491
+glycoproteins of parasites,0.314445,1,0.314445
+glycans characteristic of microorganisms,0.314268,1,0.314268
+endogenous glycan structures,0.314043,1,0.314043
+rare sugars,0.313386,1,0.313386
+related moieties,0.313361,1,0.313361
+specialized glycans,0.312705,1,0.312705
+peptidoglycam,0.312639,1,0.312639
+hs structure,0.311962,1,0.311962
+the glycan moieties,0.311477,1,0.311477
+long glycan chains,0.311339,1,0.311339
+glycan side chains,0.311054,2,0.362591
+blood group b glycans,0.310798,1,0.310798
+galactosylated swcnts,0.310281,1,0.310281
+β-linked cell-surface gal/galnac containing glycans,0.310224,1,0.310224
+most glycan structures,0.310201,1,0.310201
+glycosylated metabolites,0.310132,1,0.310132
+polyglucosan bodies,0.309368,2,0.351068
+unstructured regions,0.309297,1,0.309297
+dxd motif,0.308777,1,0.308777
+core 2,0.308755,2,0.317805
+secreted mucins,0.307953,2,0.349842
+arthroseries glycolipids,0.307788,1,0.307788
+internal 6-o-sulfated glucosamine residues,0.307584,1,0.307584
+polymers,0.307556,1,0.307556
+glccer,0.307457,1,0.307457
+egf-like,0.306757,1,0.306757
+heparan,0.306706,1,0.306706
+lipopolysaccharide o-antigens,0.306356,1,0.306356
+poly-lacnac chains,0.304773,4,0.358075
+galactofuranose (f),0.304556,1,0.304556
+o-glucose,0.304546,2,0.354940
+gsl structures,0.304314,2,0.342872
+linear fucose,0.304292,1,0.304292
+galnacα1-4galnacα1-4,0.304214,1,0.304214
+p1 determinant,0.304207,1,0.304207
+lipid-linked oligosaccharide,0.303681,3,0.317581
+terminal β-linked gal,0.303668,2,0.337100
+glycosylphosphatidylinositol (gpi) anchors,0.303394,1,0.303394
+fumigatus galactomannan-manα1–2manα1–2manα1–6manα1–4glcn-inositolphosphoceramide,0.302898,1,0.302898
+polyribitol,0.301992,1,0.301992
+free glycan structures,0.301518,1,0.301518
+modified and phosphorylated glycans,0.301298,1,0.301298
+modified sugars,0.301021,1,0.301021
+mucin glycans,0.300253,1,0.300253
+branched pentasaccharide,0.300165,1,0.300165
+sialylated glycoconjugates,0.299883,1,0.299883
+glyconanomaterials,0.299661,1,0.299661
+specific glycoforms of a glycoprotein,0.299575,1,0.299575
+incomplete protein-bound glycans,0.299352,1,0.299352
+core-1 galβ1-3galnacα1-o-ser/thr structure,0.298923,1,0.298923
+outer core,0.298651,2,0.306334
+incomplete glycans,0.298364,1,0.298364
+serrate/jagged,0.298286,1,0.298286
+chondroitin sulfate/dermatan sulfate,0.297710,1,0.297710
+glycans carrying two m6p residues,0.297551,1,0.297551
+lpg,0.297532,1,0.297532
+gt-a superfamily,0.297363,1,0.297363
+heavily o-glycosylated gel-forming mucins,0.297308,1,0.297308
+core 1 o-glycan,0.297116,1,0.297116
+glcβ1-3fucα-o-ser/thr,0.297103,1,0.297103
+1-4-linked β-d-manpa,0.296771,1,0.296771
+trans-sialidases,0.296758,1,0.296758
+β-strand,0.296446,1,0.296446
+fucα1-3glcnac,0.295549,1,0.295549
+mucin sialoglycans,0.295335,1,0.295335
+ssea-4,0.294810,1,0.294810
+gt27 cazy family,0.294216,1,0.294216
+exposed galactose,0.294097,1,0.294097
+heparin,0.293785,1,0.293785
+galα1–4gal-cer residues,0.293595,1,0.293595
+glycan portion,0.293288,1,0.293288
+n- and o-linked chains,0.292932,1,0.292932
+cores of all types of glycoprotein glycans,0.292817,1,0.292817
+antigenic glycoconjugate structures,0.292642,1,0.292642
+core 1 and core 2,0.292240,2,0.316606
+terminal monosaccharide units,0.292233,1,0.292233
+galβ1-4manα1-po4,0.292067,1,0.292067
+long-chain glycosphingolipids,0.291864,1,0.291864
+paucimannosidic structures,0.291732,1,0.291732
+s-layer,0.291319,1,0.291319
+glycoside,0.291254,1,0.291254
+galnacα1-4,0.291214,1,0.291214
+plm antigens,0.291034,1,0.291034
+neoglycoprotein,0.290979,1,0.290979
+membrane-bound mucins,0.290590,1,0.290590
+glcua,0.290406,1,0.290406
+paps,0.289956,1,0.289956
+neutral core oligosaccharide,0.289842,1,0.289842
+1-6- and 1-3-linked β-glc residues,0.289780,1,0.289780
+ganglioside immunogens,0.289587,1,0.289587
+undecaprenyl carriers,0.289345,1,0.289345
+mannac,0.289134,1,0.289134
+man-6-p targeting signal,0.288722,1,0.288722
+oligomannose (or high-mannose) type,0.288034,1,0.288034
+mucin-like,0.288010,1,0.288010
+chains,0.287908,1,0.287908
+brain ganglioside glycans,0.287869,1,0.287869
+cell-surface sialic acids,0.287659,1,0.287659
+glycoproteins and glycolipids,0.287501,1,0.287501
+cancer-associated ligands,0.287335,1,0.287335
+open ring,0.287238,1,0.287238
+secretory proteins,0.286703,1,0.286703
+mliiiα/β,0.286633,1,0.286633
+sialylated fucosylated hex-hexnac,0.286203,1,0.286203
+n- and o-linked glycopeptides,0.285842,1,0.285842
+secreted polysaccharides,0.285737,1,0.285737
+legionaminic acid,0.285004,1,0.285004
+chitin oligosaccharides,0.284667,2,0.295547
+gm3,0.284655,3,0.337750
+β-trefoil fold,0.284293,2,0.315961
+biantennary glcnac2man3glcnac2,0.284133,1,0.284133
+β-linked gal,0.283974,1,0.283974
+mammalian sialidases,0.283964,1,0.283964
+poly-n-acetyllactosamine sequences,0.283391,1,0.283391
+slex tetrasaccharide,0.282994,1,0.282994
+glycome,0.282982,2,0.307550
+hexnac-hexnac core,0.282832,1,0.282832
+-6galβ1-4manα 1-po4-) repeat units,0.282581,1,0.282581
+sialyl-lewis x tetrasaccharide derivatives,0.282240,1,0.282240
+abo(h),0.282073,1,0.282073
+cazy family gt44,0.281866,1,0.281866
+hyaluronic acid–binding proteins,0.281650,1,0.281650
+yellow-green algae,0.281618,1,0.281618
+sialoadhesins,0.281316,1,0.281316
+determinant,0.280824,1,0.280824
+gpi anchor,0.279951,1,0.279951
+cis-ligands,0.279694,1,0.279694
+multiple glycans,0.279516,1,0.279516
+core m3 glycan,0.279352,1,0.279352
+s5glcnhex,0.278694,1,0.278694
+α1-4glcnac,0.278479,1,0.278479
+aci5,0.278300,1,0.278300
+self-glycans,0.277542,1,0.277542
+blood group b determinant,0.277220,1,0.277220
+3-o-sulfated glcns6s unit,0.277196,1,0.277196
+predicted structures,0.276812,1,0.276812
+dol-p-linked tetrasaccharide,0.276572,1,0.276572
+terminal β-linked gal or galnac residues,0.276562,1,0.276562
+pc-modified glycosaminoglycans,0.276334,1,0.276334
+complex n-linked glycans,0.275894,1,0.275894
+galactose residues,0.275767,1,0.275767
+o-glycosylation,0.275610,1,0.275610
+polysaccharide strands,0.274360,1,0.274360
+llo,0.273890,1,0.273890
+glycosylphosphatidylinositol,0.273516,1,0.273516
+osmoregulated periplasmic glucans,0.273510,1,0.273510
+free hs oligosaccharides,0.273349,1,0.273349
+ceramide structures,0.272788,1,0.272788
+hs proteoglycan,0.272234,1,0.272234
+the glycan moieties of a glycoprotein,0.272099,1,0.272099
+lewis x glycan structures,0.272081,1,0.272081
+target structure,0.271792,1,0.271792
+chiral hydroxymethylene units,0.271600,1,0.271600
+modified sialic acids,0.271442,1,0.271442
+related but distinct glycans,0.270819,1,0.270819
+galactose terminated branches,0.270680,1,0.270680
+cellulose-derived oligomers,0.270338,1,0.270338
+cellobiose units,0.270262,1,0.270262
+terminal β-linked gal or galnac,0.269300,1,0.269300
+lung surfactant lipids,0.268945,1,0.268945
+animal systems,0.268586,1,0.268586
+fucα1-2galβ1-3glcnac1α-,0.267840,1,0.267840
+glycan-binding proteins,0.267537,1,0.267537
+paucimannose-type,0.267486,1,0.267486
+m8b,0.267272,1,0.267272
+gt-b,0.265915,1,0.265915
+short glycolipids,0.265847,1,0.265847
+polysaccharides and oligosaccharides,0.265451,1,0.265451
+alternating n–acetylmuramic acids,0.265430,1,0.265430
+lysozyme-type enzymes,0.265337,1,0.265337
+unknown structures,0.265108,1,0.265108
+glycosphingolipid,0.264563,1,0.264563
+glycornas,0.264200,1,0.264200
+nucleocytoplasmic glycans,0.263964,1,0.263964
+membrane fragments,0.263879,1,0.263879
+heavy chains,0.263723,1,0.263723
+cog subunits,0.263538,1,0.263538
+amylopectin,0.263002,1,0.263002
+h-antigen,0.262923,1,0.262923
+o-glcnacylated,0.262895,1,0.262895
+lacnac units,0.262575,1,0.262575
+ganglioside gm3,0.262353,1,0.262353
+host and dietary glycans,0.262084,1,0.262084
+n-acetylneuraminic acid (neu5ac),0.261813,1,0.261813
+core n-linked glycosylation,0.261480,1,0.261480
+sialyl-tn,0.261189,2,0.269543
+pectic,0.261142,1,0.261142
+gal-cer,0.260820,1,0.260820
+core proteins,0.260790,1,0.260790
+neutral cores,0.260729,1,0.260729
+gpi glycan,0.260558,1,0.260558
+glucose polymers,0.260393,1,0.260393
+chondroitin sulfate proteoglycan,0.260217,1,0.260217
+fucosylated hex-hexnac,0.259864,1,0.259864
+fourth and fifth sugars,0.259815,1,0.259815
+glycan structure(s),0.259558,1,0.259558
+phosphatidylinositol mannosides,0.259263,1,0.259263
+tri-man,0.259012,1,0.259012
+gpi oligosaccharide,0.258726,1,0.258726
+domain folds,0.258445,1,0.258445
+enzymes that recognize specific glycan substrates,0.258322,1,0.258322
+murein,0.258274,1,0.258274
+sialic acid–dependent carbohydrate-binding proteins,0.257561,1,0.257561
+deuterostomes,0.257303,1,0.257303
+ogt/oga substrates,0.257019,1,0.257019
+lacnac structure,0.256951,1,0.256951
+alditols,0.256749,1,0.256749
+terminal glycans,0.256528,1,0.256528
+branched oligosaccharide,0.256405,1,0.256405
+haplns,0.256114,1,0.256114
+mammalian glycan antigens,0.255733,1,0.255733
+n-glycolyl group,0.255284,1,0.255284
+single glycoforms of epo,0.255057,1,0.255057
+oligomerization domains,0.254981,1,0.254981
+atypical sequons,0.254772,1,0.254772
+sulfoquinovose,0.254350,2,0.257647
+β1-6glcnac,0.254340,1,0.254340
+gpi-glycan,0.254332,1,0.254332
+gut mucosal glycans,0.254311,1,0.254311
+ceramide moiety,0.254072,1,0.254072
+neutral sugars,0.253497,1,0.253497
+polyribitol or polyglycerol chains,0.253490,1,0.253490
+series f,0.253397,1,0.253397
+truncated or altered glycans,0.253070,1,0.253070
+neuraminidase inhibitors,0.252825,1,0.252825
+rhamnogalacturonan domain,0.252473,1,0.252473
+leg5,0.252471,1,0.252471
+1-4-linked α-l-gulpa,0.252401,1,0.252401
+glc-cer,0.252223,1,0.252223
+short-chain glycosylceramides,0.252200,1,0.252200
+tertiary/quaternary structures,0.251850,1,0.251850
+rfms,0.251424,1,0.251424
+sulfated-galnac,0.251379,1,0.251379
+murnac,0.251302,1,0.251302
+soybean glycoproteins,0.250701,1,0.250701
+free glycan,0.250487,1,0.250487
+cdg,0.250045,1,0.250045

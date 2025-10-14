@@ -1,0 +1,1682 @@
+o-glcnac	95
+o-galnac glycans	71
+gsls	63
+sialic acids	53
+gangliosides	51
+glycosphingolipids	36
+sias	33
+hyaluronan	23
+o-galnac	23
+sialoglycans	23
+gag chains	21
+complex glycans	21
+nulos	20
+sialic acid	19
+gbps	19
+chondroitin	19
+o-fucose	18
+o-mannose glycans	16
+wtas	16
+hmos	15
+hs proteoglycans	15
+complex n-glycans	14
+heparan sulfate	13
+mucins	13
+polysia	13
+hs chains	13
+sialylated glycans	13
+oligomannosyl n-glycans	13
+cpss	12
+glcnac	12
+complex	12
+hybrid	12
+ltas	12
+gbp	12
+n- and o-glycans	11
+cell-surface glycans	11
+sulfated gags	11
+mannans	10
+tsrs	10
+β-galactosides	10
+opgs	10
+glycopeptides	10
+nucleotide sugars	9
+sulfated glycosaminoglycans	9
+milk oligosaccharides	9
+sia	9
+hyaluronan oligosaccharides	9
+rg-ii	9
+arthroseries	9
+o-man glycans	9
+sialyl-lewis x	9
+cbms	9
+glycogenes	9
+pectins	8
+glycogen	8
+capsular polysaccharides	8
+epss	8
+o-fucose glycans	8
+chondroitin sulfate	8
+mannose	8
+o-glcnacylation	8
+o-fuc	7
+α-dystroglycan	7
+mucin-type o-glycans	7
+pectin	7
+galnac	7
+core 1	7
+core 2 o-galnac glycans	7
+gpi	7
+egf repeats	7
+heparin oligosaccharides	7
+pnag	7
+galectins	7
+crds	7
+nonulosonic acids	6
+human milk oligosaccharides	6
+lipopolysaccharides	6
+o-antigens	6
+glycan chains	6
+biantennary n-glycans	6
+glypicans	6
+syndecans	6
+heparan sulfate proteoglycans	6
+methanochondroitin	6
+archaellins	6
+glucans	6
+β-glucans	6
+homogalacturonan	6
+gipcs	6
+gag chain	6
+oligogalacturonides	6
+glycosides	6
+ketoses	5
+hexoses	5
+cellulose	5
+hemicelluloses	5
+xylans	5
+core 1 and 2 o-galnac glycans	5
+core 1 o-glycans	5
+glycoglycerolipids	5
+gpis	5
+gsl	5
+sulfatide	5
+sialic acid residues	5
+neu5gc	5
+chondroitin chains	5
+o-glcnacylated proteins	5
+core oligosaccharide	5
+n-acetylglucosamine	5
+galactose	5
+oligomannose-type n-glycans	5
+glucan	5
+gal	5
+m6p-containing n-glycans	5
+gag-binding proteins	5
+m7bc	5
+aldoses	4
+animal glycans	4
+mammalian glycans	4
+fucosylated glycans	4
+gpi anchors	4
+chitin	4
+n- and o-linked glycans	4
+host glycans	4
+grps	4
+oligomannose n-glycans	4
+galβ1-4glcnac	4
+galcer	4
+poly-lacnac chains	4
+branched	4
+sialylated	4
+neu5ac	4
+slrps	4
+keratan sulfate	4
+n-glycosylated	4
+polysialic acid	4
+terminal n-acetylglucosamine residues	4
+manlam	4
+o-ps	4
+lipid a-core	4
+callose	4
+rhamnogalacturonan	4
+extensins	4
+complex-type n-glycans	4
+eps	4
+n-glycosylation	4
+structures	4
+cdgs	4
+o-glycopeptides	4
+β-glucosides	4
+xylosides	4
+major glycan classes	3
+pentoses	3
+reducing sugars	3
+tetrasaccharide	3
+o-glc	3
+o-man	3
+egf-like repeats	3
+glucosamine	3
+dolichol-p-mannose	3
+3,6-dideoxyhexoses	3
+n-linked glycosylation	3
+glucuronoxylans	3
+xyloglucans	3
+terminal sugars	3
+oligomannose	3
+dol-p-p	3
+biantennary	3
+paucimannose glycans	3
+complex and hybrid n-glycans	3
+core structures	3
+core 1 o-galnac glycans	3
+sphingoid bases	3
+ceramides	3
+gm3	3
+gm2	3
+gm1	3
+b-series	3
+c-mannose	3
+core m1	3
+matriglycan	3
+type-1	3
+type-2 structures	3
+type-3	3
+type-4	3
+poly-lacnac	3
+lewis antigens	3
+fucosylated	3
+type-2 units	3
+terminal gal residues	3
+sulfated glycans	3
+lecticans	3
+glycosaminoglycan chains	3
+dermatan sulfate	3
+pentasaccharide	3
+core trisaccharide	3
+starch	3
+o-β-glcnac	3
+lipid-linked oligosaccharide	3
+microbial glycans	3
+o-linked mannose	3
+hemicellulose	3
+samps	3
+surface glycoconjugates	3
+glycan strands	3
+o-pss	3
+nucleotide-activated sugars	3
+mdos	3
+extracellular polysaccharides	3
+cpss and epss	3
+pseudomurein	3
+n-linked tetrasaccharide	3
+n-linked oligomannose	3
+fructans	3
+type ii	3
+glucan chains	3
+heteroxylans	3
+hybrid-type n-glycans	3
+fucoidans	3
+lewis x	3
+hybrid and complex glycans	3
+paucimannose	3
+cspgs	3
+complex n-glycan	3
+endogenous glycans	3
+exogenous glycans	3
+man	3
+gb3	3
+gt1b	3
+high-mannose-type glycans	3
+neu5acα2-3gal	3
+galabiose	3
+adhesins	3
+idoa2s	3
+α-helices	3
+β-strands	3
+α1–6man	3
+β-1,3-glucan oligosaccharides	3
+β-1,3-glucans	3
+specific glycans	3
+o-acetylated sialic acids	3
+fucα1-2gal	3
+pg repeats	3
+slex	3
+slea	3
+nonhuman glycans	3
+intact glycopeptides	3
+n-glycopeptides	3
+cis-glycosidic linkages	3
+natural glycans	3
+o-glcnacase	3
+glycodendrimers	3
+uronic acids	2
+amino groups	2
+certain glycan structures	2
+eukaryotic glycans	2
+glycome	2
+sulfated glycosaminoglycan	2
+attached glycans	2
+pyranose ring	2
+furanoses	2
+aldehydes	2
+schiff bases	2
+acyl esters	2
+sulfate esters	2
+deoxysugars	2
+2-fucosyllactose	2
+chondroitin sulfates	2
+s-domains	2
+lpss	2
+teichoic acids	2
+backbone structures	2
+branched structures	2
+o-linked glcnac	2
+o-linked	2
+kdo	2
+lipid-linked oligosaccharides	2
+branched-chain sugars	2
+deoxyhexoses	2
+linear and branched glycan chains	2
+β-linked galactose	2
+fucose moiety	2
+sialyl motifs	2
+acceptor substrates	2
+n-acetylglucosamine residues	2
+n-acetylneuraminic acid	2
+unusual structures	2
+polysia chains	2
+polysias	2
+ganglioside	2
+man-6-p-containing glycans	2
+sulfated n-glycans	2
+complex o-glycans	2
+galactomannans	2
+gt families	2
+gt and gh	2
+glc3man9glcnac2	2
+glcnac-p	2
+biantennary n-glycan	2
+terminal sialic acids	2
+man-6-p	2
+cores 1–4	2
+core 3	2
+ser/thr-linked glycans	2
+cores	2
+core 2	2
+core 3 and 4 o-galnac glycans	2
+core 3 o-galnac glycans	2
+galβ1-3 residues	2
+o-glycan terminal motifs	2
+core 1 and core 2	2
+core 1 and core 2 o-galnac glycans	2
+o-galnac-glycans	2
+glycosylphosphatidylinositols	2
+gsl structures	2
+neolacto-series	2
+gsl series	2
+ganglio-series	2
+globo-series	2
+intact glycans	2
+b-series gangliosides	2
+mag	2
+gd1a	2
+glycan side chains	2
+gpi-anchored proteins	2
+β-glucan	2
+hexose	2
+β-(1,3)-glucans	2
+o-glucose	2
+serrate	2
+egf repeat	2
+xylose residues	2
+siaα2-3/6galβ1-4glcnac	2
+core m1 glycans	2
+m3 glycan	2
+α-linked mannose	2
+mucin glycoproteins	2
+galnac (a)	2
+gal (b)	2
+type-1 units	2
+type-1 h determinants	2
+lewis blood group antigens	2
+nulo-glycans	2
+fish egg glycoproteins	2
+terminal saccharides	2
+o-acetylated sias	2
+o-galnac-linked sialoglycans	2
+sialylated milk oligosaccharides	2
+legionaminic acids	2
+nulo	2
+chitin oligosaccharide	2
+hyaladherins	2
+aggrecan	2
+hexasaccharides	2
+decasaccharides	2
+aggrecan family	2
+glypican family	2
+keratan sulfate chains	2
+keratan sulfates	2
+galα1-3glcα1- disaccharide	2
+polyglucosan bodies	2
+glycerolipids	2
+sulfoquinovose	2
+decasaccharide	2
+high-mannose n-glycans	2
+extracellular glycoconjugates	2
+most major glycan classes	2
+animal glycosaminoglycans	2
+mammalian glycosaminoglycan chains	2
+sialylated n-acetyllactosamines	2
+sialic acid types	2
+galα1-3galβ1-4glcnac-r	2
+wall teichoic acids	2
+lipoteichoic acids	2
+murnac residues	2
+pamps	2
+sphingolipids	2
+lipid a	2
+outer core	2
+inner core	2
+lipid-linked glycan	2
+undecaprenylphosphate	2
+cyclic glucans	2
+n-acetyl-d-glucosamine	2
+green algae	2
+paucimannose oligosaccharides	2
+type i	2
+cellulose microfibrils	2
+rhamnogalacturonan-i	2
+apiogalacturonans	2
+proline/hydroxyproline-rich proteoglycans	2
+arabinogalactan proteins	2
+hydroxyproline-rich proteoglycans	2
+xylan	2
+galactolipids	2
+paucimannosidic	2
+core-1 o-glycans	2
+glycoconjugate structures	2
+n-glycomes	2
+sulfated	2
+high-mannose glycans	2
+mucin type glycans	2
+core 1 structures	2
+o-linked fucose	2
+o-linked glucose residues	2
+mono-, di-, and trisulfated disaccharides	2
+fsp	2
+n-glycome	2
+hybrid and complex n-glycans	2
+sialic acid termini	2
+pa14 domains	2
+sulfated-gag-binding proteins	2
+small oligosaccharides	2
+sialyl lewis x structure	2
+oligomannose-type	2
+neoglycoproteins	2
+glycan ligands	2
+β-sandwich	2
+β-propeller	2
+β-sheets	2
+glycocalyx	2
+terminal β-linked gal	2
+β-trefoil proteins	2
+β-trefoil fold	2
+gb4	2
+galnacβ1-3galα1-4galβ1-4glc	2
+monoglucosylated	2
+oligomannose-type glycans	2
+glcnac-p-t	2
+mannose residues	2
+m6p phosphomonoesters	2
+ggas	2
+sugars	2
+galactose-containing glycans	2
+peptide portions	2
+psgl-1	2
+extended core-1 o-glycans	2
+sialylated ligands	2
+sialyl-tn structure	2
+neu5acα2-6galnacα	2
+6′-sulfo-slex	2
+poly-n-acetyllactosamines	2
+cell-surface glycoconjugates	2
+bgb+e. coli	2
+secreted mucins	2
+o-acetylated sialic acid receptors	2
+neu5ac sialic acids	2
+loops	2
+histidine-rich glycoproteins	2
+man5glcnac2	2
+homogalacturonans	2
+mlgs	2
+chito-oligosaccharins	2
+rhamnogalacturonans	2
+chitin oligosaccharides	2
+xyloglucan oligosaccharides	2
+phosphates	2
+n-glcnac	2
+3-o-sulfation on glcnac	2
+gal-man-po4- repeats	2
+lppg	2
+glycan antigens	2
+hybrid and complex-type n-glycan	2
+chondroitin/dermatan sulfates	2
+sulfatides	2
+complex gangliosides	2
+o-linked sialoglycans	2
+p blood group antigens	2
+lrp2 o-glycans	2
+certain glycans	2
+novel glycans	2
+bisecting glcnac	2
+incomplete o-glycans	2
+slex-related glycans	2
+hapten sugars	2
+branching	2
+terminal α-galactose residues	2
+pure glycans	2
+glycosidic linkages	2
+partially methylated monosaccharides	2
+monosaccharide type	2
+siglecs	2
+released glycans	2
+o-galnac (tn)	2
+specific carbohydrate structures	2
+glycan arrays	2
+interglycosidic linkages	2
+mammalian n-glycans	2
+flavonoid glycosides	2
+high-mannose n-glycan	2
+β-n-acetylglucosaminides	2
+o-polysaccharides	2
+n-linked glycoproteins	2
+man3glcnac2	2
+truncated core 1 structures	2
+sialyl-tn	2
+degraded glycans	2
+α-d-mannosyl fullerenes	2
+fullerenols	2
+more complex glycans	2
+saccharides	1
+sugar chains	1
+animal systems	1
+gpi-glycan	1
+hexosamines	1
+6-deoxyhexoses	1
+carboxyl groups	1
+linkages	1
+the common classes of glycans	1
+oligomannose (or high-mannose) type	1
+complex type	1
+hybrid type	1
+o-linked oligosaccharide	1
+animal n- and o-glycans	1
+eukaryotic glycosaminoglycans	1
+acidic disaccharide repeating units	1
+major classes of eukaryotic glycans	1
+nucleotide sugar donors	1
+monosaccharide precursors	1
+terminal monosaccharide units	1
+most glycan structures	1
+sulfated gag-binding proteins	1
+specialized glycans	1
+simple glycans	1
+chiral hydroxymethylene units	1
+aldohexose	1
+d-aldoses	1
+aldohexose group	1
+d series of aldoses	1
+six-carbon aldoses	1
+hexuloses	1
+six-carbon ketoses	1
+d sugar	1
+l sugar	1
+β-d-glucose	1
+pyranoses	1
+β-d-glucopyranose	1
+acetals	1
+phosphate esters	1
+diphosphate esters	1
+complex carbohydrates	1
+monosaccharide building blocks	1
+fucosylated compounds	1
+sialylated compounds	1
+isolated disaccharides	1
+cellobiose	1
+maltose	1
+cellobiose units	1
+hs polymers	1
+disaccharide repeating units	1
+gag family	1
+glca-glcnac rus	1
+nac-domains	1
+hs polysaccharides	1
+exopolysaccharides	1
+cell wall lipoteichoic acids	1
+heteropolysaccharides	1
+lewis-type structures	1
+rare sugars	1
+polymers	1
+charged polysaccharides	1
+hexopyranoses	1
+teichoic acid polymers	1
+teichoic acid type	1
+polysaccharide repeating units	1
+lipid-phosphate-linked sugars	1
+cell-surface sialic acids	1
+polysaccharides and oligosaccharides	1
+isoprenoid-linked monosaccharides	1
+man-6-p targeting signal	1
+cog subunits	1
+n-linked	1
+transmembrane heparan sulfate proteoglycans	1
+individual monosaccharides	1
+prokaryotic nonulosonic acids	1
+glcα1–4glc repeating disaccharides	1
+periodic α1–6glc branches	1
+o-mannose-based glycans	1
+mannose-6-p	1
+pyranose (p) ring	1
+galactofuranose (f)	1
+n-acetylneuraminic acid (neu5ac)	1
+kdn	1
+mannac	1
+animal cell glycans	1
+colitose	1
+misfolded glycoproteins	1
+n- and o-linked chains	1
+galactosylated glycoproteins	1
+o-antigen	1
+glycophospholipid anchors	1
+c-mannosylated proteins	1
+o-mannose-based chains	1
+polyprenol	1
+linear and/or branched structure	1
+n-acetyllactosamine moieties	1
+eukaryotic n-glycans	1
+mucin structures	1
+chondroitin and heparan sulfate proteoglycans	1
+thrombospondin type 1 repeats	1
+egf-like	1
+lysozyme-type enzymes	1
+lipid-linked sugar donors	1
+mannogen	1
+lysozyme-type fold	1
+n-glycan-containing glycoproteins	1
+glc3man9glcnac2-asn	1
+udp-α-gal	1
+gt-b fold	1
+gt-a enzymes	1
+dxd motif	1
+glcnacβ1-4glcnac	1
+l-selectin ligands	1
+9-o-acetylated glycoconjugates	1
+terminal sequences	1
+cell-surface receptors	1
+viral glycoproteins	1
+terminal or subterminal glycans	1
+lipochitooligosaccharides	1
+endogenous cell-surface gangliosides	1
+maternal glycans	1
+sialylated fucosylated lactosamines	1
+outer-chain glycosylation	1
+terminal sugar sequences	1
+modifications of glycans	1
+incomplete glycans	1
+endogenous glycoconjugates	1
+secreted glycan chains	1
+introduced glycans	1
+mammalian glycoproteins	1
+glycan category	1
+gt-b	1
+complex exopolysaccharides	1
+nucleotide-activated oligosaccharides	1
+alternating sugars	1
+chondroitin synthases	1
+s-layer	1
+bacillosamine	1
+dolichol sugars	1
+14-sugar glycan	1
+glc3man9glcnac2asn	1
+hybrid n-glycans	1
+paucimannose n-glycans	1
+invertebrate glycoproteins	1
+membrane-bound mucins	1
+o-galnac cores	1
+type 2	1
+galβ1-3glcnac	1
+gal-terminating structures	1
+mucin domains	1
+terminal sia residues	1
+α- or β-linked sugars	1
+endogenous glycan structures	1
+gt27 cazy family	1
+o-galnac residues	1
+core 2 and 4 o-galnac glycans	1
+linear poly-n-acetyllactosamine units	1
+sialylated o-galnac glycans	1
+core 1 and core 2 o-glycans	1
+ceramide structures	1
+neutral cores	1
+arthro-series	1
+lacto-series	1
+ganglioside series	1
+neutral core oligosaccharide	1
+glycolipid species	1
+ceramide moiety	1
+a-series	1
+a-series gangliosides	1
+c-series gangliosides	1
+gt1c	1
+major brain ganglioside structures	1
+ceramide	1
+more complex gsls	1
+siglec family	1
+sialic acid–dependent carbohydrate-binding proteins	1
+complementary glycans	1
+myeloglycans	1
+galβ1-4glcnacβ1-3 repeats	1
+ganglioside gm3	1
+glccer	1
+brain ganglioside glycans	1
+glycosylphosphatidylinositol	1
+gpi anchor	1
+gpi oligosaccharide	1
+inositolphosphoceramide-based protein-linked gpis	1
+tertiary/quaternary structures	1
+gpi glycan side chains	1
+protein-linked gpis	1
+fumigatus galactomannan-manα1–2manα1–2manα1–6manα1–4glcn-inositolphosphoceramide	1
+gpi glycan	1
+d-myo-inositol	1
+c18–c22 species	1
+c14:0 myristate	1
+glycan side-chains	1
+poly-lacto-n-biose structures	1
+inositol-acylated gpi proteins	1
+leishmania lpg	1
+glcnac-t	1
+o-linked sugars	1
+o-linked glc-gal disaccharides	1
+egf domains	1
+α-linked o-fucose modification	1
+trans-delta	1
+trans-serrate	1
+cis-ligands	1
+glcβ1-3fucα-o-ser/thr	1
+core m2	1
+core m2 o-mannose glycans	1
+core m2 glycans	1
+core m1 and m2 o-mannose glycans	1
+core m3 glycans	1
+core m3 glycan	1
+collagens	1
+hydroxylysines	1
+β1-6glcnac	1
+terminal glycans	1
+β1-6glcnacts	1
+β1-6glcnact	1
+type-2	1
+a determinants	1
+branched n-glycan	1
+polyglycosylceramides	1
+type-4 chains	1
+blood group b determinant	1
+glycans with terminal fuc	1
+abo(h)	1
+type-i h determinants	1
+type-1 and -2 units	1
+lea and leb glycans	1
+sialylated and/or sulfated determinants	1
+galα1-4gal moiety	1
+p1 determinant	1
+fucosylated oligosaccharides	1
+sulfated terminal β-linked galnac	1
+terminal galnac	1
+sulfated-galnac	1
+sda antigens	1
+siaα2-6galβ1-4glcnac	1
+certain glycolipids	1
+glca	1
+microbial surface glycans	1
+brain glycolipids	1
+sia family	1
+sia-containing glycans	1
+linear and branched oligosaccharides	1
+sialoglycolipids	1
+lipopolysaccharide o-antigens	1
+neu5acα2-8	1
+endo-n	1
+sequences	1
+o-acetylated species	1
+α-sialyl linkages	1
+mature sialoglycoconjugates	1
+mammalian sialidases	1
+branched α2-3sia	1
+brain ganglioside gm2	1
+4-o-acetyl group	1
+trans-sialidases	1
+intact sialoglycans	1
+c-9 ester	1
+7/8/9-tri-o-acetyl sias	1
+sia-glycosides	1
+o-acetyl groups	1
+clustered sialoglycans	1
+membrane-bound sialoglycans	1
+erythrocyte sialoglycans	1
+β-linked gal residues	1
+myelin-associated glycoprotein	1
+brain gangliosides	1
+α2-6gal(nac)	1
+α2-6gal(nac) linkages	1
+d-glycero-d-galacto	1
+di-n-acetylpseudaminic acid	1
+leg5	1
+4epi-di-n-acetyllegionaminic acid	1
+8epi-di-n-acetyllegionaminic acid	1
+di-n-acetylacinetaminic acid	1
+aci5	1
+8epi-di-n-acetylacinetaminic acid	1
+acinetaminic acid	1
+legionaminic acid	1
+repeating disaccharides	1
+β-linked polymers	1
+hyaluronan chains	1
+chains	1
+cartilage proteoglycan	1
+heavy chains	1
+chondroitin sulfate chain	1
+haplns	1
+chondroitin sulfate proteoglycans	1
+aggrecan superfamily	1
+short hyaluronan chains	1
+small leucine-rich proteoglycans	1
+syndecan family	1
+heparin chains	1
+sulfated glycosaminoglycan chains	1
+chondroitin sulfate proteoglycan	1
+chondroitin sulfate/dermatan sulfate	1
+heparan sulfate/heparin	1
+repeating sulfate-substituted galnacβ4glcaβ3 disaccharides	1
+chondroitin sulfate b	1
+chondroitin sulfate a and c	1
+internal 6-o-sulfated glucosamine residues	1
+low-molecular-weight heparins	1
+matrix proteoglycans	1
+basement membrane proteoglycans	1
+serglycin	1
+heparan sulfate chains	1
+dermatan sulfate proteoglycans	1
+secretory pathway–type glycans	1
+tri-man	1
+cazy family gt44	1
+glcnacα-arg	1
+nuclear and cytoplasmic glycoproteins	1
+βglcts	1
+αglcts	1
+glc disaccharide	1
+arabinose	1
+type 1 blood group h structure	1
+fucα1-2galβ1-3glcnac1α-	1
+galα1,3galα- disaccharide	1
+ndp-sugar-dependent	1
+mucin-type domains	1
+secretory proteins	1
+cazy gt2 family	1
+fourth and fifth sugars	1
+mannose chains	1
+gt-a superfamily	1
+β2-linked mannose polymers	1
+glucose polymers	1
+α-linked polyglucose nanofilaments	1
+glcua	1
+secretory pathway–type o-glycans	1
+glcα1-po4-man	1
+nuclear o-glycans	1
+dermatan sulfates	1
+hss	1
+proteoglycan core proteins	1
+hyaluronic acid–binding proteins	1
+secretory pathway glycans	1
+glucoceramides	1
+dolichyl-linked n-glycosylation precursors	1
+β-linked gal	1
+cytoplasmic glycoconjugates	1
+glyco-epitopes	1
+bsa-glcnacβ1-4glcnac	1
+nucleocytoplasmic glycans	1
+simplified core structures	1
+o-linked β-n-acetylglucosamine	1
+glcnac-terminating glycoconjugates	1
+mucin-like	1
+tprs	1
+mature n- and o-glycans	1
+o-mannose moieties	1
+classical	1
+cytokeratins	1
+ogt/oga	1
+ogt/oga substrates	1
+asparagine–n-linked glycans	1
+nucleotide-activated monosaccharides	1
+highly defined glycan structures	1
+multiantennary complex-type n-glycans	1
+lacdinac structures	1
+lacnac units	1
+lewis x–like structures	1
+galnacβ1-4glcnacβ1-structure	1
+lacnac structure	1
+atypical sequons	1
+deuterostomes	1
+core-1 galβ1-3galnacα1-o-ser/thr structure	1
+heavily o-glycosylated gel-forming mucins	1
+ppglcnacts	1
+ppgalnacts	1
+unstructured regions	1
+cadherin domains	1
+galβ1-4glc-cer	1
+manβ1-4glc-cer	1
+glcnacβ1-4glc-cer	1
+galactosylceramide	1
+glucosylceramides	1
+galactoceramides	1
+glucuronic acids	1
+secreted polysaccharides	1
+structural polysaccharides	1
+5-hydroxymethyl cytosine bases	1
+ganglioside-like glycans	1
+free glycans	1
+terminal glycan sequences	1
+abo glycans	1
+target structure	1
+αgal	1
+st6gal-i	1
+glycodelin s	1
+glycodelin a	1
+unique glycans	1
+polysaccharide strands	1
+mycolic acids	1
+parallel strands	1
+n-glycolyl group	1
+polyribitol or polyglycerol chains	1
+polyribitol	1
+polyglycerol chains	1
+murnac	1
+undecaprenyl carriers	1
+murnac acceptors	1
+mycolyl-ag-peptidoglycan complex	1
+arabinosyl gts	1
+phosphatidylinositol mannosides	1
+reducing terminal sugar	1
+branched oligosaccharide	1
+repetitive polysaccharides	1
+los	1
+undecaprenol diphosphate-linked o-pss	1
+galnacα1-4galnacα1-4	1
+galnacα1-4	1
+galnacα1-4galnacα1-3-dinacbac-β1	1
+pseudaminic acids	1
+related nonulosonic sugars	1
+dinacbac	1
+diacetamidodideoxyglucopyranose	1
+osmoregulated periplasmic glucans	1
+membrane-derived oligosaccharides	1
+long-chain extracellular polysaccharides	1
+β-linked kdo residues	1
+α2-3sialyllactosamines	1
+cps structures	1
+polysaccharide a	1
+polysialic acids	1
+undecaprenol diphosphate-linked intermediates	1
+cpss/epss	1
+peptidoglycam	1
+complex carbohydrate structures	1
+host-derived mucosal glycans	1
+murein	1
+pseudopeptidoglycan	1
+alternating n–acetylmuramic acids	1
+glcnac pentasaccharide	1
+galnac disaccharide	1
+n-acetylated amino sugars	1
+sulfated subunits	1
+lipoglycans	1
+n-linked branched octosaccharide	1
+n-linked oligosaccharides	1
+dol-p-linked tetrasaccharide	1
+lipid-linked tetrasaccharide	1
+n-linked hexasaccharide	1
+galactans	1
+mannose-rich glycans	1
+glucomannans	1
+rhamnomannans	1
+phosphomannans	1
+ser/thr-linked o-mannose glycans	1
+yeast n-glycans	1
+gpi-anchored glycoproteins	1
+manα1-2manα1-6manα1-4glcnα1-6inositolphospholipid	1
+short-chain glycosylceramides	1
+glc-cer	1
+gal-cer	1
+pyruvylated	1
+galactose residues	1
+o-linked mannose core	1
+glycosyldiacylglycerolipids	1
+high mannose type	1
+α1-4glcnac	1
+phosphopeptidomannans	1
+plm antigens	1
+variable galactopyranose repeats	1
+gpi-synthesis inhibitors	1
+yellow-green algae	1
+soluble low-molecular-weight compounds	1
+phenolic glycosides	1
+selected hemicelluloses	1
+primary and secondary cell wall heteroxylans	1
+n- and o-linked proteoglycans	1
+glycosylated metabolites	1
+raffinose oligosaccharides	1
+amylopectin	1
+starch polymers	1
+levan type fructans	1
+paracrystalline microfibrils	1
+microfibrils	1
+homogalacturonan-containing glycans	1
+substituted galacturonans	1
+xylogalacturonans	1
+substituted galacturonan	1
+rhamnogalacturonan domain	1
+oligosaccharide side chains	1
+1-2-linked rhap residues	1
+arabinoglucuronoxylans	1
+agxs	1
+glucuronoarabinoxylans	1
+secondary wall xylans	1
+lignin	1
+galactosylated	1
+1-3-linked β-gal backbone	1
+1-6-linked β-galp	1
+rg-i	1
+paucimannose-type glycans	1
+paucimannose-type	1
+complex and hybrid-type n-glycans	1
+paucimannose type glycans	1
+hrgps	1
+dha	1
+pectic	1
+sulfated galactans	1
+1-4-linked β-d-manpa	1
+1-4-linked α-l-gulpa	1
+4-manpa-1-4-gulpa-1 sequences	1
+glycosylinositolphosphorylceramides	1
+series a	1
+series f	1
+kdop-containing lipids	1
+o-glycosylated	1
+s-linked glcp	1
+glucosinolates	1
+the steviol glycosides	1
+hexnac2-3 motifs	1
+mucin-type	1
+man2-3glcnac2	1
+paucimannosidic structures	1
+β1-2glcnac	1
+core 1 o-glycan structure	1
+o-linked glycoconjugates	1
+cpgs	1
+glcaβ1-4glcnacα1-4	1
+arthro-series glycolipids	1
+cry5b ligands	1
+galactose-containing ligands	1
+extending chito-motifs	1
+terminal glucuronic acid	1
+phosphorylcholine-modified structures	1
+phosphorylcholine-modified gag-like structures	1
+pc-modified glycosaminoglycans	1
+high-mannose or paucimannose type	1
+high-mannose and paucimannose glycans	1
+glucuronylated	1
+zwitterionic structures	1
+biantennary complex	1
+complex n-linked glycans	1
+hybrid or complex glycans	1
+high-mannose or paucimannose glycans	1
+core n-linked glycosylation	1
+minor glycans	1
+extensively modified glycosaminoglycan chains	1
+core-1 structure	1
+galβ1-3galnacα-o-protein moieties	1
+o-linked glycan diversity	1
+core 2 glycans	1
+hexnac-hexnac core	1
+sulfated mucin type glycans	1
+egf-like domains	1
+thrombospondin-type repeats	1
+serrate/jagged	1
+n-, 2-o, and 6-o sulfated forms	1
+hs-derived units	1
+6-o sulfated forms	1
+6-o-sulfated disaccharides	1
+hspgs	1
+cspg core proteins	1
+sialylated glycosphingolipids	1
+arthroseries glycans	1
+arthroseries glycolipids	1
+arthroseries cores	1
+domain folds	1
+sea urchin glycans	1
+linear fucose	1
+sulfated α1-3fuc-based linear polymers	1
+tri- or tetrasaccharide repeats	1
+β1-4galnac	1
+sulphate residues	1
+frog egg mucins	1
+galα1-3galnac	1
+cis-diols	1
+gram-positive	1
+gram-negative	1
+all major glycan classes	1
+paps	1
+mannose-containing glycans	1
+lipid-linked oligosaccharide precursor	1
+core glycans	1
+terminal groups	1
+heparan	1
+dermatan	1
+l-type	1
+exposed galactose	1
+terminal β-linked gal or galnac	1
+monoglucosylated high-mannose glycans	1
+terminal gal or galnac residues	1
+cellulose-binding modules	1
+distinctive glycans	1
+self-glycans	1
+glycans characteristic of microorganisms	1
+glycan-containing structures	1
+target glycans	1
+oligomerization domains	1
+cbm	1
+modified and phosphorylated glycans	1
+exposed glcnac residues	1
+bisecting glcnac residues	1
+simple monosaccharides	1
+small glycans	1
+fucosyl residues	1
+high-mannose oligosaccharides	1
+fibronectin type ii repeat	1
+triple helical polypeptides	1
+o-glycosylated proteins	1
+sialyl lewis x	1
+sulfated tyrosines	1
+cd24psl	1
+cd24s10l	1
+specific sugar structures	1
+ganglioside gm1	1
+highly branched complex-type n-glycans	1
+biantennary complex-type n-glycans	1
+high-mannose-type n-glycans	1
+relatively small glycans	1
+competitive glycans	1
+neoglycoconjugates	1
+open ring	1
+neoglycans	1
+most glycans	1
+enzymes that recognize specific glycan substrates	1
+native glycan ligands	1
+ligands	1
+flexible oligosaccharide ligands	1
+β-sheet-containing domains	1
+β-prism	1
+β-trefoil	1
+truncated glycans	1
+glycan ligand	1
+sulfated gag	1
+4-sulfated chondroitin sulfate	1
+surface glycans	1
+complex-type glycan	1
+idoa rings	1
+galactose terminated branches	1
+glcnacβ1-4gal	1
+membrane fragments	1
+β-linked cell-surface gal/galnac containing glycans	1
+galnacβ1-4glcnac	1
+t-antigen	1
+galβ1-3galnacβ1-4gal	1
+galα1-4galβ1-4glc	1
+3-o-sulfated gal	1
+high mannose-type oligosaccharides	1
+arabino-oligosaccharides	1
+mucin-containing glycoproteins	1
+biological domains	1
+branched pentasaccharide	1
+glcnacβ1-2manα1-3	1
+glcnacαβ1-2manα1-6	1
+galβ1-4glcnac-r	1
+complex-type	1
+glucose-containing glycans	1
+α-dg	1
+gd1b	1
+multiple glycans	1
+glcnac phosphodiester	1
+mliiiα/β	1
+glycans carrying two m6p residues	1
+glcnac-p-man phosphodiesters	1
+type i transmembrane glycoproteins	1
+m6p phosphodiesters	1
+diesters	1
+mannose ring	1
+phosphorylated glycans	1
+m6p recognition marker	1
+oligomannosyl structures	1
+ctls	1
+fuc	1
+glc	1
+α-methylmannoside	1
+penultimate β-linked gal residues	1
+gal residues	1
+terminal glcnac	1
+terminal β-linked gal or galnac residues	1
+tri- and tetra-antennary n-glycans	1
+yeast glycans	1
+glycoproteins of parasites	1
+lung surfactant lipids	1
+α-mannose-containing glycans	1
+trehalose-6,6-dimycolate	1
+α-mannans	1
+pathogen-derived glycans	1
+terminal α-linked mannose or fucose residues	1
+mannosylated lipoarabinomannan	1
+mannose-carrying pamps	1
+fucose-carrying pamps	1
+immunoglobulin superfamily	1
+sialylated, fucosylated glycans	1
+core-2-based o-glycan	1
+mucin	1
+mucin repeats	1
+slex structure	1
+core 2 o-glycans	1
+slex-containing o-glycan	1
+long-chain glycosphingolipids	1
+glycoprotein o- and n-glycans	1
+sialofucosylated glycolipids	1
+endoglycan	1
+endomucin	1
+core-2 o-glycans	1
+hyalectins	1
+group i	1
+fibronectin type ii repeats	1
+hnk-1-containing glycosphingolipids	1
+dextrans	1
+galactose-containing glycolipids	1
+sialoadhesins	1
+mucin-like o-glycosylated membrane proteins	1
+outer-core glycans	1
+lewis x (lex)	1
+sia ligands	1
+long glycan chains	1
+cis-interacting sialylated glycans	1
+monosialylated ganglioside	1
+9-o-acetylated sias	1
+sialylated glycolipids	1
+neu5acα2-6hexnac	1
+sia-containing ligands	1
+tumor-associated glycans	1
+cancer-associated ligands	1
+high-molecular-weight glycoproteins	1
+sialoglycan polymers	1
+β-galactose-containing glycoconjugates	1
+β-mannosides	1
+extended gal-containing glycans	1
+blood group–related structures	1
+gal moieties	1
+α(1-3)galnac	1
+poly-n-acetyllactosamine sequences	1
+β-gal-containing disaccharides	1
+abo(h) blood group glycans	1
+complex type n-glycans	1
+blood group b glycans	1
+related moieties	1
+b-blood group oligosaccharides	1
+leishmania lipophosphoglycan (lpg)	1
+host cell-surface glycoconjugates	1
+terminal sugar residues	1
+internal sequences	1
+linear or branched oligosaccharide chains	1
+host and dietary glycans	1
+neu5acα2–3gal-	1
+neu5acα2–6gal linkages	1
+neu5acα2–3gal-terminated glycans	1
+heparan sulfate (hs) proteoglycans	1
+sulfated polysaccharides	1
+high mannose glycans	1
+galα1–4gal-cer residues	1
+galα1–4gal	1
+galabiose-containing oligosaccharides	1
+internal	1
+neu5gcα2–3galβ1–4glc	1
+gm1 ganglioside	1
+membrane glycolipids	1
+gm1 pentasaccharide	1
+galα1-4gal determinants	1
+terminal gal/galnac residues	1
+glycoproteins and glycolipids	1
+neu5acα2–3gal-containing oligosaccharides	1
+neu5acα2–6gal-containing oligosaccharides	1
+structurally related polysaccharides	1
+modified sugars	1
+glucuronic acid	1
+hs chain	1
+heparin	1
+oligosaccharide sequences	1
+β-strand	1
+α-helix	1
+3-o-sulfated glcns6s unit	1
+longer oligosaccharide	1
+10-mer	1
+6-o-sulfo groups	1
+heparin hexasaccharide	1
+glcaβ1-3galnac repeats	1
+gag segments	1
+hs/cs oligosaccharides	1
+dp4-dp20	1
+truncated n-glycans	1
+m8b	1
+erad substrates	1
+man6glcnac2	1
+terminal α1–6man	1
+glcnacs	1
+chitobiose	1
+dolichol-linked	1
+phosphacan	1
+oligosaccharins	1
+carbohydrate moieties	1
+oligoglucosides	1
+1-6- and 1-3-linked β-glc residues	1
+linear homo-oligomers	1
+cellulose-derived oligomers	1
+β-1,4-glucans	1
+β-1,4/β-1,3 glucans	1
+β-1,4-glucan oligosaccharides	1
+β-1-3 branches	1
+chitin elicitors	1
+lysm family	1
+β-1,3-glucan	1
+β-1,4/β-1,3-glucan	1
+pectin-derived oligogalacturonides	1
+c20:3	1
+c20:4	1
+rhizobium exopolysaccharides	1
+2′-fucosyllactose	1
+dolichol-linked oligosaccharides	1
+low molecular weight glycans	1
+free hs oligosaccharides	1
+techoic acids	1
+free glycan structures	1
+species-specific milk oligosaccharides	1
+keratan sulfate–related antigens	1
+galβ1-3glcnacβ1-3galβ1-4glcnac	1
+gne	1
+b4galt1	1
+sialylated n-glycans	1
+o-glycosylated mucins	1
+structural glycoproteins	1
+mucin sialoglycans	1
+o-linked mucins	1
+heparan sulfate glycosaminoglycans	1
+the unusual polysialic acid chains	1
+certain sialylated glycolipids	1
+fucosylated n-glycans	1
+oligosaccharides and polysaccharides	1
+common host glycan structures	1
+nonsulfated glycosaminoglycan	1
+group c	1
+group b	1
+glucosamines	1
+acyl chains	1
+heptose	1
+lipooligosaccharides	1
+lipoteichoic acid	1
+4-amino-4-deoxy-l-arabinose [l-ara4n]	1
+sialylated los	1
+sialylated los structures	1
+human gangliosides	1
+internal carbohydrate motifs	1
+p-blood group	1
+heptose residues	1
+outer core oligosaccharide structure	1
+eps types	1
+polyanionic	1
+hs structure	1
+hs glcnac	1
+glycan determinants	1
+fucosylated glycoconjugates	1
+terminal fucose residues	1
+terminal lewis b blood group antigen-containing glycans	1
+lewis x–containing structures	1
+lewis x–modified glycans	1
+lewis x glycan structures	1
+parasite gbps	1
+parasite glycans	1
+similar glycosaminoglycans	1
+placental chondroitin sulfate a	1
+n-linked oligomannose-type glycans	1
+terminal β-galactose	1
+gipls	1
+inositolphosphoceramide-anchored glycan	1
+alkylacylphosphatidylinositol-anchored glycan	1
+-6galβ1-4manα 1-po4-) repeat units	1
+gal-man-po4- repeat unit	1
+ppgs	1
+galβ1-4manα1-po4	1
+lpg	1
+lipopeptidophosphoglycan	1
+complex glycan structures	1
+o- and n-glycans	1
+polyfucose branches	1
+difucosylated oligosaccharides	1
+fucosylated and xylosylated glycans	1
+schistosome glycans	1
+antigenic glycoconjugate structures	1
+antigenic glycan motifs	1
+glycoconjugates and gbps	1
+manα1-3man disaccharides	1
+glycan structural components	1
+n- or o-linked glycans	1
+complex-type glycans	1
+three classes of glycans	1
+gangliosidoses	1
+monosaccharide-labeled glycoproteins	1
+fucα1-3glcnac	1
+sialylated glycoconjugates	1
+galnacα1-3gal	1
+o-xylose-linked	1
+core proteins	1
+free glycan	1
+βglca	1
+βgalnac	1
+o-linked ks	1
+skeletal type	1
+n-glycan corneal-type ks	1
+o-xylose-linked gag chains	1
+glcβcer bond	1
+short glycolipids	1
+sphingomyelin	1
+β-galnac	1
+terminal monosaccharides	1
+neutral sugars	1
+n-acetylated hexoses	1
+anionic sugars	1
+undegraded oligosaccharides	1
+mannose-terminated n-glycans	1
+terminal mannose residues	1
+major glycan families	1
+cdg	1
+gpi-anchor	1
+multiple plasma glycoproteins	1
+incomplete protein-bound glycans	1
+llos	1
+intermediate llo structures	1
+extended chitobiose glycan	1
+glc3man9glcnac2-p-p-dol	1
+llo	1
+m1–m3	1
+mucin type o-glycosylation	1
+core 1 and 2 o-glycans	1
+o-glycosylation	1
+fucose	1
+monosaccharides and oligosaccharides	1
+dolichol-linked sugars	1
+dystroglycan	1
+oral mucins	1
+gut mucosal glycans	1
+lewis type glycans	1
+n-glycosylation disorders	1
+sulfated heparin pentasaccharide	1
+α-galnac	1
+glycolipids and glycoproteins	1
+g0 molecules	1
+fc n-glycans	1
+g0 n-glycans	1
+g0 n-glycan	1
+hs glycosaminoglycan chains	1
+o-glycan chains	1
+sulfated glucuronosyl glycans	1
+neural ganglioside structures	1
+lipo-oligosaccharides	1
+gq1b	1
+hs glycosaminoglycans	1
+hs proteoglycan	1
+amyloid protein precursors	1
+paucimannosidic glycans	1
+mucin glycans	1
+incomplete or truncated glycans	1
+β1-4glcnac	1
+truncated o-glycans	1
+human glycans	1
+glycoprotein ligands	1
+sialyl-lewis-related structures	1
+sialyl-6-sulfo-lex structures	1
+sialyl-6-sulfo-lewis x	1
+disialyl-lewis a	1
+glcaβ1-3glcnacβ1-4	1
+perlecan	1
+ks chains	1
+syndecan-1 ectodomains	1
+hs side chains	1
+altered tumor glycans	1
+ssea-4	1
+gd1 ganglioside	1
+gg4	1
+truncated o-galnac glycans	1
+low-molecular-weight oligosaccharides	1
+mammalian glycan antigens	1
+core-1 o-glycan	1
+2-6-branch	1
+e-pha-binding glycoproteins	1
+bisected complex-type n-glycans	1
+glcnacβ1-4man-r	1
+e-pha-binding glycans	1
+core fucose	1
+complex-type biantennary n-glycans	1
+predicted structures	1
+classes of glycans	1
+galnac-type o-glycans	1
+mannan chains	1
+glcaβ1-3galβ-r	1
+h-antigen	1
+chitin polysaccharides	1
+gpi glycans	1
+dolichol-p-man	1
+ethanolamine phosphate residues	1
+complex or hybrid n-glycans	1
+truncated or altered glycans	1
+aglycones	1
+glycans from bacteria or less well-characterized organisms	1
+isolated glycoprotein	1
+neutral monosaccharides	1
+homopolysaccharides and heteropolysaccharides	1
+neutral and ionic polysaccharides	1
+linear and branched structures	1
+multiple glycoforms	1
+glycans with free-reducing termini	1
+nonlabeled glycans	1
+alditol acetates	1
+d and l isomers	1
+peracetylated 2,3,4-tri-o-methyl-hexoses	1
+α anomers	1
+β anomers	1
+sialyl lewis x–capped glycan	1
+medium size glycans	1
+glcβ1-4glc-ome	1
+o-linked glycoproteins	1
+glycosylphosphatidylinositol (gpi) anchors	1
+conjugated sialylated and fucosylated glycans	1
+selectins	1
+heterogeneous glycan structures	1
+protein-linked glycans	1
+neutral glycans	1
+disaccharide fragments	1
+paucimannosidic n-linked glycans	1
+hybrid-type structures	1
+galβ1-3galnacαs/t	1
+alditols	1
+reducing end sugar	1
+sulfates	1
+modified sialic acids	1
+n- and o-sulfate esters	1
+hexnac and hexosamine residues	1
+glycan structure(s)	1
+oligomannosidic glycans	1
+n-glycan classes	1
+mucin-type o-glycoproteins	1
+o-mannose initiated glycans	1
+o-galnac-gal (t)	1
+n- and o-linked glycopeptides	1
+fucosylated hex-hexnac	1
+sialylated fucosylated hex-hexnac	1
+lewis a	1
+o-linked glycan structures	1
+the glycan moieties of a glycoprotein	1
+the glycan moieties	1
+specific classes of glycans	1
+mammalian n- and o-glycan structures	1
+glycan-binding proteins	1
+unknown structures	1
+n- and o-glycopeptides	1
+labeled glycans	1
+2-ab	1
+rfms	1
+2-aa	1
+glycosphingolipid	1
+free oligosaccharides	1
+carbohydrate structures	1
+determinant	1
+iupac-like	1
+defined structure	1
+c2-deoxy sugars	1
+trans-glycosidic linkages	1
+s-tolylglucopyranose	1
+putative repeating unit	1
+exopolysaccharide	1
+neoglycoprotein	1
+related but distinct glycans	1
+mannose thioglycoside	1
+(n-1)-polysaccharides	1
+β-1,4-mannuronate moieties	1
+rrvs	1
+highly branched structures	1
+challenging targets	1
+rare monosaccharides	1
+2-deoxy and 1,2-cis-linkages	1
+interglycosidic bonds	1
+sugar hemiacetals	1
+ganglio-oligosaccharides	1
+galnac-gd1a heptasaccharide 7	1
+glycosphingolipid glycans	1
+decasaccharide 8	1
+n-acetylglucosamine-containing glycosidic linkages	1
+homogeneous peptide n-glycans	1
+soybean glycoproteins	1
+sialic acid-containing glycans	1
+large and complex glycans and glycoconjugates	1
+most natural or designed glycans	1
+dolichol oligosaccharides	1
+unsaturation	1
+hybrid-type chains	1
+complex oligosaccharides	1
+man7–9glcnac2 oligosaccharides	1
+polysaccharide backbone	1
+ac-5sglcnac	1
+s5glcnhex	1
+complex glycolipids	1
+β-d-xylosides	1
+β-n-acetylgalactosaminides	1
+disaccharides and trisaccharides	1
+hnk-1	1
+chain terminators	1
+glcnr-phosphatidylinositols	1
+carboxylates	1
+cyclohexene	1
+neuraminidase inhibitors	1
+faxgudfsa	1
+therapeutic glycoproteins	1
+unwanted glycans	1
+n- and o-glycoproteins	1
+complex human-like glycans	1
+human glycan epitopes	1
+blood group antigens	1
+cancer-associated glycolipid glycans	1
+human-like n-glycans	1
+mammalian-type lipid-linked oligosaccharides	1
+preassembled undecaprenol-pp-linked oligosaccharides	1
+o-mannosyl glycans	1
+polymannosylated glycans	1
+n-glycans on yeast glycoproteins	1
+large polymannosyl glycans	1
+poly(manα1-6)n backbone	1
+protein o-man residues	1
+human o-galnac glycans	1
+sialylated o-glycans	1
+biantennary glcnac2man3glcnac2	1
+recombinant glycoproteins	1
+terminal mannose n-glycans	1
+core 1 o-glycan	1
+human sialylated biantennary n-glycans	1
+high-mannose and paucimannose n-glycans	1
+complex sialylated n-glycans	1
+cores of all types of glycoprotein glycans	1
+human-type terminal glycans	1
+bisecting glcnact-iii	1
+complex-type sialylated glycans	1
+multiantennary n-glycans	1
+monoantennary	1
+o-glc glycans	1
+glycoside	1
+modified glycans	1
+fully sialylated chains	1
+increased tetra-antennary branching	1
+single glycoforms of epo	1
+monosaccharides and disaccharides	1
+galβ1-4glc	1
+lysosomal hydrolases	1
+primary glycans	1
+ganglioside immunogens	1
+small soluble glycans	1
+glycosylated polymers	1
+sialyl-lewis x tetrasaccharide derivatives	1
+classical a and b blood group determinants	1
+a and b blood group determinants	1
+large glycoconjugates	1
+glycopolymers	1
+glyconanomaterials	1
+glycan portion	1
+simple mono- or disaccharides	1
+smaller glyco-clusters	1
+c18-lipid tail	1
+α-galnac residues	1
+galactosylated swcnts	1
+β-glcnac	1
+mannose-conjugated glycodendrimers	1
+galactose functionalized dendrimeric arms	1
+galactose units	1
+mannose functional groups	1
+adamantyl groups	1
+oligomannosides	1
+natural polysaccharides	1
+slex tetrasaccharide	1
+chiral nematic phases	1
+mannose glycans	1
+mannosides	1
+xyloglucan	1
+mannan	1
+1-4-linked β-d-glcnac	1
+hemicellulosic polysaccharides	1
+noncellulosic matrix polysaccharides	1
+cycling monosaccharides	1
+glycan isomers	1
+glycoforms of glycoproteins and glycolipids	1
+o-glcnacylated	1
+ogn	1
+n-glycan-type	1
+glycornas	1
+specific glycoforms of a glycoprotein	1
+matrix glycans	1
