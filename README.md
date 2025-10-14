@@ -143,12 +143,12 @@ Post-merge checks warn on duplicated labels or `gsd_id` values (for curator revi
 ## Utilities Summary
 | Script | Purpose |
 | ------ | ------- |
-| `util_raw_terms_formatter.py` | Normalize heterogeneous raw term JSONL into canonical schema. |
-| `util_uuid_formatter.py` | Enforce UUID prefix conventions and clean embedded newline encodings. |
-| `util_related_synonyms_collector.py` | Generate edge records from `related_synonym` metadata. |
-| `util_gtc2seq.py` | Resolve GlyTouCan accession → IUPAC condensed sequence via GlyCosmos APIs. |
-| `util_glycoct2gtc.py` | Convert GlycoCT → WURCS & obtain GlyTouCan ID (format converter). |
-| `util_iupac2gtc.py` | Convert IUPAC condensed → WURCS/GlyTouCan ID (older API version). |
+| `util_raw_terms_formatter.py` | Normalize heterogeneous raw term JSONL into canonical schema |
+| `util_uuid_formatter.py` | Enforce UUID prefix conventions and clean embedded newline encodings |
+| `util_related_synonyms_collector.py` | Generate edge records from `related_synonym` metadata |
+| `util_gtc2seq.py` | Resolve GlyTouCan accession → IUPAC condensed sequence via GlyCosmos APIs |
+| `util_glycoct2gtc.py` | Convert GlycoCT → WURCS & obtain GlyTouCan ID (format converter) |
+| `util_iupac2gtc.py` | Convert IUPAC condensed → WURCS/GlyTouCan ID (older API version) |
 
 ---
 ## ▶Quickstart
@@ -171,12 +171,6 @@ python main/1_ai-assisted_term_matching/03_match_pubdict_ai_mapping_with_uuid.py
 python main/2_generate_mappings/postprocessing.py
 ```
 
-### Inspect Outputs
-```bash
-head -n 3 data/processed/master_nodes.json
-head -n 3 data/processed/master_edges.json
-```
-
 ---
 ## Extending the Pipeline
 To add a new source (e.g., `src_newsource`):
@@ -190,7 +184,7 @@ To add a new source (e.g., `src_newsource`):
 Logs (`ai_mapping_demo.log`) capture agent tool calls and rationales. These are intended for curator audit and reproducibility of synonym decisions.
 
 ---
-## 🗃️ Backups
+## Backups
 Each run of `postprocessing.py` creates indexed backups of prior master files in `data/processed/backup/`, e.g.:
 ```
 master_nodes_001.json
@@ -198,32 +192,6 @@ master_nodes_002.json
 ...
 ```
 Never manually edit files in `processed/`; regenerate them through the pipeline.
-
----
-## Roadmap Ideas
-- LangGraph transition for controllable multi-step mapping flows.
-- Confidence scoring + human-in-the-loop review dashboards.
-- Additional relationship predicates (subclass-of, part-of, motif-of).
-- Automated normalization of stereochemistry & residue notation.
-- Unit tests for QC utilities.
-
----
-## Contributing
-1. Fork & create feature branch.
-2. Add or modify source under `data/raw/` only (never edit `processed/`).
-3. Run mapping + postprocessing locally; ensure no QC failures.
-4. Submit PR with summary of source provenance and counts.
-
----
-## License
-(Include license information here if applicable.)
-
----
-## Support / Questions
-Open an issue or contact the maintainers with:
-- Source name
-- Sample offending record (if QC failure)
-- Steps to reproduce
 
 ---
 ## Notes
