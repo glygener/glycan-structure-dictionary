@@ -17,7 +17,7 @@ This pipeline builds a master dictionary of glycan structure terms by:
 5. Reconciling AI action logs into term-to-UUID mappings.
 6. Post-processing: merging multiple sources into consolidated node (master_nodes.json) and edge (master_edges.json) registries with quality checks and backups.
 
-> [!notes]
+> [!note]
 > The supplementary materials documents the identification and extraction of glycan structure terms from 'The Essentials of Glycobiology' (EOG) using LLMs. Those terms serve as one of the main sources used to update and enrich the original GSD.
 
 > Varki A, Cummings RD, Esko JD, et al., editors. Essentials of Glycobiology [Internet]. 4th edition. Cold Spring Harbor (NY): Cold Spring Harbor Laboratory Press; 2022. Available from: https://www.ncbi.nlm.nih.gov/books/NBK579918/ doi: 10.1101/9781621824213
