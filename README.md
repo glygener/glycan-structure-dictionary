@@ -1,6 +1,11 @@
 # Glycan Structure Dictionary (GSD)
 
-An AI-assisted pipeline for curating, normalizing, mapping, and consolidating glycan structure terminology from heterogeneous biomedical sources into a unified knowledge base.
+This project aims to enrich and update the Glycan Structure Dictionary:
+We have developed an large language model (LLM) -based pipeline for curating, normalizing, mapping, and consolidating glycan structure terminology from heterogeneous biomedical sources into a unified, de-duplicated reference knowledgebase.
+
+**Reference** (original publication):
+
+> Vora J, Navelkar R, Vijay-Shanker K, Edwards N, Martinez K, Ding X, Wang T, Su P, Ross K, Lisacek F, Hayes C, Kahsay R, Ranzinger R, Tiemeyer M, Mazumder R. The Glycan Structure Dictionary-a dictionary describing commonly used glycan structure terms. Glycobiology. 2023 Jun 3;33(5):354-357. doi: 10.1093/glycob/cwad014. PMID: 36799723; PMCID: PMC10243773.
 
 ---
 ## Overview
@@ -11,6 +16,11 @@ This pipeline builds a master dictionary of glycan structure terms by:
 4. Running AI-assisted mapping agents to (a) map synonyms to existing concepts or (b) propose creation of new canonical terms.
 5. Reconciling AI action logs into term-to-UUID mappings.
 6. Post-processing: merging multiple sources into consolidated node (master_nodes.json) and edge (master_edges.json) registries with quality checks and backups.
+
+> [!notes]
+> The supplementary materials documents the identification and extraction of glycan structure terms from 'The Essentials of Glycobiology' (EOG) using LLMs. Those terms serve as one of the main sources used to update and enrich the original GSD.
+
+> Varki A, Cummings RD, Esko JD, et al., editors. Essentials of Glycobiology [Internet]. 4th edition. Cold Spring Harbor (NY): Cold Spring Harbor Laboratory Press; 2022. Available from: https://www.ncbi.nlm.nih.gov/books/NBK579918/ doi: 10.1101/9781621824213
 
 ---
 ## Repository Structure
@@ -32,42 +42,65 @@ main/
     util_gtc2seq.py
     util_glycoct2gtc.py
     util_iupac2gtc.py
+  supp_ai-assisted_term_extraction/
+    01_vectorize_eog.py
+    02_gliner_eog.py
+    03_filter_records.py
+    04_combine_records.py
+    05_summarize_records.py
+    utils_supp.py
 
 data/
   raw/                # Editable source-specific JSONL term + edge files
   processed/          # Generated master artifacts (DO NOT EDIT MANUALLY)
     master_nodes.json
     master_edges.json
-    backup/           # Timestamp/indexed backups of prior master files
-  vector_store/       # Persisted Chroma collection (embeddings)
+    backup/           # Indexed backups of prior master files
+  supp/               # Supplementary folder (term extraction)
+    essentials_of_glycobiology/  # Text files of EOG
+    stats/            # Summary of terms extracted from EOG
+    vector_store/     # Embeddings of EOG
+  vector_store/       # Embeddings of the updated GSD
 ```
 
 ---
-## Data Model (JSONL Records)
+## Data Model (JSONL)
 Each source terms file (`*terms.jsonl`) after formatting should produce lines like:
 ```
 {
-  "term": "sialyl-Lewis a",
-  "xref": "SRC:PUBDICT001",
-  "term_uuid": "GSD:12345678-...",
-  "src_uuid": "SRC:1234abcd-...",
-  "metadata": {
-    "exact_synonyms": ["CA19-9"],
-    "gtc_id": ["G12345AB"],
-    "iupac_condensed": "Neu5Ac(a2-3)Gal(b1-3)[Fuc(a1-4)]GlcNAc",
-    "raw_term": "Sialyl-Lewis A"
-  }
-}
+    "lbl": "sialyl Lewis x",
+    "term_uuid": "GSD:32e928fb-1550-5e0a-945f-2218ac79b83c",
+    "gtc_id": [
+      "G00054MO"
+    ],
+    "sources": [
+      {
+        "src_lbl": "sialyl Lewis x",
+        "src": "SRC:EOG_VARKI_4E",
+        "src_uuid": "SRC:66cc8ff8-5b05-4882-8c47-8ab4f036bed3"
+      },
+      {
+        "src_lbl": "sialyl Lewis x",
+        "src": "SRC:GSD_GLYGEN_V0",
+        "src_uuid": "SRC:0e4ec742-01a0-4d61-b1fb-655f380ac009"
+      },
+      {
+        "src_lbl": "sialyl Lewis x",
+        "src": "SRC:PUBDICTIONARIES-GLYCAN-IMAGE",
+        "src_uuid": "SRC:5c02589c-9c5e-489f-8863-e0bd2618d901"
+      }
+    ],
+    "gsd_id": "GSD000151"
+  },
 ```
 Edges (`*edges.jsonl`) follow:
 ```
 {
-  "subj": "GSD:...",
-  "pred": "has_related_synonym",
-  "obj": "GSD:...",
-  "xref": "SRC:GLYGEN_CURATORS",
-  "comment": "CA19-9 has a related synonym of sialyl-Lewis a"
-}
+    "subj": "GSD:a7868da4-a6c2-4825-97b9-c86700b1c213",
+    "pred": "is_a_related_synonym_of",
+    "obj": "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5",
+    "comment": "GA1 is a related synonym of asialo-GM1"
+  },
 ```
 
 ---
