@@ -27,7 +27,7 @@ def create_hyperlinks(input_jsonl, output_jsonl) -> None:
 
             new_data = {"id": uid, "hyperlink": hyperlink}
 
-            with open(output_f, "a") as out_f:
+            with open(output_jsonl, "a") as out_f:
                 json.dump(new_data, out_f, ensure_ascii=False)
                 out_f.write("\n")
     return None
