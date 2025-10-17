@@ -10,8 +10,8 @@ from postprocessing_utils import update_master_registered_edges_file
 
 OUTF_NAME_NODES = "master_nodes.json"
 OUTF_NAME_EDGES = "master_edges.json"
-SRC_DIR = Path(os.path.abspath(__file__)).parent.parent.parent
-RAW_DIR = SRC_DIR / r"data/raw"
+SRC_DIR = Path(__file__).parents[2]
+RAW_DIR = SRC_DIR / "data" / "raw"
 
 QC_MODE = False # Set to True to enable QC mode; False for normal mode
 
@@ -25,7 +25,7 @@ else:
 
 # If master_nodes.json already exists, create a new file with an indexed suffix and move it to backup
 backup_existing_file(SRC_DIR, OUTF_NAME_NODES)
-output_term_file = SRC_DIR / "data/processed" / OUTF_NAME_NODES
+output_term_file = SRC_DIR / "data" / "processed" / OUTF_NAME_NODES
 
 # "src_eog" should be processed first
 PROCESSING_ORDER = ["src_eog", "src_gsdv0", "src_pubdictionaries", "src_n-compo", "src_glygen_curators"]
@@ -47,7 +47,7 @@ post_merge_quality_check(output_term_file)
 
 # If master_edges.json already exists, create a new file with an indexed suffix and move it to backup
 backup_existing_file(SRC_DIR, OUTF_NAME_EDGES)
-output_edge_file = SRC_DIR / "data/processed" / OUTF_NAME_EDGES
+output_edge_file = SRC_DIR / "data" / "processed" / OUTF_NAME_EDGES
 
 # Update master_registered_edges.json by merging each edges.jsonl file in the processing queue    
 for edge_file in processing_queue_edges:
