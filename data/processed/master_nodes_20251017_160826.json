@@ -1,11 +1,11 @@
 [
   {
-    "lbl": "1-3-linked β-glucose",
+    "lbl": "β3-linked glucose",
     "term_uuid": "GSD:864352e3-4959-5d32-b9e3-b0973c89c4a1",
     "gtc_id": [],
     "sources": [
       {
-        "src_lbl": "1-3-linked β-glucose",
+        "src_lbl": "β3-linked glucose",
         "src": "SRC:EOG_VARKI_4E",
         "src_uuid": "SRC:499a17af-4663-423c-9d5e-984d5fe54839"
       }
@@ -36,24 +36,24 @@
     ]
   },
   {
-    "lbl": "1-6-linked β-galactose",
+    "lbl": "β6-linked galactose",
     "term_uuid": "GSD:165697ec-4d3c-5222-b659-a519d5f852b1",
     "gtc_id": [],
     "sources": [
       {
-        "src_lbl": "1-6-linked β-galactose",
+        "src_lbl": "β6-linked galactose",
         "src": "SRC:EOG_VARKI_4E",
         "src_uuid": "SRC:9b56ba61-ea74-4828-84e7-45dce2d5f4b9"
       }
     ]
   },
   {
-    "lbl": "1-6-linked β-glucose",
+    "lbl": "β6-linked glucose",
     "term_uuid": "GSD:59ad35d6-72e6-5621-84da-36ff79658b40",
     "gtc_id": [],
     "sources": [
       {
-        "src_lbl": "1-6-linked β-glucose",
+        "src_lbl": "β6-linked glucose",
         "src": "SRC:EOG_VARKI_4E",
         "src_uuid": "SRC:8149b16c-1f97-46a7-a255-16c0d47422b3"
       }
@@ -1150,14 +1150,14 @@
     ]
   },
   {
-    "lbl": "G0 N-glycan",
+    "lbl": "G0",
     "term_uuid": "GSD:bf0e78e7-7656-5f66-8677-a96d59743cfe",
     "gtc_id": [
       "G36191CD"
     ],
     "sources": [
       {
-        "src_lbl": "G0 N-glycan",
+        "src_lbl": "G0",
         "src": "SRC:EOG_VARKI_4E",
         "src_uuid": "SRC:12bb26ff-1b60-44c1-9573-6525a0c5d677"
       },
@@ -2630,12 +2630,12 @@
     "gsd_id": "GSD000121"
   },
   {
-    "lbl": "lipid A-core",
+    "lbl": "lipid A core oligosaccharide",
     "term_uuid": "GSD:29cf4976-eff8-5c90-b2ce-05ee2f1e908a",
     "gtc_id": [],
     "sources": [
       {
-        "src_lbl": "lipid A-core",
+        "src_lbl": "lipid A core oligosaccharide",
         "src": "SRC:EOG_VARKI_4E",
         "src_uuid": "SRC:0c306818-81fc-4984-980d-a070625ff847"
       }
@@ -3034,18 +3034,6 @@
         "src_lbl": "multiantennary complex-type N-glycan",
         "src": "SRC:EOG_VARKI_4E",
         "src_uuid": "SRC:5f0bb4d0-7429-4732-b13b-2fa088c600ae"
-      }
-    ]
-  },
-  {
-    "lbl": "N-acetyllactosamine",
-    "term_uuid": "GSD:e0fdd96e-8e38-5719-86f5-7c1c58b2c069",
-    "gtc_id": [],
-    "sources": [
-      {
-        "src_lbl": "N-acetyllactosamine",
-        "src": "SRC:EOG_VARKI_4E",
-        "src_uuid": "SRC:983d56f3-c94d-4a27-93c8-d067034030f3"
       }
     ]
   },
