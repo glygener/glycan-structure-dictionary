@@ -2,37 +2,23 @@ from pathlib import Path
 import json
 
 
-def backup_existing_file(SRC_DIR: Path, OUTF_NAME: str) -> None:   
-    """Backs up the existing master_registered_terms.json file by moving it to a backup directory
-     with an indexed suffix if a file with the same name already exists."""
-    PRC_DIR = SRC_DIR / "data/processed"
-    BCK_DIR = SRC_DIR / "data/processed/backup"
+def backup_existing_file(SRC_DIR: Path) -> None:   
+    """Backs up all existing JSON files in the processed directory by moving them to backup/"""
+    PRC_DIR = SRC_DIR / "data" / "processed"
+    BCK_DIR = SRC_DIR / "data" / "processed" / "backup"
 
     BCK_DIR.mkdir(parents=True, exist_ok=True)
 
-    file_in_prc = PRC_DIR / OUTF_NAME
-    file_in_bck = BCK_DIR / OUTF_NAME
-
-    if not file_in_prc.exists():
-        file_in_prc.touch()
-        print(f"Created new file: {file_in_prc.name}")
-    else:
-        parent = file_in_bck.parent
-        stem = file_in_bck.stem
-        suffix = file_in_bck.suffix
-        index = 1
-        while True:
-            index_str = str(index).zfill(3)
-            new_name = f"{stem}_{index_str}{suffix}"
-            new_path = parent / new_name
-            if not new_path.exists():
-                backup_path = BCK_DIR / new_name
-                file_in_prc.rename(backup_path)
-                break
-            index += 1
-        print(f"- Existing registered terms file backed up to {file_in_bck.parent.name}/{new_name}")
-        file_in_prc.touch()
-        print(f"- Created new file: {file_in_prc.parent.name}/{file_in_prc.name}")
+    # Move all JSON files in processed directory to backup
+    json_files = list(PRC_DIR.glob("*.json"))
+    
+    if json_files:
+        for json_file in json_files:
+            backup_name = json_file.name
+            backup_path = BCK_DIR / backup_name
+            json_file.rename(backup_path)
+            print(f"- Backed up {json_file.name} to {BCK_DIR.name}/{backup_name}")
+    
     return None
         
         
@@ -380,3 +366,162 @@ def update_master_registered_edges_file(edge_file, output_file) -> None:
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(output_data, f, indent=2, ensure_ascii=False)
     return None
+
+def build_ontology(nodes_file, edges_file, output_file, processing_queue_terms) -> None:
+    print("\n" + "="*80)
+    print("Building glycan structure dictionary...")
+    
+    # Load master nodes
+    with open(nodes_file, "r", encoding="utf-8") as f:
+        master_nodes = json.load(f)
+    print(f"Loaded {len(master_nodes)} nodes from {nodes_file.name}")
+    
+    # Load master edges
+    with open(edges_file, "r", encoding="utf-8") as f:
+        master_edges = json.load(f)
+    print(f"Loaded {len(master_edges)} edges from {edges_file.name}")
+    
+    # Build related_synonyms (bidirectional) mapping from edges
+    # Map term_uuid -> list of related synonym labels
+    related_synonyms_map = {}
+    uuid_to_label = {node.get("lbl"): node.get("term_uuid") for node in master_nodes}
+    uuid_to_label.update({node.get("term_uuid"): node.get("lbl") for node in master_nodes})
+    
+    for edge in master_edges:
+        if edge.get("pred") == "has_related_synonym":
+            subj_uuid = edge.get("subj")
+            obj_uuid = edge.get("obj")
+            
+            # Get labels for both subject and object
+            subj_label = uuid_to_label.get(subj_uuid)
+            obj_label = uuid_to_label.get(obj_uuid)
+            
+            if subj_label and obj_label:
+                # Bidirectional: A has related synonym B, so B is also a related synonym of A
+                if subj_uuid not in related_synonyms_map:
+                    related_synonyms_map[subj_uuid] = []
+                if obj_label not in related_synonyms_map[subj_uuid]:
+                    related_synonyms_map[subj_uuid].append(obj_label)
+                
+                if obj_uuid not in related_synonyms_map:
+                    related_synonyms_map[obj_uuid] = []
+                if subj_label not in related_synonyms_map[obj_uuid]:
+                    related_synonyms_map[obj_uuid].append(subj_label)
+    
+    print(f"Built bidirectional related_synonyms map for {len(related_synonyms_map)} terms")
+    
+    # Helper function
+    def flatten_list(data):
+        if not isinstance(data, list):
+            return data
+        result = []
+        for item in data:
+            if isinstance(item, list):
+                result.extend(flatten_list(item))
+            else:
+                result.append(item)
+        return result
+    
+    # Helper function: get metadata from raw JSONL files
+    def get_source_metadata(src_uuid, term_uuid):
+        # Search through all raw term files
+        for terms_file in processing_queue_terms:
+            try:
+                with open(terms_file, "r", encoding="utf-8") as f:
+                    for line in f:
+                        entry = json.loads(line)
+                        if entry.get("src_uuid") == src_uuid:
+                            metadata = entry.get("metadata", {})
+                            
+                            # Flatten any nested lists in metadata
+                            for key, value in metadata.items():
+                                if isinstance(value, list):
+                                    metadata[key] = flatten_list(value)
+                            
+                            # Build SourceContent structure
+                            source_content = {
+                                "gsd_id": metadata.get("gsd_id"),
+                                "gtc_id": metadata.get("gtc_id"),
+                                "exact_synonyms": metadata.get("exact_synonyms"),
+                                "related_synonyms": related_synonyms_map.get(term_uuid, []),
+                                "classification": metadata.get("classification"),
+                                "definition": metadata.get("definition"),
+                                "description": metadata.get("description"),
+                                "evidence": metadata.get("evidence"),
+                                "publication": metadata.get("publication"),
+                                "db_xref": metadata.get("db_xref"),
+                                "iupac_condensed": metadata.get("iupac_condensed"),
+                            }
+                            
+                            # Handle function field (list of objects with src and content)
+                            if metadata.get("function"):
+                                functions = metadata["function"]
+                                if isinstance(functions, list):
+                                    source_content["function"] = [
+                                        {"src": f.get("src", ""), "content": f.get("content", "")}
+                                        if isinstance(f, dict) else {"src": "", "content": str(f)}
+                                        for f in functions
+                                    ]
+                            
+                            # Handle disease_association field
+                            if metadata.get("disease_association"):
+                                diseases = metadata["disease_association"]
+                                if isinstance(diseases, list):
+                                    source_content["disease_association"] = [
+                                        {"src": d.get("src", ""), "content": d.get("content", "")}
+                                        if isinstance(d, dict) else {"src": "", "content": str(d)}
+                                        for d in diseases
+                                    ]
+                            
+                            return source_content
+            except Exception as e:
+                print(f"Warning: Error reading {terms_file}: {e}")
+                continue
+        return {}
+    
+    # Build nodes with enhanced source metadata
+    enhanced_nodes = []
+    for node in master_nodes:
+        term_uuid = node.get("term_uuid")
+        enhanced_sources = []
+        for source in node.get("sources", []):
+            src_content = get_source_metadata(source.get("src_uuid"), term_uuid)
+            enhanced_source = {
+                "src_lbl": source.get("src_lbl"),
+                "src": source.get("src"),
+                "src_uuid": source.get("src_uuid"),
+                "src_content": src_content
+            }
+            enhanced_sources.append(enhanced_source)
+        
+        enhanced_node = {
+            "lbl": node.get("lbl"),
+            "term_uuid": term_uuid,
+            "sources": enhanced_sources
+        }
+        enhanced_nodes.append(enhanced_node)
+    
+    # Build edges
+    formatted_edges = []
+    for edge in master_edges:
+        formatted_edge = {
+            "subj": edge.get("subj"),
+            "pred": edge.get("pred"),
+            "obj": edge.get("obj"),
+            "comment": edge.get("comment")
+        }
+        formatted_edges.append(formatted_edge)
+    
+    # Build final GSD structure
+    gsd = {
+        "nodes": enhanced_nodes,
+        "edges": formatted_edges
+    }
+    
+    # Write to dictionary.json
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(gsd, f, indent=2, ensure_ascii=False)
+    
+    print(f"[COMPLETED] Successfully created dictionary.json with {len(enhanced_nodes)} nodes and {len(formatted_edges)} edges")
+    print(f"            Output: {output_file.parent.name}/{output_file.name}")
+    print("="*80)
