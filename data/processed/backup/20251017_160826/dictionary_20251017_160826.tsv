@@ -1,0 +1,620 @@
+lbl	term_uuid	gtc_id	exact_synonyms_glygen	exact_synonyms_other	related_synonyms	classification	sentence
+β3-linked glucose	GSD:864352e3-4959-5d32-b9e3-b0973c89c4a1			1-3-linked β-Glc		Polysaccharide Repeating Unit	
+1-4-linked α-L-guluronic acid	GSD:b115b40e-fdf0-573a-9549-0ec68f296584			1-4-linked α-L-GulpA		Polysaccharide Repeating Unit	
+1-4-linked β-D-mannuronic acid	GSD:28b652e2-5923-5c29-96f1-988d8d23c5e6			1-4-linked β-D-ManpA		Polysaccharide Repeating Unit	
+β6-linked galactose	GSD:165697ec-4d3c-5222-b659-a519d5f852b1			1-6-linked β-Galp		Polysaccharide Repeating Unit	
+β6-linked glucose	GSD:59ad35d6-72e6-5621-84da-36ff79658b40			1-6-linked β-Glc		Polysaccharide Repeating Unit	
+2-6-branch of complex N-glycans	GSD:3b67a794-e241-56bb-b993-661b1a47f3ef			2-6-branch		Named Functional Motif	
+2′-fucosyllactose	GSD:10ae2b99-1d75-5290-a777-47b7b1fcaf32					Disaccharide	
+3-O-sulfated galactose	GSD:5a262e8e-7861-5764-aa44-fdfb05a1e92b	G40843KY		3-O-sulfated Gal		Monosaccharide	
+3-O-sulfated GlcNS6S	GSD:f0e62919-4120-5fd2-af20-33525dfb29a9					Polysaccharide Repeating Unit	
+chondroitin-4-sulfate	GSD:5c444dc8-d458-53df-88a8-65344b643df1	G19059PI		4-sulfated chondroitin sulfate	chondroitin sulfate A	Polysaccharide	
+6-O-sulfated glucosamine	GSD:5f243ab7-64a6-5a23-9ce1-529071201a5a					Polysaccharide Repeating Unit	
+6-sulfo-sialyl Lewis x	GSD:1b3b03a6-b82a-52ea-a699-0da8aa1f3abc	G80722US	6-sulfo SLe^x|6-sulfo SLex			Named Functional Motif	
+6′-sulfo-sialyl Lewis x	GSD:6e033c8a-f202-509b-8b71-6eef358777b2	G00672PE	6'-Sulfo-sialyl Lewis x|6'-sulfated sialyl Lewis x-|6'-sulfo-sLe(x)|Su-SaiLex|Su-Slex	6′-sulfo-SLex|Sialyl-6′-sulfo-Lewis x|sialyl-6′-sulfo-Lex		Named Functional Motif	
+9-O-acetylated sialic acid	GSD:9447ca95-04fd-5700-9db0-2a3ee02c2a4a	G47325QT		9-O-Ac-Sia|9-O-acetylated Sia|9-O-acetylated-SA		Monosaccharide	
+ABO blood group antigens	GSD:f054a590-0d24-5438-b871-64b001b53954			ABO glycans|ABO(H) blood group glycans		Named Functional Motif	
+alkylacylphosphatidylinositol-anchored glycan	GSD:667030ec-2d62-5573-9fa1-f4482afc0782					Others	
+amylopectin	GSD:62c19a81-2859-5cac-8aae-c9a9d6da5eb4					Polysaccharide	
+apiogalacturonan	GSD:d742c56c-350f-5f5e-bf18-d4ed7d085155					Polysaccharide	
+arabinoglucuronoxylan	GSD:687c2e68-ec7d-54ca-a4ee-2996b7df7ebb					Polysaccharide	
+arthroseries glycosphingolipids	GSD:44424bf0-a3e2-524d-9b57-0879a7c56c2b			arthro-series|arthroseries|arthroseries glycolipids		Glycolipid	
+a-series gangliosides	GSD:70869a6d-1921-5736-8f3a-af3e124c381a					Glycolipid	
+asialo-GM1	GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5	G21856LC	Asialo-GM1a|GA-1|Gangliotetraosylceramide|Gg4|GgO4|as-GM1|ganglio-N-tetraosylceramide	aGM1	GA1	Glycolipid	
+GA1	GSD:a7868da4-a6c2-4825-97b9-c86700b1c213			ganglioside GA1	asialo-GM1	Ganglio-series asialylated	
+biantennary complex-type N-glycan	GSD:7548e42d-e075-5fef-a148-a06913542f40		diantennary complex type			N-Linked Type	
+biantennary N-glycan	GSD:abc37e9a-7363-5440-87f1-1e620ed70a9a		diantennary			N-Linked Type	
+bisected complex-type N-glycan	GSD:c453bc0a-a177-5fa0-b20d-23636ce0200e					N-Linked Type	
+bisecting GlcNAc	GSD:69988744-7296-5f26-8c2b-7a2cf6cd3ad3			bisecting N-acetylglucosamine|β1-4-GlcNAc		N-Linked Type	
+bisecting α1-4GlcNAc	GSD:404bf970-2534-5f2f-86e1-746f0302e08a			α1-4GlcNAc		N-Linked Type	
+blood group A determinant	GSD:7ec6f782-4bc2-57ae-a15d-27c73f9a14f7	G00066MO	blood group A trisaccharide	A antigen|A blood group determinant|blood group A glycans		Named Functional Motif	
+blood group antigens	GSD:b584b143-e0c4-5b8f-8523-f8b53ea2cfbe					Named Functional Motif	
+blood group B determinant	GSD:79a67483-e981-5415-9ec5-1725243f3795			B antigen|B blood group determinant|blood group B glycans		Named Functional Motif	
+blood group H determinant	GSD:33654432-0fbb-5d63-964b-04779c68d99e	G00068MO		H antigen|H blood group determinant|blood group H glycans		Named Functional Motif	
+blood group H type-1	GSD:fff47803-9624-5c8b-b6ac-f54c493cd27c	G00294TN|G40696TO	H type 1	Fucα1-2Galβ1-3GlcNAc1α-|type 1 blood group H core trisaccharide		Named Functional Motif	
+branched N-glycan	GSD:5e28351b-8816-5e00-8aeb-cdc7a43e3eb9					N-Linked Type	
+b-series gangliosides	GSD:e21a336f-6519-5fe7-9429-bcfa0d13f084			b-series		Glycolipid	
+callose	GSD:1083d84a-bf43-50ba-a94d-bf349b194916					Polysaccharide	
+cellobiose	GSD:1631d080-5dbb-5950-a0da-474aeb12d32d	G55560AP		cellobiose units		Polysaccharide Repeating Unit	
+cellulose	GSD:c7381b2b-a6b8-53b0-9ccd-02d2e5f775f7					Polysaccharide	
+chitin	GSD:87cba7f2-dfd0-5338-a6bb-0100197ad8ad	G97099AY		1-4-linked β-D-GlcNAc		Polysaccharide	
+chitobiose	GSD:8756b00b-9dcc-514c-a965-d339f8ec93b2			chito-motif		Named Functional Motif	
+chondroitin	GSD:c0561c11-1067-5e5a-ba4b-43ad894ccf41	G43702JT				Polysaccharide	
+chondroitin sulfate A	GSD:0a5b0166-1241-5a4a-a0d8-d7d1970792c6				chondroitin-4-sulfate	Polysaccharide	
+chondroitin sulfate B	GSD:37210836-4c03-58ec-ae10-befc14eacc9e				dermatan sulfate	Polysaccharide	
+chondroitin sulfate C	GSD:0d5ea83b-21ec-59e0-a01e-35fb322984f4				chondroitin-6-sulfate	Polysaccharide	
+chondroitin sulfate	GSD:3d250b8c-6c0f-5d52-9fd3-1a58a7660e1d		Chondroitinsulfate|chondroitin polysulfate|chondroitin sulfate|chondroitin sulfates|chondroitin sulfuric acid|chondroitin sulphate	chondroitin sulfate chain		Polysaccharide	
+C-mannose	GSD:12a331e1-df46-5810-a2c0-83a4675298ce			C-linked mannose		Other	
+complex ganglioside	GSD:83407b75-f351-5941-a80f-f5f3e662a358					Glycolipid	
+complex glycan	GSD:918a1972-40ae-5a6e-9066-0b3b1c6fc5cf			complex oligosaccharides		N-Linked Type	
+complex glycolipid	GSD:01252e39-1f93-59e0-a64c-0655bfa4d620					Glycolipid	
+complex O-glycan	GSD:ebb26565-ed41-5f38-b9a5-a436515b2e86					Others	
+complex-type N-glycan	GSD:8898cfbc-b227-5381-aa3b-2d6e8f5c855c			complex N-glycan|complex N-linked glycan|complex-type glycan		N-Linked Type	
+sialylated complex-type N-glycan	GSD:13c3b217-f4d2-5e5f-9349-c2754539e341		sialo-complex type	complex sialylated N-glycan|complex-type sialylated glycan		N-Linked Type	
+core 1 O-glycan	GSD:d30c0796-5386-5d5a-b374-96d79431db98	G00031MO	C1G	Galβ1-3GalNAcαS/T|core 1|core 1 O-GalNAc glycan		O-Linked Core	
+core 2 O-glycan	GSD:84263c50-3256-5701-b917-3856baedd01f	G00033MO		core 2|core 2 O-GalNAc glycan		O-Linked Core	
+core 3 O-glycan	GSD:0bdf4f51-9378-5d0c-a017-220cfd707bbe	G00035MO		core 3|core 3 O-GalNAc glycan		O-Linked Core	
+core 4 O-glycan	GSD:380c3655-bfc9-5931-977b-294df335f2c3	G00037MO		core 4|core 4 O-GalNAc glycan		O-Linked Core	
+core fucose	GSD:50d1be21-660a-5e10-a72d-f832009f71db	G78059CC	6-linked Fuc|Core Fuc|Fuc a1-6 to chitobiose core|Fuc a1-6 to internal GlcNAc|Fuca6 to chitobiose core|Fuca6 to internal GlcNAc|a1-6 Fuc|a6-linked Fuc			Named Functional Motif	
+core M1 O-mannose glycan	GSD:d8e7f221-faf6-5ef2-8636-480671b984df	G85856KC		M1|core M1		O-Linked Core	
+core M2 O-mannose glycan	GSD:9a0d5141-888d-51f3-b8b5-30b5a6456aa8	G56868BH		M2|core M2		O-Linked Core	
+core M3 O-mannose glycan	GSD:67c80166-8447-5f77-b32c-17101f58e923	G97041TX		M3|core M3		O-Linked Core	
+c-series gangliosides	GSD:ad4eef06-adc3-5576-ab88-d97ecabba171	G45770AV		c-series		Glycolipid	
+cyclic β1-2 glucan	GSD:812d8fe6-24aa-5c10-afab-b0f3523c1d49			cyclic glucan		Polysaccharide	
+dermatan sulfate	GSD:0ef0d5e3-6dad-54e6-9bde-79eec7ce6000		Chondroitin sulfate B|Dermatan L-iduronate|beta-Heparin		chondroitin sulfate B	Polysaccharide	
+dextran	GSD:1fb3e01a-50ec-56fb-ab50-f6f757d82d96					Polysaccharide	
+di-N-acetylbacillosamine	GSD:6f1bee5a-4792-5ca8-b631-f32c4052b8c5			diNAcBac		Monosaccharide	
+disialyl Lewis a	GSD:2c92929a-4f34-5166-a815-b20e3decb896	G93400AK	disialyl Lea	disialyl-Lewis a		Named Functional Motif	
+extended core-1 O-glycan	GSD:fc360443-5e52-5286-9023-5a450d05986c					O-Linked Core	
+fructans	GSD:d5eb4aa0-0881-5a7f-8b55-4027c9e0d7df					Polysaccharide	
+fucoidans	GSD:d437d34e-537b-57ce-8704-433177d46d46					Polysaccharide	
+fucosylated glycans	GSD:48b33e4c-bedf-5af1-ba2a-8730ba59a999					Others	
+fucosylated N-glycan	GSD:513ef5dc-3e7b-5d21-9757-fd24642c2e46					N-Linked Type	
+Fucα1-2Gal	GSD:04968aef-3b4e-5f07-8352-79ac445ab345					IUPAC String	
+G0	GSD:bf0e78e7-7656-5f66-8677-a96d59743cfe	G36191CD		G0	A2	IgG notation|N-Glycan Code	
+galabiose	GSD:a2c78d58-1d1e-5488-972e-60788bd92662			Galα1-4Gal determinant|Galα1-4Gal moiety		Named Functional Motif	
+galactan	GSD:672c9b68-8cc9-5b73-a41f-4f1912dbe84b					Polysaccharide	
+galactolipid	GSD:a92a3278-eedb-5329-b627-fe354524b4f1					Glycolipid	
+galactomannan	GSD:1d4660e2-b1f4-5dfd-8daa-7b23494e4747	G93424OB				Polysaccharide	
+galactose-terminated N-glycan branch	GSD:0a1fb874-2e4b-58f7-8fd4-4bb308613cb0			galactose terminated branch		Named Functional Motif	
+galactosylceramide	GSD:7829c0b5-3df6-5e54-baad-fb4c64380426	G65889KE	GalCer|Galactocerebroside|LC	Gal-Cer|GalCer|galactoceramide		Glycolipid	
+GalNAcα1-3Gal	GSD:4dfd069b-a6b4-53af-96b3-b6464421b392					IUPAC String	
+GalNAcα1-4GalNAcα1-3-diNAcBac	GSD:f38bd421-3733-5f59-a1e6-c07ff71a9298			GalNAcα1-4GalNAcα1-3-diNAcBac-β1		IUPAC String	
+GalNAcα1-4GalNAcα1-4	GSD:dc576e33-db61-5a15-beff-20d06f37e944					IUPAC String	
+Galα1-3GalNAc	GSD:e20326f3-93ec-5b08-83c8-4b0fbc04ef9c					IUPAC String	
+Galα1-3Galα	GSD:395a4112-0689-5bb3-92fc-a60b2e0cb3a3					IUPAC String	
+Galα1-3Galβ1-4GlcNAc	GSD:b9bc662d-a00d-52c9-8b01-e6483eb298f2			Galα1-3Galβ1-4GlcNAc-R		IUPAC String	
+Galα1-3Glcα	GSD:69fbdafc-9293-50a2-8401-c788fa54b2fd			Galα1-3Glcα1- disaccharide		IUPAC String	
+Galβ1-3GalNAcβ1-4Gal	GSD:e1fbb8c1-c50d-59a7-97f0-870d83b0601c					IUPAC String	
+Galβ1-3GlcNAcβ1-3Galβ1-4GlcNAc	GSD:5363637f-5a19-5108-ae9d-02b3e1d7003e					IUPAC String	
+ganglio-series glycosphingolipid	GSD:cac8e53d-b210-51f2-8b22-4d0f32b77326			ganglio-series		Glycolipid	
+ganglioside	GSD:7a810b44-8bb6-56ba-b76c-339d66b301d7					Glycolipid	
+Gb3	GSD:20e88f5c-c2b3-59f6-be89-7e0e58465d7c	G00059MO		Galα1-4Galβ1-4Glc|globotriaosylceramide	CD77|Pk antigen	Glycolipid	
+Pk antigen	GSD:94c78688-31d6-41ea-b885-c811f945864d	G06000DZ		Galα1-4Galβ1-4Glc	Gb3	P1PK Blood Group System	
+CD77	GSD:2721b555-911d-4079-a026-e761a752deb8			Galα1-4Galβ1-4Glc	Gb3	Cluster of Differentiation	
+Gb4	GSD:cb509f2c-8352-571e-987f-6afbb43dd3c5	G00061MO		GalNAcβ1-3Galα1-4Galβ1-4Glc|P antigen|globoside-4|globotetraosylceramide	P antigen	Glycolipid	
+P antigen	GSD:cf106ff8-f5cf-494a-a7bd-47029cde0d2b				Gb4	P1PK Blood Group System	
+GD1a	GSD:ce08ddcb-1567-5caa-9ad2-9c2209277bcc	G45714BQ|G46677TE	GD1alpha	ganglioside GD1a		Glycolipid	
+GD1b	GSD:e4e3df0d-c881-5a91-97fc-fbe47b595923	G37184KW		ganglioside GD1b		Glycolipid	
+GD1	GSD:d0c0ead3-30f7-5dbf-97a0-dc0aaf2624c4	G81983KG	GD1c	ganglioside GD1		Glycolipid	
+Gg4	GSD:b137039e-0172-5d89-8fa3-68775f8d4016	G00061MO|G21856LC	Cytolipin K|Gb4|Gb4Cer|Globoside|P antigen	ganglioside Gg4		Glycolipid	
+Glc3Man9GlcNAc2	GSD:cc06bb89-924b-5d6d-a843-baca062dd6a4					N-Linked Composition	
+GlcA-GlcNAc repeating unit	GSD:297e2bb5-a492-5cd7-bda2-0b6e10d91868			GlcA-GlcNAc RUs		Polysaccharide Repeating Unit	
+GlcAβ1-3GalNAc repeating unit	GSD:a5eb4dff-4b85-50db-bbd6-af4b55393241					Polysaccharide Repeating Unit	
+GlcAβ1-3Galβ	GSD:a2d09e61-b751-50c2-be00-9be4c20148f3			GlcAβ1-3Galβ-R		IUPAC String	
+GlcNAc-P-Man phosphodiester	GSD:6c9a6faf-fad0-566d-ad32-8d6d1bd04f1f					Disaccharide	
+GlcNAcβ1-2Manα1-3	GSD:909439ef-1f1a-5c74-9e36-56cca3f8b024					IUPAC String	
+GlcNAcβ1-2Manα1-6	GSD:333cf741-734c-5f79-929e-7aba2473fd6d			GlcNAcαβ1-2Manα1-6		IUPAC String	
+GlcNAcβ1-4Gal	GSD:05a85523-3746-5e27-b26c-b6be92baa9ce					IUPAC String	
+GlcNAcβ1-4GlcNAc	GSD:a4024824-8ebd-52bb-bd77-3d2bfc7428bb					IUPAC String	
+GlcNAcβ1-4Glc	GSD:5534ac2a-997a-55ae-a2ac-0ecef58af642			GlcNAcβ1-4Glc-Cer		IUPAC String	
+GlcNAcβ1-4Man	GSD:b6520151-5833-5a29-8b9e-5366ad982946					IUPAC String	
+Glcα1-4Glc repeating unit	GSD:6348b8f8-fc3a-5bf8-a237-9e1c4b573f2d					Polysaccharide Repeating Unit	
+Glcα1-phosphate-Man	GSD:4f0d6449-4ecc-5890-be80-3712fd55caad			Glcα1-PO4-Man		Disaccharide	
+Glcβ1-3Fucα-O-	GSD:51a57210-2ae6-5077-808c-5b752b914b6b			Glcβ1-3Fucα-O-Ser/Thr		Others	
+globo-series glycospingolipids	GSD:ee15a6e1-4986-5710-b1f7-04d74d0ebfba	G00061MO	Cytolipin K|Gb4|Globoside I|Globotetraosylceramide|P antigen	globo-series		Glycolipid	
+glucan	GSD:f103e2fb-58a5-5b16-80c5-8e27ca3c0536			glucose polymers		Polysaccharide	
+glucomannan	GSD:2312c43c-2cd4-563f-b74c-b95ee7b58642	G88924MD				Polysaccharide	
+glucosylceramide	GSD:3d06d77f-0323-508b-8678-7e86c86b85c4	G71142DF	CMH|Ceramide monohexoside|GlcCer|Glucocerebroside	Glc-Cer|GlcCer|glucoceramide		Glycolipid	
+glucuronoarabinoxylan	GSD:77ceee42-d16d-590b-ae3e-94e617326342	G54315VV				Polysaccharide	
+glucuronoxylan	GSD:68812b8d-f8a2-5064-86e7-b8389b0069d5	G94091AV				Polysaccharide	
+glycogen	GSD:159b23d6-4463-518c-b6d0-edc0916ae57e					Polysaccharide	
+glycoglycerolipid	GSD:e96d30e8-eb7c-52f4-9b67-9a92a86513c7					Glycolipid	
+glycoinositolphospholipids	GSD:a103e2ec-3b91-522f-8955-3b125da6d21f			GIPLs		Glycolipid	
+glycolipids	GSD:045f4287-6314-539a-bc4b-5bbdad4b4b7f					Glycolipid	
+glycosaminoglycans	GSD:b2e9740e-1fe6-5a6b-97f2-5a4d864900a0			GAGs		Polysaccharide	
+glycosphingolipids	GSD:aaadcfba-0977-5dd9-965d-40aa49d81920			GSLs		Glycolipid	
+glycosylceramide	GSD:4f42f90c-4af2-5926-95b6-d0bfead73c72					Glycolipid	
+glycosyldiacylglycerolipid	GSD:2039886e-7957-5b3b-bceb-1f3c3e3c1252			glycosyldiacylglycerolipids		Glycolipid	
+glycosylinositolphosphorylceramide	GSD:eb91bceb-53d2-568b-8e05-ea0447fc3a5a			GIPCs|glycosylinositolphosphorylceramides		Glycolipid	
+GM1b	GSD:03eade63-065b-5266-b0d6-2d0feb657606	G03277YI		Siaα2-3Galβ1-3GalNAcβ1-4Galβ1-4Glcβ1-1Cer|ganglioside GM1b	cisGM1	Glycolipid	
+GM1	GSD:3aa27544-ba80-5023-b104-e0747c328c0c	G48558GR	GM1 ganglioside|GM1-ganglioside	ganglioside GM1	GM1a	Glycolipid	
+GM2	GSD:f05f9823-137e-586e-9ce6-90956a04b6bc	G79389NT		ganglioside GM2		Glycolipid	
+GM3	GSD:40982fbc-1026-5333-acdb-aafdf94892be	G91237TK		ganglioside GM3		Glycolipid	
+GPI glycan	GSD:6541a9ff-3d21-5b09-8297-2ae4b63eb6c4			GPI anchor|Manα1-2Manα1-6Manα1-4GlcNα1-6Inositolphospholipid|glycosylphosphatidylinositol		Glycolipid	
+GQ1b	GSD:2f4047e2-bc8c-577d-9c8c-ed2e04227c65	G18625KA		ganglioside GQ1b		Glycolipid	
+GT1b	GSD:926d7349-2069-5615-b469-3b6c845ce149	G40183QN		ganglioside GT1b		Glycolipid	
+GT1c	GSD:3b3e1c65-614e-57dc-aa07-85a170fcf39a	G78818SP		ganglioside GT1c		Glycolipid	
+hemicellulose	GSD:76dafbf0-bbad-51c3-a5ff-fcd0648bef27			Hemicellulosic polysaccharides		Polysaccharide	
+heparan sulfate backbone	GSD:6048df8d-01b1-53ec-93b6-3b712d0b5eeb			GlcAβ1-4GlcNAcα1-4		Polysaccharide Repeating Unit	
+heparan sulfate	GSD:928fc0f5-5bfb-5be8-9eb6-dd405155d720	G17927IW	Heparan N-sulfate|Heparan sulfate|Heparan sulphate|Heparatan sulfate|Heparin monosulfate|Heparin sulfate|Heparitin monosulfate|Heparitin sulfate|N-Acetylheparan sulfate	HS		Polysaccharide	
+heparin	GSD:1b759e1d-9070-5800-9001-ee81290ddc26		Cy 222|Heparin|Heparinic acid|bemiparin|certoparin|enoxaparin|fluxum|parnaparin|reviparin|sandoparin			Polysaccharide	
+heteroxylan	GSD:017402ef-2612-5929-912c-b2b5634f6ebd					Polysaccharide	
+highly branched complex-type N-glycan	GSD:bae38c9e-4501-5161-bf22-a17698ab4153			highly branched complex-type N-glycans		N-Linked Type	
+high-mannose N-glycan	GSD:bd55e967-56fc-57a8-a669-0f45c0eb9a21	G55220VL	oligomannose, high-mannose, oligomannose-type	high mannose glycan|high-mannose-type N-glycan|oligomannose N-glycan|oligomannose-type N-glycan|oligomannosidic glycan|oligomannosyl N-glycan		N-Linked Type	
+HNK-1	GSD:4aa392ab-169b-5da1-86a0-bb18312dba93	G54406UD	CD57|HNK-1 antigen|HNK-1 carbohydrate epitope	human natural killer-1 antigen		Named Functional Motif	
+homogalacturonan	GSD:12a886f2-8d40-554c-93dd-cc2f8894e46c	G25318VQ				Polysaccharide	
+hyaluronan	GSD:6811049f-c1fb-5111-bcf3-360ba4f8e672	G29086KO	HA	GlcAβ1-3GlcNAcβ1-4		Polysaccharide	
+hybrid N-glycan	GSD:d4bdcdc4-b702-5263-b380-9175249b1ed6	G16828VN		hybrid-type N-glycan|hybrid-type glycan		N-Linked Type	
+I antigen	GSD:d09ee5db-281c-40b1-95c3-53f11f4aef41	G56045WU		branched poly-n-acetyllactosamine units		Named Functional Motif	
+i antigen	GSD:4e8ca135-621a-5f60-9db3-0873d1b18e94	G00058MO|G46055MA	Type 2 LN2	linear poly-N-acetyllactosamine units		Named Functional Motif	
+keratan sulfate–related glycan antigens	GSD:48f5dc7c-77b8-5e42-98c5-768334218a4e			KS–related antigens		Named Functional Motif	
+keratan sulfate	GSD:55518b88-605c-5d07-a328-555ccbea84d0	G82109MW	Keratan 6'-sulphate|Keratan sulphate|Kerato 6'-sulphate|Kerato sulfate|Kerato sulphate|keratan|keratan 6'-sulfate|kerato 6'-sulfate	KS chain|keratan sulfate chain		Polysaccharide	
+LacdiNAc	GSD:cea1d668-1fe6-50d0-9982-477ee729a810	G31736BK	LDN	GalNAcβ1-4GlcNAc|GalNAcβ1-4GlcNAcβ1-|LDN|LacdiNAc|N-acetylgalactosamine β1-4 N-acetylglucosamine		Named Functional Motif	
+LacNAc	GSD:04d45d70-b2b3-5f73-bbe0-cf1fd8a53b5d	G66213AR		Galβ1-4GlcNAc|LN|N-acetyllactosamine		Named Functional Motif	
+lacto-series glycosphingolipids	GSD:6b96f33b-d7b7-5e34-ad41-d3b621495dff			lacto-series		Glycolipid	
+lactosylceramide	GSD:0a063c08-7f72-5da7-9397-33bdcbc5315c	G84224TW	CDH|LacCer|Lc2	Galβ1-4Glc-Cer|LacCer		Glycolipid	
+Leishmania lipophosphoglycan repeat unit	GSD:898a8243-636a-5c97-90ac-fa638de41d03			Gal-Man-PO4- repeat unit|Galβ1-4Manα1-PO4		Polysaccharide Repeating Unit	
+levan-type fructan	GSD:232bb3ce-533d-555d-a9f4-ed9809d4ad1d					Polysaccharide	
+Lewis antigens	GSD:cabb56b2-34c2-5250-be10-65af64594104			Lewis antigens|Lewis blood group antigens|Lewis type glycans|Lewis-type structures		Named Functional Motif	
+Lewis a	GSD:c5a61542-ca29-5ce2-bf63-a4f7caf9bf9c	G00047MO|G39023AU	Le(a)|Le^a|Lea|Lea-3	Lea		Named Functional Motif	
+Lewis b	GSD:4327ef94-5fff-5d27-8f23-207afe82a8d1	G00048MO|G39211DH	Le(b)|Le^b|Lewis(b)	Leb		Named Functional Motif	
+Lewis x	GSD:89ba627c-cee9-5954-982f-3410e75fb006	G00051MO	Galbeta1-4(Fucalpha1-3)GlcNAc|Le(X)|Le^x|Lewis x trisaccharide|Lex|SSEA-1	Lex		Named Functional Motif	
+lipid A core oligosaccharide	GSD:29cf4976-eff8-5c90-b2ce-05ee2f1e908a					Glycolipid	
+lipo-chitooligosaccharide	GSD:97780e7f-7a97-52e0-bcef-62e033517882			LCO|lipochitooligosaccharide		Glycolipid	
+lipoglycan	GSD:5ce320b8-ced2-5597-9134-b409afd7632f					Others	
+lipopeptidophosphoglycan	GSD:755bd8b9-fb88-5107-b53c-4a9fa6a0f664			LPPG		Others	
+lipophosphoglycan	GSD:dea28036-c3f0-562f-9196-0d68504e1445			LPG		Glycolipid	
+lipopolysaccharide	GSD:ce35d9a0-c346-5335-8128-5430003359c9			LPS		Glycolipid	
+lipoteichoic acid	GSD:e44b5779-9508-562c-9490-a76618c6623a			LTA		Polysaccharide	
+M7BC	GSD:649ec44c-8ca8-51fc-ab09-791ddb37fde2					N-Linked Code|Oxford notation	
+M8B	GSD:3b8d8834-2436-5048-9e58-0a0c4ed97585					N-Linked Code|Oxford notation	
+Man3	GSD:dd1653b0-671f-5a14-872b-aaa5a18bcd82	G22768VO		Man3GlcNAc2	M3 (N-glycan)	IgG notation|N-Linked Code	
+Man5	GSD:d7aaf087-4381-5ac9-889c-e4793293c978	G32104JU		Man5GlcNAc2	M5	IgG notation|N-Linked Code	
+Man6	GSD:ac85d43d-be44-59fa-a524-580fbff1c6e3	G56038AR		Man6GlcNAc2	M6	IgG notation|N-Linked Code	
+Man-6-P-containing N-glycan	GSD:dc08638c-1152-5e27-adb4-2e805b91dffc			M6P-containing glycan		N-Linked Type	
+Man7	GSD:76f55f17-29ee-5938-bef1-bee233b36669	G04216GB		Man7GlcNAc2	M7	IgG notation|N-Linked Code	
+Man8	GSD:652f4ddf-ec6a-59c8-ba0e-46a26173f4b7	G91704UR		Man8GlcNAc2	M8	IgG notation|N-Linked Code	
+Man9	GSD:171cbaf9-e31b-5be4-ab4c-b9a60cf10330	G26508HK		Man9GlcNAc2	M9	IgG notation|N-Linked Code	
+mannan	GSD:038734aa-0f88-58d2-9ee6-d2f72d775a65					Polysaccharide	
+mannose-terminated N-glycan	GSD:19877723-8cc4-55e5-80fb-b478f3358924					N-Linked Type	
+mannosylated lipoarabinomannan	GSD:08ea19f8-5687-56dc-9812-ce892691fca0			ManLAM		Glycolipid	
+Manα1-2Manα1-2Manα1-6Manα1-4GlcN-inositolphosphoceramide	GSD:f2dab9ed-ecb3-569f-ab8a-93c8083d549d			fumigatus galactomannan-Manα1–2Manα1–2Manα1–6Manα1–4GlcN-inositolphosphoceramide		IUPAC String	
+Manα1-3Man disaccharide	GSD:20de8d28-539e-5869-9718-cf9c103f2fc6					IUPAC String	
+Manβ1-4Glc-ceramide	GSD:7480c595-8fc8-5ffa-b750-26ae3fb65f8a			Manβ1-4Glc-Cer		IUPAC String	
+matriglycan	GSD:1cd04026-2429-5e21-a7ab-c21c2150a456					Polysaccharide Repeating Unit	
+methanochondroitin	GSD:96cf2a55-237d-5a94-8c48-ea3a5399fcc2					Polysaccharide	
+monoantennary N-glycan	GSD:6d8d4be9-d746-5d48-9da6-ca1f0eb3b919					N-Linked Type	
+monoglucosylated N-glycan	GSD:9dbd00b1-daa1-5dd7-8643-cfc47dc7f67e					N-Linked Type	
+monosialylated ganglioside	GSD:c2c341af-933d-5fc8-9481-74150676c0bb					Glycolipid	
+mucin-type O-glycans	GSD:07f53917-abb0-5512-9eb2-b97850950eee				mucin-type O-glycans	O-Linked Core	
+multiantennary complex-type N-glycan	GSD:4bcdab57-7409-55df-98c2-eadb9cd4ed93			multiantennary N-glycan		N-Linked Type	
+neolacto-series glycosphingolipids	GSD:cf5631fb-aa17-5630-9cf9-3ec070faf8ed			neolacto-series		Glycolipid	
+Neu5Acα2-3Gal	GSD:473ec64b-303a-53b4-842b-2f8156bc19d1	G77824XV		Neu5Acα2–3Gal-|Neu5Acα2–3Gal-containing oligosaccharides|Neu5Acα2–3Gal-terminated glycans		IUPAC String	
+Neu5Acα2-6Gal	GSD:159f879f-6c57-55d5-b09b-3da3ba2f6cc2	G44345UH		Neu5Acα2–6Gal linkages|Neu5Acα2–6Gal-containing oligosaccharides		IUPAC String	
+Neu5Gcα2-3Galβ1-4Glc	GSD:5c93c17c-c516-5bff-8b0d-1541c5ea340b	G32969VW		Neu5Gcα2–3Galβ1–4Glc		IUPAC String	
+N-glycan core	GSD:24d335a2-51a3-5232-96e6-2d60815f8e55					N-Linked Type	
+N-glycan corneal-type keratan sulfate	GSD:3fda8660-e983-5497-aba6-bb4d277e8486			N-glycan corneal-type KS		N-Linked Type	
+N-glycans	GSD:b6aa2621-651c-5dc5-af13-e3dc0b932d37	G78059CC		N-linked|N-linked oligosaccharides|asparagine–N-linked glycans		N-Linked Type	
+O-acetylated sialic acids	GSD:929ed22f-b4a5-54aa-9c0d-8000b75e4a33			O-acetylated Sias		Named Functional Motif	
+O-antigen	GSD:831262e4-f719-5510-a84a-ee900c77b375			LPS O antigen|O-PS|O-polysaccharides|lipopolysaccharide O antigen		Named Functional Motif	
+O-fucose glycan	GSD:90a94f3e-97fc-5377-bba5-0d13d2766193	G39294YF				Others	
+O-GalNAc core structures	GSD:7cee9dd6-9c05-54fc-947b-afca69f08b9e			O-GalNAc cores|cores 1–4		O-Linked Core	
+O-GalNAc glycans	GSD:fa47b325-2aab-42f9-9d2d-b2499fab770c			GalNAc-type O-glycans (CLASS)		O-Linked Core	
+O-GalNAc-linked sialoglycans	GSD:365d7f89-b85d-538a-b378-d8b369d75d62					Others	
+O-glucose glycan	GSD:d740545e-dea4-57d3-8167-6524292d59ac			O-Glc glycan		Others	
+O-glycans	GSD:d0dfe91d-737b-59d2-9fa5-746a0d0ed6ad			O-linked oligosaccharide|Ser/Thr-linked glycans		Others	
+oligogalacturonides	GSD:8d7f339e-041d-5fb1-a248-0b53939bc648					Polysaccharide	
+oligoglucosides	GSD:4128c067-002f-552f-80b1-b1ba152cce73					Polysaccharide	
+oligomannose	GSD:17d4b1f6-7f34-5221-9454-43f9e00c5f98			mannose chain|oligomannosyl structure		Named Structural Motif	
+O-linked fucose	GSD:0b39b32b-2f19-537b-a733-8b030a6cf9dd					O-Linked Core	
+O-linked Glc-Gal disaccharide	GSD:3a5c03e8-e8e4-50e5-9148-03bd2d061521			O-Linked Glc-Gal		Named Functional Motif	
+O-linked glucose	GSD:2492d774-7ee5-590a-abf8-920a662f7221					O-Linked Core	
+O-linked keratan sulfate	GSD:cfd82c73-ecd9-5aed-afd2-2a8504110238			O-linked KS		Polysaccharide	
+O-linked mannose	GSD:b0d84bd5-9ed4-50a8-bd4f-4c25eea96d25					O-Linked Core	
+O-linked N-acetylglucosamine	GSD:627dd562-b899-5fd3-8bb3-c5ad42f31300	G49108TO		O-linked GlcNAc|O-β-GlcNAc		Others	
+O-linked sialoglycan	GSD:eede026a-633a-577e-9f11-044f45476b06					Others	
+O-mannose glycan	GSD:7f2b0e5a-45b8-5366-9e6d-892f75c98d6a	G59126YU	O-mannosyl glycan	O-Man glycan|O-mannose initiated glycans|O-mannose-based glycan|O-mannosyl glycan		O-Linked Core	
+Outer arm fucose	GSD:8fbb3cd6-990c-57ec-bf3c-e6826c0b93ec			Fucα1-3GlcNAc		N-Glycan Type	
+O-xylose-linked glycosaminoglycan	GSD:a9cdd507-5984-5398-a41a-79a9dc01deb4			O-xylose-linked GAG chains		Others	
+P1 antigen	GSD:d64e0922-936d-54e7-9182-bf7f2ccdba85	G12460DL|G55205ZV		P1 determinant		Named Functional Motif	
+paucimannose N-glycan	GSD:146aba34-600b-5250-8eaa-78b19e76b286			Man2-3GlcNAc2|paucimannose|paucimannose glycan|paucimannose-type glycan|paucimannosidic N-glycan|paucimannosidic glycan		N-Linked Type	
+P blood group antigens	GSD:24ed65cb-f624-5126-8f05-af4d87063b0f			P-blood group		Named Functional Motif	
+pectin	GSD:995a508c-70c2-50eb-b141-863139196fe1					Polysaccharide	
+phosphomannan	GSD:d51dc931-a3ca-5b24-a263-ae807bf9cb6e					Polysaccharide	
+phosphopeptidomannan	GSD:f2f7171a-ce36-5d80-b7f6-0ae02cc92d57					Polysaccharide	
+polyfucose branch	GSD:197964ba-03d7-5f0a-ae09-b7a7e1fd478c					Named Functional Motif	
+polyglycosylceramide	GSD:32f8e4bf-4bce-5880-822c-2bbe9e194237					Glycolipid	
+poly-lacto-N-biose	GSD:3414ff02-7a95-507c-b1c0-efdc59904ea2					Polysaccharide Repeating Unit	
+polymannose	GSD:99e7e9ac-4324-5ba3-bc57-1c68b48aba2a			poly(Manα1-6)|poly(Manα1-6)n backbone		Polysaccharide Repeating Unit	
+polymannosyl N-glycan	GSD:b3b96d8e-5d7b-5cd5-adce-1c284a2a8086					N-Linked Type	
+poly-N-acetylglucosamine	GSD:2cd03630-ad1c-52c7-b888-7c495783fe10			PNAG		Polysaccharide	
+poly-N-acetyllactosamine	GSD:6b4d591f-cc04-56e8-a565-f8198ae070e4			Galβ1-4GlcNAcβ1-3 repeats|poly-LN|poly-LacNAc|poly-N-acetyllactosamine sequences		Named Functional Motif	
+polysaccharide A	GSD:68aeaab4-aaf3-5255-adab-08c0a0d5453d					Polysaccharide	
+polysialic acid	GSD:bbaf1170-1d3f-55a0-946d-268cf8f7fa4d		PSA|polySia	polySia		Polysaccharide	
+pseudomurein	GSD:78ce0d7e-50a2-5e7b-aba2-98aa9bb1ef3d			pseudopeptidoglycan		Polysaccharide	
+raffinose	GSD:311d11b4-4abe-5b2e-942a-596c17524017					Polysaccharide	
+Rhamnogalacturonan-II	GSD:32bec96f-bd7c-5876-85ff-5a7ef6c01be7			RG-II		Polysaccharide	
+Rhamnogalacturonan-I	GSD:7fc01df9-8288-52ae-934e-2e65dfab5a1d			RG-I		Polysaccharide	
+rhamnogalacturonan	GSD:ff4ec627-d237-5bcb-a389-251ba334d130					Polysaccharide	
+rhamnomannan	GSD:97e3ae1b-7f96-5148-8f6f-02eea317eef6					Polysaccharide	
+R-linked α-N-acetylglucosamine	GSD:e3ef0583-e447-564b-8ece-c17fb722d0c7			arginine-linked α-GlcNAc		Others	
+Sda antigen	GSD:9bca4dac-0b6f-50fb-9ef6-a9ac73ee810f	G41052GC	Sd(A)			Named Functional Motif	
+sialofucosylated glycolipid	GSD:b149418a-ba3f-56cb-aaef-e93051829234					Glycolipid	
+sialoglycan polymer	GSD:3b6347fa-116a-58bd-94ef-2398080b4861					Polysaccharide	
+sialoglycan	GSD:85de55d3-c7bc-5196-9eb1-80795c555e3e			Sia-containing glycan|sialic acid-containing glycan		Others	
+sialoglycolipid	GSD:b157895c-4432-56f2-b984-d30820a25a33					Glycolipid	
+sialylated biantennary N-glycan	GSD:2af27ed8-674b-5471-adb0-e8456d8f0ea1		sialyl biantennary			N-Linked Type	
+sialylated glycolipid	GSD:35ef481e-71f9-5f52-8643-a36b9c465ab7					Glycolipid	
+sialylated glycosphingolipid	GSD:7d7d82c3-15e3-546f-a46d-f6187b6cbf2c					Glycolipid	
+sialylated N-acetyllactosamine	GSD:d6d5d9b1-e690-541d-b5fb-6b58d336553a					Named Functional Motif	
+sialylated N-glycan	GSD:66cd1dd7-b3bf-5df6-b3c3-69e6354149e1					N-Linked Type	
+sialylated O-GalNAc glycan	GSD:2f79f606-6a5c-5ac0-ae1f-b931f02464ef					O-Linked Core	
+sialylated O-glycan	GSD:846e7a18-60cf-5ee0-bc8a-337519077430					O-Linked Core	
+sialyl Lewis a	GSD:89e36335-2fea-5ef3-a3a8-559985883dad	G00053MO	CA19-9|CA19-9 antigen|SLe^a|SLea|Slea	sLeA|sLea|sialyl-Lea	CA19-9	Named Functional Motif	
+CA19-9	GSD:d5606d4d-5018-4a71-997a-6b29f4187a99			carbohydrate antigen 19-9	sialyl Lewis a	Carbohydratae Antigen (CA)	
+sialyl Lewis x	GSD:32e928fb-1550-5e0a-945f-2218ac79b83c	G00054MO	SLe(x)|SLe^x|SLex|Slex	sLeX|sLex|sialyl-Lex		Named Functional Motif	
+sialyl-Tn antigen	GSD:56c1c4e3-2f6b-59db-b7c5-46e6567feea0			sTn		Named Functional Motif	
+sialyl-Tn	GSD:562a7a4f-9d8e-5682-ab69-9673ba3599c6	G36123IU		Neu5Acα2-6GalNAcα|sTn antigen|sialyl-Tn antigen		Named Functional Motif	
+Siaα2-3Galβ1-4GlcNAc	GSD:96329dbf-4f65-50bc-899b-539e25568d12					IUPAC String	
+Siaα2-6Galβ1-4GlcNAc	GSD:e04fcc39-8f52-5bae-8af2-bd7eafdf3b15	G03509EL				IUPAC String	
+S-linked glucose	GSD:7dfddd82-e3ae-57a6-a604-155faf7ca2a8			S-linked Glcp		Others	
+SSEA-4	GSD:eb14b505-7275-5888-9bc7-4b07107af0b3	G84263XI		stage-specific embryonic antigen-4		Glycolipid	
+starch	GSD:ad85463a-3111-5186-94b3-b074cddaead4					Polysaccharide	
+sulfated galactan	GSD:2ecd47eb-1349-5683-b84c-d6986496c78d					Polysaccharide	
+sulfated glucuronosyl glycan	GSD:bf54b03e-d24b-5886-997b-2a52ede11173					Named Functional Motif	
+sulfated glycan	GSD:a2613919-1e6d-5428-aba4-5997bad45f8b					Others	
+sulfated glycosaminoglycan	GSD:037ed9e9-fe72-5b57-9710-13e1e02b20c4			sulfated GAG|sulfated glycosaminoglycan chains		Polysaccharide	
+sulfated N-glycan	GSD:b8143bd5-05c6-5619-b1c1-33b000af2e7c					N-Linked Type	
+sulfated O-GalNAc glycan	GSD:98efacdd-c1d7-5dc7-8d0b-06c6d5967cef			sulfated mucin-type glycan		O-Linked Core	
+sulfated terminal β-linked GalNAc	GSD:e0e0fe41-e988-5381-a1a6-932e18899850			sulfated-GalNAc		Named Functional Motif	
+sulfatide	GSD:f9726a72-e7bc-5b9f-bd06-b85ea099456d	G72548RZ				Glycolipid	
+T antigen	GSD:5b6ede6e-9829-5690-a1a3-d1883b62d46d	G00031MO	TF antigen	O-GalNAc-Gal|TF antigen|Thomsen-Fridenreich antigen		O-Linked Core	
+teichoic acid	GSD:9a4adb24-5192-5017-8286-14828329a8e1			teichoic acid polymer		Polysaccharide	
+terminal fucose	GSD:caf303a2-143f-51b8-887a-9fdc7e34a48c			terminal Fuc residue		Named Functional Motif	
+terminal galactose	GSD:0c32fd16-6ba8-5f21-aacc-e67e0b71acc1			exposed galactose|terminal Gal residue		Named Functional Motif	
+terminal glucuronic acid	GSD:9555ca61-aba2-5e44-947a-a6faeb0ccf73					Named Functional Motif	
+terminal mannose	GSD:9b46c1bc-c89c-51be-a6bd-cb98e416888c			terminal Man		Named Functional Motif	
+terminal N-acetylgalactosamine	GSD:cd483672-3ab7-5734-a40a-b489a133c301			terminal GalNAc residue		Named Functional Motif	
+terminal N-acetylglucosamine	GSD:7562f115-e4a2-5461-8cea-be68033775d0			exposed GlcNAc residues|terminal GlcNAc residue		Named Functional Motif	
+terminal sialic acid	GSD:7e50b61a-ea7e-5c9c-860e-a5296d3b2339			Terminal Sia residue		Named Functional Motif	
+terminal α1-6 mannose	GSD:8759d2e6-5d43-508d-bec0-a9cdf395b049			terminal α1–6Man		Named Functional Motif	
+terminal α-linked fucose	GSD:57fe1544-36ee-52f8-9802-d4ffc1867028					Named Functional Motif	
+terminal α-linked-galactose	GSD:ddda1d65-b417-51b2-8b8a-d5e9e86509b5			terminal α-galactose residue		Named Functional Motif	
+terminal α-linked mannose	GSD:a7da3922-7453-5cc0-897b-4bb463ece798					Named Functional Motif	
+terminal β-linked galactose	GSD:2d13a3a8-39c6-5ce0-ba08-9ea5582c6ff4					Named Functional Motif	
+terminal β-linked N-acetylgalactosamine	GSD:e16fd11e-688e-51f7-b405-dd0bb8b17879					Named Functional Motif	
+tetraantennary N-glycan	GSD:aee918cb-25f8-50b7-8174-0b8aee6bfdb1					N-Linked Type	
+Tn antigen	GSD:25e2c658-4349-5dc1-ba23-f9dbe366f1e7	G57321FI		O-GalNAc|Thomsen-Nouveau antigen		Named Functional Motif	
+trehalose-6,6-dimycolate	GSD:341d1909-eedf-5265-b3ee-cc78924c8a00					Glycolipid	
+triantennary N-glycan	GSD:1471df12-b367-5f77-b47f-f8e31ae9707f			tri-antennary N-glycan		N-Linked Type	
+tri-mannose	GSD:e42c7aa4-8b95-5f1c-8fe3-c263093d7b5a			tri-Man		Others	
+truncated core 1 O-glycan	GSD:65bba6d7-e07f-577c-b95a-b2c2a4b87b0b			truncated core 1 structure		O-Linked Core	
+truncated N-glycan	GSD:cd5c19d8-26c9-5540-b4b5-005c0b9f735c					N-Linked Type	
+truncated O-GalNAc glycan	GSD:76a59293-d803-5115-8d91-bfe83bf96e4d					O-Linked Core	
+truncated O-glycan	GSD:1a0dea3e-99dc-509f-b1e7-72f22adabe1d			incomplete O-glycan		O-Linked Core	
+type-1 unit	GSD:fe424dbf-51ec-555c-926c-3f41890b54c4			Galβ1-3GlcNAc|type-1 chain repeating unit		Named Functional Motif	
+type-2 unit	GSD:b9977dd8-7121-5b87-8b2a-75ca0fbeba71			Galβ1-4GlcNAc|type-2 chain repeating unit		Named Functional Motif	
+type-4 chain	GSD:8a16aa22-c6c7-504a-b0a9-c4e7a92d84ea					Glycolipid	
+xylan	GSD:a99ba2f3-c21f-5d4f-b958-3576be9c9188					Polysaccharide	
+xylogalacturonan	GSD:db5ed7f2-45f9-5e86-9eb1-bc412c33afc7	G00367NK				Polysaccharide	
+xyloglucan	GSD:6e9249d9-1b1b-5dbf-8561-76de16821a00	G25326UC				Polysaccharide	
+xyloside	GSD:b301b0d9-2ac9-589a-9cd1-4539be294d96					Others	
+xylosylated glycans	GSD:9f46e63f-395f-55cb-9230-c011b593b822					Others	
+α(1-3)-linked N-acetylgalactosamine	GSD:88ff1b8f-bd93-5eb3-b4ae-8ba697b28122			α(1-3)GalNAc		Named Functional Motif	
+α(1-6)-linked glucose branch	GSD:10dc47f9-89f6-59b5-aa58-22fd27d80b6e			periodic α1–6Glc branch		Named Functional Motif	
+α2-3 sialic acid branch	GSD:7cf55d9d-bacd-51cb-8500-ef798d5c7e9b			α2-3Sia branch		Named Functional Motif	
+α2-3 sialyllactosamine	GSD:5bb8d8c8-c3d1-5fce-b193-1c59dd7fa899			α2-3sialyllactosamines		Named Functional Motif	
+α-Gal epitope	GSD:d7673802-e0d9-5653-b39e-076f90358a60	G24432YB|G27798EJ	a-Gal antigen	αGal		Named Functional Motif	
+α-linked mannose	GSD:f4f8ff22-b9e8-5e3e-a230-680056063e4b					Monosaccharide	
+α-linked O-fucose modification	GSD:c8753ce2-90c7-5f6d-8408-8771b0fbcdd3					Named Functional Motif	
+α-linked polyglucose	GSD:7a5bd3ed-8cf1-590b-a0d0-361864a820eb			α-linked polyglucose nanofilaments		Polysaccharide	
+α-mannan	GSD:32bfa27a-d28a-584a-9a53-7b24e852853f					Polysaccharide	
+α-mannose-containing glycan	GSD:a2975b50-96f1-55c1-9723-87fb404221fb					Named Functional Motif	
+α-sialyl linkage	GSD:074c18ce-d0db-5638-b2f1-18f7c5525a09			α-sialyl linkages		Named Functional Motif	
+β-(1,3)-glucan	GSD:602bc4bf-da9f-505c-8a5d-d3de8020b72d			β-1,3-glucan|β-1,3-glucan oligosaccharides		Polysaccharide	
+β-(1,4)-glucan	GSD:3f1f513f-f9df-5475-8bb2-ca5235e3de00			β-1,4-glucan oligosaccharides|β-1,4-glucans		Polysaccharide	
+β-(1,4)-mannuronate	GSD:e8b1df23-5a49-5fd5-ba6a-9e4701e140d1					Polysaccharide Repeating Unit	
+β2-linked mannose polymer	GSD:a682ef18-7c67-5471-bd36-7a689b7f6114					Polysaccharide	
+β2-linked N-acetylglucosamine	GSD:444a9542-bd90-5bca-a8ea-78fc7b905dc4			β1-2GlcNAc		Named Functional Motif	
+β4-linked N-acetylgalactosamine	GSD:2f37ec04-7fb3-58c1-8f7b-4995e61eda24			β1-4GalNAc		Named Functional Motif	
+β4-linked N-acetylglucosamine	GSD:be8acfd3-8241-5bb3-8e7f-21348d2fbb17			β1-4GlcNAc		Named Functional Motif	
+β6-linked N-acetylglucosamine	GSD:787243fc-eea6-5ac3-b76f-ff0e45698791			β1-6GlcNAc		Named Functional Motif	
+β-D-xyloside	GSD:b1e943e8-3b74-5ca0-b624-b7035cb5867d					Others	
+β-glucan	GSD:6c978e40-5b00-580b-b7c6-94bc0e970ccc					Polysaccharide	
+β-linked galactose	GSD:ad1e80a4-92ce-5bc2-b892-ffbbfaff2a25	G65889KE		β-linked Gal		Named Functional Motif	
+β-linked Kdo	GSD:09f4cd98-a90c-5754-a796-8af8fcfd5b82					Monosaccharide	
+β-N-acetylgalactosaminide	GSD:ab43ce77-050f-5ca4-aee7-38cc6bd7430d					Others	
+β-N-acetylglucosaminide	GSD:bbaa2aeb-973c-5aa6-bc50-82c31077387a					Named Functional Motif	
+α2-6-sialylated 6-sulfo-LacNAc	GSD:43d51cfc-740a-4ed3-b6e3-8ab535549b19	G41145LF	6-sialyl-6-sulfo LN|α2-6-sialylated 6-sulfo-LacNAc				
+2-fucosyl GD1b	GSD:68240b82-aec7-43a6-9f7c-7e9ef1c7e2cb	G67383AR					
+2-fucosyl GM1	GSD:e2e22b19-83c1-4c8b-999d-fe2fdff4941f	G56526JU|G91532KA	fucosyl GM1				
+3-sialyl LN (type 2)	GSD:5e72cf7d-2a6a-44be-a29f-bcf3bf1260ba	G10203DW					
+3'-sulfo Lewis a	GSD:a357412d-d20c-41b8-bec8-943295031c56	G78706CK	3'-Sulfo Le^a|3'-Sulfo Lea|3'-Sulfo Lewis a|3'-Sulfo-Lea|3'-sulpho-Le(a)|3-O-sulfo-Le(A)|SuLe(a)				
+3'-sulfo Lewis X	GSD:3c0d59b6-d558-45d7-998e-ea6531a58295	G12295TB	3'-Sulfo Lewis x|3'-sulfo Le^x|3'-sulfo Lex|3'-sulfo-Le(x)				
+6,6′-dissulfo sialyl Lewis X	GSD:dec6e71e-7eeb-409a-860a-bbb40a6aacd3	G00659GQ	6,6'-bissulfo sialyl Lewis X|6,6'-disulfo sLex				
+6-sialyl GalNAc	GSD:55e259ab-b5a0-4aa9-8d0d-9295762c2b22	G08371CD	6-Sialyl LN (type 1/2)|6-sialyl LN|sialyl Tn antigen				
+9-O-acetyl GD3	GSD:0e9b1351-6dfb-4858-bbab-ebe2758c9be9	G74121RX	9-O-Ac-GD3|9-O-Acetyl-GD3|9-O-Acetylated GD3|CD60b|acGD3	O-acetyl GM3			
+alpha-galactosylceramide	GSD:bdd3ddc1-ed42-472f-adb3-0a8e726fb4c3		alpha-GalCer|α-GalCer				
+asialylated biantennary N-glycan	GSD:321dc49d-61cb-4258-bf08-06e2beb82bac		asialo diantennary				
+B-GM1	GSD:0c97b41d-c987-4746-8c44-cee9fcbd8367	G11485ID					
+blood group A type 1	GSD:ae80aeaa-7f09-4089-bbf8-f939ca66e601	G66163TI	Blood group A(1)|blood group A antigen type 1				
+blood group A type 2	GSD:48d6e2a5-4952-47e2-8500-2570e071f47c	G74353FF	A Type 2|Blood group A type 2 chain				
+blood group A type 3	GSD:eee3138f-0bab-4932-b162-1beac3aae6c3	G99315PE	A antigen (type 3)|A type 3 antigen|blood group A type 3				
+blood group A type 4	GSD:7cd6a813-ec70-42d2-b3fd-a9301d75b6b6	G17480GI|G37830TX					
+blood group B type 1	GSD:0cd556eb-645e-4998-8348-4c3c3149852b	G31734OS	blood group B type 1 tetrasaccharide				
+blood group B type 2	GSD:35f63383-e163-47c1-8217-36222c16ebcd	G34881WK|G94956AW	blood group B type 2				
+blood group B type 4	GSD:49f25ae6-69db-47ad-98eb-7f77ac4a169f	G25216QA					
+blood group H type 2	GSD:b8046ab9-0606-4e88-a54a-941c84879541	G61459JW|G70519XK	Blood group H (type 2)|H type 2|H type 2 antigen|H type 2 chain|blood group H type II|type 2 chain H				
+blood group H type 3	GSD:d68839cf-9b6b-4677-b896-ff47818e01a2	G94435QH	H antigen (type 3)|H type 3|Type 3 chain H				
+blood group H type 4	GSD:1a26c7ae-0b93-4167-b65b-4573d611d8f8	G35778AN|G98465JN					
+chondroitin sulfate/dermatan sulfate	GSD:7b7c9b97-5851-432f-b9ab-d0b64beb2d6e		CS/DS|chondroitin/dermatan sulfate				
+core-fucosylated biantennary N-glycan	GSD:38063ec7-c1bc-4a6a-8a19-d2a1e317f1cf	G78059CC	core-fucosylated diantennary				
+core-fucosylated biantennary complex-type N-glycan	GSD:afe9c1b5-d40d-478a-832e-a4147447e01b	G78059CC	core fucosylated diantennary complex-type				
+Cytolipin R	GSD:b3ecdd11-4db0-453a-aa7e-0d2545bca353	G57710SU					
+desialylated glycan	GSD:6862c102-0fcf-4a4e-b188-7094e1e0b892						
+difucosylated tetraantennary N-glycan	GSD:9affda3c-0fcc-4a74-8476-9b9bb7506499						
+dimeric Lewis x	GSD:980d0f39-e1ff-430f-bf65-3008c9cc2fd9	G79535HZ	DimLex^x|Lewisx-Lewisx|Lex-Lex|diLe(x)|dimeric Le(x)				
+diphosphorylated Man6	GSD:85895dff-5b70-499b-8726-33dc83b66175	G54792LL	Diphosphorylated Man_6				
+disialosyl globopentaosylceramide	GSD:068e7d8b-8192-4ae8-a4f4-8e5c8c5a2832	G97932OH	DSGb5|Disialosyl Gb5|Disialosylgalactosylgloboside|V3NeuAcIV6NeuAc-Gb5Cer				
+disialyl T antigen	GSD:b9e8ce59-d573-4456-b8ad-9918d317a450	G01614ZM	di-sialyl T antigen|disialyl-T antigen|disialylated T-antigen				
+disialylated fucosylated glycan	GSD:877a19d2-fc97-47d9-87b2-2bb658660f4b						
+Forssman glycolipid	GSD:2436d14a-7e6b-4999-b356-0d6bb0c091d9	G80062GG	Forssman antigen|Globopentosylceramide				
+fucosylated tetraantennary N-glycan	GSD:5b125ad0-374d-4de2-96dd-0c3ac0133556						
+fucosylated asialo-biantennary N-glycan	GSD:d38f6ccf-3575-4e17-b5db-17d3abc498bb		fucosylated asialo-diantennary				
+fucosylated biantennary N-glycan	GSD:73b79304-0089-48fc-afd4-82b84a0c1e53		fucosylated bisialo-diantennary				
+fucosylated disialylated biantennary N-glycan	GSD:866054d3-8ca5-45cc-b742-d8bd1bd25a03		fucosylated disialo-biantennary				
+fucosylated lacdiNAc	GSD:b7812d76-e661-481a-bc07-21470f1c5f7f	G02240AO	(GalNAc)1 (GlcNAc)1 (LFuc)1|Fucosylated lacdiNAc|LDN-F|LDNF	fucosylated LacdiNAc			
+fucosylated triantennary N-glycan	GSD:b209bf99-fab6-4875-aaad-65c95d126517						
+galabiosylceramide	GSD:da549328-b83d-479b-99f0-efa14c372db8	G67988RO					
+Gb5	GSD:41b2fe6b-f72e-4862-8242-b434ce339bf6	G99053DY	Globopentaosylceramide				
+GD2	GSD:06872bcd-5545-43c5-8c70-f53410a81c69	G02657AK					
+GD3	GSD:1962f1ca-4998-4433-9692-49d9e37ac274	G98544DH					
+globotriaosylceramide	GSD:6e3afd42-7bff-4b4d-b452-32d2229776d7	G00059MO	CD77|CTH|GL3|Gb(3)|Gb3|Gb_3|P^K antigen|Pk antigen|Trihexosylceramide|ceramide trihexoside|globotriaosylceramide				
+GM4	GSD:faa9b001-357d-4549-8f5d-8666e506e650	G30207PZ	Sialylated GalCer				
+GP1c	GSD:52c8b4cc-801c-46fb-a0a3-223e0714c250	G26203DP|G93805MV					
+GQ1c	GSD:031b8604-2a27-4fb3-84c4-56e35afce5bd	G99524KA					
+GT1a	GSD:82405327-1de3-4ba5-89aa-493256abad99	G68110IF					
+GT2	GSD:4311fc01-86a7-47bd-8284-13f4e625161e	G36476BA					
+GT3	GSD:6d78ffdb-0cc7-4ec2-b143-6ee6fbf173ac	G93899SO					
+isoglobotetraosylceramide	GSD:8b2bb3d0-c127-4cc6-bd84-5a68c437cfbd	G57710SU					
+lactotriaosylceramide	GSD:49675e4a-8a13-483b-a42b-96d1d2fa7139	G06239NA	Lc(3)Cer|Lc3|Lc_3				
+LcGg4	GSD:761b72f4-76a5-4cab-b30b-ade71d188c64	G62554JH					
+Lewis y	GSD:c05f267e-fa66-4b1a-bd6c-4a250acb5376	G00052MO	Le(y)|LeY|Le^y|Ley				
+monosialylated N-glycan	GSD:e2909941-ee43-4892-9296-c6912bb05d2d						
+monosialylated biantennary N-glycan	GSD:6524e495-c7f4-42c9-8e2d-c01e194e0738		monosialyl biantennary|sialylated biantennary|sialylated diantennary				
+monosialyl Gb5	GSD:6d1bae04-defe-4652-9469-676dbd4ed2cf	G32254QI	GL-7 globoseries ganglioside|GL-7 globoseries ganglioside (SSEA-4)|Monosialyl Gb5|SSEA-4|Sialosyl galactosyl globoside				
+monosulfated globopentaosylceramide	GSD:46528fde-50a7-4fb7-be35-df185e4a262b	G80193TN	Monosulfated globopentaosylceramide				
+monosulfated globotetraosylceramide	GSD:1183ab6f-e3e9-4202-8e32-9848db7d5c9a	G05297EK					
+N-acetyl GM2	GSD:acce63a2-f38e-4f65-b35a-2ab99054214a	G79389NT	GM2 (Neu5Ac)	GM2 / Neu5Ac			
+N-acetyllactosamine (type 1)	GSD:e505676f-d5ef-4f0c-9bad-d27deeb1b783	G00056MO	LacNAc type 1|Type 1 LN|Type-1 lactosamine				
+N-acetyllactosamine (type 2)	GSD:bcbf9c2c-276b-435e-a92d-848168f7bbf6	G00055MO	LacNAc|Type 2 LN				
+N-glycolyl GM2	GSD:31190c26-ebe4-406d-a196-64f29bf55e6e	G56478LD					
+nonfucosylated N-glycan	GSD:16c6fd08-f6b9-458a-b3c0-dc80fd54f9c8						
+nonfucosylated biantennary N-glycan	GSD:00a9532d-c9db-4be3-8b99-b887e9c93f97						
+nonfucosylated triantennary N-glycan	GSD:eacbb5c9-0c0b-4549-aad3-934ad108e24f						
+nonsialylated N-glycan	GSD:b557a57f-2ea1-404a-a7f1-8ef061e6ff1b						
+Para-Forssman glycolipid	GSD:5cb29215-6edb-456a-a92c-2aed67ead976	G51699SI					
+paragloboside	GSD:eb2cc2a3-09f1-4c42-b7dd-d33349ea3dea	G58896AZ					
+seminolipid	GSD:61fc05da-859e-45a7-af36-8b943a7bfbe0	G72548RZ					
+sialopentaosylceramide	GSD:b7195725-a7d4-4717-afe0-2c903c708c2e	G13224CR					
+sialosyl paragloboside	GSD:6580fbd2-fc40-47bb-875e-1cfbbfe285f0	G01767JJ|G50123ZO					
+sialyl T antigen	GSD:65e6cb17-b6e0-4548-83c1-6dd8fdf13c42	G65562ZE					
+sialylated LacdiNAc	GSD:4e77fa02-7b3e-4502-961c-eb3128018267	G55583HW	Sialylated LDN|sialylated-LacdiNAc				
+sialylated tetraantennary N-glycan	GSD:8e044e80-03e0-433f-84b8-89c3b621e02a						
+SSEA-1	GSD:5a76e56e-4c2c-4bb9-ac80-226bc6d5b7f2	G85497PI					
+SSEA-3	GSD:263b5566-6e4e-41d1-9f12-c8339e6bf126	G25129BT					
+sulfated LacdiNAc	GSD:d7547529-9384-46c2-b359-ad455f8cba6d	G18464VS	4'-O-sulfated LacdiNAc|4'-sulfated LDN|sulfated LDN				
+tetraantennary complex-type N-glycan	GSD:283cf9cf-37cb-4610-ac96-5c27e7b5e032						
+triantennary complex-type N-glycan	GSD:9598324c-4144-4a36-9363-8b23621950d1		Triantennary complex-type				
+fucosylated trisialylated triantennary N-glycan	GSD:569eebe7-730f-4e21-8029-7101bad0fbe9						
+trifucosyl Lewis b	GSD:4b1954a1-a4b9-4cda-9c47-4df9e13e87b4	G74578MX	trifucosyl-Leb antigen				
+trifucosyl lewis y	GSD:d7bc6703-411b-4861-b5aa-285099666f06	G74917JX	trifucosyl Ley				
+trimannosyl core	GSD:f7cdf4f8-f80e-4ee7-9e4b-9bac207c7b34						
+trisialylated biantennary N-glycan	GSD:2f0d9e16-7fe0-4093-a503-040879ec7636						
+trisialylated triantennary N-glycan	GSD:02e8291e-5f4e-4181-98a5-ca7f185050fc						
+VIM-2	GSD:22a00f8d-9902-4eef-8bc2-2b91bbce1310	G22418PV					
+cyclic sialyl 6-sulfo Lewis x	GSD:f9c67ff8-e0cd-4772-a4c7-35b24484fd05	G11148DZ					
+sialyl Lewis x-i antigen	GSD:314fa931-c71a-4fc8-a467-409f7a0862a3	G06597DS					
+6-sulfo LacNAc	GSD:453286d3-7558-4839-97f4-bc5a28f8f1d2	G13157WZ					
+disialyl Gb5	GSD:7e394a4e-6c54-41e5-8225-85a90636f0d1	G97932OH	disialosyl Gn5				
+GalNAc disialyl Lc4 hexasaccharide	GSD:70d9524d-9de9-4c8e-b739-a432f718e949	G33532XU					
+GQ1b alpha	GSD:f506d575-33cd-4a4e-bf39-3475f3cda04c	G54733XO					
+GT1a alpha	GSD:f77f9ead-efc0-4fe7-b422-53bee58ffb3f	G02149VR	GT1aa				
+disialyl I antigen	GSD:6992f144-8ef9-40aa-a942-8d55e3b98803	G54937EM	disialyl I				
+2,6-branched O-mannose	GSD:e9b1ae37-8e37-4a2d-8ede-afb838162591	G56868BH	2,6-branched O-mannosyl glycan				
+disialylated biantennary N-glycan	GSD:3c655cb1-316b-4790-83a6-9ee427fad7d5						
+tetrasialylated biantennary N-glycan	GSD:bcdcd7e0-2593-46c4-bd21-9ef67fdaaa50						
+ceramide dihexosyl sulfate	GSD:054bf2b0-7e12-4db2-ad82-3f65435eeb78	G04416BG					
+cisGM1	GSD:2815cc13-f565-4868-9cf2-9e7800568658	G03277YI	GM1b		GM1b		
+disialylated biantennary complex-type N-glycan	GSD:f8aa2eec-0523-496e-aeb9-ff9492c072dd						
+asialo-GM2	GSD:30a56b3d-0d9f-4b84-97ae-59c984f60006	G90562PB		aGM2			
+asialo-GM3	GSD:441f2d1d-745c-4ef0-a4f5-5449e060b4dc	G84224TW		aGM3			
+arabinan	GSD:5952daf4-735e-4d0d-95d0-6ddf95a0710a	G22535ZZ					
+chondroitin-6-sulfate	GSD:38b53e04-c595-43d5-84ce-be2c1b8ff768	G34992DF		6-sulfated chondroitin sulfate	chondroitin sulfate C		
+Fuc(a1-3)GalNAc(b1)	GSD:ade8a5a9-57d3-4ff5-865b-88780709dfaf	G57709BH					
+GA2	GSD:c32609b5-fb10-4da5-9846-18edce240bd8	G90562PB					
+GM1a	GSD:fbde2c9b-d9c5-4c7c-b3ef-93cbcc3ee9cb	G48558GR			GM1		
+Gal(b1-3)GalNAc	GSD:9e14b0e8-3569-48e4-af19-f86179c64dfc	G78436BB					
+Gal(b1-4)[Fuc(a1-3)]Glc(b1)	GSD:6b2a64e9-4797-48ca-bcf2-292cbc93bce9	G57548NB					
+Gal-CTH	GSD:87989b2d-1f15-4fb9-80a6-178de7613a3b	G91649BT		Gal-ceramide-trihexoside			
+GalNAc(b1-3)Gal(b1-4)GlcNAc	GSD:b15fba9a-268c-4eb9-a971-26c5c06d4e1a	G61149BD					
+GalNAc(b1-4)Gal	GSD:c0597b2b-399d-46d8-9bc4-183cac7cbf4c	G60859DF					
+GalNAc(b1-4)[Neu5Ac(a2-3)]Gal(b1)	GSD:fb8e0f86-86c7-40cc-a2fd-328b9f52f003	G45058HZ					
+GalNAc(b1-4)[Neu5Gc(a2-3)]Gal(b1)	GSD:0aa070e9-6bca-4700-b148-c537b80006a9	G29406SZ					
+GalNAc-GD1a	GSD:dd3d396c-6ed9-4487-8e19-6449f6519035	G92175CL					
+galactosylgloboside	GSD:6af29d67-4678-43f2-9c9c-0c3bcf644218	G99053DY					
+Gg3	GSD:cc49bd2f-ba0c-4ad3-9727-8be4ef2ed4a9	G90562PB					
+Gg5	GSD:2e90df47-c162-4aeb-bad6-a8d4ef59b00a	G96834JC					
+GlcNAc(b1-3)Gal	GSD:608124e0-0589-49ef-8de2-a7899e40bad1	G02880JU					
+GlcNAc(b1-3)Gal(b1-4)GlcNAc	GSD:9d65912f-97d1-4625-9f11-3031f1408e33	G48117BL					
+KDN-Gal	GSD:504914ce-6a2e-4215-9408-b72fcf258e7e	G82612XX					
+LacNAc-Gal	GSD:461a0ae9-e18c-4b06-9e5e-62592fc337e2	G06580KR					
+lacto-N-neotetraose	GSD:e28ae0a4-cfce-4867-8526-e950e6405bcc	G48059CD					
+lacto-N-tetraose	GSD:f953302a-e368-43aa-8a00-f254d26bf693	G45827GY					
+lactogangliotetraosylceramide	GSD:6c972eec-6baf-4b08-a21b-58748889ad2f	G62554JH					
+lactotetraosylceramide	GSD:18ddd830-8974-4494-a880-47eed3c79f17	G00049MO			lactotetraosylceramide		
+Lc4	GSD:b26727f7-8dbe-490d-abbd-28a7a9e17690	G00049MO					
+M3FX	GSD:b521334b-3fb2-4a74-9379-a44185d69144	G47379VH					
+Neu5Ac(a2-3)Gal(b1-3)GalNAc	GSD:bd544174-9b27-4f63-b71b-c5666358a595	G56299XO					
+Neu5Ac(a2-3)Gal(b1-4)Glc	GSD:f261beda-27ca-45b9-a01a-35b48b50b7ce	G56516VH					
+Neu5Ac(a2-3)Gal(b1-4)GlcNAc	GSD:5c2de4b2-4008-4dd8-884f-973a690259aa	G10203DW					
+Neu5Ac(a2-6)GalNAc	GSD:bbd48827-78a7-4efd-a2fe-37d7b5886f8f	G08371CD					
+Neu5Ac(a2-8)Neu5Ac(a2-3)Gal	GSD:6c0aa996-d859-479b-8c37-d6710034a904	G82775QT					
+Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-3)GalNAc	GSD:8c8ff0f0-4ac8-4aaf-aed6-92368916beec	G93910CU					
+Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-4)Glc	GSD:3e6860e0-dd8d-46c4-9083-6d0dfbe438cf	G81928IQ					
+Neu5Ac(a2-8)Neu5Gc(a2-3)Gal	GSD:f622cdfb-328b-4e57-8482-d08002907ef6	G82974JM					
+Neu5Ac(a2-8)Neu5Gc(a2-3)Gal(b1-4)Glc	GSD:cc87fa4e-1acc-4b6d-b257-543d6355e5fb	G95233MF					
+Neu5Gc(a2-3)Gal	GSD:d2b2f12c-b0ec-4b5f-a7ab-f139a386da5a	G53517XC					
+Neu5Gc(a2-3)Gal(b1-4)GlcNAc	GSD:6bd898e9-9419-4433-a380-c6601f5a44c5	G48236KP					
+Neu5Gc(a2-8)Neu5Ac(a2-3)Gal	GSD:4a8949f9-0e19-4fd6-b3f8-303d3e5fc3f7	G61424BA					
+Neu5Gc(a2-8)Neu5Gc(a2-3)Gal	GSD:12a83f46-619d-4aca-b4fa-db34f85715f0	G16142UJ					
+poly-KDN	GSD:a9009522-45f5-4fc5-ad82-df5e8c11148d	G42911NE					
+SD1a	GSD:cadabd03-d656-4bab-b508-2e1074b53d1a	G63813EJ					
+SM3	GSD:7f747c20-dbac-4427-89e2-788cc4fd90ca	G20044TD					
+SM4s	GSD:65f5cada-eb8b-4f15-b7b5-04b914f1491b	G72548RZ					
+amylose	GSD:553a15fd-f3e1-4520-8d69-9c3d3b512bf1	G05740LL					
+cellotriose	GSD:4e6d2a6d-f729-4387-a94e-9997490ce215	G50026IZ					
+gellan	GSD:5d04f9d1-9d56-4056-9b47-2d7a8c0a6ca5	G41181BF					
+gentiobiose	GSD:964e6a6f-727b-4a18-bc7b-75437cb819e0	G47329OU					
+iGb3	GSD:cd817de8-1227-4cd7-a4cc-8aa89ce13ef5	G78074HX		isoglobotrihexosylceramide			
+iGb4	GSD:02f34de6-3acd-4b78-8238-381fc980095e	G57710SU		isoglobotetrahexosylceramide			
+isomaltose	GSD:fda54e47-8840-42f2-9050-43ab3ffd6771	G36281WI					
+isopanose	GSD:7bab4295-b653-434a-bde8-2761f91b2f96	G37117TJ					
+lactose	GSD:d3bfc2ac-dec1-4d3c-9caf-48b03084df86	G15541SE					
+maltose	GSD:6c2edbdf-0e8f-4cd6-ad02-1b204741afb0	G44653LT					
+melibiose	GSD:2e97c20e-d29c-4dbc-a4a9-6f5c1307d6d3	G66481II					
+nLc4	GSD:c983b5f3-2adc-4db8-8a25-782035454a36	G58896AZ		neolacto-tetraosylceramide			
+nLc6	GSD:2c77b391-acda-47d8-8143-7858a299a67c	G84034JH		neolacto-hexaosylceramide			
+panose	GSD:3dea9dc3-48cc-4ee9-87d0-8ecd5cd1d464	G44612JM					
+primeverose	GSD:630edab2-70df-4281-9437-1890f9de9636	G82276DL					
+rutinose	GSD:20f8cecb-eca0-4636-8263-f286a02e69cc	G68857PG					
+core 5	GSD:0232300a-a001-4f35-a1b6-f3a3deb18ed9	G00039MO					
+core 6	GSD:3e753d46-1782-4e9d-9f42-9dd0a5e8e884	G00041MO					
+core 7	GSD:49dd0450-0151-425e-99df-1c389e492835	G00043MO					
+GD1 alpha pentasaccharide	GSD:8c9bf9d6-a030-4eeb-9642-3aca39662ac3	G45714BQ					
+GD1 alpha	GSD:a24b8a0e-617b-4265-90da-89051f4f6d47	G07394RV					
+2-3 sialyl-lacto-N-tetraose	GSD:510a134d-1712-472b-a50e-fea8e0d434f2	G21066IE					
+6,6'-sulfo LacNAc	GSD:cebea50e-809e-4e6b-9b8b-3616fe363ba7	G24270KX					
+acharan sulfate	GSD:b4515395-fede-40c9-8d37-8fdf332bd82e	G25575JK					
+delta-heparan sulfate	GSD:8e5f1276-7205-4834-9d26-73c598c67828	G25575JK					
+2-9,2-6 disialyllactosylceramide	GSD:9d4213ac-8c01-436a-82fc-31f84645bf00	G30187JM					
+core 0	GSD:2387cdad-43b9-4c41-9c47-60f66326267c	G57321FI					
+fucosyl asialo-GM1	GSD:8014d96b-dd47-4d24-909b-ae92f36ed710	G57920AK					
+F1 alpha	GSD:e1288740-84b8-4762-980b-3f51b48d3a5f	G61730RY					
+N-glycolyl GM3	GSD:3c8e4679-d370-4858-9016-f0d288c387b3	G75789AR					
+core 8	GSD:c201b527-626e-42df-9712-33a3cfdfbe05	G76355TG					
+poly-N-acetylneuraminic acid	GSD:3ba55485-7aec-45b4-acc6-0cde9f25ffb0	G80631ZD					
+2-6 sialylparagloboside	GSD:996dbe5c-9f1d-4621-91b4-40768552f7de	G83513YI					
+N-glycolyl GD3	GSD:83b8053a-8f3f-49f5-ad14-33651663ef9a	G84891DZ					
+N-acetyl GM3	GSD:06bd9230-9660-4176-95b3-5ea150555eb8	G91237TK		GM3 / Neu5Ac			
+poly-N-glycolylneuraminic acid	GSD:1a223014-1b0b-4155-821c-f9f69aa8b422	G95717TY					
+N-acetyl GD3	GSD:5abce0cd-a3c7-4211-9503-65b0cec1a97c	G98544DH					
+Lewis y (extended) / hexasaccharide	GSD:03913360-7c86-4ed9-a762-d8deeb917f51	G69030AU					
+O-mannosyl glycan / mammalian	GSD:aa9e444d-dbfb-4d59-8f3d-5fd3e35df979	G59126YU					
+O-mannosyl glycan / yeast	GSD:225a830f-cc4a-42c0-8d60-ffca23cf7ac0	G25559RS					
+O-fucose glycan / EGF repeat	GSD:48cb33e8-fbc3-4bd5-a7b0-4568f69b2a46	G39294YF					
+O-fucose glycan / thrombospondin type 1 repeat	GSD:0f1d4f50-c1ce-442d-b509-85753f1af2fa	G36855WW					
+blood group A trisaccharide	GSD:279d0705-3eab-4c6f-b0bd-d34ffa4ebc51	G00066MO					
+blood group A type 1 (difucosyl)	GSD:5bd9117e-6e5a-49a7-81e7-73ce5ebb17e1	G97501MA					
+blood group A type 2 (difucosyl)	GSD:fbf4a554-5562-42a7-9a51-4679b1b9fef7	G54826OZ					
+chondroitin sulfate D	GSD:5529f60d-2731-4786-9388-ceecabb6bbee	G46732TY					
+beta 1-6 galactan	GSD:d759395b-0e38-46fc-a58b-2515b4192c9d	G69386QK					
+beta 1-4 galactan	GSD:4abab09e-59b0-4c83-aed8-d8ce7e64819b	G77076MY					
+mixed-linkage beta glucan	GSD:8f6f737c-2e91-4f67-8d78-0b81d0bfdcdf	G46558JB		1-3/1-4 beta glucan			
+blood group H disaccharide	GSD:067fc20f-5196-4e52-8493-97120eff6a4c	G00068MO					
+arabinogalactan type I	GSD:b7d754c5-bc4d-4fd3-9220-7b491f997a5a	G98272RS					
+sialyl 6-sulfo LacNAc	GSD:7498e0fb-3377-4ee2-8c37-33f0232748e8	G99745QX					
+Lewis a- Lewis X hybrid antigen	GSD:bf4125e8-7959-4ec2-b67f-ff8d0b0c3a3f	G07357YR|G74578MX					
+Neu5Gc(a2-3)Gal / monosialoganglioside	GSD:d6eea297-7840-4efe-89df-52e5ddab9fb4	G53517XC					
+dimeric Lewis a	GSD:586e36e8-3c9a-4fca-951f-65c34a7ddd08	G21808VY					
+disialyl Lewis c	GSD:7a12fbed-8d5b-4843-a42a-fe3d68618294	G14000ZZ					
+sialyl Lewis c	GSD:6065c033-b855-4854-9681-32799c3d2bc6	G46776WR					
+2-6 sialyl i-Lewis x	GSD:91dd3f7a-c0ee-40d4-b499-630f1967b1ed	G93855LZ					
+arabinogalactan type II	GSD:fe41c176-a401-474a-ad78-3d673587de95	G12828SG					
+internal Lewis x	GSD:9e04b3e9-01f0-4809-8f77-6637925b4d40	G64227KZ					
+6-sulfo Lewis x	GSD:416c0ecc-e4db-48d3-a1dc-b960ae6cd923	G89307GT					
+β-linked lactose	GSD:a6c8cb4a-f684-48be-a06e-86fa493b2d87	G84224TW					
+A1	GSD:558c6e29-6921-4fa8-81fb-105af7b1ac93	G61751GZ			G0-N	Oxford notation	
+A1G1	GSD:b9528c73-258e-4986-8bea-74d253f0afc6	G69411IG				Oxford notation	
+A2	GSD:0605927f-fc12-42da-a5c2-1a52395ab7f8	G36191CD			G0	Oxford notation	
+A2[3]G1	GSD:a4fafd81-d735-4de0-9a1a-54c71b11a0aa	G66937TJ				Oxford notation	
+A2[6]G1	GSD:149a032b-69f4-4689-8146-fde147ac4c65	G89993FE				Oxford notation	
+A2B	GSD:0b994b4c-7d17-42aa-b8fe-71d08800b960	G59471TH			A2BG0|G0B	Oxford notation	
+A2BG0	GSD:a7c3ef02-2f8b-4b92-8f06-445cc22031c0	G59471TH			A2B	Oxford notation	
+A2BG1	GSD:92f07899-60f1-4f07-ac64-85831ea7e874	G72718TT				Oxford notation	
+A2BG2	GSD:2410d679-553d-4dd0-ba68-b91629af36dc	G52934AK				Oxford notation	
+A2BG2S1	GSD:9311af08-d5dd-43b1-b0ac-116a77719f1b					Oxford notation	
+A2BG2S2	GSD:8bc613fa-fd70-4270-99e0-eba61136246d					Oxford notation	
+A2F1	GSD:848697c5-4a99-46ca-9265-25cc5275cf78					Oxford notation	
+A2F1G2S2	GSD:8dc047d1-e1a2-4a66-bfbb-65623b7f08fa					Oxford notation	
+A2G1	GSD:1950a6af-7cbb-49cf-aae3-59bc276a5980	G66937TJ			G1	Oxford notation	
+A2G2	GSD:2d0aec1a-2f4b-44d7-9ff3-796bfdd88636	G36191CD			G2	Oxford notation	
+A2G2S1	GSD:37d0e526-70e9-41a9-93ca-621586dff079					Oxford notation	
+A2G2S2	GSD:1acd7360-9827-4469-9cb2-b5fe84935177					Oxford notation	
+A3	GSD:8b2a49d6-7e7b-45b8-96c1-63abdb47802e	G29011JC				Oxford notation	
+A3F1	GSD:acf5da02-703e-4d92-a29a-c4557c8901c5					Oxford notation	
+A3F1G3S2	GSD:9a676794-3fc8-40f1-95d2-96d33ced58f5					Oxford notation	
+A3F1G3S3	GSD:4d439e5c-227c-4662-8bb8-5ffd17a09eac					Oxford notation	
+A3F2G3S3	GSD:e8fa8a19-f73d-4c6b-9f00-ccdb8e29207d					Oxford notation	
+A3G3	GSD:eee720f8-4b0b-4f14-8333-0cf118cd84b6	G29857RC				Oxford notation	
+A3G3S2	GSD:09012562-756c-4994-890b-1699fe74a5f5					Oxford notation	
+A3G3S3	GSD:a572974c-d903-4a37-b82d-8ed145e7133c					Oxford notation	
+A4	GSD:038ada2e-fed9-474d-ad07-7cbd41a9c2ea	G20030CU				Oxford notation	
+A4F1	GSD:7f7c698f-5497-455f-acae-c7f55cee6d7a					Oxford notation	
+A4F1G4	GSD:3f0e9a39-1e92-4752-9e41-9efb9dd035d9					Oxford notation	
+A4F1G4S4	GSD:6bbca09a-452a-4fa9-b34c-38279f52ca91					Oxford notation	
+A4G4	GSD:46bc0119-d6b8-430c-a1f4-82c95fb8dbac	G18938DW				Oxford notation	
+A4G4S1	GSD:05af8e56-3b80-4f58-878e-1c02ac445d83					Oxford notation	
+A4G4S2	GSD:94aede7b-f6e7-4347-abc1-b5e43a754c77					Oxford notation	
+A4G4S3	GSD:160acd22-9d2b-4267-9670-712c8490e7e1					Oxford notation	
+A4G4S4	GSD:a5cd0381-387e-4693-8faf-39d261b18e3f					Oxford notation	
+FA1	GSD:1463378a-685e-4580-bada-bf5110f7f80a					Oxford notation	
+FA1G1	GSD:9c5f7f2b-a42a-46c4-a5fb-5f30aa680700					Oxford notation	
+FA2	GSD:aeebc5be-14f5-4c03-b61f-a2936330a37e				G0F	Oxford notation	
+FA2[3]BG1	GSD:32681f4f-b6e5-481b-b210-a244a5c73378					Oxford notation	
+FA2[3]G1	GSD:adef3db2-d128-42a0-86af-2fe9fdaa6719					Oxford notation	
+FA2[3]G1S1	GSD:cd4a7669-b13d-4938-81ca-5dc9bcc7a57f					Oxford notation	
+FA2[6]BG1	GSD:cc1bd28d-2cda-4819-9902-ded2eb2bf47d					Oxford notation	
+FA2[6]G1	GSD:165e2c8c-4213-4d96-a40e-1fa770c78410					Oxford notation	
+FA2B	GSD:0f6dff69-e331-4e34-9d72-7bbb67a604b5				G0FB	Oxford notation	
+FA2BG2	GSD:641038a1-7fd3-4b65-9ace-1d4fc9e650eb					Oxford notation	
+FA2BG2S1	GSD:af920d36-243b-4016-834e-deec53c77d1e					Oxford notation	
+FA2BG2S2	GSD:1fda2059-3956-45c5-8d62-9af6d225be60					Oxford notation	
+FA2F1G2S2	GSD:fb845bf6-917c-4d4f-8176-b66eaa9b31a8					Oxford notation	
+FA2G1	GSD:4263014e-957d-44f1-b733-12302704fc09				G1F	Oxford notation	
+FA2G1S1	GSD:5d225294-62f8-4d1e-a112-d8a1192c29ab					Oxford notation	
+FA2G2	GSD:7bf91264-a639-48f4-a992-f1ad65f6d1e5				G2F	Oxford notation	
+FA2G2S1	GSD:2e04d1a2-3da5-458f-8573-39514b94b7b7				G2FS1	Oxford notation	
+FA2G2S2	GSD:54235f94-c902-44d0-994d-9235d7dc6fb7				G2FS2	Oxford notation	
+FA3	GSD:0fb25052-9b14-41b5-ab91-4062f7031941					Oxford notation	
+FA3B	GSD:a4af7308-5106-450f-961c-f555980b279d					Oxford notation	
+FA3F1G3S3	GSD:058efd1f-f654-479e-824e-bbda5ff6b69a					Oxford notation	
+FA3G3	GSD:556417e6-2691-4e4e-bd70-8e311d17c9c3					Oxford notation	
+FA3G3S3	GSD:c3874249-f0e6-45e8-ac6e-a12224f0ff64					Oxford notation	
+FA4	GSD:57f7f432-089d-4fb4-889f-e6393b0d4d19					Oxford notation	
+FA4F1G4S4	GSD:d802f979-8882-4c39-945a-92a0531cd269					Oxford notation	
+FA4G4	GSD:2d1e1acb-8613-48c5-a166-dc30d456f389					Oxford notation	
+FA4G4S4	GSD:8998868d-539a-4c2c-87ef-28d8ba2d31b6					Oxford notation	
+G0-N	GSD:3eac30ef-5494-45c6-bdf5-108a05cf1890	G61751GZ			A1	IgG notation	
+G0B	GSD:6fb1b3d1-7810-41fc-917e-44634e577d3c	G59471TH			A2B	IgG notation	
+G0F	GSD:e2868821-1995-4872-983f-4231e9fd8faf				FA2	IgG notation	
+G0FB	GSD:e2aedcf6-3412-4ce7-8768-970fff170c92				FA2B	IgG notation	
+G1	GSD:e09b35de-0e6a-4fdd-a9b2-ad015b788603	G66937TJ			A2G1	IgG notation	
+G1F	GSD:aeeaceb1-5530-4598-b828-31015aceeaa0				FA2G1	IgG notation	
+G2	GSD:a9dc8b21-25a3-4a48-8943-0c8e852ff46c	G36191CD			A2G2	IgG notation	
+G2F	GSD:c979ed9e-e4e2-4ec6-ae30-da5a7ad21b32				FA2G2	IgG notation	
+G2FS1	GSD:06a32dd0-c657-491d-bcf9-c719061df840				FA2G2S1	IgG notation	
+G2FS2	GSD:5750e9ec-7e77-491e-a140-3b90e2b0df83				FA2G2S2	IgG notation	
+G1M9	GSD:27e8bdda-e653-437d-a0b4-7806b6892790					Oxford notation	
+G2M9	GSD:a695785e-9e88-4f37-91f5-f38fc81a3448					Oxford notation	
+M3 (N-glycan)	GSD:31920366-d0a5-4ca0-b9f7-3b9fceff0283	G22768VO			Man3	Oxford notation	
+M5	GSD:f5c9087c-f814-4e25-8197-5801209af7e1	G32104JU			Man5	Oxford notation	
+M6	GSD:2567d8db-d209-41bb-9f3e-86cc5bc11725	G56038AR			Man6	Oxford notation	
+M7	GSD:b09056c6-2f81-4d26-9e20-c4cf7d1406f5	G04216GB			Man7	Oxford notation	
+M7AB	GSD:cbbfc6f4-8a29-49f9-95f8-e151c13f9914					Oxford notation	
+M7AC	GSD:b0c06d6b-d81c-4b50-95b0-c2372764a0b7					Oxford notation	
+M8A	GSD:2fc718c5-7cc7-4eea-8953-ad6fbe516208					Oxford notation	
+M8C	GSD:f157d93e-add0-4d35-8495-be2ef2cf73f3					Oxford notation	
+M8	GSD:e46355aa-9afd-475b-8df0-ac024fd4e49d	G91704UR			Man8	Oxford notation	
+M9	GSD:7a9857d9-21b5-40a1-aa48-deb2cca160d8	G26508HK			Man9	Oxford notation	
