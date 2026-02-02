@@ -167,6 +167,55 @@ def update_master_registered_terms_file(term_file, output_file) -> None:
         metadata = entry.get("metadata", {})
         gsd_id = metadata.get("gsd_id", None)
         gtc_id = metadata.get("gtc_id", [])
+        metadata_fields = [
+            "exact_synonyms",
+            "gsd_id",
+            "gtc_id",
+            "description",
+            "definition",
+            "glycoCT",
+            "iupac_condensed",
+            "classification",
+            "is_class",
+            "raw_term",
+            "evidence",
+        ]
+
+        def merge_metadata_field(existing_entry, field_name, new_value):
+            if new_value is None or new_value == "":
+                return
+
+            existing_value = existing_entry.get(field_name)
+
+            # Normalize list-like values
+            if isinstance(new_value, list):
+                new_list = [v for v in new_value if v not in [None, ""]]
+                if not new_list:
+                    return
+                if existing_value in [None, ""]:
+                    existing_entry[field_name] = new_list
+                    return
+                if isinstance(existing_value, list):
+                    for v in new_list:
+                        if v not in existing_value:
+                            existing_value.append(v)
+                    existing_entry[field_name] = existing_value
+                    return
+                # Existing is scalar, new is list -> conflict
+                print(f"[WARN] Metadata conflict for '{field_name}' on {term_uuid}: existing scalar vs new list. Keeping existing.")
+                return
+
+            # Scalar new value
+            if existing_value in [None, ""]:
+                existing_entry[field_name] = new_value
+                return
+            if isinstance(existing_value, list):
+                if new_value not in existing_value:
+                    existing_value.append(new_value)
+                existing_entry[field_name] = existing_value
+                return
+            if existing_value != new_value:
+                print(f"[WARN] Metadata conflict for '{field_name}' on {term_uuid}: '{existing_value}' vs '{new_value}'. Keeping existing.")
 
         # Skip if no term_uuid or term is [DISCARD]
         if not term_uuid or term == "[DISCARD]":
@@ -209,6 +258,12 @@ def update_master_registered_terms_file(term_file, output_file) -> None:
             if gsd_id and gsd_id not in existing_entry.get("gsd_id", []):
                 existing_entry["gsd_id"] = gsd_id
 
+            # Other metadata fields
+            for field_name in metadata_fields:
+                if field_name == "gtc_id":
+                    continue
+                merge_metadata_field(existing_entry, field_name, metadata.get(field_name))
+
             # Add new source to existing sources
             existing_sources = existing_entry.get("sources", [])       
             # Check if this source already exists (by src_uuid)
@@ -236,6 +291,14 @@ def update_master_registered_terms_file(term_file, output_file) -> None:
                 "gtc_id": gtc_id_list,
                 "sources": [new_source]
             }
+
+            # Carry over metadata fields into new entries
+            for field_name in metadata_fields:
+                if field_name == "gtc_id":
+                    continue
+                value = metadata.get(field_name)
+                if value not in [None, ""]:
+                    new_entry[field_name] = value
             
             output_data.append(new_entry)
             term_uuid_to_index[term_uuid] = len(output_data) - 1

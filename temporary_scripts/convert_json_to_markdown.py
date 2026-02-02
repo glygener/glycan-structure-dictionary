@@ -243,8 +243,8 @@ def generate_markdown(categories: Dict[str, List[tuple]], output_path: Path) -> 
     
     with open(output_path, 'w', encoding='utf-8') as f:
         # Write header
-        f.write("# Glycan Structure Dictionary\n\n")
-        f.write("*A comprehensive visual reference for glycan structures with detailed annotations*\n\n")
+        f.write("# Glycan Structure Dictionary (Beta)\n\n")
+        f.write("* See [https://github.com/glygener/glycan-structure-dictionary REPO] AND [https://github.com/glygener/glycan-structure-dictionary/blob/main/data/processed/dictionary_20251017_160826.json JSON FILE]*\n\n")
         f.write("---\n\n")
         
         # Write statistics
