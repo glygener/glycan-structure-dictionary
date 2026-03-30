@@ -122,24 +122,35 @@ Follow these steps to get a local copy up and running.
 
 ### Installation
 
-1. Clone this repo:
+1. **Clone this repo:**
 
    ```sh
    git clone https://github.com/glygener/glycan-structure-dictionary.git
    cd glycan-structure-dictionary
    ```
 
-2. Pull the required Ollama models:
+2. **Pull the required Ollama models:**
 
    > A thinking model and an embedding model are required. If you chose to use other models, remember to update the model names at `configs/models.yaml`. This pipeline was developed using a locally hosted Ollama server where GPU acceleration is almost necessary. Otherwise, Ollama also offers cloud models with limited free usage. For accessing cloud models and obtaining a Ollama API key, refer to their [documentation](https://docs.ollama.com/cloud)
 
-   Start your local ollama service at a separate terminal window (close this window after verifying downloads):
+   Start your local ollama service at a separate terminal window (close this window after **verifying downloads**):
+
+   **Non-HPC users:**
 
    ```sh
    ollama serve
    ```
 
-   Download your reasoning model and your embedding model ([more models](https://ollama.com/search)):
+   **For HPC (Slurm) users only:**
+
+   - Load the `ollama` module every time when opening a new terminal window:
+
+     ```sh
+     module load ollama
+     ollama serve
+     ```
+
+   Back to your main terminal window - Download your reasoning model and your embedding model ([more models](https://ollama.com/search)):
 
    ```sh
    ollama pull gpt-oss:20b
@@ -157,8 +168,10 @@ Follow these steps to get a local copy up and running.
    # mxbai-embed-large:335m       468836162de7    669 MB    7 weeks ago
    # gpt-oss:20b                  17052f91a42e    13 GB     7 weeks ago
    ```
+  
+   (You may now close the terminal window that runs the Ollama server)
 
-3. Install Python dependencies:
+3. **Install Python dependencies:**
 
    (Optional) create a virtual environment with `Python 3.12`:
 
@@ -174,6 +187,8 @@ Follow these steps to get a local copy up and running.
    ```
 
 4. Start Ollama server:
+  
+   **For Non-HPC users:**
 
    > [!note]
    > Every python script that utilizes LLM requires the hosting of an Ollama server. You may utilize these scripts to start/stop/check a server:
@@ -204,14 +219,16 @@ Follow these steps to get a local copy up and running.
 
 ## Usage
 
-### Project Structure
+### Workflow
 
 #### Part 1: Term extraction from EoG and relations mapping
+
+![](https://github.com/glygener/glycan-structure-dictionary/blob/main/docs/static/graph_workflow_extract.png?raw=true)
 
 1. Creating ChromaDB from EoG documents
 
    ```bash
-   unzip data/inputs/eog/raw_chapters/unzip_me_before_running_01_ingest.zip -d data/inputs/eog/raw_chapters/
+   unzip data/inputs/eog/raw_chapters/unzip_me_before_running_01_ingest.py.zip -d data/inputs/eog/raw_chapters/
    ```
 
    ```bash
@@ -230,35 +247,49 @@ Follow these steps to get a local copy up and running.
 
 #### Part 2: Incoporating heterogeneous data sources and build a deduplicated master list of terms
 
-The second part builds a master dictionary of glycan structure terms by:
+![](https://github.com/glygener/glycan-structure-dictionary/blob/main/docs/static/graph_workflow_map.jpg?raw=true)
 
-1. Ingesting heterogeneous source term sets (Essentials of Glycobiology, legacy GSD v0, curated publications, composition lists, curator-supplied sets, etc.).
-2. Normalizing and formatting raw term JSONL inputs into a canonical intermediate structure.
-3. Creating a semantic vector store (Chroma + OpenAI embeddings) for retrieval-augmented AI mapping.
-4. Running AI-assisted mapping agents to (a) map synonyms to existing concepts or (b) propose creation of new canonical terms.
-5. Reconciling AI action logs into term-to-UUID mappings.
-6. Post-processing: merging multiple sources into consolidated node (`master_nodes.json`) and edge (`master_edges.json`) registries with quality checks and backups.
+This part builds a master dictionary of glycan structure terms by:
 
-```bash
-# 1. Build embeddings
-python src/gsd/part2_enrichment/1_ai-assisted_term_matching/01_create_vectordb.py
+- Ingesting heterogeneous source term sets (Essentials of Glycobiology, legacy GSD v0, curated publications, composition lists, curator-supplied sets, etc.).
+- Normalizing and formatting raw term JSONL inputs into a canonical intermediate structure.
+- Creating a semantic vector store (Chroma + OpenAI embeddings) for retrieval-augmented AI mapping.
+- Running AI-assisted mapping agents to (a) map synonyms to existing concepts or (b) propose creation of new canonical terms.
+- Reconciling AI action logs into term-to-UUID mappings.
+- Post-processing: merging multiple sources into consolidated node (`master_nodes.json`) and edge (`master_edges.json`) registries with quality checks and backups.
 
-# 2. Run AI mapping for a source
-python src/gsd/part2_enrichment/1_ai-assisted_term_matching/02_ai_mapping_gsdv0.py
+1. Build embeddings
 
-# 3. Reconcile mapping decisions
-python src/gsd/part2_enrichment/1_ai-assisted_term_matching/02_match_gsdv0_ai_mapping_with_uuid.py
+   ```bash
+   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/01_create_vectordb.py
+   ```
 
-# (Repeat analogous steps for pubdictionaries)
-python src/gsd/part2_enrichment/1_ai-assisted_term_matching/03_ai_mapping_pubdictionaries.py
-python src/gsd/part2_enrichment/1_ai-assisted_term_matching/03_match_pubdict_ai_mapping_with_uuid.py
+2. Run AI mapping for a source
+   ```bash
+   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/02_ai_mapping_gsdv0.py
+   ```
 
-# 4. Merge into master dictionaries
-python src/gsd/part2_enrichment/2_generate_mappings/postprocessing.py
-```
+3. Reconcile mapping decisions
+   ```bash
+   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/02_match_gsdv0_ai_mapping_with_uuid.py
+   ```
+
+   (Repeat analogous steps for pubdictionaries)
+
+   ```bash
+   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/03_ai_mapping_pubdictionaries.py
+   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/03_match_pubdict_ai_mapping_with_uuid.py
+   ```
+
+4. Merge into master dictionaries
+   ```bash
+   python src/gsd/part2_enrichment/2_generate_mappings/postprocessing.py
+   ```
 
 > [!note]
 > An OpenAI API key enables the application to access LLM services. [Where to obtain an API key?](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://platform.openai.com/api-keys&ved=2ahUKEwjE1sX_vqSQAxUZL1kFHe88MkgQFnoECA4QAQ&usg=AOvVaw1YhcGDWJXhiKSfmL59Pnfn)
+
+### Project Structure
 
 ```bash
 .
@@ -385,7 +416,9 @@ Edges (`*edges.jsonl`) follow:
 
 ## License
 
-\See `LICENSE` for details.
+MIT License. Copyright (c) 2025 GlyGen
+
+See `LICENSE` for more details.
 
 <p align="right"><a href="#readme-top">back to top ▲</a></p>
 
