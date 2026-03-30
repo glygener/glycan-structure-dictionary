@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/glygener/glycan-structure-dictionary">   
-   <img src="bgst.png" alt="Logo" width="400" height="200">
+   <img src="https://github.com/glygener/glycan-structure-dictionary/tree/main/docs/logo.png" alt="Logo" width="400" height="200">
   </a>
 
 <h1 align="center">Biomarker Glycan Structure Terms (bGST) Workflow</h1>
@@ -123,6 +123,10 @@ Follow these steps to get a local copy up and running.
   ```
 
   - Ollama version `>=v0.15.0` is recommended
+  - On servers that run on environment modules (Lmod), use the following to display default version of installation:
+    ```sh
+    module -d avail ollama
+    ```
 
 ### Installation
 
@@ -177,6 +181,31 @@ Follow these steps to get a local copy up and running.
    python -m pip install -r requirements.txt
    ```
 
+4. Start Ollama server:
+
+   > [!note]
+   > Every python script that utilizes LLM requires the hosting of an Ollama server. You may utilize these scripts to start/stop/check a server:
+
+   ```bash
+   python scripts/ollama/start_server.py
+   python scripts/ollama/stop_server.py
+   python scripts/ollama/status_server.py
+   ```
+
+   **For HPC (Slurm) users only:**
+
+   Ollama server is managed using the shell script `./main_slurm.sh`. It serves as a template with resource pre-sets. To run a Python LLM script through the Slurm system, use `main_slurm.sh`, passing the target script path as an argument:
+
+   ```bash
+   sbatch main_slurm.sh <SCRIPT.PY_PATH>
+   ```
+
+   Example:
+
+   ```bash
+   sbatch main_slurm.sh src/gsd/part1_textbook/01_ingest.py
+   ```
+
 <p align="right"><a href="#readme-top">back to top ▲</a></p>
 
 <!-- USAGE EXAMPLES -->
@@ -187,18 +216,23 @@ Follow these steps to get a local copy up and running.
 
 #### Part 1: Term extraction from EoG and relations mapping
 
-Creating ChromaDB from EoG documents
+1. Creating ChromaDB from EoG documents
 
-```bash
-unzip data/inputs/eog/raw_chapters/unzip_me_before_running_01_ingest.zip -d data/inputs/eog/raw_chapters/
-python src/gsd/part1_textbook/01_ingest.py
-```
+   ```bash
+   unzip data/inputs/eog/raw_chapters/unzip_me_before_running_01_ingest.zip -d data/inputs/eog/raw_chapters/
+   ```
 
-Extract terms from EoG documents (from vectorstore)
+   ```bash
+   python src/gsd/part1_textbook/01_ingest.py
+   ```
 
-```bash
-python src/gsd/part1_textbook/02_extract.py
-```
+   - Or for HPC users: `sbatch main_slurm.sh ...`
+
+2. Extract terms from EoG documents (from vectorstore)
+
+   ```bash
+   python src/gsd/part1_textbook/02_extract.py
+   ```
 
 > Varki A, Cummings RD, Esko JD, et al., editors. Essentials of Glycobiology [Internet]. 4th edition. Cold Spring Harbor (NY): Cold Spring Harbor Laboratory Press; 2022. Available from: https://www.ncbi.nlm.nih.gov/books/NBK579918/ doi: 10.1101/9781621824213
 
