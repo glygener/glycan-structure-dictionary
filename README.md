@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/glygener/glycan-structure-dictionary">   
-   <img src="https://github.com/glygener/glycan-structure-dictionary/tree/main/docs/logo.png" alt="Logo" width="400" height="200">
+   <img src="https://github.com/glygener/glycan-structure-dictionary/blob/main/docs/static/logo.png?raw=true)" alt="Logo" width="400" height="200">
   </a>
 
 <h1 align="center">Biomarker Glycan Structure Terms (bGST) Workflow</h1>
@@ -76,35 +76,27 @@ Because glycan structures are described inconsistently across sources, this proj
 
 > Vora J, Navelkar R, Vijay-Shanker K, Edwards N, Martinez K, Ding X, Wang T, Su P, Ross K, Lisacek F, Hayes C, Kahsay R, Ranzinger R, Tiemeyer M, Mazumder R. **The Glycan Structure Dictionary**-a dictionary describing commonly used glycan structure terms. Glycobiology. 2023 Jun 3;33(5):354-357. doi: 10.1093/glycob/cwad014. PMID: [36799723](https://pubmed.ncbi.nlm.nih.gov/36799723/); PMCID: PMC10243773.
 
-<div style="display:flex; gap:16px; flex-wrap:wrap; justify-content:center; margin:24px 0;">
-  <div style="flex:1 1 200px; border:1px solid #888; border-radius:15px; padding:16px; min-width:200px;">
-    <div style="display:flex; align-items:flex-start; gap:12px;">
-      <img src="https://cdn.simpleicons.org/ollama/008080" alt="Ollama" height="40" style="flex-shrink:0;" />
-      <div>
-        <h4 style="margin:0 0 8px 0;">Local LLM inference</h4>
-        <p style="margin:0; color:#666;">Run the pipeline entirely locally via Ollama, with configurable model selection and hardware setup.</p>
-      </div>
-    </div>
-  </div>
-  <div style="flex:1 1 200px; border:1px solid #888; border-radius:15px; padding:16px; min-width:200px;">
-    <div style="display:flex; align-items:flex-start; gap:12px;">
-      <img src="https://cdn.simpleicons.org/langgraph/008080" alt="LangGraph" height="40" style="flex-shrink:0;" />
-      <div>
-        <h4 style="margin:0 0 8px 0;">Structured term normalization</h4>
-        <p style="margin:0; color:#666;">Extract, normalize, and align glycan terminology through a state-driven workflow orchestrated by LangGraph.</p>
-      </div>
-    </div>
-  </div>
-  <div style="flex:1 1 200px; border:1px solid #888; border-radius:15px; padding:16px; min-width:200px;">
-    <div style="display:flex; align-items:flex-start; gap:12px;">
-      <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/chroma-erzavigj9yrwcd5lup0swm.png/chroma-1xw4nxhjo4c64ndhrqtxp.png?_a=DATAiZAAZAA0" alt="Chroma" height="40" style="flex-shrink:0;" />
-      <div>
-        <h4 style="margin:0 0 8px 0;">Vector search + embeddings</h4>
-        <p style="margin:0; color:#666;">Build and query vector stores (Chroma) using embedded representations for similarity lookup.</p>
-      </div>
-    </div>
-  </div>
-</div>
+<br>
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <img src="https://cdn.simpleicons.org/ollama/008080" alt="Ollama" height="40"><br>
+      <strong>Local LLM inference</strong><br>
+      Run the pipeline entirely locally via Ollama, with configurable model selection and hardware setup.
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://cdn.simpleicons.org/langgraph/simpleicons/008080" alt="LangGraph" height="40"><br>
+      <strong>Structured term normalization</strong><br>
+      Extract, normalize, and align glycan terminology through a state-driven workflow orchestrated by LangGraph.
+    </td>
+    <td valign="top" width="33%">
+      <img src="https://brandlogos.net/wp-content/uploads/2025/06/chroma-logo_brandlogos.net_1z1qk-512x339.png" alt="Chroma" height="40"><br>
+      <strong>Vector search + embeddings</strong><br>
+      Build and query vector stores (Chroma) using embedded representations for similarity lookup.
+    </td>
+  </tr>
+</table>
 
 <p align="right"><a href="#readme-top">back to top ▲</a></p>
 
@@ -337,11 +329,6 @@ python src/gsd/part2_enrichment/2_generate_mappings/postprocessing.py
 | Monosac-DB   | https://glycopedia.eu/resources/presentation/          |          |                                                             |
 | UniLectin3D  | https://unilectin.unige.ch/unilectin3D/                |          |                                                             |
 | GlycoMaple   | https://glycosmos.org/glycomaple/Human                 |          |                                                             |
-
-https://glycopedia.eu/. Useful resouce
-14 Feb 2026 - Writers and Readers of Sialylation in Immunoregulation in Cancer
-16 Sep 2025 - Cell surface polysaccharides in the gut microbiota: occurence, structure and role
-20 Apr 2024 - The evolving world of milk oligosaccharides: biochemical diversity understood by computational advances
 
 ### Data Model
 
