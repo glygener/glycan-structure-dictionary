@@ -1,0 +1,456 @@
+Processing term: α2-6-sialylated 6-sulfo-LacNAc
+"The candidate term \"α2-6-sialylated 6-sulfo-LacNAc\" does not closely match any of the existing terms in your database. It specifies both the sialylation linkage (α2-6) and the presence of a 6-sulfate group on LacNAc, which are not captured by the broader or differently linked structures in your current entries. Therefore, I have added it as a new term."
+
+Processing term: 2-fucosyl GD1b
+"The candidate term \"2-fucosyl GD1b\" does not closely match any of the existing terms in the database. It is a specific fucosylated derivative of the ganglioside GD1b, which is not covered by the broader or motif-based terms provided. Therefore, I will add \"2-fucosyl GD1b\" as a new term in the database."
+
+Processing term: 2-fucosyl GM1
+"\"2-fucosyl GM1\" does not exactly match any of the existing terms in the database. It is a distinct structure from \"2-fucosyl GD1b\", \"GM1b\", \"GM1\", and \"GM2\". Therefore, I have added \"2-fucosyl GM1\" as a new term."
+
+Processing term: 3-sialyl LN (type 2)
+"The candidate term \"3-sialyl LN (type 2)\" does not exactly match any of the existing terms in your database. While it is related to α2-3 sialyllactosamine, the specification of \"type 2\" (Galβ1-4GlcNAc) and the abbreviation \"LN\" (lactosamine) make it a more specific term. Therefore, I recommend adding \"3-sialyl LN (type 2)\" as a new term."
+
+Processing term: 3'-sulfo Lewis a
+"The candidate term \"3'-sulfo Lewis a\" does not closely match any of the existing terms in your database. It is a distinct modification of the Lewis a structure (sulfation at the 3' position), which is not represented among the provided potential matches. Therefore, I have added \"3'-sulfo Lewis a\" as a new term in your database."
+
+Processing term: 3'-sulfo Lewis X
+"The candidate term \"3'-sulfo Lewis X\" does not have a close or exact match among the potential database terms. It is distinct from \"3'-sulfo Lewis a\" and the other listed sulfo/sialyl Lewis X variants, which involve different positions or modifications. Therefore, \"3'-sulfo Lewis X\" should be added as a new term."
+
+Processing term: 6,6′-bissulfo Lewis x
+"The candidate term \"6,6′-bissulfo Lewis x\" does not exactly match any of the existing terms in the database. It refers to a Lewis x structure with two sulfo groups (at both the 6 and 6′ positions), which is distinct from the single-sulfo modifications present in the potential matches. Therefore, I have added \"6,6′-bissulfo Lewis x\" as a new term."
+
+Processing term: 6-sialyl GalNAc
+"The candidate term \"6-sialyl GalNAc\" does not exactly match any of the potential database terms provided. It specifically refers to a sialylated GalNAc structure with sialic acid at the 6-position, which is not explicitly described by any of the existing entries. Therefore, I have added \"6-sialyl GalNAc\" as a new term in the database."
+
+Processing term: 9-O-acetyl GD3
+"The candidate term \"9-O-acetyl GD3\" does not exactly match any of the existing terms in your database. While \"9-O-acetylated sialic acid\" refers to a modification present in the candidate, and GD1a/GD1b/GD1 are related gangliosides, none of these terms specifically refer to \"9-O-acetyl GD3.\" Therefore, I have added \"9-O-acetyl GD3\" as a new term."
+
+Processing term: 9-O-acetyl sialic acid
+"The candidate term \"9-O-acetyl sialic acid\" is an exact synonym of the existing database term \"9-O-acetylated sialic acid.\" Therefore, it should be mapped to the existing term with UUID 9447ca95-04fd-5700-9db0-2a3ee02c2a4a."
+
+Processing term: alpha-gal antigen
+"The candidate term \"alpha-gal antigen\" is an exact synonym for \"α-Gal epitope\" (UUID: d7673802-e0d9-5653-b39e-076f90358a60) in the database. Therefore, it should be mapped to the existing term \"α-Gal epitope\"."
+
+Processing term: alpha-galactosylceramide
+"\"alpha-galactosylceramide\" does not exactly match any of the existing terms in your database. While \"galactosylceramide\" refers specifically to the β-anomer, \"alpha-galactosylceramide\" is a distinct structure with an α-linked galactose. Therefore, I have added \"alpha-galactosylceramide\" as a new term."
+
+Processing term: asialo-biantennary N-glycan
+"The candidate term \"asialo-biantennary N-glycan\" does not have an exact or sufficiently close match among the existing terms in the database. It specifically refers to a biantennary N-glycan that lacks sialic acid residues, which is not captured by the broader or related terms provided. Therefore, I have added \"asialo-biantennary N-glycan\" as a new term in the database."
+
+Processing term: asialo-GM1
+"The candidate term \"asialo-GM1\" is an exact match to the existing term \"asialo-GM1\" in the database (UUID: 8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5). Therefore, it should be mapped to this existing term."
+
+Processing term: B-GM1
+"The candidate term \"B-GM1\" does not exactly match any of the existing terms or their synonyms in the database. Therefore, it should be added as a new term."
+
+Processing term: biantennary N-glycan
+"The candidate term \"biantennary N-glycan\" is an exact match to an existing term in the database (UUID: abc37e9a-7363-5440-87f1-1e620ed70a9a). Therefore, it should be mapped to this existing term."
+
+Processing term: biantennary complex-type N-glycan
+"The candidate term \"biantennary complex-type N-glycan\" is an exact match to an existing term in the database with the same name and description. Therefore, it should be mapped to the existing term with UUID 7548e42d-e075-5fef-a148-a06913542f40."
+
+Processing term: blood group A determinant
+"The candidate term \"blood group A determinant\" is an exact match to an existing term in the database with the same name and description. Therefore, it should be mapped to the existing term with UUID 7ec6f782-4bc2-57ae-a15d-27c73f9a14f7."
+
+Processing term: blood group A type 1
+"The candidate term \"blood group A type 1\" does not exactly match any of the existing terms in your database. While \"blood group A determinant\" is related, it is a broader term and does not specify the type 1 core. Therefore, \"blood group A type 1\" should be added as a new term."
+
+Processing term: blood group A type 2
+"The candidate term \"blood group A type 2\" does not exactly match any of the existing terms in your database. While there are related terms such as \"blood group A type 1\" and \"blood group A determinant,\" \"blood group A type 2\" refers to a specific structural variant (type 2 chain) that is distinct from type 1. Therefore, I have added \"blood group A type 2\" as a new term in your database."
+
+Processing term: blood group A type 3
+"The candidate term \"blood group A type 3\" does not exactly match any of the existing terms in the database, as it refers to a specific structural variant distinct from \"blood group A type 1\" and \"blood group A type 2.\" Therefore, it should be added as a new term."
+
+Processing term: blood group A type 4
+"The candidate term \"blood group A type 4\" does not exactly match any existing terms in the database. While there are related terms such as \"blood group A type 1\", \"blood group A type 2\", and \"blood group A type 3\", as well as the more general \"type-4 chain\", none are exact or sufficiently close matches. Therefore, \"blood group A type 4\" should be added as a new term."
+
+Processing term: blood group B type 1
+"The candidate term \"blood group B type 1\" does not closely match any of the existing terms in the database (which are all \"blood group A\" types). Therefore, I have added \"blood group B type 1\" as a new term."
+
+Processing term: blood group B type 2
+"The candidate term \"blood group B type 2\" does not have a close or exact match among the potential matches in the database. Therefore, it should be added as a new term."
+
+Processing term: blood group B type 4
+"The candidate term \"blood group B type 4\" does not have an exact or close match among the potential matches in the database. Therefore, it should be added as a new term."
+
+Processing term: blood group H type 1
+"The candidate term \"blood group H type 1\" is an exact match (except for a minor hyphenation difference) to the existing database term \"blood group H type-1\" (UUID: fff47803-9624-5c8b-b6ac-f54c493cd27c). Therefore, I have mapped \"blood group H type 1\" to this existing term."
+
+Processing term: blood group H type 2
+"The candidate term \"blood group H type 2\" does not exactly match any of the existing terms in your database (such as \"blood group B type 2\" or \"blood group A type 2\"). Therefore, I have added \"blood group H type 2\" as a new term."
+
+Processing term: blood group H type 3
+"The candidate term \"blood group H type 3\" does not closely match any existing terms in the database. It is more specific than the available options and should be added as a new term."
+
+Processing term: blood group H type 4
+"The candidate term \"blood group H type 4\" does not exactly match any of the existing terms in the database (which include blood group B type 4, blood group A type 4, blood group H type 2, and blood group H type 3). Therefore, I have added \"blood group H type 4\" as a new term."
+
+Processing term: chondroitin sulfate
+"The candidate term \"chondroitin sulfate\" is an exact match to the existing database term \"chondroitin sulfate\" (UUID: 3d250b8c-6c0f-5d52-9fd3-1a58a7660e1d). Therefore, it should be mapped to this existing term."
+
+Processing term: chondroitin sulfate/dermatan sulfate
+"The candidate term \"chondroitin sulfate/dermatan sulfate\" does not exactly match any single existing term in the database. It refers to a category encompassing both chondroitin sulfate and dermatan sulfate (chondroitin sulfate B), which are related but distinct glycosaminoglycans. Therefore, I have added \"chondroitin sulfate/dermatan sulfate\" as a new term in the database."
+
+Processing term: complex-type N-glycan
+"The candidate term \"complex-type N-glycan\" is an exact match to an existing term in the database (UUID: 8898cfbc-b227-5381-aa3b-2d6e8f5c855c). Therefore, it should be mapped to this existing term."
+
+Processing term: core 1 O-glycan
+"The candidate term \"core 1 O-glycan\" is an exact match to an existing term in the database (UUID: d30c0796-5386-5d5a-b374-96d79431db98). Therefore, it should be mapped to this existing term."
+
+Processing term: core 2 O-glycan
+"The candidate term \"core 2 O-glycan\" is an exact match to an existing term in the database (\"core 2 O-glycan\", UUID: 84263c50-3256-5701-b917-3856baedd01f). Therefore, it should be mapped to this existing term."
+
+Processing term: core 3 O-glycan
+"The candidate term \"core 3 O-glycan\" is an exact match to an existing term in the database (UUID: 0bdf4f51-9378-5d0c-a017-220cfd707bbe). Therefore, it should be mapped to this existing term."
+
+Processing term: core 4 O-glycan
+"The candidate term \"core 4 O-glycan\" is an exact match to an existing term in the database (UUID: 380c3655-bfc9-5931-977b-294df335f2c3). Therefore, it should be mapped to this existing term."
+
+Processing term: core-fucose
+"The candidate term \"core-fucose\" is a literal match to the existing database term \"core fucose.\" Therefore, it should be mapped to the existing term with UUID 50d1be21-660a-5e10-a72d-f832009f71db."
+
+Processing term: core-fucosylated biantennary N-glycan
+"The candidate term \"core-fucosylated biantennary N-glycan\" does not exactly match any of the existing terms in your database. While \"core fucose\" and \"biantennary N-glycan\" are related, the candidate term is a more specific structure (a biantennary N-glycan with core fucosylation). Therefore, it should be added as a new term."
+
+Processing term: core-fucosylated biantennary complex-type N-glycan
+"The candidate term \"core-fucosylated biantennary complex-type N-glycan\" is more specific than any of the existing terms in the database. It specifies both core fucosylation and the complex-type biantennary structure, which is not fully captured by any single existing term. Therefore, I have added it as a new term."
+
+Processing term: Cytolipin R
+"The candidate term \"Cytolipin R\" does not exactly match any of the potential existing terms in the database. It is a specific glycan-lipid structure and is not a synonym or direct subtype of \"lipoglycan,\" \"lipid A-core,\" \"lipoteichoic acid,\" or \"galactolipid.\" Therefore, I have added \"Cytolipin R\" as a new term in the database."
+
+Processing term: dermatan sulfate
+"The candidate term \"dermatan sulfate\" is an exact match to an existing term in the database (UUID: 0ef0d5e3-6dad-54e6-9bde-79eec7ce6000). Therefore, it should be mapped to this existing term."
+
+Processing term: desialylated glycan
+"The candidate term \"desialylated glycan\" does not closely match any of the existing terms in your database, as it refers to glycans that have had their sialic acid residues removed, which is conceptually distinct from the sialylated structures listed. Therefore, I have added \"desialylated glycan\" as a new term in your database."
+
+Processing term: difucosylated tetraantennary N-glycan
+"The candidate term \"difucosylated tetraantennary N-glycan\" is more specific than any of the existing terms in the database. It refers to a tetraantennary N-glycan (four antennae) that is specifically modified by the addition of two fucose residues, which is not captured by the broader terms \"tetraantennary N-glycan,\" \"fucosylated glycans,\" or \"fucosylated N-glycans.\" Therefore, I have added \"difucosylated tetraantennary N-glycan\" as a new term."
+
+Processing term: dimeric Lewis x
+"The term \"dimeric Lewis x\" is more specific than the existing \"Lewis x\" entry and refers to a structure with two Lewis x motifs. It does not exactly match any existing terms, so it should be added as a new term."
+
+Processing term: diphosphorylated Man6
+"The candidate term \"diphosphorylated Man6\" does not exactly match any of the existing terms in the database. While \"Man-6-P-containing N-glycan\" refers to glycans containing mannose-6-phosphate, it does not specify diphosphorylation (i.e., two phosphate groups). The other potential matches also do not capture the specific meaning of \"diphosphorylated Man6.\" Therefore, I have added \"diphosphorylated Man6\" as a new term."
+
+Processing term: disialosyl globopentaosylceramide
+"The candidate term \"disialosyl globopentaosylceramide\" does not closely match any of the existing terms in the database. It is a specific ganglioside with two sialic acid residues on a globopentaosylceramide core, which is distinct from the provided potential matches. Therefore, I have added \"disialosyl globopentaosylceramide\" as a new term."
+
+Processing term: disialyl Lewis a
+"The candidate term \"disialyl Lewis a\" is an exact match to an existing term in the database (UUID: 2c92929a-4f34-5166-a815-b20e3decb896). Therefore, it should be mapped to this existing term."
+
+Processing term: disialyl T antigen
+"The candidate term \"disialyl T antigen\" does not closely match any of the existing terms in your database. It is distinct from \"disialyl Lewis a,\" \"Sda antigen,\" and \"sialyl-Tn,\" and is not synonymous with \"desialylated glycan.\" Therefore, I have added \"disialyl T antigen\" as a new term in your database."
+
+Processing term: disialylated fucosylated glycan
+"The candidate term \"disialylated fucosylated glycan\" does not exactly match any of the existing terms in your database. It is more specific than \"fucosylated glycans\" and \"sialofucosylated glycolipid,\" and it is not equivalent to any of the provided options. Therefore, I have added \"disialylated fucosylated glycan\" as a new term."
+
+Processing term: Forssman glycolipid
+"The candidate term \"Forssman glycolipid\" does not closely match any of the existing terms in your database. It is a specific and well-known glycolipid structure distinct from the provided options. Therefore, it should be added as a new term."
+
+Processing term: fucosylated tetraantennary N-glycan
+"The candidate term \"fucosylated tetraantennary N-glycan\" does not exactly match any of the existing terms in your database. While there are related terms such as \"fucosylated N-glycans\" and \"tetraantennary N-glycan,\" none are as specific as the candidate term, which describes a tetraantennary N-glycan specifically modified by fucosylation. Therefore, I have added \"fucosylated tetraantennary N-glycan\" as a new term."
+
+Processing term: fucosyl GM1
+"The candidate term \"fucosyl GM1\" is best mapped to the existing database term \"2-fucosyl GM1\" (UUID: e2e22b19-83c1-4c8b-999d-fe2fdff4941f), as \"fucosyl GM1\" is a common shorthand for \"2-fucosyl GM1\" and there are no other fucosylated GM1 variants listed. Therefore, I have mapped \"fucosyl GM1\" to \"2-fucosyl GM1\"."
+
+Processing term: fucosylated asialo-biantennary N-glycan
+"The candidate term \"fucosylated asialo-biantennary N-glycan\" does not exactly match any of the existing terms in the database. While related terms such as \"fucosylated tetraantennary N-glycan,\" \"fucosylated glycans,\" \"asialo-biantennary N-glycan,\" and \"fucosylated N-glycans\" exist, none are specific enough to represent the unique combination of features in the candidate term. Therefore, I have added \"fucosylated asialo-biantennary N-glycan\" as a new term in the database."
+
+Processing term: fucosylated biantennary N-glycan
+"The candidate term \"fucosylated biantennary N-glycan\" does not exactly match any of the existing terms in your database. It is more general than \"core-fucosylated biantennary N-glycan\" and more specific than \"fucosylated glycans.\" Therefore, I have added \"fucosylated biantennary N-glycan\" as a new term."
+
+Processing term: fucosylated bisialo-biantennary N-glycan
+"The candidate term \"fucosylated bisialo-biantennary N-glycan\" does not exactly match any of the existing terms in the database. It is more specific than \"fucosylated biantennary N-glycan\" and distinct from the other listed terms. Therefore, I have added it as a new term."
+
+Processing term: fucosylated lacdiNAc
+"The candidate term \"fucosylated lacdiNAc\" does not exactly match any of the existing terms in the database. While \"LacdiNAc\" is present, \"fucosylated lacdiNAc\" refers to a specific modification (addition of fucose) that is not captured by the existing entry. Therefore, I will add \"fucosylated lacdiNAc\" as a new term."
+
+Processing term: fucosylated N-glycan
+"The candidate term \"fucosylated N-glycan\" is a literal match to the existing database term \"fucosylated N-glycans.\" Therefore, it should be mapped to the existing term with UUID 513ef5dc-3e7b-5d21-9757-fd24642c2e46."
+
+Processing term: fucosylated triantennary N-glycan
+"The candidate term \"fucosylated triantennary N-glycan\" does not closely match any of the existing terms in the database, as it refers to a triantennary structure, while the closest matches are biantennary or tetraantennary. Therefore, I have added \"fucosylated triantennary N-glycan\" as a new term."
+
+Processing term: galabiosylceramide
+"The candidate term \"galabiosylceramide\" does not exactly match any of the existing terms in the database. It is distinct from galactosylceramide, glucosylceramide, lactosylceramide, and glycosylceramide, as it refers to a ceramide with a galabiose (Galα1-4Gal) disaccharide. Therefore, I have added \"galabiosylceramide\" as a new term."
+
+Processing term: galactosylceramide
+"The candidate term \"galactosylceramide\" is an exact match to an existing term in the database (UUID: 7829c0b5-3df6-5e54-baad-fb4c64380426). Therefore, it should be mapped to this existing term."
+
+Processing term: Gb5
+"The candidate term \"Gb5\" does not exactly match any of the existing terms in the database (Gb4, Gb3, Gg4, GQ1b). While Gb5 is structurally related to Gb4 and Gb3 as part of the globoside series, it is a distinct glycan structure. Therefore, I have added \"Gb5\" as a new term in the database."
+
+Processing term: GD1
+"The candidate term \"GD1\" is an exact match to the existing term \"GD1\" (UUID: d0c0ead3-30f7-5dbf-97a0-dc0aaf2624c4) in the database. Therefore, it should be mapped to this existing term."
+
+Processing term: GD1a
+"The candidate term \"GD1a\" is an exact match to the existing term \"GD1a\" (UUID: ce08ddcb-1567-5caa-9ad2-9c2209277bcc) in the database. Therefore, it should be mapped to this existing term."
+
+Processing term: GD1b
+"The candidate term \"GD1b\" is an exact match to the existing term \"GD1b\" (UUID: e4e3df0d-c881-5a91-97fc-fbe47b595923) in the database. Therefore, it should be mapped to this existing term."
+
+Processing term: GD2
+"The candidate term \"GD2\" does not exactly match any of the existing terms in the database (GD1, GD1b, GM2, GD1a). While it is structurally related as a ganglioside, it is a distinct molecule. Therefore, I have added \"GD2\" as a new term."
+
+Processing term: GD3
+"The candidate term \"GD3\" does not exactly match any of the existing terms in the database. It is distinct from \"9-O-acetyl GD3,\" \"Gb3,\" \"GD1,\" and \"GM3.\" Therefore, \"GD3\" should be added as a new term."
+
+Processing term: globoside
+"The candidate term \"globoside\" is best mapped to the existing term \"globo-series glycospingolipids\" (UUID: ee15a6e1-4986-5710-b1f7-04d74d0ebfba), as \"globoside\" is a commonly used synonym for this class of glycosphingolipids."
+
+Processing term: globotetraosylceramide
+"The candidate term \"globotetraosylceramide\" should be mapped to the existing term \"Gg4\" (gangliotetraosylceramide) in the database, as they refer to the same glycan structure."
+
+Processing term: globotriaosylceramide
+"The candidate term \"globotriaosylceramide\" does not closely match any of the existing terms in your database. It is structurally distinct from galactosylceramide, glucosylceramide, galabiosylceramide, and disialosyl globopentaosylceramide. Therefore, I have added \"globotriaosylceramide\" as a new term."
+
+Processing term: glucosylceramide
+"The candidate term \"glucosylceramide\" is an exact match to the existing term \"glucosylceramide\" in the database (UUID: 3d06d77f-0323-508b-8678-7e86c86b85c4). Therefore, it should be mapped to this existing term."
+
+Processing term: GM1
+"The candidate term \"GM1\" is an exact match to the existing term \"GM1\" in the database (UUID: 3aa27544-ba80-5023-b104-e0747c328c0c). Therefore, it should be mapped to this existing term."
+
+Processing term: GM2
+"The candidate term \"GM2\" is an exact match to the existing term \"GM2\" (UUID: f05f9823-137e-586e-9ce6-90956a04b6bc) in the database. Therefore, it should be mapped to this existing term."
+
+Processing term: GM3
+"The candidate term \"GM3\" is an exact match to the existing term \"GM3\" (UUID: 40982fbc-1026-5333-acdb-aafdf94892be) in the database. Therefore, it should be mapped to this existing term."
+
+Processing term: GM4
+"The candidate term \"GM4\" does not literally or semantically match any of the existing terms in the database. Therefore, I have added \"GM4\" as a new term."
+
+Processing term: GP1c
+"The candidate term \"GP1c\" does not literally or semantically match any of the existing terms in the database (GT1b, GM1, GT1c, GD1a). Therefore, I have added \"GP1c\" as a new term."
+
+Processing term: GQ1b
+"The candidate term \"GQ1b\" is an exact match to the existing term \"GQ1b\" in the database. Therefore, it should be mapped to the existing term with UUID 2f4047e2-bc8c-577d-9c8c-ed2e04227c65."
+
+Processing term: GQ1c
+"The candidate term \"GQ1c\" does not exactly match any of the existing terms in the database (such as GQ1b, GP1c, GT1c, or GT1b). Therefore, \"GQ1c\" should be added as a new term."
+
+Processing term: GT1a
+"The candidate term \"GT1a\" does not exactly match any of the existing terms in the database (GT1b, GT1c, GD1a, GA1). Although it is structurally related to GT1b and GT1c, it is a distinct ganglioside. Therefore, \"GT1a\" should be added as a new term."
+
+Processing term: GT1b
+"The candidate term \"GT1b\" is an exact match to the existing term \"GT1b\" (UUID: 926d7349-2069-5615-b469-3b6c845ce149) in the database. Therefore, it should be mapped to this existing term."
+
+Processing term: GT1c
+"The candidate term \"GT1c\" is an exact match to the existing term \"GT1c\" (UUID: 3b3e1c65-614e-57dc-aa07-85a170fcf39a) in the database. Therefore, it should be mapped to this existing term."
+
+Processing term: GT2
+"The candidate term \"GT2\" does not exactly match any of the existing terms in the database. While GT1c is described as being formed by the galactosylation of GT2, \"GT2\" itself is not present as a term or synonym. Therefore, I have added \"GT2\" as a new term."
+
+Processing term: GT3
+"The candidate term \"GT3\" does not closely match any of the existing terms in your database. Therefore, I have added \"GT3\" as a new term."
+
+Processing term: heparan sulfate
+"The candidate term \"heparan sulfate\" is an exact match to an existing term in the database (UUID: 928fc0f5-5bfb-5be8-9eb6-dd405155d720). Therefore, it should be mapped to this existing term."
+
+Processing term: heparin
+"The candidate term \"heparin\" is an exact match to the existing term \"heparin\" in the database. Therefore, it should be mapped to the existing term with UUID 1b759e1d-9070-5800-9001-ee81290ddc26."
+
+Processing term: high-mannose N-glycan
+"The candidate term \"high-mannose N-glycan\" is an exact match to an existing term in the database (UUID: bd55e967-56fc-57a8-a669-0f45c0eb9a21). Therefore, it should be mapped to this existing term."
+
+Processing term: HNK-1
+"The candidate term \"HNK-1\" is an exact match to the existing term \"HNK-1\" in the database. Therefore, it should be mapped to the existing term with UUID 4aa392ab-169b-5da1-86a0-bb18312dba93."
+
+Processing term: hybrid N-glycan
+"The candidate term \"hybrid N-glycan\" is an exact match to an existing term in the database (\"hybrid N-glycan\" with UUID d4bdcdc4-b702-5263-b380-9175249b1ed6). Therefore, it should be mapped to this existing term."
+
+Processing term: hyaluronan
+"The candidate term \"hyaluronan\" is an exact match to an existing term in the database (UUID: 6811049f-c1fb-5111-bcf3-360ba4f8e672). Therefore, it should be mapped to this existing term."
+
+Processing term: i antigen
+"The candidate term \"i antigen\" is an exact match to the existing term \"i antigen\" in the database (UUID: 4e8ca135-621a-5f60-9db3-0873d1b18e94). Therefore, it should be mapped to this existing term."
+
+Processing term: I antigen
+"The candidate term \"I antigen\" is an exact match to an existing term in the database (UUID: d09ee5db-281c-40b1-95c3-53f11f4aef41). Therefore, it should be mapped to this existing term."
+
+Processing term: isoglobotetraosylceramide
+"The candidate term \"isoglobotetraosylceramide\" does not closely match any of the existing terms in your database. It is structurally distinct from \"globotriaosylceramide,\" \"disialosyl globopentaosylceramide,\" \"galactosylceramide,\" and \"alpha-galactosylceramide.\" Therefore, I have added \"isoglobotetraosylceramide\" as a new term."
+
+Processing term: keratan sulfate
+"The candidate term \"keratan sulfate\" is an exact match to the existing term \"keratan sulfate\" (UUID: 55518b88-605c-5d07-a328-555ccbea84d0) in the database. Therefore, it should be mapped to this existing term."
+
+Processing term: LacdiNac
+"The candidate term \"LacdiNac\" is a case-insensitive match and an exact synonym of the existing database term \"LacdiNAc\" (UUID: cea1d668-1fe6-50d0-9982-477ee729a810). Therefore, it should be mapped to this existing term."
+
+Processing term: lactosylceramide
+"The candidate term \"lactosylceramide\" is an exact match to an existing term in the database (UUID: 0a063c08-7f72-5da7-9397-33bdcbc5315c). Therefore, it should be mapped to this existing term."
+
+Processing term: lactotriaosylceramide
+"The candidate term \"lactotriaosylceramide\" does not closely match any of the existing terms in your database. It is distinct from \"lactosylceramide\" (which is a disaccharide core), \"globotriaosylceramide,\" and the other listed terms. Therefore, I have added \"lactotriaosylceramide\" as a new term."
+
+Processing term: LcGg4
+"The candidate term \"LcGg4\" does not exactly match any of the existing terms in your database (Gg4, Gb4, Gb3, or GlcNAcβ1-4Glc). While \"Gg4\" and \"LcGg4\" are both glycosphingolipids, they refer to different core structures (globo-series vs. lacto-series). Therefore, \"LcGg4\" should be added as a new term."
+
+Processing term: Lewis a
+"The candidate term \"Lewis a\" is an exact match to the existing term \"Lewis a\" in the database (UUID: c5a61542-ca29-5ce2-bf63-a4f7caf9bf9c). Therefore, it should be mapped to this existing term."
+
+Processing term: Lewis b
+"The candidate term \"Lewis b\" is an exact match to the existing term \"Lewis b\" in the database (UUID: 4327ef94-5fff-5d27-8f23-207afe82a8d1). Therefore, it should be mapped to this existing term."
+
+Processing term: Lewis x
+"The candidate term \"Lewis x\" is an exact match to the existing term \"Lewis x\" (UUID: 89ba627c-cee9-5954-982f-3410e75fb006) in the database. Therefore, it should be mapped to this existing term."
+
+Processing term: Lewis y
+"The candidate term \"Lewis y\" does not exactly match any of the existing terms in the database (Lewis a, Lewis x, Lewis b, or dimeric Lewis x). Therefore, I have added \"Lewis y\" as a new term."
+
+Processing term: monosialylated N-glycan
+"The candidate term \"monosialylated N-glycan\" does not closely match any of the existing terms in your database. It specifically refers to an N-glycan with a single sialic acid residue, which is distinct from the provided matches. Therefore, I have added \"monosialylated N-glycan\" as a new term."
+
+Processing term: monosialylated biantennary N-glycan
+"The candidate term \"monosialylated biantennary N-glycan\" is more specific than any of the existing terms in the database. It refers specifically to a biantennary N-glycan with only one sialic acid residue, which is not captured by the broader terms \"biantennary N-glycan,\" \"sialylated biantennary N-glycan\" (which could be mono- or disialylated), or \"monosialylated N-glycan\" (which does not specify the antennae number).\n\nAction: I have added \"monosialylated biantennary N-glycan\" as a new term in the database."
+
+Processing term: monosialyl Gb5
+"The candidate term \"monosialyl Gb5\" does not exactly match any of the existing terms in your database. While there are related structures (such as Gb4, Gb3, and monosialylated ganglioside), \"monosialyl Gb5\" is a more specific structure and is not an exact synonym of any of the provided matches. Therefore, I have added \"monosialyl Gb5\" as a new term in your database."
+
+Processing term: monosulfated globopentaosylceramide
+"The candidate term \"monosulfated globopentaosylceramide\" does not closely match any of the existing terms in your database. It is distinct from the provided potential matches, as it specifies a monosulfated modification of globopentaosylceramide, which is not represented among the current entries. Therefore, I have added it as a new term."
+
+Processing term: monosulfated globotetraosylceramide
+"The candidate term \"monosulfated globotetraosylceramide\" does not closely match any of the existing terms in your database. It is distinct from \"monosulfated globopentaosylceramide\" (which has one more sugar residue) and from the other listed structures. Therefore, I have added \"monosulfated globotetraosylceramide\" as a new term."
+
+Processing term: N-acetyl GM2
+"The candidate term \"N-acetyl GM2\" is mapped to the existing term \"GM2\" in the database, as \"GM2\" is a ganglioside that contains an N-acetyl group (N-acetylneuraminic acid, Neu5Ac) as its sialic acid residue. The term is a literal synonym and does not require a new entry."
+
+Processing term: N-acetyllactosamine (type 1)
+"The candidate term \"N-acetyllactosamine (type 1)\" does not exactly match any of the existing terms in the database. While \"N-acetyllactosamine\" and \"LacNAc\" refer to the type 2 structure (Galβ1-4GlcNAc), \"N-acetyllactosamine (type 1)\" specifically refers to the type 1 structure (Galβ1-3GlcNAc), which is structurally distinct. Therefore, I have added \"N-acetyllactosamine (type 1)\" as a new term in the database."
+
+Processing term: N-acetyllactosamine (type 2)
+"The candidate term \"N-acetyllactosamine (type 2)\" does not exactly match any of the existing terms in the database. While \"N-acetyllactosamine\" is present, it does not specify the type (type 1 or type 2), and \"N-acetyllactosamine (type 1)\" is a different structural isomer. Therefore, \"N-acetyllactosamine (type 2)\" should be added as a new term."
+
+Processing term: N-glycolyl GM2
+"The candidate term \"N-glycolyl GM2\" should be added as a new term. It is not an exact synonym or close match to any of the existing terms (such as GM2, which refers to the N-acetyl variant). \"N-glycolyl GM2\" specifically refers to a GM2 ganglioside containing N-glycolylneuraminic acid (Neu5Gc) instead of N-acetylneuraminic acid (Neu5Ac), making it structurally distinct. Therefore, it will be added as a new term in the database."
+
+Processing term: N-glycans
+"The candidate term \"N-glycans\" is an exact match to an existing term in the database (\"N-glycans\" with UUID: b6aa2621-651c-5dc5-af13-e3dc0b932d37). Therefore, it should be mapped to this existing term."
+
+Processing term: nonfucosylated N-glycan
+"The candidate term \"nonfucosylated N-glycan\" does not closely match any of the existing terms in the database, which all refer to fucosylated N-glycans. Therefore, I have added \"nonfucosylated N-glycan\" as a new term."
+
+Processing term: nonfucosylated biantennary N-glycan
+"The candidate term \"nonfucosylated biantennary N-glycan\" does not closely match any of the existing terms, which all specify fucosylation. Therefore, I will add \"nonfucosylated biantennary N-glycan\" as a new term in the database."
+
+Processing term: nonfucosylated triantennary N-glycan
+"The candidate term \"nonfucosylated triantennary N-glycan\" does not closely match any of the existing terms in the database, which all specify \"fucosylated\" forms or different antennary numbers. Therefore, I have added \"nonfucosylated triantennary N-glycan\" as a new term."
+
+Processing term: nonsialylated N-glycan
+"The candidate term \"nonsialylated N-glycan\" does not closely match any of the existing terms in the database. It is distinct from \"monosialylated N-glycan\" and \"nonfucosylated N-glycan,\" and is not synonymous with \"monoantennary N-glycan.\" Therefore, I have added \"nonsialylated N-glycan\" as a new term."
+
+Processing term: O-fucose glycan
+"The candidate term \"O-fucose glycan\" is an exact match to an existing term in the database with the same name and definition. Therefore, it should be mapped to the existing term with UUID 90a94f3e-97fc-5377-bba5-0d13d2766193."
+
+Processing term: O-linked N-acetylglucosamine
+"The candidate term \"O-linked N-acetylglucosamine\" is an exact match to an existing term in the database (UUID: 627dd562-b899-5fd3-8bb3-c5ad42f31300). Therefore, it should be mapped to this existing term."
+
+Processing term: O-glycan
+"The candidate term \"O-glycan\" is an exact synonym for the existing database term \"O-glycans\" (UUID: d0dfe91d-737b-59d2-9fa5-746a0d0ed6ad). Therefore, it should be mapped to this existing term."
+
+Processing term: O-mannose glycan
+"The candidate term \"O-mannose glycan\" is an exact match to an existing term in the database (UUID: 7f2b0e5a-45b8-5366-9e6d-892f75c98d6a). Therefore, it should be mapped to this existing term."
+
+Processing term: P1 antigen
+"The candidate term \"P1 antigen\" is an exact match to an existing term in the database (UUID: d64e0922-936d-54e7-9182-bf7f2ccdba85). Therefore, it should be mapped to this existing term."
+
+Processing term: Para-Forssman glycolipid
+"The candidate term \"Para-Forssman glycolipid\" does not exactly match any of the existing terms in the database, including \"Forssman glycolipid.\" Therefore, I will add \"Para-Forssman glycolipid\" as a new term."
+
+Processing term: paragloboside
+"\"Paragloboside\" does not exactly match any of the existing terms in your database. While it is related to globo-series glycosphingolipids and is a precursor to globoside (Gb4), it is a distinct glycosphingolipid structure (also known as Gb3 or globotriaosylceramide). Therefore, I have added \"paragloboside\" as a new term in your database."
+
+Processing term: paucimannose N-glycan
+"The candidate term \"paucimannose N-glycan\" is an exact match to an existing term in the database (UUID: 146aba34-600b-5250-8eaa-78b19e76b286). Therefore, it should be mapped to this existing term."
+
+Processing term: polysialic acid
+"The candidate term \"polysialic acid\" is an exact match to an existing term in the database (UUID: bbaf1170-1d3f-55a0-946d-268cf8f7fa4d). Therefore, it should be mapped to this existing term."
+
+Processing term: seminolipid
+"The candidate term \"seminolipid\" does not closely match any of the existing terms in the database. It is a specific glycolipid found in mammalian testis and is not synonymous with the provided potential matches. Therefore, I have added \"seminolipid\" as a new term."
+
+Processing term: sialopentaosylceramide
+"The candidate term \"sialopentaosylceramide\" does not exactly match any of the existing terms in your database. While \"sialylated glycosphingolipid\" is a broader category, \"sialopentaosylceramide\" is a more specific structure and should be added as a new term."
+
+Processing term: sialosyl paragloboside
+"The candidate term \"sialosyl paragloboside\" does not exactly match any of the existing terms in the database. While it is related to \"paragloboside\" and is a type of \"sialylated glycosphingolipid\" or \"ganglioside,\" it is a more specific structure (a sialylated form of paragloboside). Therefore, I have added \"sialosyl paragloboside\" as a new term in the database."
+
+Processing term: sialyl Lewis a
+"The candidate term \"sialyl Lewis a\" is an exact match to the existing term \"sialyl Lewis a\" in the database (UUID: 89e36335-2fea-5ef3-a3a8-559985883dad). Therefore, it should be mapped to this existing term."
+
+Processing term: sialyl Lewis x
+"The candidate term \"sialyl Lewis x\" is an exact match to an existing term in the database (UUID: 32e928fb-1550-5e0a-945f-2218ac79b83c). Therefore, it should be mapped to this existing term."
+
+Processing term: sialyl T antigen
+"The candidate term \"sialyl T antigen\" does not exactly match any of the existing terms in your database. While \"sialyl-Tn\" and \"sialyl-Tn antigen\" are related, they are structurally distinct from \"sialyl T antigen.\" Therefore, \"sialyl T antigen\" should be added as a new term."
+
+Processing term: sialylated biantennary N-glycan
+"The candidate term \"sialylated biantennary N-glycan\" is an exact match to an existing term in the database with the same name and description. Therefore, it should be mapped to the existing term with UUID 2af27ed8-674b-5471-adb0-e8456d8f0ea1."
+
+Processing term: sialylated complex-type N-glycan
+"The candidate term \"sialylated complex-type N-glycan\" is an exact match to an existing term in the database (UUID: 13c3b217-f4d2-5e5f-9349-c2754539e341). Therefore, it should be mapped to this existing term."
+
+Processing term: sialylated LacdiNAc
+"The candidate term \"sialylated LacdiNAc\" does not have a close or exact match among the potential database terms. It is distinct from \"sialylated N-acetyllactosamine\" (which refers to a different disaccharide core) and from the other listed terms. Therefore, I have added \"sialylated LacdiNAc\" as a new term in the database."
+
+Processing term: sialylated tetraantennary N-glycan
+"The candidate term \"sialylated tetraantennary N-glycan\" is more specific than any of the existing terms in the database. While \"tetraantennary N-glycan\" and \"sialylated N-glycan\" are related, neither captures the combined specificity of both tetraantennary branching and sialylation. Therefore, I have added \"sialylated tetraantennary N-glycan\" as a new term in the database."
+
+Processing term: sialyl Tn antigen
+"The candidate term \"sialyl Tn antigen\" is an exact synonym of the existing term \"sialyl-Tn\" in the database (UUID: 562a7a4f-9d8e-5682-ab69-9673ba3599c6). Therefore, it should be mapped to this existing term."
+
+Processing term: SSEA-1
+"The candidate term \"SSEA-1\" does not closely match any of the existing terms in your database. It is distinct from SSEA-4 and the other listed structures. Therefore, I would add \"SSEA-1\" as a new term."
+
+Processing term: SSEA-3
+"\"SSEA-3\" does not closely match any existing terms in the database. I will add \"SSEA-3\" as a new term."
+
+Processing term: SSEA-4
+"The candidate term \"SSEA-4\" is an exact match to the existing term \"SSEA-4\" (UUID: eb14b505-7275-5888-9bc7-4b07107af0b3) in the database. Therefore, it should be mapped to this existing term."
+
+Processing term: sulfated LacdiNAc
+"The candidate term \"sulfated LacdiNAc\" does not closely match any of the existing terms in the database. It is distinct from \"sialylated LacdiNAc,\" \"fucosylated lacdiNAc,\" and \"LacdiNAc,\" as it specifically refers to a sulfated modification. Therefore, I have added \"sulfated LacdiNAc\" as a new term."
+
+Processing term: sulfatide
+"The candidate term \"sulfatide\" is an exact match to the existing database term \"sulfatide\" (UUID: f9726a72-e7bc-5b9f-bd06-b85ea099456d). Therefore, it should be mapped to this existing term."
+
+Processing term: T antigen
+"The candidate term \"T antigen\" is an exact match to an existing term in the database (UUID: 5b6ede6e-9829-5690-a1a3-d1883b62d46d). Therefore, it should be mapped to this existing term."
+
+Processing term: tetraantennary N-glycan
+"The candidate term \"tetraantennary N-glycan\" is an exact match to an existing term in the database (UUID: aee918cb-25f8-50b7-8174-0b8aee6bfdb1). Therefore, it should be mapped to this existing term."
+
+Processing term: tetraantennary complex-type N-glycan
+"The candidate term \"tetraantennary complex-type N-glycan\" is more specific than the existing terms in the database. While \"tetraantennary N-glycan\" exists, it does not specify the \"complex-type\" structure, and \"multiantennary complex-type N-glycan\" is more general. Therefore, I have added \"tetraantennary complex-type N-glycan\" as a new term."
+
+Processing term: Tn antigen
+"The candidate term \"Tn antigen\" is an exact match to an existing term in the database (UUID: 25e2c658-4349-5dc1-ba23-f9dbe366f1e7). Therefore, it should be mapped to this existing term."
+
+Processing term: triantennary complex-type N-glycan
+"The candidate term \"triantennary complex-type N-glycan\" does not have an exact or sufficiently close match among the provided database terms. While \"triantennary N-glycan\" exists, it does not specify the \"complex-type\" structure, which is a significant distinction in glycan nomenclature. Therefore, \"triantennary complex-type N-glycan\" should be added as a new term."
+
+Processing term: triantennary N-glycan
+"The candidate term \"triantennary N-glycan\" is an exact match to an existing term in the database (UUID: 1471df12-b367-5f77-b47f-f8e31ae9707f). Therefore, it should be mapped to this existing term."
+
+Processing term: fucosylated trisialylated triantennary N-glycan
+"The candidate term \"fucosylated trisialylated triantennary N-glycan\" is more specific than any of the existing terms in the database. It specifies both the number of sialic acids (trisialylated) and the antennary structure (triantennary), as well as fucosylation. None of the potential matches include the sialylation detail.\n\nAction: I have added \"fucosylated trisialylated triantennary N-glycan\" as a new term."
+
+Processing term: trifucosyl Lewis b
+"\"trifucosyl Lewis b\" does not exactly match any existing terms in the database and represents a more highly fucosylated variant of Lewis b. Therefore, it should be added as a new term."
+
+Processing term: trifucosyl lewis y
+"The candidate term \"trifucosyl lewis y\" does not closely match any existing terms in the database, including \"trifucosyl Lewis b\" or \"Lewis y.\" Therefore, I have added \"trifucosyl lewis y\" as a new term."
+
+Processing term: trimannosyl core
+"The candidate term \"trimannosyl core\" does not exactly match any of the existing terms in your database. While \"core M3 O-mannose glycan\" (and its synonyms \"core M3\", \"M3\") is structurally related, \"trimannosyl core\" is a broader or more general term that could refer to the common Manα1-6(Manα1-3)Manβ1- core found in both N-glycans and O-mannose glycans, not just the specific O-mannose core M3.\n\nTherefore, I have added \"trimannosyl core\" as a new term in your database."
+
+Processing term: trisialylated biantennary N-glycan
+"The candidate term \"trisialylated biantennary N-glycan\" is more specific than any of the existing terms in the database. It refers to a biantennary N-glycan (two branches) with three sialic acid residues, which is not covered by the broader \"biantennary N-glycan\" or the more general \"monosialylated biantennary N-glycan.\" Therefore, I have added \"trisialylated biantennary N-glycan\" as a new term."
+
+Processing term: trisialylated triantennary N-glycan
+"The candidate term \"trisialylated triantennary N-glycan\" is more specific than any of the existing terms in the database. It specifies both the number of antennae (triantennary) and the degree of sialylation (trisialylated), which is not captured by the broader term \"triantennary N-glycan\" or the related but structurally different \"trisialylated biantennary N-glycan.\" Therefore, I have added \"trisialylated triantennary N-glycan\" as a new term in the database."
+
+Processing term: VIM-2
+"The candidate term \"VIM-2\" does not literally or synonymously match any of the existing terms in the database (GM2, N-glycolyl GM2, GT2, GD2). Therefore, \"VIM-2\" should be added as a new term."
+

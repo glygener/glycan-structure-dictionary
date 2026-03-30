@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "EOG Glycan Term Extraction",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "entities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "surface_form": {
+            "type": "string"
+          },
+          "first_sentence_index": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "classification": {
+            "type": "string",
+            "enum": ["1A", "1B", "2A", "2B", "2C", "2D", "2E", "3A", "3B", "3C"]
+          },
+          "reason": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "surface_form",
+          "first_sentence_index",
+          "classification",
+          "reason"
+        ]
+      }
+    }
+  },
+  "required": ["entities"]
+}

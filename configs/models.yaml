@@ -1,0 +1,27 @@
+gliner:
+  ner_model: urchade/gliner_large-v2.1
+
+ollama:
+  extraction_model:
+    model: gpt-oss:20b
+    reasoning: medium
+    num_predict: 8192
+  merging_model:
+    model: gpt-oss:20b
+    reasoning: medium
+    num_predict: 8192
+  resolution_model:
+    model: gpt-oss:20b
+    reasoning: medium
+    num_predict: 8192
+  embedding_model:
+    model: mxbai-embed-large:335m
+  default_params:
+    model: gpt-oss:20b
+    num_predict: 10240
+    temperature: 0.3
+    top_p: 0.9
+    top_k: 40
+    repeat_penalty: 1.25
+    repeat_last_n: 256
+    seed: 2026

@@ -1,0 +1,8 @@
+eog:
+  persist_directory: data/workspace/chroma/eog
+  collection_name: eog_chunks
+  top_k: 5
+
+fields:
+  document_text: label
+  id_field: term_id

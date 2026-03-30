@@ -1,0 +1,86 @@
+2025-08-28 12:21:33.670584 - INFO
+    [PREPROCESSING ORIGINAL GSD DATA]
+    Used `Glygen_CSV_Script_190entries.ipynb` to download glycan structure dictionary from the wikipage
+    -> `GlygenCSV_190_entries.csv`
+    Converted `GlygenCSV_190_entries.csv` to xlsx for manual review
+    -> `GlygenCSV_190_entries_v01.xlsx`
+    - Renamed column 'synonymns' to 'synonyms'
+    - Removed all long IUPAC strings that appeared under 'synonyms' on Raja's approval
+    - Removed all Essentials of Glycobiology chapters - spot check failed, will re-add chapters that contains sentence-level evidence (see below)
+    - Classified all entries into 'keep', 'discard', and 'review'
+    - Standardized all entry names: 'raw_term' + 'standardized_term'
+    - Convert 'keep' and 'review + discard' entries to jsonl
+    -> `terms_original_gsd_unreviewed.jsonl` -> will not process until further notice
+    -> `terms_original_gsd_keep.jsonl`
+
+2025-08-28 12:31:26.054035 - INFO
+    [PREPROCESSING ESSENTIALS OF GLYCOBIOLOGY TERMS]
+    Downloaded text from https://www.ncbi.nlm.nih.gov/books/NBK453044/
+    Separated text into documents, ensuring each sentence ends with a period
+    -> `essentials_of_glycobiology.jsonl`
+    Used GLiNER to extract glycan-related terms
+    Used LLMs to standardize, classify, and collapse terms
+    Linked each term with relevant text chunk in `essentials_of_glycobiology.jsonl`
+    - Each term is assigned a unique identifier (uuid4)
+    - Each text chunk is assigned a unique identifier (uuid4)
+    - Each text chunk referenced in `terms_essentials_of_glycobiology.jsonl` contains hyperlinks to the original textbook text chunk on the NCBI website
+    Manually reviewed and curated extracted terms
+    -> `terms_essentials_of_glycobiology.jsonl`
+
+2026-01-27 13:48:46.093529 - INFO
+    [REVIEWING GLYCAN STRUCTURE DICTIONARY V0 TERMS THAT DID NOT GET INTEGRATED INTO V2]
+    1. Term: "B-GD1B", GSD ID: GSD000020
+        - Decision: Discard
+        - Reason: Looking at quoted evidence sentence: "... Botulinum Neuro Toxin/B-GD1A and BoNT/B-GD1B complex revealed that this toxin can interact with GD1A in the single binding mode and with GD1B in two binding modes.", it appears that the second 'B' in 'BoNT/B-GD1B' refers to the Botulinum Neuro Toxin serotype B (BoNT/B), not part of the glycan name. The actual glycan name is 'GD1B', which has already been registered as GSD000084.
+        - Evidence supporting decision:
+            - PMID:20418969. "Botulinum toxin, one of the most poisonous biological substances known, is a neurotoxin produced by the bacterium Clostridium botulinum. C. botulinum elaborates eight antigenically distinguishable exotoxins (A, B, C1, C2, D, E, F and G)."
+            - PMID:40864696. "Botulinum neurotoxin serotype B1 (BoNT/B) is a highly potent neurotoxin and therapeutic agent."
+        - Source: {"raw_term": "B-GD1B", "normalized_term": "B-GD1B", "retain": "discard", "synonyms": ["B-GD1b"], "gsd_id": "GSD000020", "glytoucan_id": ["G72557NR"], "term_in_sentence": "The Molecular Modelling and 10 ns MD simulation of Botulinum Neuro Toxin/B-GD1A and BoNT/B-GD1B complex revealed that this toxin can interact with GD1A in the single binding mode and with GD1B in two binding modes.[PMID:22929125]", "definition": "", "publication": ["PMID:27956354", "PMID:22929125"], "term_xref": ["GlycoMotif:GGM.000104", "CID:91847819", "KEGG:G01803", "CHEBI:153361"], "function": [], "disease_associations": []}
+    
+    2. Term: "Bisialo-biantennary" GSD ID: GSD000025
+        - Decision: Discard
+        - Reason: Looking at the quoted evidence sentence: "...the human plasma protein contained only bisialo-biantennary complex-type carbohydrate and asialo-biantennary complex carbohydrate...", it appears that the term 'bisialo-biantennary' is a component of the longer term 'bisialo-biantennary complex-type', which has already been registered as GSD000066 (disialylated biantennary complex-type).
+        - Evidence supporting decision:
+            - N.A.
+        - Source: {"raw_term": "Bisialo-biantennary", "normalized_term": "bisialo-biantennary", "retain": "discard", "synonyms": ["disialo biantennary", "disialo diantennary", "disialylated biantennary", "disialylated diantennary"], "gsd_id": "GSD000025", "glytoucan_id": [], "term_in_sentence": "Using anion-exchange liquid chromatography mapping of the oligosaccharide units cleaved from the proteins by glycopeptidase F, compared with elution positions of standard oligosaccharide structures, coupled with monosaccharide compositional analysis, we find that the human plasma protein contained only bisialo-biantennary complex-type carbohydrate and asialo-biantennary complex carbohydrate, confirming earlier work published by this laboratory.", "definition": "A binantennary glycan with sialic acid residues as non-reducing terminal residues on both antennae.", "publication": ["PMID:2386787", "PMID:2065054"], "term_xref": [], "function": [], "disease_associations": []}
+    
+    3. Term: "Bisialo-biantennary complex-type" GSD ID: GSD000026
+        - Decision: Discard
+        - Reason: GSD000026 (bisialo-biantennary complex-type) appears to be a duplicate of GSD000066 (disialylated biantennary complex-type). Both do not imply the positions of the sialic acids, and should be considered equivalent. Keeping GSD000066  as 'disialylated' is more searchable and interpretable.
+        - Evidence supporting decision:
+            - GSD000066
+        - Source: {"raw_term": "Bisialo-biantennary complex-type", "normalized_term": "Bisialo-biantennary complex-type", "retain": "discard", "synonyms": ["Fully sialylated biantennary N-glycan"], "gsd_id": "GSD000026", "glytoucan_id": [], "term_in_sentence": "Using anion-exchange liquid chromatography mapping of the oligosaccharide units cleaved from the proteins by glycopeptidase F , compared with elution positions of standard oligosaccharide structures , coupled with monosaccharide compositional analysis, we find that the human plasma protein contained only bisialo-biantennary complex-type carbohydrate and asialo-biantennary complex carbohydrate , confirming earlier work published by this laboratory.[PMID:2386787]", "definition": "A binantennary glycan with sialic acid residues as non-reducing terminal residues on both antennae.", "publication": ["PMID:2386787", "PMID:26966183"], "term_xref": [], "function": [], "disease_associations": []}
+    
+    4. Term: "Desialylated tetrasaccharide" GSD ID: GSD000056
+        - Decision: Discard
+        - Reason: The term 'desialylated tetrasaccharide' is too generic and does not provide sufficient structural information about the glycan. It simply indicates that a tetrasaccharide has had its sialic acid residues removed, but does not specify the original structure or composition of the tetrasaccharide. More specific terms should be used to describe glycans.
+        - Evidence supporting decision:
+            - N.A.
+        - Source: {"raw_term": "Desialylated tetrasaccharide", "normalized_term": "Desialylated tetrasaccharide", "retain": "discard", "synonyms": [], "gsd_id": "GSD000056", "glytoucan_id": [], "term_in_sentence": "The structures of a desialylated tetrasaccharide , two monosialylated trisaccharides , and five other minor products were defined.[PMID:8384526]", "definition": "A tetrasachharide (four branches) glycan from which sialyl groups have been removed.", "publication": ["PMID:8384526"], "term_xref": [], "function": [], "disease_associations": []}
+    
+    5. Term: "Forssman antigen" GSD ID: GSD000068
+        - Decision: Discard
+        - Reason: GSD000068 (Forssman antigen) appears to be a duplicate of GSD000069 (Forssman glycolipid). Keeping GSD000069 due to better x-refs. GSD000069 is subsequently renamed to 'Forssman antigen' for naming standardization. GlyTouCan ID is copied to GSD000069. Data from other fields will be merged in the future upon manual review.
+        - Evidence supporting decision:
+            - GSD000069
+        - Source: {"raw_term": "Forssman antigen", "normalized_term": "Forssman antigen", "retain": "discard", "synonyms": [], "gsd_id": "GSD000068", "glytoucan_id": ["G80062GG"], "term_in_sentence": "Here we report the crystal structure of the complex between SLL-2 and Forssman antigen tetrasaccharide (GalNAcα1-3GalNAcβ1-3 Galα1-4 Galβ at 3.4 √Ö resolution.[PMID:28510705]", "definition": "A linear amino pentasaccharide comprising N-acetyl-α-D-galactosamine, N-acetyl-β-D-galactosamine, α-D-galactose, β-D-galactose and β-D-glucose residues linked sequentially (1→3), (1→3), (1→4) and (1→4).CHEBI:85789]", "publication": ["PMID:28510705", "PMID:31933576", "PMID:28134301", "PMID:7021748", "PMID:1802714", "PMID:7512587", "PMID:7747818", "PMID:23325748", "PMID:268649", "PMID:31816281", "PMID:22015168", "PMID:4147161", "PMID:2857159", "PMID:6267170", "PMID:7293775", "PMID:13367419", "PMID:20636540", "PMID:10460829", "PMID:23255552", "PMID:2675268", "PMID:18955372", "PMID:7020692", "PMID:31784953", "PMID:4114942", "PMID:31273262", "PMID:6257673", "PMID:7696847", "PMID:1916901", "PMID:11169215", "PMID:48262", "PMID:26022515", "PMID:6175621", "PMID:31404475", "PMID:6983878", "PMID:8381954", "PMID:10431785", "PMID:3257757", "PMID:6792413", "PMID:25039359"], "term_xref": ["GlycoEpitope:EP0037", "CHEBI:85789"], "function": [], "disease_associations": []}
+
+    {"raw_term": "Heparan sulfate/heparin", "normalized_term": "Heparan sulfate/heparin", "retain": "discard", "synonyms": ["HS/heparin", "heparan sufate (HS)/heparin", "H/HS"], "gsd_id": "GSD000185", "glytoucan_id": [], "term_in_sentence": "Heparan sulfate (HS)/heparin is a structurally complex class of glycosaminoglycans (GAGs) that have been implicated in a wide range of biological activities. [PMID:31016560]", "definition": "", "publication": ["PMID:23313092", "PMID:31016560", "PMID:23152789"], "term_xref": [], "function": [], "disease_associations": []}
+    
+    6. Term: "Nonfucosylated biantennary N-Linked structures" GSD ID: GSD000134
+        - Decision: Discard
+        - Reason: GSD000134 (Nonfucosylated biantennary N-Linked structures) appears to be a duplicate of GSD000133 (nonfucosylated biantennary N-glycan). Keeping GSD000135 as '... N-glycan' follows our standard nomenclature.
+        - Evidence supporting decision:
+            - GSD000133
+        - Source: {"raw_term": "Nonfucosylated biantennary N-Linked structures", "normalized_term": "afucosylated biantennary N-glycan", "retain": "discard", "synonyms": [], "gsd_id": "GSD000134", "glytoucan_id": [], "term_in_sentence": "The beta-subunit from normal pregnancy hCG contained fucosylated and nonfucosylated biantennary N-linked structures; however, mono- and triantennary oligosaccharides were also identified (4.6 and 13.7%).[PMID:9449027]", "definition": "A biantennary N-linked glycan with two GlcNAc branches linked to the core and no fucose appears.", "publication": ["PMID:9449027"], "term_xref": [], "function": [], "disease_associations": []}
+    
+    
+    {"raw_term": "SDlex", "normalized_term": "SDlex", "retain": "discard", "synonyms": ["Sdlex", "SDLe^x", "SDLex"], "gsd_id": "GSD000146", "glytoucan_id": ["G19619KS"], "term_in_sentence": "Hepatic expression of sialylated difucosyl Lex antigen (SDLex, NeuAc alpha 2-3Gal beta 1-4(Fuc alpha 1-3)GlcNAc beta 1-3Gal beta 1-4(Fuc alpha 1-3)GlcNAc beta 1-) was studied with monoclonal antibody FH6, which defines this structure.[PMID: 3341453]", "definition": "(2S,4S,5R,6R)-5-Acetamido-2-[(2S,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6S)-5-acetamido-6-[(2S,3R,4S,5S,6R)-2-[(2R,3S,4R,5R,6R)-5-acetamido-6-hydroxy-2-(hydroxymethyl)-4-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-2-(hydroxymethyl)-4-[(2S,3S,4R,5S,6S)-3,4,5-trihydroxy-6-methyloxan-2-yl]oxyoxan-3-yl]oxy-3,5-dihydroxy-6-(hydroxymethyl)oxan-4-yl]oxy-4-hydroxy-6-[(1R,2R)-1,2,3-trihydroxypropyl]oxane-2-carboxylic acid is a member of neuraminic acids.[CHEBI:148203]", "publication": ["PMID:30226570", "PMID:3341453", "PMID:12725333"], "term_xref": ["GlycoMotif:GGM.000032", "CID:91856705", "CHEBI:148203"], "function": [], "disease_associations": []}
+    
+    7. Term: "Triantennary" GSD ID: GSD000168
+        - Decision: Discard
+        - Reason: GSD000168 (Triantennary) appears to be a duplicate of GSD000170 (triantennary N-glycan). Keeping GSD000170 only.
+        - Evidence supporting decision:
+            - GSD000170
+        - Source:
+    {"raw_term": "Triantennary", "normalized_term": "Triantennary", "retain": "discard", "synonyms": [], "gsd_id": "GSD000168", "glytoucan_id": [], "term_in_sentence": "Targeted delivery of antisense oligonucleotides to hepatocytes using triantennary N-acetyl galactosamine improves potency 10-fold in mice.[PMID:24992960]", "definition": "Type of N-linked glycan in which three antennae are present on the trimannosyl core, each initiated by GlcNAc additions catalyzed by position-specific N-acetylglucosaminyltransferases (GlcNAcTs). The three antennae can be be initiated by addition of 2 GlcNAcs to the _3 Man (at the 2 and 4 positions) and 1 GlcNAc to the _6 Man (at the 2 position) of the trimannosyl core or 1 on the _3 and 2 on the _6 Man (at the 2 and 6 positions). Each antenna can be extended or capped with HexNAc, deoxyHex, Hex, or sialic acid residues. [Essentials of Glycobiology:Glossary]", "publication": ["PMID:24992960", "PMID:27025342", "PMID:29642865", "PMID:29456020", "PMID:26914862", "PMID:26926155", "PMID:26299345", "PMID:28981809", "PMID:18395704", "PMID:2211710", "PMID:23461434", "PMID:18327885", "PMID:15264862", "PMID:22954207", "PMID:9061362", "PMID:16581187", "PMID:26537865", "PMID:3979568", "PMID:28129130", "PMID:7679920", "PMID:8068017", "PMID:7783116", "PMID:3857231", "PMID:20540518", "PMID:1706936", "PMID:2430615", "PMID:8078981", "PMID:2211711", "PMID:6767476", "PMID:3814128", "PMID:2597120", "PMID:7451505", "PMID:8204583", "PMID:20619452", "PMID:10460831", "PMID:1924399", "PMID:6643471", "PMID:31809011", "PMID:30042045", "PMID:2477056", "PMID:7882496", "PMID:2430614", "PMID:2551687", "PMID:2426141", "PMID:2065052", "PMID:28988716", "PMID:31144994", "PMID:26966183", "PMID:29809215"], "term_xref": [], "function": [], "disease_associations": []}

@@ -1,0 +1,6 @@
+host: http://localhost:11434
+
+ollama_flash_attention: true
+ollama_max_loaded_models: 2
+ollama_keep_alive: 10m
+ollama_context_length: 15000
