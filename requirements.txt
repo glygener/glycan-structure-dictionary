@@ -1,5 +1,6 @@
 PyYAML>=6.0.3
 lxml>=6.0.2
+pysqlite3-binary>=0.5.4
 
 langgraph>=1.0.3
 langchain-core>=1.0.4
