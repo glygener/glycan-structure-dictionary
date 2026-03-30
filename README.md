@@ -213,6 +213,8 @@ Follow these steps to get a local copy up and running.
    sbatch main_slurm.sh src/gsd/part1_textbook/01_ingest.py
    ```
 
+   On successful job submission, you will find the logs at `logs/slurm-<job-id>_output.txt` and `logs/slurm-<job-id>_error.txt`
+
 <p align="right"><a href="#readme-top">back to top ▲</a></p>
 
 <!-- USAGE EXAMPLES -->
