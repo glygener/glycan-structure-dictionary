@@ -108,6 +108,8 @@ Follow these steps to get a local copy up and running.
 
 ### Prerequisites
 
+**Ollama** is a local LLM inference runtime and model management layer that lets you pull and serve foundation models on-device. It abstracts backend details such as model packaging and request orchestration so developers can run local models with minimal and across different setups.
+
 - Install Ollama from [https://ollama.com/download](https://ollama.com/download), or alternatively:
 
   ```sh
@@ -115,7 +117,14 @@ Follow these steps to get a local copy up and running.
   ```
 
   - Ollama version `>=v0.15.0` is recommended
-  - On servers that run on environment modules (Lmod), use the following to display default version of installation:
+
+- **HPC Users Only:**
+  - On servers that run on environment modules (Lmod), use the following to view pre-installed modules:
+    ```sh
+    module avail
+    ```
+  
+  - To display default version of Ollama:
     ```sh
     module -d avail ollama
     ```
@@ -141,9 +150,9 @@ Follow these steps to get a local copy up and running.
    ollama serve
    ```
 
-   **For HPC (Slurm) users only:**
+   **HPC Users Only:**
 
-   - Load the `ollama` module every time when opening a new terminal window:
+   - Load the `ollama` module using `module load ollama` **every time when opening a new terminal window**:
 
      ```sh
      module load ollama
@@ -190,8 +199,7 @@ Follow these steps to get a local copy up and running.
   
    **For Non-HPC users:**
 
-   > [!note]
-   > Every python script that utilizes LLM requires the hosting of an Ollama server. You may utilize these scripts to start/stop/check a server:
+   Every python script that utilizes LLM requires the hosting of an Ollama server. You may utilize these scripts to start/stop/check a server:
 
    ```bash
    python scripts/ollama/start_server.py
@@ -213,7 +221,9 @@ Follow these steps to get a local copy up and running.
    sbatch main_slurm.sh src/gsd/part1_textbook/01_ingest.py
    ```
 
-   On successful job submission, you will find the logs at `logs/slurm-<job-id>_output.txt` and `logs/slurm-<job-id>_error.txt`
+   On successful job submission, you will find the logs at `logs/slurm-<job-id>_output.txt` and `logs/slurm-<job-id>_error.txt`.
+
+   More on basic [Slurm commands](https://slurm.schedmd.com/quickstart.html#commands)
 
 <p align="right"><a href="#readme-top">back to top ▲</a></p>
 
@@ -237,7 +247,7 @@ Follow these steps to get a local copy up and running.
    python src/gsd/part1_textbook/01_ingest.py
    ```
 
-   - Or for HPC users: `sbatch main_slurm.sh ...`
+   - Or for HPC users: `sbatch main_slurm.sh src/.../TargetScript.py`
 
 2. Extract terms from EoG documents (from vectorstore)
 
