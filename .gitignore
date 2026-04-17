@@ -1,4 +1,5 @@
-
+logs/
+data/
 __pycache__/
 venv/
 .venv/
@@ -6,5 +7,5 @@ env/
 .env/
 .vscode/
 .DS_Store
-
+*.log
 
