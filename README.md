@@ -245,9 +245,9 @@ Follow these steps to get a local copy up and running.
 
    ```bash
    python src/gsd/part1_textbook/01_ingest.py
+   # Or for HPC users here and thereafter:
+   sbatch main_slurm.sh src/.../TargetScript.py
    ```
-
-   - Or for HPC users: `sbatch main_slurm.sh src/.../TargetScript.py`
 
 2. Extract terms from EoG documents (from vectorstore)
 
