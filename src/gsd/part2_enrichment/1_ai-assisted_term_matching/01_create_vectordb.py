@@ -1,3 +1,9 @@
+import sqlite3
+if sqlite3.sqlite_version_info < (3, 35, 0):
+    __import__('pysqlite3')
+    import sys
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 # Create a Chroma vector database from the raw Essentials of Glycobiology JSONL file
 from langchain_core.documents import Document
 from langchain_openai import OpenAIEmbeddings
@@ -19,9 +25,9 @@ OUTPUT_FILE_NAME = "terms_demo.jsonl"
 COLLECTION_NAME = "glycan_structure_dictionary" # Vector store collection name
 EMBEDDING_MODEL = "text-embedding-3-small"
 
-src_dir = Path(__file__).parents[2]
-input_file = src_dir / "data/raw/src_gsdv0/archive" / INPUT_FILE_NAME
-persist_dir = src_dir / "data/vector_store"
+root_dir = Path(__file__).parents[4]
+input_file = root_dir / "data/inputs/src_gsdv0/archive" / INPUT_FILE_NAME
+persist_dir = root_dir / "data/vector_store"
 
 embeddings = OpenAIEmbeddings(model=EMBEDDING_MODEL)
 
@@ -61,7 +67,7 @@ try:
     vector_store = Chroma.from_documents(
         documents=documents,
         embedding=embeddings,
-        COLLECTION_NAME=COLLECTION_NAME,
+        collection_name=COLLECTION_NAME,
         persist_directory=persist_dir,
         collection_metadata ={"hnsw:space": "cosine"}
     )
