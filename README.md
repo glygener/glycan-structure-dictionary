@@ -237,7 +237,7 @@ Follow these steps to get a local copy up and running.
 
 ![](https://github.com/glygener/glycan-structure-dictionary/blob/main/docs/static/graph_workflow_extract.png?raw=true)
 
-1. Creating ChromaDB from EoG documents
+1. Creating ChromaDB from Essentials of Glycobiology (EoG) documents
 
    ```bash
    unzip data/inputs/eog/raw_chapters/unzip_me_before_running_01_ingest.py.zip -d data/inputs/eog/raw_chapters/
@@ -278,12 +278,12 @@ This part builds a master dictionary of glycan structure terms by:
 
 2. Run AI mapping for a source
    ```bash
-   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/02_ai_mapping_gsdv0.py
+   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/02a_ai_mapping_gsdv0.py
    ```
 
 3. Reconcile mapping decisions
    ```bash
-   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/02_match_gsdv0_ai_mapping_with_uuid.py
+   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/02b_match_gsdv0_ai_mapping_with_uuid.py
    ```
 
    (Repeat analogous steps for pubdictionaries)
