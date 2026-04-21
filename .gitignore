@@ -1,11 +1,11 @@
-logs/
-data/
-__pycache__/
-venv/
-.venv/
 env/
+data/
+logs/
+venv/
+.env
 .env/
+.venv/
 .vscode/
 .DS_Store
 *.log
-
+__pycache__/
