@@ -9,11 +9,10 @@ if sqlite3.sqlite_version_info < (3, 35, 0):
 # Make sure to have existing Chroma vector store in the specified persist_dir (run create_vectordb.py)
 from langchain_core.tools import tool
 from langchain_core.documents import Document
-from langchain_core.prompts import ChatPromptTemplate
 
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_chroma import Chroma
-from langchain.agents import AgentExecutor, create_tool_calling_agent
+from langgraph.prebuilt import create_react_agent
 
 from dotenv import load_dotenv
 from pathlib import Path
@@ -143,16 +142,7 @@ def map_to_existing_term(term_name: str, term_uuid: str) -> dict:
 
 tools = [add_new_term, map_to_existing_term]
 
-prompt = ChatPromptTemplate.from_messages(
-    [
-        ("system", MAPPING_PROMPT),
-        ("human", "{input}"),
-        ("placeholder", "{agent_scratchpad}"), # for internal thought process
-    ]
-)
-
-agent = create_tool_calling_agent(llm, tools, prompt)
-agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
+agent_executor = create_react_agent(llm, tools, prompt=MAPPING_PROMPT)
 
 with open(input_file, 'r', encoding='utf-8') as infile:
     for line in infile:
@@ -170,11 +160,11 @@ with open(input_file, 'r', encoding='utf-8') as infile:
         Analyze the candidate term against potential matches and decide whether to map it to an existing term or add it as a new term.
         """
 
-        response = agent_executor.invoke({"input": input_text}) # Move to LangGraph in next attempt       
+        response = agent_executor.invoke({"messages": [("human", input_text)]})      
         #print(f"Agent response: {response}")
         
         # Append to log file
         with open(log_file, 'a', encoding='utf-8') as log:
             log.write(f"Processing term: {term}\n")
-            log.write(json.dumps(response['output'], ensure_ascii=False) + "\n\n")
+            log.write(json.dumps(response['messages'][-1].content, ensure_ascii=False) + "\n\n")
         print(f"[System] Completed processing term: {term}\n")
