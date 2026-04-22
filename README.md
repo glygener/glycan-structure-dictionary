@@ -254,6 +254,10 @@ Follow these steps to get a local copy up and running.
    ```bash
    python src/gsd/part1_textbook/02_extract.py
    ```
+  > **HPC users:** The default time limit in `main_slurm.sh` is 24 hours. Override it at submission time if needed:
+  > ```bash
+  > sbatch --time=7-00:00:00 main_slurm.sh src/gsd/part1_textbook/02_extract.py
+  > ```
 
 > Varki A, Cummings RD, Esko JD, et al., editors. Essentials of Glycobiology [Internet]. 4th edition. Cold Spring Harbor (NY): Cold Spring Harbor Laboratory Press; 2022. Available from: https://www.ncbi.nlm.nih.gov/books/NBK579918/ doi: 10.1101/9781621824213
 
