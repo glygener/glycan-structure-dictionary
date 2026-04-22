@@ -1,3 +1,9 @@
+import sqlite3
+if sqlite3.sqlite_version_info < (3, 35, 0):
+    __import__('pysqlite3')
+    import sys
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 # AI-assisted term matching for Glycan Structure Dictionary v0
 # Make sure to set up your .env file with OPENAI_API_KEY before running this script.
 # Make sure to have existing Chroma vector store in the specified persist_dir (run create_vectordb.py)
