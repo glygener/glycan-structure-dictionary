@@ -12,6 +12,9 @@ from langchain_core.documents import Document
 
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_chroma import Chroma
+
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
 from langgraph.prebuilt import create_react_agent
 
 from dotenv import load_dotenv
@@ -34,17 +37,17 @@ EMBEDDING_MODEL = "text-embedding-3-small"
 LARGE_LANGUAGE_MODEL = "gpt-4.1"
 LOG_FILE_NAME = "ai_mapping_demo.log"
 
-src_dir = Path(__file__).parents[2]
-input_file = src_dir / "data/raw/src_gsdv0/archive" / INPUT_FILE_NAME
-output_file = src_dir / "data/raw/src_gsdv0/archive" / OUTPUT_FILE_NAME
-log_file = src_dir / "data/raw/src_gsdv0" / LOG_FILE_NAME
-persist_dir = src_dir / "data/vector_store"
+root_dir = Path(__file__).parents[4]
+input_file = root_dir / "data/inputs/src_gsdv0/archive" / INPUT_FILE_NAME
+output_file = root_dir / "data/inputs/src_gsdv0/archive" / OUTPUT_FILE_NAME
+log_file = root_dir / "logs" / LOG_FILE_NAME
+persist_dir = root_dir / "data/vector_store"
 
 embeddings = OpenAIEmbeddings(model=EMBEDDING_MODEL)
 llm = ChatOpenAI(model=LARGE_LANGUAGE_MODEL, temperature=0)
 
 vector_store = Chroma(
-    persist_dir=persist_dir,
+    persist_directory=str(persist_dir),
     collection_name=COLLECTION_NAME,
     embedding_function=embeddings
 )
