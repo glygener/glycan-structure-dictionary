@@ -42,10 +42,10 @@ def save_jsonl(data: List[Dict], file_path: str) -> None:
         sys.exit(1)
 
 def main():
-    src_path = Path(__file__).parents[2]
-    ai_results_path = src_path / "data/raw/pubdictionaries/archive/terms_ai-decisions_demo.jsonl"
-    original_terms_path = src_path / "data/raw/pubdictionaries/archive/terms_edited.jsonl"
-    output_path = src_path / "data/raw/pubdictionaries/archive/terms_demo.jsonl"
+    root_path = Path(__file__).parents[4]
+    ai_results_path = root_path / "data/inputs/src_pubdictionaries/archive/terms_ai-decisions_demo.jsonl"
+    original_terms_path = root_path / "data/inputs/src_pubdictionaries/archive/terms_edited.jsonl"
+    output_path = root_path / "data/inputs/src_pubdictionaries/archive/terms_demo.jsonl"
     
     # Load AI results
     print("Loading AI results...")

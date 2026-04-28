@@ -22,11 +22,11 @@ EMBEDDING_MODEL = "text-embedding-3-small"
 LARGE_LANGUAGE_MODEL = "gpt-4.1"
 LOG_FILE_NAME = "ai_mapping_demo.log"
 
-src_dir = Path(__file__).parents[2]
-input_file = src_dir / "data/raw/src_pubdictionaries/archive" / INPUT_FILE_NAME
-output_file = src_dir / "data/raw/src_pubdictionaries/archive" / OUTPUT_FILE_NAME
-log_file = src_dir / "data/raw/src_pubdictionaries" / LOG_FILE_NAME
-persist_dir = src_dir / "data/vector_store"
+root_dir = Path(__file__).parents[4]
+input_file = root_dir / "data/inputs/src_pubdictionaries/archive" / INPUT_FILE_NAME
+output_file = root_dir / "data/inputs/src_pubdictionaries/archive" / OUTPUT_FILE_NAME
+log_file = root_dir / "data/inputs/src_pubdictionaries" / LOG_FILE_NAME
+persist_dir = root_dir / "data/vector_store"
 
 embeddings = OpenAIEmbeddings(model=EMBEDDING_MODEL)
 vector_store = Chroma(
