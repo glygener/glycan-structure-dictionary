@@ -1,10 +1,16 @@
-
-__pycache__/
+# OS
+.DS_Store
+# IDE
+.vscode/
+# Virtual environments
+.env
+.env/
 venv/
 .venv/
-env/
-.env/
-.vscode/
-.DS_Store
-
-
+# Cache
+__pycache__/
+# Logs
+*.log
+logs/
+# Project data
+data/
