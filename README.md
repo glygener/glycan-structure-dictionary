@@ -289,8 +289,8 @@ This part builds a master dictionary of glycan structure terms by:
    (Repeat analogous steps for pubdictionaries)
 
    ```bash
-   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/03_ai_mapping_pubdictionaries.py
-   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/03_match_pubdict_ai_mapping_with_uuid.py
+   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/03a_ai_mapping_pubdictionaries.py
+   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/03b_match_pubdict_ai_mapping_with_uuid.py
    ```
 
 4. Merge into master dictionaries
