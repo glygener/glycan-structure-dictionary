@@ -43,7 +43,7 @@ def save_jsonl(data: List[Dict], file_path: str) -> None:
 
 def main():
     root_path = Path(__file__).parents[4]
-    ai_results_path = root_path / "data/inputs/src_pubdictionaries/archive/terms_ai-decisions_demo.jsonl"
+    ai_results_path = root_path / "data/inputs/src_gsdv0/archive/terms_ai-decisions_demo.jsonl"
     original_terms_path = root_path / "data/inputs/src_pubdictionaries/archive/terms_edited.jsonl"
     output_path = root_path / "data/inputs/src_pubdictionaries/archive/terms_demo.jsonl"
     
