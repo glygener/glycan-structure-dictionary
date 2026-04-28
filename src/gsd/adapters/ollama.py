@@ -159,7 +159,10 @@ def _extract_json(text: str) -> dict[str, Any]:
         match = re.search(r"\{.*\}", payload, flags=re.DOTALL)
         if not match:
             raise
-        obj = json.loads(match.group(0))
+        try:
+            obj = json.loads(match.group(0))
+        except json.JSONDecodeError:
+            raise EmptyOllamaResponseError(f"Could not parse JSON from response: {payload[:200]!r}")
 
     if not isinstance(obj, dict):
         raise ValueError("Expected a top-level JSON object from ChatOllama.")
