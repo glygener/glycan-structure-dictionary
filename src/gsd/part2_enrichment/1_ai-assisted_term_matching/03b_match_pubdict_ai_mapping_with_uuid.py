@@ -152,7 +152,7 @@ def main():
         print(f"\n❌ ERROR: {error_msg}")
         
         # Optionally save partial results for debugging
-        debug_output_path = output_path.replace('.jsonl', '_partial_debug.jsonl')
+        debug_output_path = str(output_path).replace('.jsonl', '_partial_debug.jsonl')
         save_jsonl(updated_terms, debug_output_path)
         print(f"Partial results saved to {debug_output_path} for debugging")
         
