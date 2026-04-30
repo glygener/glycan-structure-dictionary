@@ -15,10 +15,10 @@ OUTF_NAME_NODES = f"master_nodes{timestamp}.json"
 OUTF_NAME_EDGES = f"master_edges{timestamp}.json"
 OUTF_NAME_GSD = f"dictionary{timestamp}.json"
 
-SRC_DIR = Path(__file__).parents[2]
-RAW_DIR = SRC_DIR / "data" / "raw"
-PRC_DIR = SRC_DIR / "data" / "processed"
-BCK_DIR = SRC_DIR / "data" / "processed" / "backup" / f"backup_{timestamp}"
+ROOT_DIR = Path(__file__).parents[4]
+RAW_DIR = ROOT_DIR / "data" / "inputs"
+PRC_DIR = ROOT_DIR / "data" / "processed"
+BCK_DIR = ROOT_DIR / "data" / "processed" / "backup" / f"backup_{timestamp}"
 
 BCK_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -41,7 +41,7 @@ QC_MODE = False # Set to True to enable QC mode; False for normal mode
 
 if QC_MODE:
     print("="*80 + "\nRunning in QC mode...")
-    def backup_existing_file(SRC_DIR, OUTF_NAME_NODES):
+    def backup_existing_file(ROOT_DIR, OUTF_NAME_NODES):
         pass
     # Under development, do QC_MODE = False at this stage
 else:
