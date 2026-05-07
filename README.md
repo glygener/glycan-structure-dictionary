@@ -237,7 +237,7 @@ Follow these steps to get a local copy up and running.
 
 ![](https://github.com/glygener/glycan-structure-dictionary/blob/main/docs/static/graph_workflow_extract.png?raw=true)
 
-1. Creating ChromaDB from EoG documents
+1. Creating ChromaDB from Essentials of Glycobiology (EoG) documents
 
    ```bash
    unzip data/inputs/eog/raw_chapters/unzip_me_before_running_01_ingest.py.zip -d data/inputs/eog/raw_chapters/
@@ -245,15 +245,19 @@ Follow these steps to get a local copy up and running.
 
    ```bash
    python src/gsd/part1_textbook/01_ingest.py
+   # Or for HPC users here and thereafter:
+   sbatch main_slurm.sh src/.../TargetScript.py
    ```
-
-   - Or for HPC users: `sbatch main_slurm.sh src/.../TargetScript.py`
 
 2. Extract terms from EoG documents (from vectorstore)
 
    ```bash
    python src/gsd/part1_textbook/02_extract.py
    ```
+  > **HPC users:** The default time limit in `main_slurm.sh` is 24 hours. Override it at submission time if needed:
+  > ```bash
+  > sbatch --time=7-00:00:00 main_slurm.sh src/gsd/part1_textbook/02_extract.py
+  > ```
 
 > Varki A, Cummings RD, Esko JD, et al., editors. Essentials of Glycobiology [Internet]. 4th edition. Cold Spring Harbor (NY): Cold Spring Harbor Laboratory Press; 2022. Available from: https://www.ncbi.nlm.nih.gov/books/NBK579918/ doi: 10.1101/9781621824213
 
@@ -278,12 +282,12 @@ This part builds a master dictionary of glycan structure terms by:
 
 2. Run AI mapping for a source
    ```bash
-   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/02_ai_mapping_gsdv0.py
+   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/02a_ai_mapping_gsdv0.py
    ```
 
 3. Reconcile mapping decisions
    ```bash
-   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/02_match_gsdv0_ai_mapping_with_uuid.py
+   python src/gsd/part2_enrichment/1_ai-assisted_term_matching/02b_match_gsdv0_ai_mapping_with_uuid.py
    ```
 
    (Repeat analogous steps for pubdictionaries)
