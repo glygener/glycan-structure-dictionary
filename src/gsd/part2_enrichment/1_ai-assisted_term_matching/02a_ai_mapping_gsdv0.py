@@ -1,13 +1,21 @@
+import sqlite3
+if sqlite3.sqlite_version_info < (3, 35, 0):
+    __import__('pysqlite3')
+    import sys
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 # AI-assisted term matching for Glycan Structure Dictionary v0
 # Make sure to set up your .env file with OPENAI_API_KEY before running this script.
 # Make sure to have existing Chroma vector store in the specified persist_dir (run create_vectordb.py)
 from langchain_core.tools import tool
 from langchain_core.documents import Document
-from langchain_core.prompts import ChatPromptTemplate
 
 from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from langchain_chroma import Chroma
-from langchain.agents import AgentExecutor, create_tool_calling_agent
+
+import warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+from langgraph.prebuilt import create_react_agent
 
 from dotenv import load_dotenv
 from pathlib import Path
@@ -29,17 +37,17 @@ EMBEDDING_MODEL = "text-embedding-3-small"
 LARGE_LANGUAGE_MODEL = "gpt-4.1"
 LOG_FILE_NAME = "ai_mapping_demo.log"
 
-src_dir = Path(__file__).parents[2]
-input_file = src_dir / "data/raw/src_gsdv0/archive" / INPUT_FILE_NAME
-output_file = src_dir / "data/raw/src_gsdv0/archive" / OUTPUT_FILE_NAME
-log_file = src_dir / "data/raw/src_gsdv0" / LOG_FILE_NAME
-persist_dir = src_dir / "data/vector_store"
+root_dir = Path(__file__).parents[4]
+input_file = root_dir / "data/inputs/src_gsdv0/archive" / INPUT_FILE_NAME
+output_file = root_dir / "data/inputs/src_gsdv0/archive" / OUTPUT_FILE_NAME
+log_file = root_dir / "logs" / LOG_FILE_NAME
+persist_dir = root_dir / "data/vector_store"
 
 embeddings = OpenAIEmbeddings(model=EMBEDDING_MODEL)
 llm = ChatOpenAI(model=LARGE_LANGUAGE_MODEL, temperature=0)
 
 vector_store = Chroma(
-    persist_dir=persist_dir,
+    persist_directory=str(persist_dir),
     collection_name=COLLECTION_NAME,
     embedding_function=embeddings
 )
@@ -137,16 +145,7 @@ def map_to_existing_term(term_name: str, term_uuid: str) -> dict:
 
 tools = [add_new_term, map_to_existing_term]
 
-prompt = ChatPromptTemplate.from_messages(
-    [
-        ("system", MAPPING_PROMPT),
-        ("human", "{input}"),
-        ("placeholder", "{agent_scratchpad}"), # for internal thought process
-    ]
-)
-
-agent = create_tool_calling_agent(llm, tools, prompt)
-agent_executor = AgentExecutor(agent=agent, tools=tools, verbose=True)
+agent_executor = create_react_agent(llm, tools, prompt=MAPPING_PROMPT)
 
 with open(input_file, 'r', encoding='utf-8') as infile:
     for line in infile:
@@ -164,11 +163,11 @@ with open(input_file, 'r', encoding='utf-8') as infile:
         Analyze the candidate term against potential matches and decide whether to map it to an existing term or add it as a new term.
         """
 
-        response = agent_executor.invoke({"input": input_text}) # Move to LangGraph in next attempt       
+        response = agent_executor.invoke({"messages": [("human", input_text)]})      
         #print(f"Agent response: {response}")
         
         # Append to log file
         with open(log_file, 'a', encoding='utf-8') as log:
             log.write(f"Processing term: {term}\n")
-            log.write(json.dumps(response['output'], ensure_ascii=False) + "\n\n")
+            log.write(json.dumps(response['messages'][-1].content, ensure_ascii=False) + "\n\n")
         print(f"[System] Completed processing term: {term}\n")
