@@ -1,0 +1,25 @@
+# --- LangChain / LangGraph (core, pinned) ---
+langchain-core==1.2.18
+langchain-ollama==1.0.1
+langchain-text-splitters==1.1.1
+
+# --- LangChain integrations (resolve against the pinned langchain-core) ---
+langchain-chroma
+langchain-openai
+
+# --- Vector store + orchestration ---
+chromadb
+langgraph
+
+# --- Config, env, HTTP, models ---
+pyyaml
+python-dotenv
+pydantic
+requests
+
+# --- Optional: only needed when the system sqlite3 is < 3.35 ---
+#   (see the SQLite shim in src/gsd/adapters/chroma.py)
+# pysqlite3-binary
+
+# --- Optional: GLiNER NER (supplementary term-extraction stream only) ---
+# gliner

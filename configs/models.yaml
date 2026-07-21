@@ -1,0 +1,52 @@
+gliner:
+  ner_model: urchade/gliner_large-v2.1
+
+# Active provider. Switch to `ollama` to fall back to the local server.
+provider: openai
+
+openai:
+  resolution_model:
+    model: gpt-5.4
+    reasoning: low
+  extraction_model:
+    model: gpt-5.4
+    reasoning: low
+  merging_model:
+    model: gpt-5.4
+    reasoning: low
+  classifier_model:
+    model: gpt-5.4
+    reasoning: low
+  embedding_model:
+    model: text-embedding-3-small
+  default_params:
+    temperature: 0.0
+    top_p: 0.95
+
+ollama:
+  extraction_model:
+    model: gpt-oss:20b
+    reasoning: medium
+    num_predict: 15000
+    structured_output: true # MLX runner: grammar-constrained JSON schema not supported
+  merging_model:
+    model: gpt-oss:20b
+    reasoning: medium
+    num_predict: 15000
+    structured_output: true # MLX runner: grammar-constrained JSON schema not supported
+  resolution_model:
+    model: gpt-oss:20b
+    reasoning: medium
+    num_predict: 15000
+    structured_output: true # MLX runner: grammar-constrained JSON schema not supported
+  embedding_model:
+    model: mxbai-embed-large:335m
+  default_params:
+    model: gpt-oss:20b
+    num_predict: 15000
+    temperature: 0.5
+    top_p: 0.9
+    top_k: 20
+    repeat_penalty: 1.2
+    repeat_last_n: 15000
+    seed: 2026

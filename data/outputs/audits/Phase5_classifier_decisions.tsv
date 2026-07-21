@@ -1,0 +1,760 @@
+src_dir	line_idx	main_term	synonym	rel
+src_biooligo	32	Blood group H antigen triose type 5	Blood group H antigen triose type 5 (2'-Fucosyllactose)	ignore
+src_biooligo	37	Blood group H antigen tetraose type 4	Blood group H antigen tetraose type 4 (Globo H tetraose)	ignore
+src_biooligo	49	LN3 Type 2	LN3 Type 2 [I antigen]	ignore
+src_biooligo	53	N-Acetyl-D-Lactosamine	N-Acetyl-D-Lactosamine (LacNAc)	ignore
+src_biooligo	54	Core type 4	Core type 4 (Elicityl)	ignore
+src_biooligo	55	3'-sulpho Lewis A	3'-sulpho Lewis A [3S-Gal-3(Fuc)-GlcNAc]	ignore
+src_biooligo	81	Xeno lewis X	Xeno lewis X (Gal Lewis x)	ignore
+src_biooligo	86	Xeno antigen type 2	Xeno antigen type 2 (Galili antigen triose Gal a3 epitope)	ignore
+src_biooligo	88	Isoglobotetraose	Isoglobotetraose (iGB4 & Cytolipin R)	ignore
+src_biooligo	89	Isoglobotriose	Isoglobotriose (iGB3)	ignore
+src_biooligo	91	GA1	GA1 (aGM1)	ignore
+src_biooligo	92	GA2	GA2 (aGM2)	ignore
+src_biooligo	109	di-Lewis x	di-Lewis x b1-4 Lewis x [di-Lewis x]	ignore
+src_biooligo	116	Lewis X hexaose	Lewis X hexaose (also Lacto-N-neodifucohexaose, LeX-LeX)	ignore
+src_biooligo	118	Lewis X tetraose	Lewis X tetraose [Gal-(Fuc)-GlcNAc-Gal]	ignore
+src_biooligo	119	Lewis x triaose	Lewis x triaose [SSEA-1]	ignore
+src_biooligo	122	Lewis y tetraose	Lewis y tetraose [Blood group H type 2]	ignore
+src_biooligo	124	Slex-Lex	SLex-Lex (SDLeX)	ignore
+src_biooligo	127	Sialyl Lewis a tetroase	Sialyl Lewis a tetraose (SLea)	ignore
+src_biooligo	169	Sialylated LDN	Sialylated LDN [6-SLDN]	ignore
+src_biooligo	172	3' sulfo Lewis X	3' sulfo Lewis X [3S-Gal-(Fuc)-GlcNAc]	ignore
+src_biooligo	173	4' sulfo Lewis X	4' sulfo Lewis X [4S-Gal-(Fuc)-GlcNAc]	ignore
+src_biooligo	186	(Man)3	(Man)3 chitobiose	narrow
+src_biooligo	222	LS-tetrasaccharide a	LS-tetrasaccharide a (LSTa)	ignore
+src_biooligo	224	LS-hexasaccharide d	LS-hexasaccharide d (3'-SiaLN-LN-LN)	ignore
+src_biooligo	225	LS-tetrasaccharide d	LS-tetrasaccharide d (3'-SiaLN-LN-LN)	ignore
+src_biooligo	228	3-Sialyl-LN type 2	3-Sialyl-LN type 2 [Sialylated triose type 2, 3'-SLN]	ignore
+src_biooligo	232	3-Sialyl-LN type 2	3-Sialyl-LN type 2 [Sialylated triose type 2, 3'-SLN]	ignore
+src_cummings	0	Type 2 LN	N-acetyllactosamine	exact
+src_cummings	1	Type 2 LN2	i antigen	broad
+src_cummings	7	T antigen	T (also TF) antigen	ignore
+src_cummings	8	H antigen type 3	type 3	ignore
+src_cummings	8	H antigen type 3	H antigen	broad
+src_cummings	9	A antigen type 3	type 3	ignore
+src_cummings	9	A antigen type 3	A antigen	broad
+src_cummings	14	LacdiNAc	LDN	abbreviation
+src_cummings	15	Fucosylated LDN	LDNF	abbreviation
+src_cummings	16	Lewis x	Lex) (SSEA-1	ignore
+src_cummings	17	Lewis y	Ley	abbreviation
+src_cummings	18	Lewis a	Lea	abbreviation
+src_cummings	19	Lewis b	Leb	abbreviation
+src_cummings	20	Sialyl Lewis x	SLex	abbreviation
+src_cummings	22	Sialyl Lewis a	SLea) (CA19-9 antigen	ignore
+src_cummings	23	6'-Sulfo-sialyl Lewis x	6'-sulfo SLex	exact
+src_cummings	24	2,6-sialyl-Sulfo-LN	6-sialyl-6-sulfo LN	exact
+src_cummings	25	6-Sulfo-sialyl Lewis x	6-sulfo SLex	exact
+src_cummings	26	6,6'-bisSulfo-Lewis x	6	ignore
+src_cummings	26	6,6'-bisSulfo-Lewis x	6'-bissulfo Lex)	ignore
+src_cummings	27	3'-Sulfo-Lewis x	3'-sulfo Lex	exact
+src_cummings	28	3'-Sulfo-Lewis a	3'-Sulfo Lea	exact
+src_cummings	32	3-Sialyl-LN type 2	type 2	broad
+src_cummings	32	3-Sialyl-LN type 2	3-Sialyl-LN	broad
+src_cummings	33	Blood group H - type 2 chain	type 2	broad
+src_cummings	33	Blood group H - type 2 chain	Blood group H	broad
+src_cummings	34	Blood group B - type 2 chain	type 2	broad
+src_cummings	34	Blood group B - type 2 chain	Blood group B	broad
+src_cummings	35	Blood group A - type 2 chain	type 2	broad
+src_cummings	35	Blood group A - type 2 chain	Blood group A	broad
+src_cummings	36	Blood group A1 - type 3 chain	type 3	broad
+src_cummings	36	Blood group A1 - type 3 chain	Blood group A1	broad
+src_cummings	37	Blood group A2 - A-associated H type 3 chain	A-associated H type 3	exact
+src_cummings	37	Blood group A2 - A-associated H type 3 chain	Blood group A2	broad
+src_cummings	42	SLex on Core 2 O-glycan	SLex Core 2 O-glycan glycan	exact
+src_cummings	46	Lex on O-Mannose	O-Mannose Lex	exact
+src_cummings	56	Lactotriaosylceramide	Lc3	abbreviation
+src_cummings	57	Pk antigen	Gb3	related
+src_cummings	57	Pk antigen	globotriaosylceramide	related
+src_cummings	59	Globoside	P antigen) (Gb4	ignore
+src_cummings	67	fucosylated GL-6	globoH	exact
+src_cummings	67	fucosylated GL-6	GL-6 fucosylated	exact
+src_cummings	69	GL-7	SSEA-4	related
+src_cummings	69	GL-7	GL-7 globoseries ganglioside	exact
+src_cummings	86	cisGM1	GM1b	exact
+src_cummings	91	GD1	GD1c	narrow
+src_cummings	92	GD1alpha	GD1α	exact
+src_eog	0	β3-linked glucose	1-3-linked β-Glc	exact
+src_eog	1	1-4-linked α-L-guluronic acid	1-4-linked α-L-GulpA	exact
+src_eog	2	1-4-linked β-D-mannuronic acid	1-4-linked β-D-ManpA	exact
+src_eog	3	β6-linked galactose	1-6-linked β-Galp	exact
+src_eog	4	β6-linked glucose	1-6-linked β-Glc	exact
+src_eog	7	3-O-sulfated galactose	3-O-sulfated Gal	exact
+src_eog	12	6'-sulfo-sialyl Lewis x	sialyl-6'-sulfo-Lex	exact
+src_eog	12	6'-sulfo-sialyl Lewis x	Sialyl-6'-sulfo-Lewis x	exact
+src_eog	12	6'-sulfo-sialyl Lewis x	6'-sulfo-SLex	exact
+src_eog	13	9-O-acetylated sialic acid	9-O-acetylated Sia	exact
+src_eog	13	9-O-acetylated sialic acid	9-O-Ac-Sia	exact
+src_eog	13	9-O-acetylated sialic acid	9-O-acetylated-SA	exact
+src_eog	19	arthroseries glycosphingolipids	arthroseries glycolipids	broad
+src_eog	22	GA1	ganglioside GA1	exact
+src_eog	26	bisecting GlcNAc	bisecting N-acetylglucosamine	exact
+src_eog	26	bisecting GlcNAc	bisecting β1-4GlcNAc	exact
+src_eog	28	blood group A determinant	A blood group determinant	exact
+src_eog	30	blood group B determinant	B blood group determinant	exact
+src_eog	31	blood group H determinant	H blood group determinant	exact
+src_eog	32	blood group H type-1	type 1 blood group H core trisaccharide	exact
+src_eog	45	C-mannose	C-linked mannose	exact
+src_eog	50	complex-type N-glycan	complex N-glycan	exact
+src_eog	50	complex-type N-glycan	complex N-linked glycan	exact
+src_eog	51	sialylated complex-type N-glycan	complex sialylated N-glycan	exact
+src_eog	52	core 1 O-glycan	core 1	exact
+src_eog	52	core 1 O-glycan	core 1 O-GalNAc glycan	exact
+src_eog	53	core 2 O-glycan	core 2	exact
+src_eog	53	core 2 O-glycan	core 2 O-GalNAc glycan	exact
+src_eog	54	core 3 O-glycan	core 3	exact
+src_eog	54	core 3 O-glycan	core 3 O-GalNAc glycan	exact
+src_eog	55	core 4 O-glycan	core 4	exact
+src_eog	55	core 4 O-glycan	core 4 O-GalNAc glycan	exact
+src_eog	57	core M1 O-mannose glycan	core M1	exact
+src_eog	57	core M1 O-mannose glycan	M1	abbreviation
+src_eog	58	core M2 O-mannose glycan	core M2	exact
+src_eog	58	core M2 O-mannose glycan	M2	abbreviation
+src_eog	59	core M3 O-mannose glycan	core M3	exact
+src_eog	59	core M3 O-mannose glycan	M3	abbreviation
+src_eog	60	c-series gangliosides	c-series	exact
+src_eog	64	di-N-acetylbacillosamine	diNAcBac	abbreviation
+src_eog	65	disialyl Lewis a	disialyl-Lewis a	exact
+src_eog	78	galactosylceramide	galactoceramide	exact
+src_eog	78	galactosylceramide	GalCer	abbreviation
+src_eog	78	galactosylceramide	Gal-Cer	abbreviation
+src_eog	85	Galα1-3Glcα	Galα1-3Glcα1- disaccharide	exact
+src_eog	93	Gb4	globoside-4	exact
+src_eog	95	GD1a	ganglioside GD1a	exact
+src_eog	96	GD1b	ganglioside GD1b	exact
+src_eog	97	GD1	ganglioside GD1	exact
+src_eog	98	Gg4	ganglioside Gg4	exact
+src_eog	100	GlcA-GlcNAc repeating unit	GlcA-GlcNAc RUs	exact
+src_eog	111	Glcα1-phosphate-Man	Glcα1-PO4-Man	exact
+src_eog	113	globo-series glycospingolipids	globo-series	broad
+src_eog	114	glucan	glucose polymers	exact
+src_eog	116	glucosylceramide	glucoceramide	exact
+src_eog	116	glucosylceramide	GlcCer	abbreviation
+src_eog	116	glucosylceramide	Glc-Cer	abbreviation
+src_eog	121	glycoinositolphospholipids	GIPLs	abbreviation
+src_eog	123	glycosaminoglycans	GAGs	abbreviation
+src_eog	124	glycosphingolipids	GSLs	abbreviation
+src_eog	126	glycosyldiacylglycerolipid	glycosyldiacylglycerolipids	exact
+src_eog	127	glycosylinositolphosphorylceramide	glycosylinositolphosphorylceramides	exact
+src_eog	127	glycosylinositolphosphorylceramide	GIPCs	abbreviation
+src_eog	128	GM1b	ganglioside GM1b	exact
+src_eog	129	GM1	ganglioside GM1	exact
+src_eog	130	GM2	ganglioside GM2	exact
+src_eog	131	GM3	ganglioside GM3	exact
+src_eog	133	GQ1b	ganglioside GQ1b	exact
+src_eog	134	GT1b	ganglioside GT1b	exact
+src_eog	135	GT1c	ganglioside GT1c	exact
+src_eog	136	hemicellulose	Hemicellulosic polysaccharides	exact
+src_eog	138	heparan sulfate	HS	abbreviation
+src_eog	141	highly branched complex-type N-glycan	highly branched complex-type N-glycans	exact
+src_eog	142	high-mannose N-glycan	oligomannose N-glycan	exact
+src_eog	142	high-mannose N-glycan	high mannose	exact
+src_eog	142	high-mannose N-glycan	high-mannose-type N-glycan	exact
+src_eog	142	high-mannose N-glycan	oligomannose-type N-glycan	exact
+src_eog	142	high-mannose N-glycan	oligomannosyl N-glycan	exact
+src_eog	143	HNK-1	Human Natural Killer-1 carbohydrate	exact
+src_eog	146	hybrid N-glycan	hybrid-type N-glycan	exact
+src_eog	146	hybrid N-glycan	hybrid-type	exact
+src_eog	148	i antigen	linear poly-LacNAc	related
+src_eog	148	i antigen	linear type-2 chain	related
+src_eog	148	i antigen	linear poly-N-acetyllactosamine	related
+src_eog	149	keratan sulfate–related glycan antigens	KS–related antigens	exact
+src_eog	150	keratan sulfate	KS	abbreviation
+src_eog	151	LacdiNAc	LDN	abbreviation
+src_eog	152	LacNAc	N-acetyllactosamine	exact
+src_eog	152	LacNAc	LN	abbreviation
+src_eog	154	lactosylceramide	LacCer	abbreviation
+src_eog	157	Lewis antigens	Lewis-type structures	exact
+src_eog	157	Lewis antigens	Lewis type glycans	exact
+src_eog	157	Lewis antigens	Lewis blood group antigens	exact
+src_eog	158	Lewis a	Lea	abbreviation
+src_eog	159	Lewis b	Leb	abbreviation
+src_eog	160	Lewis x	Lex	abbreviation
+src_eog	162	lipo-chitooligosaccharide	lipochitooligosaccharide	exact
+src_eog	162	lipo-chitooligosaccharide	LCO	abbreviation
+src_eog	164	lipopeptidophosphoglycan	LPPG	abbreviation
+src_eog	165	lipophosphoglycan	LPG	abbreviation
+src_eog	166	lipopolysaccharide	LPS	abbreviation
+src_eog	167	lipoteichoic acid	LTA	abbreviation
+src_eog	168	M7BC	Man7GlcNAc2 isomer BC	exact
+src_eog	169	M8B	Man8GlcNAc2 isomer B	exact
+src_eog	176	Man9	Man9GlcNAc2	exact
+src_eog	179	mannosylated lipoarabinomannan	ManLAM	abbreviation
+src_eog	182	Manβ1-4Glc-ceramide	Manβ1-4Glc-Cer	exact
+src_eog	189	multiantennary complex-type N-glycan	multiantennary complex-type	exact
+src_eog	191	Neu5Acα2-3Gal	Neu5Acα2–3Gal-	exact
+src_eog	193	Neu5Gcα2-3Galβ1-4Glc	Neu5Gcα2–3Galβ1–4Glc	exact
+src_eog	195	keratan sulfate type I	N-linked KS	exact
+src_eog	195	keratan sulfate type I	corneal-type KS	exact
+src_eog	195	keratan sulfate type I	KS-I	abbreviation
+src_eog	196	N-glycans	asparagine–N-linked glycan	exact
+src_eog	196	N-glycans	N-linked	exact
+src_eog	196	N-glycans	N-linked oligosaccharide	exact
+src_eog	197	O-acetylated sialic acids	O-acetylated Sias	exact
+src_eog	197	O-acetylated sialic acids	O-Ac-SA	abbreviation
+src_eog	198	O-antigen	O-polysaccharides	exact
+src_eog	198	O-antigen	lipopolysaccharide O antigen	exact
+src_eog	198	O-antigen	LPS O antigen	exact
+src_eog	198	O-antigen	O-PS	abbreviation
+src_eog	200	O-GalNAc core structures	O-GalNAc cores	exact
+src_eog	203	O-glucose glycan	O-Glc glycan	exact
+src_eog	204	O-glycans	O-linked oligosaccharide	exact
+src_eog	207	oligomannose	oligomannosyl structure	exact
+src_eog	209	O-linked Glc-Gal disaccharide	O-Linked Glc-Gal	exact
+src_eog	211	keratan sulfate type II	skeletal-type KS	exact
+src_eog	211	keratan sulfate type II	KS-II	abbreviation
+src_eog	213	O-linked N-acetylglucosamine	O-linked GlcNAc	exact
+src_eog	213	O-linked N-acetylglucosamine	O-β-GlcNAc	exact
+src_eog	215	O-mannose glycan	O-Man glycan	exact
+src_eog	215	O-mannose glycan	O-mannose-based glycan	exact
+src_eog	215	O-mannose glycan	O-mannosyl glycan	exact
+src_eog	215	O-mannose glycan	O-mannose initiated glycans	exact
+src_eog	217	O-xylose-linked glycosaminoglycan	O-xylose-linked GAG chains	exact
+src_eog	218	P1 antigen	P1 determinant	exact
+src_eog	219	paucimannose N-glycan	paucimannosidic N-glycan	exact
+src_eog	229	poly-N-acetylglucosamine	poly-GlcNAc	exact
+src_eog	229	poly-N-acetylglucosamine	PNAG	abbreviation
+src_eog	230	poly-N-acetyllactosamine	poly-LacNAc	exact
+src_eog	230	poly-N-acetyllactosamine	poly-LN	exact
+src_eog	232	polysialic acid	polySia	abbreviation
+src_eog	232	polysialic acid	PSA	abbreviation
+src_eog	233	pseudomurein	pseudopeptidoglycan	exact
+src_eog	235	Rhamnogalacturonan-II	RG-II	abbreviation
+src_eog	236	Rhamnogalacturonan-I	RG-I	abbreviation
+src_eog	239	R-linked α-N-acetylglucosamine	arginine-linked α-GlcNAc	exact
+src_eog	240	Sda antigen	Sda	abbreviation
+src_eog	243	sialoglycan	Sia-containing glycan	exact
+src_eog	243	sialoglycan	sialic acid-containing glycan	exact
+src_eog	252	sialyl Lewis a	sialyl-Lea	exact
+src_eog	252	sialyl Lewis a	sLea	abbreviation
+src_eog	252	sialyl Lewis a	sLeA	abbreviation
+src_eog	253	CA19-9	carbohydrate antigen 19-9	exact
+src_eog	254	sialyl Lewis x	sialyl-Lex	exact
+src_eog	254	sialyl Lewis x	sLex	abbreviation
+src_eog	254	sialyl Lewis x	sLeX	abbreviation
+src_eog	255	sialyl-Tn antigen	sTn	abbreviation
+src_eog	256	sialyl-Tn	sialyl-Tn antigen	exact
+src_eog	256	sialyl-Tn	sTn antigen	abbreviation
+src_eog	259	S-linked glucose	S-linked Glcp	exact
+src_eog	260	SSEA-4	stage-specific embryonic antigen-4	exact
+src_eog	265	sulfated glycosaminoglycan	sulfated glycosaminoglycan chains	exact
+src_eog	265	sulfated glycosaminoglycan	sulfated GAG	abbreviation
+src_eog	267	sulfated O-GalNAc glycan	sulfated mucin-type glycan	exact
+src_eog	270	T antigen	Thomsen-Fridenreich antigen	exact
+src_eog	270	T antigen	TF antigen	abbreviation
+src_eog	271	teichoic acid	teichoic acid polymer	exact
+src_eog	272	terminal fucose	terminal Fuc residue	exact
+src_eog	273	terminal galactose	terminal Gal residue	exact
+src_eog	275	terminal mannose	terminal Man	exact
+src_eog	276	terminal N-acetylgalactosamine	terminal GalNAc residue	exact
+src_eog	277	terminal N-acetylglucosamine	terminal GlcNAc residue	exact
+src_eog	278	terminal sialic acid	Terminal Sia residue	exact
+src_eog	279	terminal α1-6 mannose	terminal α1–6Man	exact
+src_eog	281	terminal α-linked-galactose	terminal α-galactose residue	exact
+src_eog	286	Tn antigen	Thomsen-Nouveau antigen	exact
+src_eog	288	triantennary N-glycan	tri-antennary N-glycan	exact
+src_eog	289	tri-mannose / O-linked	tri-Man-Ser/Thr	exact
+src_eog	290	truncated core 1 O-glycan	truncated core 1 structure	exact
+src_eog	293	truncated O-glycan	incomplete O-glycan	exact
+src_eog	294	type-1 unit	type-1 chain repeating unit	exact
+src_eog	295	type-2 unit	type-2 chain repeating unit	exact
+src_eog	302	α(1-3)-linked N-acetylgalactosamine	α(1-3)GalNAc	exact
+src_eog	303	α(1-6)-linked glucose branch	periodic α1–6Glc branch	narrow
+src_eog	304	α2-3 sialic acid branch	α2-3Sia branch	exact
+src_eog	305	α2-3 sialyllactosamine	α2-3sialyllactosamines	exact
+src_eog	306	α-Gal epitope	αGal	abbreviation
+src_eog	312	β-(1,3)-glucan	β-1,3-glucan	exact
+src_eog	313	β-(1,4)-glucan	β-1,4-glucans	exact
+src_eog	316	β2-linked N-acetylglucosamine	β1-2GlcNAc	exact
+src_eog	317	β4-linked N-acetylgalactosamine	β1-4GalNAc	exact
+src_eog	318	β4-linked N-acetylglucosamine	β1-4GlcNAc	exact
+src_eog	319	β6-linked N-acetylglucosamine	β1-6GlcNAc	exact
+src_eog	322	β-linked galactose	β-linked Gal	exact
+src_glycoepitope	58	Beta Galactose	Bata Galactose	exact
+src_glycoepitope	125	Blood Group A Type 1 - difucosyl	Blood Group A Type 1 (difucosyl)	exact
+src_glycoepitope	126	Blood Group A Type 2 - difucosyl	Blood Group A Type 2 (difucosyl)	exact
+src_glycomotif_ccrc	0	LN	LN, N-acetyllactosamine	ignore
+src_glycomotif_ccrc	1	LN2	LN2, I antigen	ignore
+src_glycomotif_ccrc	6	T antigen	T or TF antigen	ignore
+src_glycomotif_ccrc	13	LacdiNAc	LDN,  LacdiNAc	ignore
+src_glycomotif_ccrc	32	6-Sialyl-GalNAc	6-Sialyl-GalNAc or 6-Sialyl LN	ignore
+src_glycomotif_ccrc	88	GT1a-alpha	GT1aa	exact
+src_glycomotif_ccrc	91	GQ1a-alpha	GQ1aa	exact
+src_glycomotif_ccrc	93	GQ1b-alpha	GQ1ba	exact
+src_glycomotif_ccrc	96	GP1c-alpha	GP1ca	exact
+src_glycomotif_ccrc	97	GH1c-alpha	GH1ca	exact
+src_glycomotif_gdv	2	Lewis b	Lewis b (Leb)	ignore
+src_glycomotif_gdv	3	Blood group A2 - A-associated H type 3 chain	Blood group A2 (A-associated H type 3)	exact
+src_glycomotif_gdv	6	GL-6 fucosylated	GL-6 fucosylated (globoH)	ignore
+src_glycomotif_gdv	9	Blood group H - type 1 chain	Blood group H (type 1)	exact
+src_glycomotif_gdv	10	Blood group H - Lewis Y-associated type 2 chain	Blood group H (type 2)  (Lewis Y)	exact
+src_glycomotif_gdv	11	Lewis b	Lewis b (Lewis b)	ignore
+src_glycomotif_gdv	12	Lewis y	Lewis y (Lewis Y)	ignore
+src_glycomotif_gdv	13	Blood group H - type 2 chain	Blood group H (type 2)	exact
+src_glycomotif_gdv	14	Blood group B - Lewis Y-associated type 1 chain	Blood group B (type 1)  (B-Lewis Y)	exact
+src_glycomotif_gdv	15	Blood group B - type 4 chain	Blood group B (type 4)	exact
+src_glycomotif_gdv	21	Pk antigen	Pk antigen (Gb3, globotriaosylceramide)	ignore
+src_glycomotif_gdv	25	T antigen	T (also TF)  antigen	ignore
+src_glycomotif_gdv	35	SSEA-1	Lewis x   (SSEA-1)	ignore
+src_glycomotif_gdv	40	Type 2 LN2	Type 2 LN2 (''I'' antigen)	ignore
+src_glycomotif_gdv	41	Type 2 LN	Type 2 LN (N-acetyllactosamine)	ignore
+src_glycomotif_gdv	42	3-Sulfo-Lewis a	3-Sulfo-Lewis a (3'-Sulfo Lewis a)	ignore
+src_glycomotif_gdv	43	3-Sulfo-Lewis x	3-Sulfo-Lewis x (3-sulfo LewisX)	ignore
+src_glycomotif_gdv	54	Blood group ! - Lewis Y-associated type 2 chain	Blood group A (type 2)  (A-Lewis Y)	exact
+src_glycomotif_gdv	60	Globoside	Globoside(P antigen)  (Gb4)	ignore
+src_glycomotif_gdv	62	Fucosylated LDN	Fucosylated LDN (LDNF)	ignore
+src_glycomotif_gdv	69	LacdiNAc	LacdiNAc (LDN)	ignore
+src_glycomotif_gdv	77	Lactotriaosylceramide	Glucosylceramide	related
+src_glycomotif_gdv	78	Lactotriaosylceramide	Lactotriaosylceramide (LC3)	ignore
+src_glycomotif_gdv	80	6,6'-bissulfo Lewis x	6,6-bisSulfo-Lewis x (6,6'-bissulfo Lewis x )	ignore
+src_glycomotif_gdv	81	6-Sulfo-sialyl Lewis x	6-Sulfo-sialyl Lewis x (6-sulfo SLewis x)	ignore
+src_glycomotif_gdv	84	GQ1b-alpha	GQ1ba	exact
+src_glycomotif_gdv	87	GT1a-alpha	GT1aa	exact
+src_glycomotif_gdv	91	GL-7 globoseries ganglioside	GL-7 globoseries ganglioside (SSEA-4)	ignore
+src_glycomotif_gdv	94	cisGM1	cisGM1 (GM1b)	ignore
+src_glycomotif_gdv	96	6-Sulfo-sialyl Lewis x	6-Sulfo-sialyl Lewis x (6-sulfo SLex)	ignore
+src_glycomotif_gdv	97	Sialyl Lewis x	Sialyl Lewis x (SLex)	ignore
+src_glycomotif_gdv	104	3-Sialyl-LN type 2	3-Sialyl-LN (type 2)	exact
+src_glycomotif_gdv	107	6-sialyl-6-sulfo LN	2,6-sialyl-Sulfo-LN (6-sialyl-6-sulfo LN)	ignore
+src_glycomotif_gdv	111	6-Sialyl-GalNAc	6-Sialyl-GalNAc or 6-Sialyl LN (type 1 or 2)	ignore
+src_glycomotif_gdv	112	GQ1a-alpha	GQ1aa	exact
+src_glycomotif_gdv	113	GH1c-alpha	GH1ca	exact
+src_glycomotif_gdv	116	GD1	GD1 (GD1c)	ignore
+src_glycomotif_ggm	0	Type 2 LN	N-acetyllactosamine type 2	exact
+src_glycomotif_ggm	1	Type 2 LN2	i antigen	broad
+src_glycomotif_ggm	7	T antigen	TF antigen	exact
+src_glycomotif_ggm	13	a-Gal antigen	alpha-Gal antigen	exact
+src_glycomotif_ggm	14	LacdiNAc	LDN	abbreviation
+src_glycomotif_ggm	15	Fucosylated LDN	LDNF	abbreviation
+src_glycomotif_ggm	16	Lewis x	Lex	abbreviation
+src_glycomotif_ggm	16	Lewis x	SSEA-1	related
+src_glycomotif_ggm	16	Lewis x	Le^x	exact
+src_glycomotif_ggm	17	Lewis y	Ley	abbreviation
+src_glycomotif_ggm	17	Lewis y	Le^y	exact
+src_glycomotif_ggm	18	Lewis a	Lea	abbreviation
+src_glycomotif_ggm	18	Lewis a	Le^a	exact
+src_glycomotif_ggm	19	Lewis b	Leb	abbreviation
+src_glycomotif_ggm	19	Lewis b	Le^b	exact
+src_glycomotif_ggm	20	Sialyl Lewis x	Slex	abbreviation
+src_glycomotif_ggm	20	Sialyl Lewis x	SLex	abbreviation
+src_glycomotif_ggm	20	Sialyl Lewis x	SLe^x	abbreviation
+src_glycomotif_ggm	21	Sialyl Lewis a	Slea	abbreviation
+src_glycomotif_ggm	21	Sialyl Lewis a	CA19-9 antigen	related
+src_glycomotif_ggm	21	Sialyl Lewis a	SLea	abbreviation
+src_glycomotif_ggm	21	Sialyl Lewis a	SLe^a	abbreviation
+src_glycomotif_ggm	22	6'-Sulfo-sialyl Lewis x	6'-Sulfo Sialyl Lewis x	exact
+src_glycomotif_ggm	22	6'-Sulfo-sialyl Lewis x	6'-sulfo SLex	abbreviation
+src_glycomotif_ggm	22	6'-Sulfo-sialyl Lewis x	6'-sulfo SLe^x	abbreviation
+src_glycomotif_ggm	23	2,6-sialyl-Sulfo-LN	6-sialyl-6-sulfo LN	exact
+src_glycomotif_ggm	24	6-Sulfo-sialyl Lewis x	6-Sulfo Sialyl Lewis x	exact
+src_glycomotif_ggm	24	6-Sulfo-sialyl Lewis x	6-sulfo SLex	abbreviation
+src_glycomotif_ggm	24	6-Sulfo-sialyl Lewis x	6-sulfo SLe^x	abbreviation
+src_glycomotif_ggm	25	6,6'-bisSulfo-Lewis x	6,6'-bissulfo Lex	abbreviation
+src_glycomotif_ggm	25	6,6'-bisSulfo-Lewis x	6,6'-Disulfo Sialyl Lewis x	related
+src_glycomotif_ggm	25	6,6'-bisSulfo-Lewis x	6,6'-bissulfo Le^x	abbreviation
+src_glycomotif_ggm	26	3'-Sulfo-Lewis x	3'-Sulfo Lewis x	exact
+src_glycomotif_ggm	26	3'-Sulfo-Lewis x	3'-sulfo Lex	abbreviation
+src_glycomotif_ggm	26	3'-Sulfo-Lewis x	3'-sulfo Le^x	abbreviation
+src_glycomotif_ggm	27	3'-Sulfo-Lewis a	3'-Sulfo Lewis a	exact
+src_glycomotif_ggm	27	3'-Sulfo-Lewis a	3'-Sulfo Lea	abbreviation
+src_glycomotif_ggm	27	3'-Sulfo-Lewis a	3'-Sulfo Le^a	abbreviation
+src_glycomotif_ggm	28	Lex-Lex	Le^x-Le^x	exact
+src_glycomotif_ggm	29	SDLex	SDLe^x	exact
+src_glycomotif_ggm	32	6-Sialyl-GalNAc	6-Sialyl LN (type 1)	related
+src_glycomotif_ggm	32	6-Sialyl-GalNAc	6-Sialyl LN (type 2)	related
+src_glycomotif_ggm	36	Blood group A (type 2) - Lewis y	A-Ley	abbreviation
+src_glycomotif_ggm	36	Blood group A (type 2) - Lewis y	A-Le^y	abbreviation
+src_glycomotif_ggm	42	Blood group H (type 2) - Lewis y	H-Ley	abbreviation
+src_glycomotif_ggm	42	Blood group H (type 2) - Lewis y	H-Le^y	abbreviation
+src_glycomotif_ggm	43	Blood group B (type 1) - Lewis b	B-Leb	abbreviation
+src_glycomotif_ggm	43	Blood group B (type 1) - Lewis b	B-Le^b	abbreviation
+src_glycomotif_ggm	44	Blood group A (type 1) - Lewis b	A-Leb	abbreviation
+src_glycomotif_ggm	44	Blood group A (type 1) - Lewis b	A-Le^b	abbreviation
+src_glycomotif_ggm	47	Sda/CT antigen	Sd^a/CT antigen	exact
+src_glycomotif_ggm	48	SLex Core 2 O-glycan	SLe^x Core 2 O-glycan	exact
+src_glycomotif_ggm	49	Diphosphorylated Man6	Diphosphorylated Man_6	exact
+src_glycomotif_ggm	52	O-Mannose Lex	O-Mannose Le^x	exact
+src_glycomotif_ggm	62	Lactotriaosylceramide	Lc3	abbreviation
+src_glycomotif_ggm	62	Lactotriaosylceramide	Lc_3	abbreviation
+src_glycomotif_ggm	63	Pk antigen	P^k antigen	exact
+src_glycomotif_ggm	63	Pk antigen	Gb3	related
+src_glycomotif_ggm	63	Pk antigen	Gb_3	related
+src_glycomotif_ggm	63	Pk antigen	globotriaosylceramide	related
+src_glycomotif_ggm	65	Has related synonym P antigen. Has related synonym Cytolipin K. Has narrow synonym Globoside I. Has related synonym Globotetraosylceramide.	P antigen	ignore
+src_glycomotif_ggm	65	Has related synonym P antigen. Has related synonym Cytolipin K. Has narrow synonym Globoside I. Has related synonym Globotetraosylceramide.	Gb4	ignore
+src_glycomotif_ggm	65	Has related synonym P antigen. Has related synonym Cytolipin K. Has narrow synonym Globoside I. Has related synonym Globotetraosylceramide.	Cytolipin K	ignore
+src_glycomotif_ggm	65	Has related synonym P antigen. Has related synonym Cytolipin K. Has narrow synonym Globoside I. Has related synonym Globotetraosylceramide.	Globoside I	ignore
+src_glycomotif_ggm	65	Has related synonym P antigen. Has related synonym Cytolipin K. Has narrow synonym Globoside I. Has related synonym Globotetraosylceramide.	Globotetraosylceramide	ignore
+src_glycomotif_ggm	65	Has related synonym P antigen. Has related synonym Cytolipin K. Has narrow synonym Globoside I. Has related synonym Globotetraosylceramide.	Globoside	ignore
+src_glycomotif_ggm	69	Sulfo-isogloboside	Mono-sulfated isoglobotetraosylceramide	related
+src_glycomotif_ggm	71	Gb5	Globopentaosylceramide	abbreviation
+src_glycomotif_ggm	73	GL-6 fucosylated	globoH	exact
+src_glycomotif_ggm	75	GL-7 globoseries ganglioside	SSEA-4	related
+src_glycomotif_ggm	79	Forssman glycolipid	Globopentosylceramide	exact
+src_glycomotif_ggm	79	Forssman glycolipid	Forssman antigen	exact
+src_glycomotif_ggm	94	Asialo-GM1	Gangliotetraosylceramide	related
+src_glycomotif_ggm	95	cisGM1	GM1b	exact
+src_glycomotif_ggm	100	GD1c	GD1	broad
+src_glycomotif_ggm	101	GD1a	GD1alpha	related
+src_glycomotif_ggm	105	GT1a-alpha	GT1aalpha	exact
+src_glycomotif_ggm	105	GT1a-alpha	GT1aa	exact
+src_glycomotif_ggm	108	GQ1a-alpha	GQ1aalpha	exact
+src_glycomotif_ggm	108	GQ1a-alpha	GQ1aa	exact
+src_glycomotif_ggm	110	GQ1b-alpha	GQ1balpha	exact
+src_glycomotif_ggm	110	GQ1b-alpha	GQ1ba	exact
+src_glycomotif_ggm	113	GP1c-alpha	GP1calpha	exact
+src_glycomotif_ggm	113	GP1c-alpha	GP1ca	abbreviation
+src_glycomotif_ggm	114	GH1c-alpha	GH1calpha	exact
+src_glycomotif_ggm	114	GH1c-alpha	GH1ca	abbreviation
+src_glycomotif_ggm	115	Mono-fucosyl LN5	Mono-fucosyl LN_5	exact
+src_glycomotif_ggm	116	Mono-fucosyl LN3	Mono-fucosyl LN_3	exact
+src_glycomotif_ggm	119	N-Glycan core	N-Glycan core basic	narrow
+src_glycomotif_ggm	131	O-Fucose Core EGF Type	O-Fucose Core 1	exact
+src_glycomotif_ggm	131	O-Fucose Core EGF Type	O-Fucose Core Thrombospondin Type 1	related
+src_glycomotif_ggm	131	O-Fucose Core EGF Type	O-Fucose Core 2	related
+src_glycomotif_ggm	131	O-Fucose Core EGF Type	O-Fucose	broad
+src_glycomotif_ggm	137	Human milk oligosaccharide core	Milk Sugar Core	exact
+src_glycomotif_ggm	137	Human milk oligosaccharide core	Human milk oligosaccharide	broad
+src_glycomotif_ggm	142	O-GalNAc Core	O-Glycan O-GalNAc Core	exact
+src_glycomotif_ggm	143	O-Fucose Core	O-Glycan O-Fucose Core	exact
+src_glycomotif_ggm	144	O-Mannose Core	O-Glycan O-Mannose Core	exact
+src_glycomotif_ggm	158	Has broad synonym GAG Core.	GAG Core 1a	ignore
+src_glycomotif_ggm	159	Has broad synonym GAG Core.	GAG Core 1b	ignore
+src_glycomotif_ggm	160	Has broad synonym GAG Core.	GAG Core 2a	ignore
+src_glycomotif_ggm	161	Has broad synonym GAG Core.	GAG Core 2b	ignore
+src_glycomotif_ggm	162	Has broad synonym GAG Core.	GAG Core 3a	ignore
+src_glycomotif_ggm	163	Has broad synonym GAG Core.	GAG Core 3b	ignore
+src_glycomotif_ggm	164	Has broad synonym GAG Core.	GAG Core 4a	ignore
+src_glycomotif_ggm	165	Has broad synonym GAG Core.	GAG Core 4b	ignore
+src_glycomotif_ggm	166	Has broad synonym GAG Core.	GAG Core 5a	ignore
+src_glycomotif_ggm	167	Has broad synonym GAG Core.	GAG Core 5b	ignore
+src_glycomotif_ggm	168	Has broad synonym GAG Core.	GAG Core 6a	ignore
+src_glycomotif_ggm	169	Has broad synonym GAG Core.	GAG Core 6b	ignore
+src_glycomotif_ggm	170	Has broad synonym GAG Core.	GAG Core 7a	ignore
+src_glycomotif_ggm	171	Has broad synonym GAG Core.	GAG Core 7b	ignore
+src_gsdv1	0	α2-6-sialylated 6-sulfo-LacNAc	6-sialyl-6-sulfo LN	exact
+src_gsdv1	4	3'-sulfo Lewis a	3'-Sulfo-Lea	exact
+src_gsdv1	4	3'-sulfo Lewis a	3'-sulpho-Le(a)	exact
+src_gsdv1	4	3'-sulfo Lewis a	3-O-sulfo-Le(A)	exact
+src_gsdv1	4	3'-sulfo Lewis a	3'-Sulfo Le^a	exact
+src_gsdv1	4	3'-sulfo Lewis a	3'-Sulfo Lea	exact
+src_gsdv1	4	3'-sulfo Lewis a	3'-Sulfo Lewis a	exact
+src_gsdv1	4	3'-sulfo Lewis a	SuLe(a)	abbreviation
+src_gsdv1	5	3'-sulfo Lewis X	3'-sulfo-Le(x)	exact
+src_gsdv1	5	3'-sulfo Lewis X	3'-Sulfo Lewis x	exact
+src_gsdv1	5	3'-sulfo Lewis X	3'-sulfo Le^x	exact
+src_gsdv1	5	3'-sulfo Lewis X	3'-sulfo Lex	exact
+src_gsdv1	6	6,6'-dissulfo sialyl Lewis X	6,6'-bissulfo sialyl Lewis X	exact
+src_gsdv1	6	6,6'-dissulfo sialyl Lewis X	6,6'-disulfo sLex	exact
+src_gsdv1	8	9-O-acetyl GD3	9-O-Acetylated GD3	exact
+src_gsdv1	8	9-O-acetyl GD3	9-O-Acetyl-GD3	exact
+src_gsdv1	8	9-O-acetyl GD3	9-O-Ac-GD3	exact
+src_gsdv1	8	9-O-acetyl GD3	acGD3	abbreviation
+src_gsdv1	10	alpha-gal antigen	a-Gal antigen	exact
+src_gsdv1	11	alpha-galactosylceramide	alpha-GalCer	abbreviation
+src_gsdv1	11	alpha-galactosylceramide	α-GalCer	abbreviation
+src_gsdv1	12	asialylated biantennary N-glycan	asialo diantennary	exact
+src_gsdv1	13	asialo-GM1	as-GM1	abbreviation
+src_gsdv1	15	biantennary N-glycan	diantennary	exact
+src_gsdv1	16	biantennary complex-type N-glycan	diantennary complex type	exact
+src_gsdv1	18	blood group A type 1	A type 1	exact
+src_gsdv1	18	blood group A type 1	Blood group A(1)	exact
+src_gsdv1	18	blood group A type 1	blood group A antigen type 1	exact
+src_gsdv1	19	blood group A type 2	A type 2	exact
+src_gsdv1	19	blood group A type 2	Blood group A type 2 chain	exact
+src_gsdv1	20	blood group A type 3	A type 3 antigen	exact
+src_gsdv1	21	blood group A type 4	A type 4	exact
+src_gsdv1	22	blood group B type 1	B type 1	exact
+src_gsdv1	23	blood group B type 2	B type 2	exact
+src_gsdv1	24	blood group B type 4	B type 4	exact
+src_gsdv1	25	blood group H type 1	H type 1	exact
+src_gsdv1	26	blood group H type 2	H type 2	exact
+src_gsdv1	26	blood group H type 2	H type 2 chain	exact
+src_gsdv1	26	blood group H type 2	H type 2 antigen	exact
+src_gsdv1	26	blood group H type 2	type 2 chain H	exact
+src_gsdv1	26	blood group H type 2	blood group H type II	exact
+src_gsdv1	27	blood group H type 3	H type 3	exact
+src_gsdv1	27	blood group H type 3	H antigen (type 3)	exact
+src_gsdv1	27	blood group H type 3	Type 3 chain H	exact
+src_gsdv1	28	blood group H type 4	H type 4	exact
+src_gsdv1	29	chondroitin sulfate	chondroitin sulfuric acid	exact
+src_gsdv1	29	chondroitin sulfate	chondroitin sulphate	exact
+src_gsdv1	30	chondroitin sulfate/dermatan sulfate	chondroitin/dermatan sulfate	exact
+src_gsdv1	30	chondroitin sulfate/dermatan sulfate	CS/DS	abbreviation
+src_gsdv1	32	core 1 O-glycan	C1G	abbreviation
+src_gsdv1	36	core-fucose	Core Fuc	abbreviation
+src_gsdv1	37	core-fucosylated biantennary N-glycan	core-fucosylated diantennary	exact
+src_gsdv1	38	core-fucosylated biantennary complex-type N-glycan	core fucosylated diantennary complex-type	exact
+src_gsdv1	40	dermatan sulfate	beta-Heparin	exact
+src_gsdv1	43	dimeric Lewis x	dimeric Le(x)	exact
+src_gsdv1	43	dimeric Lewis x	Lex-Lex	exact
+src_gsdv1	43	dimeric Lewis x	Lewisx-Lewisx	exact
+src_gsdv1	43	dimeric Lewis x	DimLex^x	abbreviation
+src_gsdv1	43	dimeric Lewis x	diLe(x)	abbreviation
+src_gsdv1	44	diphosphorylated Man6	Diphosphorylated Man_6	exact
+src_gsdv1	45	disialosyl globopentaosylceramide	Disialosyl Gb5	exact
+src_gsdv1	45	disialosyl globopentaosylceramide	DSGb5	abbreviation
+src_gsdv1	46	disialyl Lewis a	disialyl Lea	exact
+src_gsdv1	47	disialyl T antigen	di-sialyl T antigen	exact
+src_gsdv1	47	disialyl T antigen	disialyl-T antigen	exact
+src_gsdv1	47	disialyl T antigen	disialylated T-antigen	exact
+src_gsdv1	51	fucosylated asialo-biantennary N-glycan	fucosylated asialo-diantennary	exact
+src_gsdv1	53	fucosylated disialylated biantennary N-glycan	fucosylated disialo-biantennary	exact
+src_gsdv1	54	fucosylated lacdiNAc	Fucosylated lacdiNAc	exact
+src_gsdv1	54	fucosylated lacdiNAc	LDNF	abbreviation
+src_gsdv1	54	fucosylated lacdiNAc	LDN-F	abbreviation
+src_gsdv1	58	galactosylceramide	Galactocerebroside	exact
+src_gsdv1	58	galactosylceramide	GalCer	abbreviation
+src_gsdv1	59	globopentaosylceramide	Gb5	abbreviation
+src_gsdv1	61	GD1a	GD1alpha	exact
+src_gsdv1	66	globotetraosylceramide	Gb4Cer	abbreviation
+src_gsdv1	66	globotetraosylceramide	Gb4	abbreviation
+src_gsdv1	69	P antigen	GLOB P antigen	exact
+src_gsdv1	71	globotriaosylceramide	ceramide trihexoside	broad
+src_gsdv1	71	globotriaosylceramide	Trihexosylceramide	broad
+src_gsdv1	71	globotriaosylceramide	Gb3	abbreviation
+src_gsdv1	71	globotriaosylceramide	GL3	abbreviation
+src_gsdv1	71	globotriaosylceramide	Gb(3)	abbreviation
+src_gsdv1	71	globotriaosylceramide	Gb_3	abbreviation
+src_gsdv1	71	globotriaosylceramide	CTH	abbreviation
+src_gsdv1	72	glucosylceramide	Glucocerebroside	exact
+src_gsdv1	72	glucosylceramide	GlcCer	abbreviation
+src_gsdv1	73	GM1	GM1 ganglioside	exact
+src_gsdv1	73	GM1	GM1-ganglioside	exact
+src_gsdv1	85	heparan sulfate	Heparan sulphate	exact
+src_gsdv1	85	heparan sulfate	Heparatan sulfate	exact
+src_gsdv1	85	heparan sulfate	Heparitin sulfate	exact
+src_gsdv1	88	HNK-1	HNK-1 carbohydrate epitope	exact
+src_gsdv1	88	HNK-1	HNK-1 antigen	exact
+src_gsdv1	90	hyaluronan	HA	abbreviation
+src_gsdv1	94	keratan sulfate	Kerato sulphate	exact
+src_gsdv1	94	keratan sulfate	Kerato sulfate	exact
+src_gsdv1	94	keratan sulfate	Keratan sulphate	exact
+src_gsdv1	95	LacdiNac	LDN	abbreviation
+src_gsdv1	96	lactosylceramide	LacCer	abbreviation
+src_gsdv1	96	lactosylceramide	Lc2	abbreviation
+src_gsdv1	97	lactotriaosylceramide	Lc3	abbreviation
+src_gsdv1	97	lactotriaosylceramide	Lc(3)Cer	abbreviation
+src_gsdv1	97	lactotriaosylceramide	Lc_3	abbreviation
+src_gsdv1	99	Lewis a	Le(a)	exact
+src_gsdv1	99	Lewis a	Le^a	exact
+src_gsdv1	99	Lewis a	Lea	exact
+src_gsdv1	100	Lewis b	Le(b)	exact
+src_gsdv1	100	Lewis b	Lewis(b)	exact
+src_gsdv1	100	Lewis b	Le^b	exact
+src_gsdv1	101	Lewis x	Lewis x trisaccharide	narrow
+src_gsdv1	101	Lewis x	Le(X)	exact
+src_gsdv1	101	Lewis x	Le^x	exact
+src_gsdv1	101	Lewis x	Lex	exact
+src_gsdv1	102	Lewis y	Le(y)	exact
+src_gsdv1	102	Lewis y	Le^y	exact
+src_gsdv1	102	Lewis y	LeY	exact
+src_gsdv1	102	Lewis y	Ley	exact
+src_gsdv1	104	monosialylated biantennary N-glycan	monosialyl biantennary	exact
+src_gsdv1	109	N-acetyllactosamine (type 1)	LacNAc type 1	exact
+src_gsdv1	109	N-acetyllactosamine (type 1)	Type 1 LN	exact
+src_gsdv1	109	N-acetyllactosamine (type 1)	Type-1 lactosamine	exact
+src_gsdv1	110	N-acetyllactosamine (type 2)	Type 2 LN	exact
+src_gsdv1	120	O-mannose glycan	O-mannosyl glycan	exact
+src_gsdv1	125	polysialic acid	polySia	abbreviation
+src_gsdv1	125	polysialic acid	PSA	abbreviation
+src_gsdv1	129	sialyl Lewis a	SLea	abbreviation
+src_gsdv1	129	sialyl Lewis a	SLe^a	abbreviation
+src_gsdv1	129	sialyl Lewis a	Slea	abbreviation
+src_gsdv1	130	sialyl Lewis x	SLe(x)	abbreviation
+src_gsdv1	130	sialyl Lewis x	SLe^x	abbreviation
+src_gsdv1	130	sialyl Lewis x	SLex	abbreviation
+src_gsdv1	130	sialyl Lewis x	Slex	abbreviation
+src_gsdv1	132	sialylated biantennary N-glycan	sialyl biantennary	exact
+src_gsdv1	133	sialylated complex-type N-glycan	sialo-complex type	exact
+src_gsdv1	134	sialylated LacdiNAc	sialylated-LacdiNAc	exact
+src_gsdv1	137	SSEA-1	stage-specific embryonic antigen-1	exact
+src_gsdv1	138	SSEA-3	stage-specific embryonic antigen-3	exact
+src_gsdv1	139	SSEA-4	stage-specific embryonic antigen-4	exact
+src_gsdv1	142	T antigen	TF antigen	exact
+src_gsdv1	146	triantennary complex-type N-glycan	Triantennary complex-type	exact
+src_gsdv1	149	trifucosyl Lewis b	trifucosyl-Leb antigen	exact
+src_gsdv1	150	trifucosyl lewis y	trifucosyl Ley	exact
+src_gsdv1	159	6-sulfo sialyl Lewis X	6-sulfo SLex	abbreviation
+src_gsdv1	159	6-sulfo sialyl Lewis X	6-sulfo SLe^x	abbreviation
+src_gsdv1	160	6'-Sulfo sialyl Lewis X	6'-sulfated sialyl Lewis x-	exact
+src_gsdv1	160	6'-Sulfo sialyl Lewis X	6'-sulfo-sLe(x)	abbreviation
+src_gsdv1	160	6'-Sulfo sialyl Lewis X	6'-Sulfo-sialyl Lewis x	exact
+src_gsdv1	160	6'-Sulfo sialyl Lewis X	Su-SaiLex	abbreviation
+src_gsdv1	160	6'-Sulfo sialyl Lewis X	Su-Slex	abbreviation
+src_gsdv1	163	Sda antigen	Sd(A)	abbreviation
+src_gsdv1	165	GT1a alpha	GT1aa	exact
+src_gsdv1	166	disialyl I antigen	disialyl I	exact
+src_gsdv1	167	2,6-branched O-mannose	2,6-branched O-mannosyl glycan	exact
+src_gsdv1	171	cisGM1	GM1b	exact
+src_pubdict-glycan-motif	15	3'-Sulfo-Lewis a	3'-Sulfo-Lewis a (3'-Sulfo Lea)	ignore
+src_pubdict-glycan-motif	34	6-Sialyl-GalNAc	6-Sialyl-GalNAc or 6-Sialyl LN	ignore
+src_pubdict-glycan-motif	126	cisGM1	cisGM1 (GM1b)	ignore
+src_pubdict-glycan-motif	161	Fucosylated LDN	Fucosylated LDN (LDNF)	ignore
+src_pubdict-glycan-motif	200	GL-7 globoseries ganglioside	GL-7 globoseries ganglioside (SSEA-4)	ignore
+src_pubdict-glycan-motif	277	Lactotriaosylceramide	Lactotriaosylceramide (Lc3)	ignore
+src_pubdictionaries-glycan-image	0	asialo-GM1	aGM1	abbreviation
+src_pubdictionaries-glycan-image	1	asialo-GM2	aGM2	abbreviation
+src_pubdictionaries-glycan-image	2	asialo-GM3	aGM3	abbreviation
+src_pubdictionaries-glycan-image	5	chondroitin-4-sulfate	4-sulfated chondroitin sulfate	exact
+src_pubdictionaries-glycan-image	6	chondroitin-6-sulfate	6-sulfated chondroitin sulfate	exact
+src_pubdictionaries-glycan-image	56	LacNAc	LN	abbreviation
+src_pubdictionaries-glycan-image	107	nLc6	neolacto-hexaosylceramide	exact
+src_pubdictionaries-glycan-image	190	mixed-linkage beta glucan	1-3/1-4 beta glucan	exact
+src_sugarbind	0	Galactosylceramide	LC	abbreviation
+src_sugarbind	0	Galactosylceramide	GalCer	abbreviation
+src_sugarbind	1	Gangliotetraosylceramide	Asialo-GM1	related
+src_sugarbind	1	Gangliotetraosylceramide	GgO4	abbreviation
+src_sugarbind	1	Gangliotetraosylceramide	Gg4	abbreviation
+src_sugarbind	1	Gangliotetraosylceramide	GA1	related
+src_sugarbind	1	Gangliotetraosylceramide	Asialo-GM1a	related
+src_sugarbind	2	Lactosylceramide	CDH	abbreviation
+src_sugarbind	2	Lactosylceramide	LacCer	abbreviation
+src_sugarbind	2	Lactosylceramide	Lc2	abbreviation
+src_sugarbind	3	Gangliotriaosylceramide	Gg3	abbreviation
+src_sugarbind	3	Gangliotriaosylceramide	Asialo-GM2	related
+src_sugarbind	3	Gangliotriaosylceramide	GA2	related
+src_sugarbind	3	Gangliotriaosylceramide	Asialo-GM2a	related
+src_sugarbind	4	Glucosylceramide	Ceramide monohexoside	broad
+src_sugarbind	4	Glucosylceramide	GlcCer	abbreviation
+src_sugarbind	4	Glucosylceramide	CMH	broad
+src_sugarbind	5	Galactose	Gal	abbreviation
+src_sugarbind	6	N-acetyl-D-galactosamine	GalNAc	abbreviation
+src_sugarbind	7	Isoglobotriaosylceramide	Isoglobotri	related
+src_sugarbind	7	Isoglobotriaosylceramide	IGb3	abbreviation
+src_sugarbind	8	Gal	b1-3) globoside (SSEA-3	ignore
+src_sugarbind	8	Gal	Stage-specific embryonic antigen-3	ignore
+src_sugarbind	9	Monosialogangliotetraosylceramide	Monosialoganglioside	broad
+src_sugarbind	9	Monosialogangliotetraosylceramide	NeuAc-GM1	related
+src_sugarbind	9	Monosialogangliotetraosylceramide	GM1a	narrow
+src_sugarbind	9	Monosialogangliotetraosylceramide	GM1	abbreviation
+src_sugarbind	10	Disialogangliotetraosylceramide	NeuAc-GD1b	narrow
+src_sugarbind	10	Disialogangliotetraosylceramide	Disialoganglioside	broad
+src_sugarbind	10	Disialogangliotetraosylceramide	GD1b	narrow
+src_sugarbind	11	Neolactotetraosylceramide	NLc4	abbreviation
+src_sugarbind	11	Neolactotetraosylceramide	Paragloboside	related
+src_sugarbind	12	Globotetraosylceramide	Globoside	related
+src_sugarbind	12	Globotetraosylceramide	Gb4	abbreviation
+src_sugarbind	13	Lactotriaosylceramide	Lc3	abbreviation
+src_sugarbind	14	Disialogangliotetraosylceramide	GD1a	abbreviation
+src_sugarbind	15	Leukosialin	SPN	abbreviation
+src_sugarbind	15	Leukosialin	Sialophorin	exact
+src_sugarbind	15	Leukosialin	CD43	exact
+src_sugarbind	16	Leukocyte common antigen	LCA	abbreviation
+src_sugarbind	16	Leukocyte common antigen	CD45	exact
+src_sugarbind	17	Lactotetraosylceramide	Lc4	abbreviation
+src_sugarbind	18	Globotriaosylceramide	CTH	abbreviation
+src_sugarbind	18	Globotriaosylceramide	Gb3	abbreviation
+src_sugarbind	18	Globotriaosylceramide	Trihexosylceramide	broad
+src_sugarbind	19	Trisialogangliotetraosylceramide	NeuAc-GT1b	narrow
+src_sugarbind	19	Trisialogangliotetraosylceramide	GT1b	abbreviation
+src_sugarbind	20	Galabiose	Digalactoside	broad
+src_sugarbind	20	Galabiose	Ga2	abbreviation
+src_sugarbind	21	Galabiosylceramide	Digalactosylceramide	related
+src_sugarbind	22	Pentasaccharide N-linked glycan core	3a	abbreviation
+src_sugarbind	22	Pentasaccharide N-linked glycan core	6a-mannopentaose	related
+src_sugarbind	22	Pentasaccharide N-linked glycan core	3a,6a-mannopentaose	related
+src_sugarbind	23	N-acetylneuraminic acid	NANA	abbreviation
+src_sugarbind	23	N-acetylneuraminic acid	Sialic acid	broad
+src_sugarbind	23	N-acetylneuraminic acid	NeuAc	abbreviation
+src_sugarbind	24	N-acetylgalactosamine	GalNAc	abbreviation
+src_sugarbind	25	Sialyl-3-lactose	Alpha 2-3 sialyllactose	exact
+src_sugarbind	25	Sialyl-3-lactose	3'SL	abbreviation
+src_sugarbind	26	GQ1b	NeuAc-GQ1b	related
+src_sugarbind	28	GM2	NeuAc-GM2	related
+src_sugarbind	29	Disialylactose	DiSai	abbreviation
+src_sugarbind	30	Mannose	Man	abbreviation
+src_sugarbind	32	B7 type 1	B Lewis b(7)	exact
+src_sugarbind	39	Lewis a	Lea-5	narrow
+src_sugarbind	40	Gangliotetraosylceramide	Gg4	abbreviation
+src_sugarbind	41	Disialosyl galactosyl globoside	DSGG	abbreviation
+src_sugarbind	42	Sialosyl galactosyl globoside	Sialosyl gal-globoside	exact
+src_sugarbind	42	Sialosyl galactosyl globoside	SGG	abbreviation
+src_sugarbind	43	N-acetylglucosamine	GlcNAc	abbreviation
+src_sugarbind	47	NeuGc-GM3	GM3gc	abbreviation
+src_sugarbind	48	Mannose	Man	abbreviation
+src_sugarbind	48	Mannose	Alpha-linked mannose	narrow
+src_sugarbind	50	Monosialodihexosylganglioside	II3NeuAc LacCer	related
+src_sugarbind	50	Monosialodihexosylganglioside	Hematoside	related
+src_sugarbind	50	Monosialodihexosylganglioside	GM3	abbreviation
+src_sugarbind	52	N-acetylneuraminic acid	NeuAc	abbreviation
+src_sugarbind	53	Sialyl-3-lactose	3'SL	abbreviation
+src_sugarbind	55	NeuGc-GM2	GM2gc	abbreviation
+src_sugarbind	61	Neolactohexosylceramide	NLc6	abbreviation
+src_sugarbind	63	Fucose	Fuc	abbreviation
+src_sugarbind	63	Fucose	L-Fucose	narrow
+src_sugarbind	69	II3Neu5GcGg4Cer, GM1	Gc) (NeuGc-GM1	ignore
+src_sugarbind	70	GD2	NeuAc-GD2	related
+src_sugarbind	73	Antigen H	H1 (tri-)	narrow
+src_sugarbind	74	B Lewis b	B Leb	abbreviation
+src_sugarbind	75	A Lewis b	A Leb	abbreviation
+src_sugarbind	78	Sialyl Lewis x Lewis x	NeuAca3-dimer-Lex	related
+src_sugarbind	78	Sialyl Lewis x Lewis x	SDLex	abbreviation
+src_sugarbind	79	Sialyl Lewis x	SLex	abbreviation
+src_sugarbind	79	Sialyl Lewis x	NeuAca3-Lex	related
+src_sugarbind	81	Sialosylparagloboside	S3P	abbreviation
+src_sugarbind	81	Sialosylparagloboside	NeuAca3SPG	related
+src_sugarbind	81	Sialosylparagloboside	IV3(NeuAc)nLc4Cer	related
+src_sugarbind	81	Sialosylparagloboside	Sial pg	abbreviation
+src_sugarbind	81	Sialosylparagloboside	NeuAca2-3PG	related
+src_sugarbind	81	Sialosylparagloboside	S-3-PG	abbreviation
+src_sugarbind	82	I-active ganglioside	NeuAca3-nLc6	related
+src_sugarbind	82	I-active ganglioside	NeuAca2-3i	related
+src_sugarbind	84	I-Active ganglioside	NeuAc-G-10	related
+src_sugarbind	84	I-Active ganglioside	NeuAca2-3I	related
+src_sugarbind	85	Lewis b	Leb-6	narrow
+src_sugarbind	86	Sialyl Lewis a	NeuAca3-Lea	related
+src_sugarbind	87	Fuc-gangliotetraosylceramide	H-5-ganglio	related
+src_sugarbind	87	Fuc-gangliotetraosylceramide	Fuc-GgO4	related
+src_sugarbind	88	3'-sialyl-N-acetyllactosamine	3'SLN	abbreviation
+src_sugarbind	88	3'-sialyl-N-acetyllactosamine	3'SiaLacNAc(1-4)	related
+src_sugarbind	91	SSEA-4	Stage specific embryonic antigen-4	exact
+src_sugarbind	93	Sialylparagloboside	NeuAca2-6PG	related
+src_sugarbind	93	Sialylparagloboside	IV6(NeuAc)nLc4Cer	related
+src_sugarbind	96	Sialyl Lewis c	SLec	abbreviation
+src_sugarbind	96	Sialyl Lewis c	SaiLec	abbreviation
+src_sugarbind	97	6-sulfo sialyl Lewis x	Su-SaiLex	abbreviation
+src_sugarbind	97	6-sulfo sialyl Lewis x	Su-SLex	abbreviation
+src_sugarbind	98	Sialyl Lewis x	SLex	abbreviation
+src_sugarbind	98	Sialyl Lewis x	SaiLex	abbreviation
+src_sugarbind	99	Sulfated sialyl-3-N-acetyllactosamine	Su-3'SLN	abbreviation
+src_sugarbind	99	Sulfated sialyl-3-N-acetyllactosamine	Sulfated trisaccharide	broad
+src_sugarbind	100	3'-sialyl-N-acetyllactosamine	3'SLN	abbreviation
+src_sugarbind	101	6'-sialyl-N-acetyllactosamine	6'SLN	abbreviation
+src_sugarbind	101	6'-sialyl-N-acetyllactosamine	6'SiaLacNAc(1-4)	related
+src_sugarbind	103	6-sulfo sialyl Lewis c	Su-SaiLec	abbreviation
+src_sugarbind	103	6-sulfo sialyl Lewis c	Su-SLec	abbreviation
+src_sugarbind	106	A-galactosylparagloboside	A-Galactosylparagloboside	exact
+src_sugarbind	111	Lactosylceramide	LacCer	abbreviation
+src_sugarbind	112	Lewis b	Leb-4	narrow
+src_sugarbind	113	Lewis y	Ley-4	narrow
+src_sugarbind	114	B antigen	tri-	ignore
+src_sugarbind	115	A antigen	tri-	ignore
+src_sugarbind	116	H type 1 Lewis b	H type 1 Leb	exact
+src_sugarbind	117	B type 1 B Lewis b	B type 1 B Leb	exact
+src_sugarbind	118	A type 1 A Lewis b	A type 1 A Leb	exact
+src_sugarbind	120	H3	di-	ignore
+src_sugarbind	121	Lewis a	Lea-3	narrow
+src_sugarbind	122	Precusor Lewis a	Precusor Lea	exact
+src_sugarbind	123	Lewis x	Lex-3	narrow
+src_sugarbind	128	Sialyl Lewis a	SLea	abbreviation
+src_sugarbind	130	Leukosialin	Sialophorin and SPN	ignore
+src_sugarbind	130	Leukosialin	CD43	exact
+src_sugarbind	131	Leukocyte common antigen	CD45	exact
+src_sugarbind	132	N-acetylneuraminic acid	NeuAc	abbreviation
+src_sugarbind	133	Lactotetraose	LNT	abbreviation
+src_sugarbind	133	Lactotetraose	Lacto-N-tetraose	exact
+src_sugarbind	134	Neolactotetrose	LNnT	abbreviation
+src_sugarbind	134	Neolactotetrose	Lacto-N-neotetraose	exact
+src_sugarbind	135	Sialyllacto-N-neotetraose	Sai-LNnT	abbreviation
+src_sugarbind	138	3'-sialyl-N-acetyllactosamine	1-3) (3'SLN	ignore
+src_sugarbind	138	3'-sialyl-N-acetyllactosamine	3'SiaLacNAc(1-3)	related
+src_sugarbind	139	Galactose	Gal	abbreviation
+src_sugarbind	140	Gg4Cer II3-sulfate	SM1a	related
+src_sugarbind	141	Sialyllacto-N-tetraose b	LSTb	abbreviation
+src_sugarbind	144	Glucose	D-Glucose	narrow
+src_sugarbind	144	Glucose	Glc	abbreviation
+src_sugarbind	147	Galactose beta1	Gal beta1	abbreviation
+src_sugarbind	148	alpha-oligomannoside	dimannoside	narrow
+src_sugarbind	151	Lewis y	Ley-6	narrow
+src_sugarbind	152	Lewis x	Lex-5	narrow

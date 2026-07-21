@@ -1,0 +1,63 @@
+{
+  "edges_parsed": 15,
+  "subjects_with_pruning": 4,
+  "total_synonyms_pruned": 7,
+  "new_stub_nodes": 9,
+  "details": {
+    "pruned_by_subject": {
+      "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5": [
+        "GA-1"
+      ],
+      "GSD:0ef0d5e3-6dad-54e6-9bde-79eec7ce6000": [
+        "Chondroitin sulfate B"
+      ],
+      "GSD:20e88f5c-c2b3-59f6-be89-7e0e58465d7c": [
+        "Pk antigen",
+        "P^K antigen",
+        "CD77"
+      ],
+      "GSD:89e36335-2fea-5ef3-a3a8-559985883dad": [
+        "CA19-9",
+        "CA19-9 antigen"
+      ]
+    },
+    "new_stubs": [
+      {
+        "uuid": "GSD:a7868da4-a6c2-4825-97b9-c86700b1c213",
+        "term": "GA1"
+      },
+      {
+        "uuid": "GSD:94c78688-31d6-41ea-b885-c811f945864d",
+        "term": "Pk antigen"
+      },
+      {
+        "uuid": "GSD:2721b555-911d-4079-a026-e761a752deb8",
+        "term": "CD77"
+      },
+      {
+        "uuid": "GSD:07f53917-abb0-5512-9eb2-b97850950eee",
+        "term": "mucin-type O-glycans"
+      },
+      {
+        "uuid": "GSD:d5606d4d-5018-4a71-997a-6b29f4187a99",
+        "term": "CA19-9"
+      },
+      {
+        "uuid": "GSD:0a5b0166-1241-5a4a-a0d8-d7d1970792c6",
+        "term": "chondroitin sulfate A"
+      },
+      {
+        "uuid": "GSD:37210836-4c03-58ec-ae10-befc14eacc9e",
+        "term": "chondroitin sulfate B"
+      },
+      {
+        "uuid": "GSD:0d5ea83b-21ec-59e0-a01e-35fb322984f4",
+        "term": "chondroitin sulfate C"
+      },
+      {
+        "uuid": "GSD:fbde2c9b-d9c5-4c7c-b3ef-93cbcc3ee9cb",
+        "term": "GM1a"
+      }
+    ]
+  }
+}

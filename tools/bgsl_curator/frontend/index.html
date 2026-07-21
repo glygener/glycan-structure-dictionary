@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>bGSL Curator</title>
+  <link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+  <header id="topbar">
+    <div class="brand">bGSL&nbsp;Curator</div>
+    <div id="meta-summary" class="meta"></div>
+    <div class="spacer"></div>
+    <span id="dirty" class="dirty hidden">● unsaved</span>
+    <button id="btn-undo" title="Undo last operation">↶ Undo</button>
+    <button id="btn-journal" title="View the change log">Journal</button>
+    <button id="btn-save" class="primary" title="Write curated master files (Layer 2)">Save</button>
+    <button id="btn-sync" title="Write back to resolved sources + overrides (Layer 3)">Sync→sources</button>
+    <button id="btn-publish" title="Write timestamped release + refresh reviewer TSV">Publish</button>
+  </header>
+
+  <main>
+    <section id="left">
+      <div class="controls">
+        <input id="search" type="search" placeholder="Search label / synonym / abbreviation / uuid…" />
+        <select id="filter-class"><option value="">All classes</option></select>
+        <select id="sort">
+          <option value="class">Sort: class</option>
+          <option value="lbl">Sort: label</option>
+          <option value="sources">Sort: #sources</option>
+        </select>
+      </div>
+      <div id="table-wrap"><table id="node-table"><tbody></tbody></table></div>
+      <div id="table-foot"></div>
+    </section>
+
+    <section id="right">
+      <div id="detail-empty" class="empty">Select a node on the left to inspect and curate it.</div>
+      <div id="detail" class="hidden"></div>
+    </section>
+  </main>
+
+  <!-- Modal scaffold -->
+  <div id="modal-backdrop" class="hidden">
+    <div id="modal">
+      <div id="modal-head"><span id="modal-title"></span><button id="modal-close">✕</button></div>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <div id="toast" class="hidden"></div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,292 @@
+[
+  {
+    "op": "edge",
+    "subj": "Globotriose",
+    "pred": "related_synonym_of",
+    "obj": "globotriaosylceramide"
+  },
+  {
+    "op": "edge",
+    "subj": "Globotetraose",
+    "pred": "related_synonym_of",
+    "obj": "globotetraosylceramide"
+  },
+  {
+    "op": "relabel",
+    "old": "3-SLDN",
+    "new": "3-sialyl LacdiNAc",
+    "abbrevs": [
+      "3-SLDN",
+      "3'SLDN"
+    ]
+  },
+  {
+    "op": "edge",
+    "subj": "GM4",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GM3",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GM2",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GM1",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GM1a",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GM1b",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GD3",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GD2",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GD1a",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GD1b",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GD1",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GT3",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GT1a",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GT1b",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GT1c",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GQ1b",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GA1",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "GA2",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "asialo-GM1",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "asialo-GM2",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Ganglio series"
+  },
+  {
+    "op": "edge",
+    "subj": "Gb3",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Globo series"
+  },
+  {
+    "op": "edge",
+    "subj": "Gb4",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Globo series"
+  },
+  {
+    "op": "edge",
+    "subj": "globoside",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Globo series"
+  },
+  {
+    "op": "edge",
+    "subj": "globotriaosylceramide",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Globo series"
+  },
+  {
+    "op": "edge",
+    "subj": "globotetraosylceramide",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Globo series"
+  },
+  {
+    "op": "edge",
+    "subj": "globopentaosylceramide",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Globo series"
+  },
+  {
+    "op": "edge",
+    "subj": "Isoglobotriaosylceramide",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Isoglobo series"
+  },
+  {
+    "op": "edge",
+    "subj": "Isoglobotriose",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Isoglobo series"
+  },
+  {
+    "op": "edge",
+    "subj": "Isoglobotetraose",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Isoglobo series"
+  },
+  {
+    "op": "edge",
+    "subj": "Isoglobopentaose",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Isoglobo series"
+  },
+  {
+    "op": "edge",
+    "subj": "lactotriaosylceramide",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Lacto series"
+  },
+  {
+    "op": "edge",
+    "subj": "lactotetraosylceramide",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Lacto series"
+  },
+  {
+    "op": "edge",
+    "subj": "Lc3",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Lacto series"
+  },
+  {
+    "op": "edge",
+    "subj": "Lc4",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Lacto series"
+  },
+  {
+    "op": "edge",
+    "subj": "nLc4",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Neo-lacto series"
+  },
+  {
+    "op": "edge",
+    "subj": "nLc6",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Neo-lacto series"
+  },
+  {
+    "op": "edge",
+    "subj": "paragloboside",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Neo-lacto series"
+  },
+  {
+    "op": "edge",
+    "subj": "Neolactotetraosylceramide",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Neo-lacto series"
+  },
+  {
+    "op": "edge",
+    "subj": "Neolactohexosylceramide",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Neo-lacto series"
+  },
+  {
+    "op": "edge",
+    "subj": "Neolactotetraose",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Neo-lacto series"
+  },
+  {
+    "op": "edge",
+    "subj": "galabiosylceramide",
+    "pred": "narrow_synonym_of",
+    "obj": "Glycosphingolipid Gala series"
+  },
+  {
+    "op": "gsl_member_edges",
+    "added": 41
+  },
+  {
+    "op": "move_sources",
+    "n": 2,
+    "frm": "''I'' antigen",
+    "to": "I antigen"
+  },
+  {
+    "op": "drop_stub",
+    "label": "i antigen (curator stub)"
+  },
+  {
+    "op": "relabel",
+    "old": "''I'' antigen",
+    "new": "i antigen"
+  },
+  {
+    "op": "bgsl_id",
+    "assigned": 1181
+  }
+]

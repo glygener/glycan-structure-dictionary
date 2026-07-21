@@ -1,0 +1,173 @@
+<mxfile host="app.diagrams.net" agent="Claude" version="24.7.0" type="device">
+  <diagram name="bGSL workflow" id="workflow">
+    <mxGraphModel dx="1400" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <!-- ============ HEADER ============ -->
+        <mxCell id="title" value="bGSL entity-resolution workflow" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=22;fontStyle=1;fontColor=#0f172a;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="18" width="900" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="LangGraph pipeline · one query term at a time · loops until all rows in a source are resolved" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=13;fontColor=#475569;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="46" width="900" height="20" as="geometry" />
+        </mxCell>
+
+        <!-- ============ LEGEND ============ -->
+        <mxCell id="lgd1sw" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eff6ff;strokeColor=#3b82f6;strokeWidth=1.6;" vertex="1" parent="1">
+          <mxGeometry x="30" y="72" width="16" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="lgd1tx" value="graph node" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;fontColor=#64748b;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="52" y="70" width="85" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="lgd2sw" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;strokeWidth=1.4;dashed=1;dashPattern=4 3;" vertex="1" parent="1">
+          <mxGeometry x="145" y="72" width="16" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="lgd2tx" value="deterministic fast-path (no LLM)" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;fontColor=#64748b;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="167" y="70" width="200" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="lgd3sw" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfeff;strokeColor=#0891b2;strokeWidth=1.6;" vertex="1" parent="1">
+          <mxGeometry x="375" y="72" width="16" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="lgd3tx" value="LLM step" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;fontColor=#64748b;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="397" y="70" width="80" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="lgd4sw" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=1.4;" vertex="1" parent="1">
+          <mxGeometry x="470" y="72" width="16" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="lgd4tx" value="MAP → merge" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;fontColor=#64748b;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="492" y="70" width="110" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="lgd5sw" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=1.4;" vertex="1" parent="1">
+          <mxGeometry x="600" y="72" width="16" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="lgd5tx" value="ADD → new node" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;fontColor=#64748b;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="622" y="70" width="140" height="16" as="geometry" />
+        </mxCell>
+
+        <!-- ============ START ============ -->
+        <mxCell id="start" value="START · loop over terms" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#64748b;strokeWidth=1.6;fontSize=14;fontStyle=1;fontColor=#0f172a;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="410" y="112" width="140" height="34" as="geometry" />
+        </mxCell>
+
+        <!-- ============ 1. RETRIEVE ============ -->
+        <mxCell id="retrieve" value="&lt;div style=&quot;text-align:left;padding:6px 14px 4px 14px;&quot;&gt;&lt;div style=&quot;font-size:14px;font-weight:700;color:#0f172a;&quot;&gt;① retrieve&lt;/div&gt;&lt;div style=&quot;font-size:11px;color:#334155;margin-top:4px;line-height:1.35;&quot;&gt;Similarity-search the bGSL seed vectorstore (Chroma, Ollama embeddings) with the query surface form + its own synonyms/abbreviations.&lt;br/&gt;&lt;span style=&quot;font-family:ui-monospace,Menlo,monospace;&quot;&gt;top_k = 5 · score_threshold = 0.3 → returns up to 5 candidates with cosine similarity.&lt;/span&gt;&lt;br/&gt;The vector store is &lt;b&gt;live-updated&lt;/b&gt; — every MAP appends the new surface form, every ADD inserts a new document.&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#3b82f6;strokeWidth=2;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="176" width="780" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="retrieve_badge" value="det" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64748b;strokeColor=#64748b;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="810" y="186" width="20" height="20" as="geometry" />
+        </mxCell>
+
+        <!-- ============ 2. TEXTBOOK LOOKUP ============ -->
+        <mxCell id="textbook" value="&lt;div style=&quot;text-align:left;padding:6px 14px 4px 14px;&quot;&gt;&lt;div style=&quot;font-size:14px;font-weight:700;color:#0f172a;&quot;&gt;② textbook_lookup&lt;/div&gt;&lt;div style=&quot;font-size:11px;color:#334155;margin-top:4px;line-height:1.35;&quot;&gt;Optional RAG over &lt;i&gt;Essentials of Glycobiology (4e)&lt;/i&gt; to fetch biology context when the retrieved candidates alone leave the mapping decision ambiguous.&lt;br/&gt;&lt;span style=&quot;color:#334155;&quot;&gt;Skipped when top_score &amp;lt; 0.55 (LLM would just ADD) or top_score ≥ 0.7 with margin ≥ 0.05 (candidate is unambiguous).&lt;/span&gt;&lt;br/&gt;The LLM decides on its own whether to call the &lt;span style=&quot;font-family:ui-monospace,Menlo,monospace;&quot;&gt;query_textbook&lt;/span&gt; tool; capped at one call per term.&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#3b82f6;strokeWidth=2;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="296" width="780" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="textbook_badge" value="LLM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0891b2;strokeColor=#0891b2;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="810" y="306" width="20" height="20" as="geometry" />
+        </mxCell>
+
+        <!-- ============ 3. RESOLVE (outer + sub-boxes) ============ -->
+        <mxCell id="resolve" value="&lt;div style=&quot;text-align:left;padding:6px 14px 0 14px;font-size:14px;font-weight:700;color:#0f172a;&quot;&gt;③ resolve — the decision agent&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#3b82f6;strokeWidth=2;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="416" width="780" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="resolve_badge" value="LLM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#0891b2;strokeColor=#0891b2;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="810" y="426" width="20" height="20" as="geometry" />
+        </mxCell>
+
+        <!-- Fast-path sub-box -->
+        <mxCell id="fastpath" value="&lt;div style=&quot;text-align:left;padding:8px 12px;font-size:11px;color:#334155;line-height:1.4;&quot;&gt;&lt;div style=&quot;font-size:12px;font-weight:700;color:#1e293b;&quot;&gt;Fast-paths (deterministic, cheap)&lt;/div&gt;&lt;br/&gt;&lt;b&gt;→ ADD&lt;/b&gt; no candidates returned by retrieve&lt;br/&gt;&lt;b&gt;→ ADD&lt;/b&gt; top score &amp;lt; 0.45 AND query has no GTC id&lt;br/&gt;&lt;br/&gt;&lt;b&gt;→ MAP · exact_synonym_of&lt;/b&gt;&lt;br/&gt;normalised surface form (case-fold, strip Greek, strip punctuation) equals a candidate&apos;s name or synonym, and vector score ≥ 0.5&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Case-sensitive carve-out: &quot;i-antigen&quot; (linear poly-LacNAc) ≠ &quot;I-antigen&quot; (branched poly-LacNAc).&lt;/i&gt;&lt;br/&gt;&lt;br/&gt;&lt;b&gt;GTC-ID fast-path: DISABLED.&lt;/b&gt; Same GlyTouCan ID ≠ same glycan concept (aglycon and position-in-larger-structure matter).&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#94a3b8;strokeWidth=1.4;dashed=1;dashPattern=4 3;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="112" y="458" width="360" height="216" as="geometry" />
+        </mxCell>
+
+        <!-- LLM resolver sub-box -->
+        <mxCell id="llmbox" value="&lt;div style=&quot;text-align:left;padding:8px 12px;font-size:11px;color:#334155;line-height:1.4;&quot;&gt;&lt;div style=&quot;font-size:12px;font-weight:700;color:#1e293b;&quot;&gt;LLM resolver (when no fast-path fires)&lt;/div&gt;&lt;br/&gt;Prompt bundles: query term + its synonyms + description + the top-K candidates + textbook excerpts (if fetched) + curator&apos;s suggested_class hint + raw source metadata.&lt;br/&gt;&lt;br/&gt;Returns a structured JSON:&lt;br/&gt;&lt;span style=&quot;font-family:ui-monospace,Menlo,monospace;color:#0f172a;&quot;&gt;{&quot;action&quot;: &quot;map&quot; | &quot;add&quot;,&lt;br/&gt;&amp;nbsp;&quot;mapped_to_uuid&quot;: &quot;GSD:...&quot;,&lt;br/&gt;&amp;nbsp;&quot;edge_type&quot;: &quot;exact_synonym_of&quot; | &quot;abbreviation_of&quot;&lt;br/&gt;&amp;nbsp;&amp;nbsp;| &quot;related_synonym_of&quot; | &quot;broad_synonym_of&quot;&lt;br/&gt;&amp;nbsp;&amp;nbsp;| &quot;narrow_synonym_of&quot; | &quot;is_a&quot; | &quot;&quot;,&lt;br/&gt;&amp;nbsp;&quot;rationale&quot;: &quot;...&quot;}&lt;/span&gt;&lt;br/&gt;&lt;i&gt;Bias: &quot;when in doubt, ADD — merges are hard to undo.&quot;&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfeff;strokeColor=#0891b2;strokeWidth=1.6;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="458" width="360" height="216" as="geometry" />
+        </mxCell>
+
+        <!-- ============ 4. REGISTER (outer + two branches) ============ -->
+        <mxCell id="register" value="&lt;div style=&quot;text-align:left;padding:6px 14px 0 14px;font-size:14px;font-weight:700;color:#0f172a;&quot;&gt;④ register — write back the decision&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#3b82f6;strokeWidth=2;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="728" width="780" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="register_badge" value="det" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64748b;strokeColor=#64748b;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="810" y="738" width="20" height="20" as="geometry" />
+        </mxCell>
+
+        <!-- ADD branch -->
+        <mxCell id="addbox" value="&lt;div style=&quot;text-align:left;padding:8px 12px;font-size:11px;color:#334155;line-height:1.5;&quot;&gt;&lt;div style=&quot;font-size:12px;font-weight:700;color:#1e293b;&quot;&gt;action = ADD&lt;/div&gt;• mint a fresh GSD:UUID&lt;br/&gt;• insert a new document into the vector store&lt;br/&gt;• write the decision to &lt;span style=&quot;font-family:ui-monospace,Menlo,monospace;&quot;&gt;terms_ai-decisions.jsonl&lt;/span&gt;&lt;br/&gt;• (curator-hint edges, if any, still get emitted)&lt;br/&gt;&lt;br/&gt;Result: a brand-new bGSL concept.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=1.4;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="112" y="770" width="360" height="120" as="geometry" />
+        </mxCell>
+
+        <!-- MAP branch -->
+        <mxCell id="mapbox" value="&lt;div style=&quot;text-align:left;padding:8px 12px;font-size:11px;color:#334155;line-height:1.5;&quot;&gt;&lt;div style=&quot;font-size:12px;font-weight:700;color:#1e293b;&quot;&gt;action = MAP&lt;/div&gt;• append surface form to the target&apos;s synonyms&lt;br/&gt;• update the vector-store document in place&lt;br/&gt;• write the decision to &lt;span style=&quot;font-family:ui-monospace,Menlo,monospace;&quot;&gt;terms_ai-decisions.jsonl&lt;/span&gt;&lt;br/&gt;• for related/broad/narrow_synonym_of, is_a:&lt;br/&gt;&amp;nbsp;&amp;nbsp;emit an edge in &lt;span style=&quot;font-family:ui-monospace,Menlo,monospace;&quot;&gt;edges_ai-decisions.jsonl&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=1.4;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="770" width="360" height="120" as="geometry" />
+        </mxCell>
+
+        <!-- ============ 5. ADVANCE ============ -->
+        <mxCell id="advance" value="&lt;div style=&quot;text-align:left;padding:4px 14px;&quot;&gt;&lt;div style=&quot;font-size:14px;font-weight:700;color:#0f172a;&quot;&gt;⑤ advance&lt;/div&gt;&lt;div style=&quot;font-size:11px;color:#334155;margin-top:4px;&quot;&gt;move to next term · clear per-term state&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#3b82f6;strokeWidth=2;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="330" y="936" width="300" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="advance_badge" value="det" style="ellipse;whiteSpace=wrap;html=1;fillColor=#64748b;strokeColor=#64748b;fontSize=10;fontStyle=1;fontColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="590" y="946" width="20" height="20" as="geometry" />
+        </mxCell>
+
+        <!-- ============ DECISION DIAMOND ============ -->
+        <mxCell id="decision" value="more terms?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff7ed;strokeColor=#ea580c;strokeWidth=1.6;fontSize=12;fontStyle=1;fontColor=#1e293b;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1008" width="180" height="84" as="geometry" />
+        </mxCell>
+
+        <!-- ============ END TERMINAL ============ -->
+        <mxCell id="end" value="END" style="rounded=1;arcSize=50;whiteSpace=wrap;html=1;fillColor=#f1f5f9;strokeColor=#64748b;strokeWidth=1.6;fontSize=14;fontStyle=1;fontColor=#0f172a;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1030" width="120" height="40" as="geometry" />
+        </mxCell>
+
+        <!-- ============ ARROWS ============ -->
+        <mxCell id="e_start_retrieve" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=2;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="1" source="start" target="retrieve">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_retrieve_textbook" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=2;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="1" source="retrieve" target="textbook">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_textbook_resolve" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=2;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="1" source="textbook" target="resolve">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_fast_add" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=1.6;endArrow=classic;endFill=1;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fastpath" target="addbox">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_llm_map" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=1.6;endArrow=classic;endFill=1;endSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="llmbox" target="mapbox">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_register_advance" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=2;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="1" source="register" target="advance">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_advance_decision" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=2;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="1" source="advance" target="decision">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e_decision_end" value="no" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=2;endArrow=classic;endFill=1;endSize=8;fontSize=11;fontStyle=2;fontColor=#475569;" edge="1" parent="1" source="decision" target="end">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- Loop-back arrow (curved, dashed, orange). Uses waypoints to route around the left side. -->
+        <mxCell id="e_loop" value="yes → back to retrieve (next term)" style="edgeStyle=orthogonalEdgeStyle;html=1;curved=1;strokeColor=#ea580c;strokeWidth=1.8;endArrow=classic;endFill=1;endSize=8;dashed=1;dashPattern=6 4;fontSize=11;fontStyle=2;fontColor=#ea580c;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;jettySize=auto;orthogonalLoop=1;" edge="1" parent="1" source="decision" target="retrieve">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="1050" />
+              <mxPoint x="30" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- ============ FOOTER CAPTIONS ============ -->
+        <mxCell id="foot1" value="One graph run = one source. The seed store keeps growing as each source is processed, so later sources see the union of everything before them." style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;fontColor=#64748b;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1108" width="920" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="foot2" value="Post-processing then merges the per-source terms.jsonl + edges_ai-decisions.jsonl files into a single master_nodes.json / master_edges.json." style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;fontColor=#64748b;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1128" width="920" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="foot3" value="Curator hints from the review xlsx are honoured here — exact_synonym_of / abbreviation_of collapse into synonym slots on the parent node; the rest emit edges." style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;fontColor=#64748b;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1148" width="920" height="18" as="geometry" />
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

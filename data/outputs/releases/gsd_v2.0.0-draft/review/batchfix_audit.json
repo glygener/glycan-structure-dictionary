@@ -1,0 +1,256 @@
+[
+  {
+    "op": "merge",
+    "survivor": "blood group A",
+    "absorbed": "A antigen",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "blood group A",
+    "absorbed": "Antigen A",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "blood group A",
+    "absorbed": "blood group A determinant",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "blood group A",
+    "absorbed": "blood group A trisaccharide",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "blood group A",
+    "absorbed": "Blood group A antigen triose",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "Blood group B",
+    "absorbed": "B antigen",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "Blood group B",
+    "absorbed": "blood group B determinant",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "Blood group B",
+    "absorbed": "Blood group B antigen triose",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "blood group H",
+    "absorbed": "blood group H determinant",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "blood group H",
+    "absorbed": "blood group H disaccharide",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "blood group H",
+    "absorbed": "H antigen",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "blood group H",
+    "absorbed": "Blood Group H Like",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "fucosylated GL-6",
+    "absorbed": "GL-6 fucosylated (globoH)",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "fucosylated GL-6",
+    "absorbed": "Globo-H",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "relabel",
+    "old": "fucosylated GL-6",
+    "new": "Globo-H"
+  },
+  {
+    "op": "classify",
+    "label": "Globo-H",
+    "classification": "1A"
+  },
+  {
+    "op": "merge",
+    "survivor": "chondroitin sulfate D",
+    "absorbed": "Chondroitin Sulfate D Unit",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "list",
+    "label": "chondroitin sulfate D",
+    "action": "remove",
+    "field": "exact_synonyms",
+    "value": "Chindroitin Sulfate D Unit",
+    "new_value": null
+  },
+  {
+    "op": "classify",
+    "label": "SSEA",
+    "classification": "3A"
+  },
+  {
+    "op": "merge",
+    "survivor": "sialyl-Tn antigen",
+    "absorbed": "STn",
+    "relation": "abbreviation"
+  },
+  {
+    "op": "merge",
+    "survivor": "T antigen",
+    "absorbed": "TF",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "list",
+    "label": "T antigen",
+    "action": "rename",
+    "field": "exact_synonyms",
+    "value": "Thomsen-Fridenreich antigen",
+    "new_value": "Thomsen-Friedenreich antigen"
+  },
+  {
+    "op": "merge",
+    "survivor": "tri-Lewis x",
+    "absorbed": "Tri-Lex",
+    "relation": "abbreviation"
+  },
+  {
+    "op": "list",
+    "label": "LN2",
+    "action": "remove",
+    "field": "exact_synonyms",
+    "value": "LN2, I antigen",
+    "new_value": null
+  },
+  {
+    "op": "classify",
+    "label": "A2F1",
+    "classification": "2D"
+  },
+  {
+    "op": "classify",
+    "label": "A3F1",
+    "classification": "2D"
+  },
+  {
+    "op": "classify",
+    "label": "A4F1",
+    "classification": "2D"
+  },
+  {
+    "op": "merge",
+    "survivor": "Glycosphingolipid Gala series",
+    "absorbed": "Glycosphingolipid Gala",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "Glycosphingolipid Mollu series",
+    "absorbed": "Glycosphingolipid Mollu",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "merge",
+    "survivor": "O-glycans",
+    "absorbed": "O-glycan",
+    "relation": "exact_synonym"
+  },
+  {
+    "op": "list",
+    "label": "Fucose",
+    "action": "add",
+    "field": "exact_synonyms",
+    "value": "fucosylation",
+    "new_value": null
+  },
+  {
+    "op": "list",
+    "label": "core fucose",
+    "action": "add",
+    "field": "exact_synonyms",
+    "value": "core fucosylation",
+    "new_value": null
+  },
+  {
+    "op": "list",
+    "label": "Galactose",
+    "action": "add",
+    "field": "exact_synonyms",
+    "value": "galactosylation",
+    "new_value": null
+  },
+  {
+    "op": "list",
+    "label": "Sialic Acid",
+    "action": "add",
+    "field": "exact_synonyms",
+    "value": "sialylation",
+    "new_value": null
+  },
+  {
+    "op": "list",
+    "label": "Mannose",
+    "action": "add",
+    "field": "exact_synonyms",
+    "value": "mannosylation",
+    "new_value": null
+  },
+  {
+    "op": "list",
+    "label": "Glucose",
+    "action": "add",
+    "field": "exact_synonyms",
+    "value": "glucosylation",
+    "new_value": null
+  },
+  {
+    "op": "list",
+    "label": "N-acetylglucosamine",
+    "action": "add",
+    "field": "exact_synonyms",
+    "value": "GlcNAcylation",
+    "new_value": null
+  },
+  {
+    "op": "MISS",
+    "label": "O-GlcNAc"
+  },
+  {
+    "op": "NOTE",
+    "msg": "no plain 'O-GlcNAc' node; skipped O-GlcNAcylation"
+  },
+  {
+    "op": "create_node",
+    "label": "i antigen",
+    "uuid": "GSD:ba8a67c0-e490-41f3-aa01-d4a12817e4b6",
+    "classification": "1A"
+  },
+  {
+    "op": "bgsl_id",
+    "assigned": 1182
+  }
+]

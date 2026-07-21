@@ -1,0 +1,127 @@
+id	label	glytoucan_id	aliases	url
+GDV.000001	Cyclic sialyl 6-sulfo Lewis x	G80722US		https://glycomotif.glyomics.org/glycomotif/GDV.000001
+GDV.000002	Extended tetrafucosyl-Le	G57142PA		https://glycomotif.glyomics.org/glycomotif/GDV.000002
+GDV.000004	Lewis b (Leb)	G39211DH		https://glycomotif.glyomics.org/glycomotif/GDV.000004
+GDV.000005	Blood group A2 (A-associated H type 3)	G62735WZ		https://glycomotif.glyomics.org/glycomotif/GDV.000005
+GDV.000006	H antigen (type 3)	G94435QH		https://glycomotif.glyomics.org/glycomotif/GDV.000006
+GDV.000007	Blood group H (type 4)	G98465JN		https://glycomotif.glyomics.org/glycomotif/GDV.000007
+GDV.000008	GL-6 fucosylated (globoH)	G98465JN		https://glycomotif.glyomics.org/glycomotif/GDV.000008
+GDV.000009	2-Fucosyl-GM1	G91532KA		https://glycomotif.glyomics.org/glycomotif/GDV.000009
+GDV.000010	2-Fucosyl-GD1b	G93694YU		https://glycomotif.glyomics.org/glycomotif/GDV.000010
+GDV.000011	Blood group H (type 1)	G00294TN		https://glycomotif.glyomics.org/glycomotif/GDV.000011
+GDV.000012	Blood group H (type 2)  (Lewis Y)	G00052MO		https://glycomotif.glyomics.org/glycomotif/GDV.000012
+GDV.000013	Lewis b (Lewis b)	G00052MO		https://glycomotif.glyomics.org/glycomotif/GDV.000013
+GDV.000014	Lewis y (Lewis Y)	G49963IQ		https://glycomotif.glyomics.org/glycomotif/GDV.000014
+GDV.000015	Blood group H (type 2)	G70519XK		https://glycomotif.glyomics.org/glycomotif/GDV.000015
+GDV.000016	Blood group B (type 1)  (B-Lewis Y)	G89208KM		https://glycomotif.glyomics.org/glycomotif/GDV.000016
+GDV.000017	Blood group B (type 4)	G25216QA		https://glycomotif.glyomics.org/glycomotif/GDV.000017
+GDV.000018	B-GM1	G11485ID		https://glycomotif.glyomics.org/glycomotif/GDV.000018
+GDV.000019	B-GD1b	G72557NR		https://glycomotif.glyomics.org/glycomotif/GDV.000019
+GDV.000020	Blood group B (type 1)	G31734OS		https://glycomotif.glyomics.org/glycomotif/GDV.000020
+GDV.000021	Blood group B (type 2)	G34881WK		https://glycomotif.glyomics.org/glycomotif/GDV.000021
+GDV.000022	alpha-Gal antigen	G24432YB		https://glycomotif.glyomics.org/glycomotif/GDV.000022
+GDV.000023	Pk antigen (Gb3, globotriaosylceramide)	G00059MO		https://glycomotif.glyomics.org/glycomotif/GDV.000023
+GDV.000024	P1 antigen	G12460DL		https://glycomotif.glyomics.org/glycomotif/GDV.000024
+GDV.000025	Dimeric Lewis a	G82106UN		https://glycomotif.glyomics.org/glycomotif/GDV.000025
+GDV.000026	Lewis a	G00047MO		https://glycomotif.glyomics.org/glycomotif/GDV.000026
+GDV.000027	T (also TF)  antigen	G00031MO		https://glycomotif.glyomics.org/glycomotif/GDV.000027
+GDV.000028	SSEA	G99053DY		https://glycomotif.glyomics.org/glycomotif/GDV.000028
+GDV.000029	Gb5	G99053DY		https://glycomotif.glyomics.org/glycomotif/GDV.000029
+GDV.000030	GM1	G48558GR		https://glycomotif.glyomics.org/glycomotif/GDV.000030
+GDV.000031	GD1b	G37184KW		https://glycomotif.glyomics.org/glycomotif/GDV.000031
+GDV.000032	GT1c	G78818SP		https://glycomotif.glyomics.org/glycomotif/GDV.000032
+GDV.000033	Asialo-GM1	G21856LC		https://glycomotif.glyomics.org/glycomotif/GDV.000033
+GDV.000034	Type 1 LN3	G17961XM		https://glycomotif.glyomics.org/glycomotif/GDV.000034
+GDV.000035	Type 1 LN	G43784HS		https://glycomotif.glyomics.org/glycomotif/GDV.000035
+GDV.000036	Lewis X	G81516LH		https://glycomotif.glyomics.org/glycomotif/GDV.000036
+GDV.000037	Lewis X–Lewis X	G79535HZ		https://glycomotif.glyomics.org/glycomotif/GDV.000037
+GDV.000038	Lewis x   (SSEA-1)	G01187XC		https://glycomotif.glyomics.org/glycomotif/GDV.000038
+GDV.000039	Lactosylceramide	G84224TW		https://glycomotif.glyomics.org/glycomotif/GDV.000039
+GDV.000040	''I'' antigen	G56045WU		https://glycomotif.glyomics.org/glycomotif/GDV.000040
+GDV.000041	Mono-fucosyl LN	G64227KZ		https://glycomotif.glyomics.org/glycomotif/GDV.000041
+GDV.000042	Mono-fucosyl LN	G65223RT		https://glycomotif.glyomics.org/glycomotif/GDV.000042
+GDV.000043	Paragloboside	G58896AZ		https://glycomotif.glyomics.org/glycomotif/GDV.000043
+GDV.000044	''I'' antigen	G46055MA		https://glycomotif.glyomics.org/glycomotif/GDV.000044
+GDV.000045	Type 2 LN2 (''I'' antigen)	G00058MO		https://glycomotif.glyomics.org/glycomotif/GDV.000045
+GDV.000046	Type 2 LN (N-acetyllactosamine)	G00055MO		https://glycomotif.glyomics.org/glycomotif/GDV.000046
+GDV.000047	3-Sulfo-Lewis a (3'-Sulfo Lewis a)	G78706CK		https://glycomotif.glyomics.org/glycomotif/GDV.000047
+GDV.000048	3-Sulfo-Lewis x (3-sulfo LewisX)	G12295TB		https://glycomotif.glyomics.org/glycomotif/GDV.000048
+GDV.000049	Ceramide dihexosyl sulfate	G50926NK		https://glycomotif.glyomics.org/glycomotif/GDV.000049
+GDV.000050	Seminolipid	G72548RZ		https://glycomotif.glyomics.org/glycomotif/GDV.000050
+GDV.000051	Sulfatide	G72548RZ		https://glycomotif.glyomics.org/glycomotif/GDV.000051
+GDV.000052	Monosulfated gangliotetraosylceramide	G96596OC		https://glycomotif.glyomics.org/glycomotif/GDV.000052
+GDV.000053	Galactosylceramide	G65889KE		https://glycomotif.glyomics.org/glycomotif/GDV.000053
+GDV.000054	Blood group A (type 1)  (A-Lewis b)	G97501MA		https://glycomotif.glyomics.org/glycomotif/GDV.000054
+GDV.000055	Blood group A1 (type 3)	G44060QH		https://glycomotif.glyomics.org/glycomotif/GDV.000055
+GDV.000056	A antigen (type 3)	G99315PE		https://glycomotif.glyomics.org/glycomotif/GDV.000056
+GDV.000057	Blood group A (type 4)	G37830TX		https://glycomotif.glyomics.org/glycomotif/GDV.000057
+GDV.000058	Blood group A (type 1)	G66163TI		https://glycomotif.glyomics.org/glycomotif/GDV.000058
+GDV.000059	Blood group A (type 2)  (A-Lewis Y)	G54826OZ		https://glycomotif.glyomics.org/glycomotif/GDV.000059
+GDV.000060	Blood group A (type 2)	G74353FF		https://glycomotif.glyomics.org/glycomotif/GDV.000060
+GDV.000061	Forssman glycolipid	G80062GG		https://glycomotif.glyomics.org/glycomotif/GDV.000061
+GDV.000062	Tn antigen	G57321FI		https://glycomotif.glyomics.org/glycomotif/GDV.000062
+GDV.000063	Cytolipin R	G57710SU		https://glycomotif.glyomics.org/glycomotif/GDV.000063
+GDV.000064	Isoglobotetraosylceramide	G57710SU		https://glycomotif.glyomics.org/glycomotif/GDV.000064
+GDV.000065	Globoside(P antigen)  (Gb4)	G00061MO		https://glycomotif.glyomics.org/glycomotif/GDV.000065
+GDV.000066	para-Forssman glycolipid	G51699SI		https://glycomotif.glyomics.org/glycomotif/GDV.000066
+GDV.000067	Fucosylated LDN (LDNF)	G02240AO		https://glycomotif.glyomics.org/glycomotif/GDV.000067
+GDV.000068	LcGg4	G62554JH		https://glycomotif.glyomics.org/glycomotif/GDV.000068
+GDV.000069	GM2	G79389NT		https://glycomotif.glyomics.org/glycomotif/GDV.000069
+GDV.000070	Sialopentaosylceramide	G13224CR		https://glycomotif.glyomics.org/glycomotif/GDV.000070
+GDV.000071	GD2	G02657AK		https://glycomotif.glyomics.org/glycomotif/GDV.000071
+GDV.000072	GT2	G36476BA		https://glycomotif.glyomics.org/glycomotif/GDV.000072
+GDV.000073	N-Glycolyl-GM2	G56478LD		https://glycomotif.glyomics.org/glycomotif/GDV.000073
+GDV.000074	LacdiNAc (LDN)	G31736BK		https://glycomotif.glyomics.org/glycomotif/GDV.000074
+GDV.000075	Mono-sulfated globopentaosylceramide	G30925QW		https://glycomotif.glyomics.org/glycomotif/GDV.000075
+GDV.000076	Sulfo-isogloboside	G30925QW		https://glycomotif.glyomics.org/glycomotif/GDV.000076
+GDV.000077	Mono-sulfated globotetraosylceramide	G05297EK		https://glycomotif.glyomics.org/glycomotif/GDV.000077
+GDV.000078	4-sulfated LDN	G18464VS		https://glycomotif.glyomics.org/glycomotif/GDV.000078
+GDV.000079	HNK-1 on O-mannose	G06898ZN		https://glycomotif.glyomics.org/glycomotif/GDV.000079
+GDV.000080	HNK-expressing SGLPG	G10503MP		https://glycomotif.glyomics.org/glycomotif/GDV.000080
+GDV.000081	HNK-1 antigen	G53277CD		https://glycomotif.glyomics.org/glycomotif/GDV.000081
+GDV.000082	Glucosylceramide	G71142DF		https://glycomotif.glyomics.org/glycomotif/GDV.000082
+GDV.000083	Lactotriaosylceramide (LC3)	G06239NA		https://glycomotif.glyomics.org/glycomotif/GDV.000083
+GDV.000086	Sda/CT antigen	G41052GC		https://glycomotif.glyomics.org/glycomotif/GDV.000086
+GDV.000087	6,6-bisSulfo-Lewis x (6,6'-bissulfo Lewis x )	G00659GQ		https://glycomotif.glyomics.org/glycomotif/GDV.000087
+GDV.000088	6-Sulfo-sialyl Lewis x (6-sulfo SLewis x)	G00672PE		https://glycomotif.glyomics.org/glycomotif/GDV.000088
+GDV.000089	Sialyl Lewis a glycolipid	G50321QR		https://glycomotif.glyomics.org/glycomotif/GDV.000089
+GDV.000090	Sialyl Lewis a (SLea)  (CA19-9 antigen)	G00053MO		https://glycomotif.glyomics.org/glycomotif/GDV.000090
+GDV.000091	GQ1ba	G54733XO		https://glycomotif.glyomics.org/glycomotif/GDV.000091
+GDV.000092	Di-sialyl T antigen	G01614ZM		https://glycomotif.glyomics.org/glycomotif/GDV.000092
+GDV.000093	Disialosyl globopentaosylceramide	G97932OH		https://glycomotif.glyomics.org/glycomotif/GDV.000093
+GDV.000094	GT1aa	G02149VR		https://glycomotif.glyomics.org/glycomotif/GDV.000094
+GDV.000095	GP1c	G04433GV		https://glycomotif.glyomics.org/glycomotif/GDV.000095
+GDV.000096	GD1a	G45714BQ		https://glycomotif.glyomics.org/glycomotif/GDV.000096
+GDV.000097	Sialyl T antigen	G65562ZE		https://glycomotif.glyomics.org/glycomotif/GDV.000097
+GDV.000098	GL-7 globoseries ganglioside (SSEA-4)	G32254QI		https://glycomotif.glyomics.org/glycomotif/GDV.000098
+GDV.000099	GD1a	G46677TE		https://glycomotif.glyomics.org/glycomotif/GDV.000099
+GDV.000100	GT1b	G40183QN		https://glycomotif.glyomics.org/glycomotif/GDV.000100
+GDV.000101	GQ1c	G99524KA		https://glycomotif.glyomics.org/glycomotif/GDV.000101
+GDV.000102	cisGM1 (GM1b)	G03277YI		https://glycomotif.glyomics.org/glycomotif/GDV.000102
+GDV.000103	SDLex	G19619KS		https://glycomotif.glyomics.org/glycomotif/GDV.000103
+GDV.000104	6-Sulfo-sialyl Lewis x (6-sulfo SLex)	G80722US		https://glycomotif.glyomics.org/glycomotif/GDV.000104
+GDV.000105	Sialyl Lewis x (SLex)	G00054MO		https://glycomotif.glyomics.org/glycomotif/GDV.000105
+GDV.000106	SLex Core 2 O-glycan glycan	G97345NY		https://glycomotif.glyomics.org/glycomotif/GDV.000106
+GDV.000107	Disialyl-branched Type 2	G54937EM		https://glycomotif.glyomics.org/glycomotif/GDV.000107
+GDV.000108	GM3	G91237TK		https://glycomotif.glyomics.org/glycomotif/GDV.000108
+GDV.000109	2,6-Branched O-mannose	G06953DR		https://glycomotif.glyomics.org/glycomotif/GDV.000109
+GDV.000110	O-Linked mannose	G59126YU		https://glycomotif.glyomics.org/glycomotif/GDV.000110
+GDV.000111	VIM-2	G22418PV		https://glycomotif.glyomics.org/glycomotif/GDV.000111
+GDV.000112	3-Sialyl-LN (type 2)	G10203DW		https://glycomotif.glyomics.org/glycomotif/GDV.000112
+GDV.000113	GM4	G30207PZ		https://glycomotif.glyomics.org/glycomotif/GDV.000113
+GDV.000114	Sialosyl paragloboside	G50123ZO		https://glycomotif.glyomics.org/glycomotif/GDV.000114
+GDV.000115	2,6-sialyl-Sulfo-LN (6-sialyl-6-sulfo LN)	G43191LZ		https://glycomotif.glyomics.org/glycomotif/GDV.000115
+GDV.000116	Monosialylganglioside LSTb	G83513YI		https://glycomotif.glyomics.org/glycomotif/GDV.000116
+GDV.000117	Sialyl Tn antigen	G36123IU		https://glycomotif.glyomics.org/glycomotif/GDV.000117
+GDV.000118	Sialylated LDN	G55583HW		https://glycomotif.glyomics.org/glycomotif/GDV.000118
+GDV.000119	6-Sialyl-GalNAc or 6-Sialyl LN (type 1 or 2)	G73708UL		https://glycomotif.glyomics.org/glycomotif/GDV.000119
+GDV.000120	Sialosyl paragloboside	G00065MO		https://glycomotif.glyomics.org/glycomotif/GDV.000120
+GDV.000121	GQ1aa	G90598GO		https://glycomotif.glyomics.org/glycomotif/GDV.000121
+GDV.000122	GH1ca	G14091MR		https://glycomotif.glyomics.org/glycomotif/GDV.000122
+GDV.000123	GT1a	G68110IF		https://glycomotif.glyomics.org/glycomotif/GDV.000123
+GDV.000124	GQ1b	G18625KA		https://glycomotif.glyomics.org/glycomotif/GDV.000124
+GDV.000125	GP1c	G26203DP		https://glycomotif.glyomics.org/glycomotif/GDV.000125
+GDV.000126	GD1 (GD1c)	G81983KG		https://glycomotif.glyomics.org/glycomotif/GDV.000126
+GDV.000127	GD3	G98544DH		https://glycomotif.glyomics.org/glycomotif/GDV.000127
+GDV.000128	GT3	G93899SO		https://glycomotif.glyomics.org/glycomotif/GDV.000128
+GDV.000129	GD3	G98544DH		https://glycomotif.glyomics.org/glycomotif/GDV.000129

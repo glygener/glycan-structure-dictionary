@@ -1,0 +1,153 @@
+<mxfile host="app.diagrams.net" agent="Claude" version="24.7.0" type="device">
+  <diagram name="bGSL merge example" id="merge">
+    <mxGraphModel dx="1400" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1280" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+
+        <!-- ============ HEADER ============ -->
+        <mxCell id="title" value="How different surface forms collapse into one bGSL entry" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=22;fontStyle=1;fontColor=#0f172a;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="18" width="1180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Worked example: the Class 1A entity asialo-GM1. Real rows from the v2.0.0-draft (2026-06-18) curated release." style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=13;fontColor=#475569;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="46" width="1180" height="20" as="geometry" />
+        </mxCell>
+
+        <!-- ============ COLUMN HEADERS ============ -->
+        <mxCell id="hdr1" value="Raw rows from 6 sources" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=14;fontStyle=1;fontColor=#0f172a;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="85" width="240" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hdr1s" value="same concept, different spellings + abbreviations" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontColor=#64748b;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="103" width="240" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hdr2" value="Resolver pipeline" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=14;fontStyle=1;fontColor=#0f172a;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="400" y="85" width="440" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hdr2s" value="retrieve → resolve → register (one term at a time)" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontColor=#64748b;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="400" y="103" width="440" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="hdr3" value="One bGSL node" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=14;fontStyle=1;fontColor=#0f172a;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="900" y="85" width="310" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="hdr3s" value="all forms merged; relations kept as edges" style="text;html=1;strokeColor=none;fillColor=none;align=center;fontSize=11;fontColor=#64748b;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="900" y="103" width="310" height="16" as="geometry" />
+        </mxCell>
+
+        <!-- ============ LEFT: 7 SOURCE ROWS ============ -->
+        <mxCell id="row1" value="&lt;div style=&quot;padding:6px 12px;text-align:left;&quot;&gt;&lt;div style=&quot;font-family:ui-monospace,Menlo,monospace;font-size:10px;color:#64748b;&quot;&gt;SRC:EOG_VARKI_4E&lt;/div&gt;&lt;div style=&quot;font-size:13px;font-weight:600;color:#0f172a;margin-top:2px;&quot;&gt;asialo-GM1&lt;/div&gt;&lt;div style=&quot;font-size:11px;color:#334155;margin-top:1px;&quot;&gt;description: &quot;ganglioside missing the sialic acid…&quot;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;strokeWidth=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="132" width="240" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="row2" value="&lt;div style=&quot;padding:6px 12px;text-align:left;&quot;&gt;&lt;div style=&quot;font-family:ui-monospace,Menlo,monospace;font-size:10px;color:#64748b;&quot;&gt;SRC:GSD_GLYGEN_V0&lt;/div&gt;&lt;div style=&quot;font-size:13px;font-weight:600;color:#0f172a;margin-top:2px;&quot;&gt;asialo-GM1&lt;/div&gt;&lt;div style=&quot;font-size:11px;color:#334155;margin-top:1px;&quot;&gt;gtc_id: G21856LC · gsd_id: GSD000024&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;strokeWidth=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="194" width="240" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="row3" value="&lt;div style=&quot;padding:6px 12px;text-align:left;&quot;&gt;&lt;div style=&quot;font-family:ui-monospace,Menlo,monospace;font-size:10px;color:#64748b;&quot;&gt;SRC:PUBDICTIONARIES-GLYCAN-IMAGE&lt;/div&gt;&lt;div style=&quot;font-size:13px;font-weight:600;color:#0f172a;margin-top:2px;&quot;&gt;asialo-GM1&lt;/div&gt;&lt;div style=&quot;font-size:11px;color:#334155;margin-top:1px;&quot;&gt;iupac: Gal(b1-3)GalNAc(b1-4)Gal(b1-4)Glc&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;strokeWidth=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="256" width="240" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="row4" value="&lt;div style=&quot;padding:6px 12px;text-align:left;&quot;&gt;&lt;div style=&quot;font-family:ui-monospace,Menlo,monospace;font-size:10px;color:#64748b;&quot;&gt;SRC:CUMMINGS&lt;/div&gt;&lt;div style=&quot;font-size:13px;font-weight:600;color:#0f172a;margin-top:2px;&quot;&gt;Asialo-GM1&lt;/div&gt;&lt;div style=&quot;font-size:11px;color:#334155;margin-top:1px;&quot;&gt;(case differs — same concept)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;strokeWidth=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="318" width="240" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="row5" value="&lt;div style=&quot;padding:6px 12px;text-align:left;&quot;&gt;&lt;div style=&quot;font-family:ui-monospace,Menlo,monospace;font-size:10px;color:#64748b;&quot;&gt;SRC:GLYCOMOTIF_GGM&lt;/div&gt;&lt;div style=&quot;font-size:13px;font-weight:600;color:#0f172a;margin-top:2px;&quot;&gt;Asialo-GM1&lt;/div&gt;&lt;div style=&quot;font-size:11px;color:#334155;margin-top:1px;&quot;&gt;glycomotif_id: GGM.000040 · keyword: ganglioside&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;strokeWidth=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="380" width="240" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="row6" value="&lt;div style=&quot;padding:6px 12px;text-align:left;&quot;&gt;&lt;div style=&quot;font-family:ui-monospace,Menlo,monospace;font-size:10px;color:#64748b;&quot;&gt;SRC:PUBDICTIONARIES-GLYCAN-IMAGE&lt;/div&gt;&lt;div style=&quot;font-size:13px;font-weight:600;color:#0f172a;margin-top:2px;&quot;&gt;AGM1&lt;/div&gt;&lt;div style=&quot;font-size:11px;color:#334155;margin-top:1px;&quot;&gt;raw_term looked like an abbreviation, not a concept&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#cbd5e1;strokeWidth=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="442" width="240" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="row7" value="&lt;div style=&quot;padding:6px 12px;text-align:left;&quot;&gt;&lt;div style=&quot;font-family:ui-monospace,Menlo,monospace;font-size:10px;color:#64748b;&quot;&gt;SRC:BIOOLIGO&lt;/div&gt;&lt;div style=&quot;font-size:13px;font-weight:600;color:#b91c1c;margin-top:2px;&quot;&gt;GA1&lt;/div&gt;&lt;div style=&quot;font-size:11px;color:#334155;margin-top:1px;&quot;&gt;gtc_id: G21856LC · &quot;asialo ganglio-tetraosylceramide&quot;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8fafc;strokeColor=#b91c1c;strokeWidth=1;dashed=1;dashPattern=3 3;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="512" width="240" height="52" as="geometry" />
+        </mxCell>
+
+        <!-- Note under GA1 -->
+        <mxCell id="row7note" value="&lt;i&gt;Note: GA1 shares the SAME GlyTouCan ID as asialo-GM1 but stays a SEPARATE node — GA1 is a different name-tradition entity even if the chemistry overlaps.&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=11;fontColor=#64748b;fontStyle=2;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="576" width="240" height="60" as="geometry" />
+        </mxCell>
+
+        <!-- Bracket lines feeding into pipeline: draw as generic connectors -->
+        <mxCell id="bracket_a" value="" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=1.6;endArrow=none;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="158" as="sourcePoint" />
+            <mxPoint x="330" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bracket_b" value="" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=1.6;endArrow=none;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="158" as="sourcePoint" />
+            <mxPoint x="330" y="468" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bracket_c" value="" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=1.6;endArrow=none;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="468" as="sourcePoint" />
+            <mxPoint x="280" y="468" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="feed_into_pipeline" value="fed one row at a time" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=1.6;endArrow=classic;endFill=1;endSize=8;fontSize=11;fontColor=#64748b;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+
+        <!-- GA1 to related section arrow (red, dashed) -->
+        <mxCell id="ga1_to_related" value="GA1 → separate node, edge added at merge time ↓" style="edgeStyle=orthogonalEdgeStyle;html=1;strokeColor=#b91c1c;strokeWidth=1.6;dashed=1;dashPattern=5 3;endArrow=classic;endFill=1;endSize=8;fontSize=11;fontColor=#b91c1c;fontStyle=1;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="538" as="sourcePoint" />
+            <mxPoint x="900" y="720" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="320" y="538" />
+              <mxPoint x="320" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+
+        <!-- ============ MIDDLE: PIPELINE BOX ============ -->
+        <mxCell id="pipeline" value="&lt;div style=&quot;padding:12px 18px;text-align:left;font-size:11px;color:#334155;line-height:1.4;&quot;&gt;&lt;div style=&quot;font-size:14px;font-weight:700;color:#0f172a;&quot;&gt;Term-by-term resolver&lt;/div&gt;&lt;br/&gt;&lt;div style=&quot;font-size:10px;font-weight:700;color:#64748b;letter-spacing:0.6px;&quot;&gt;STEP 1 — retrieve&lt;/div&gt;Vector search for row 4 &lt;span style=&quot;font-family:ui-monospace,Menlo,monospace;&quot;&gt;&quot;Asialo-GM1&quot;&lt;/span&gt;:&lt;br/&gt;&lt;span style=&quot;font-family:ui-monospace,Menlo,monospace;color:#0f172a;&quot;&gt;&amp;nbsp;&amp;nbsp;best candidate: asialo-GM1 · score 0.92&lt;br/&gt;&amp;nbsp;&amp;nbsp;runner-up:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;GA1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;· score 0.71&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;div style=&quot;font-size:10px;font-weight:700;color:#64748b;letter-spacing:0.6px;&quot;&gt;STEP 2 — resolve (fast-path fires)&lt;/div&gt;Normalised surface form matches after case-fold:&lt;br/&gt;&lt;span style=&quot;font-family:ui-monospace,Menlo,monospace;color:#0f172a;&quot;&gt;&amp;nbsp;&amp;nbsp;&quot;Asialo-GM1&quot; → asialogm1&lt;br/&gt;&amp;nbsp;&amp;nbsp;&quot;asialo-GM1&quot; → asialogm1&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;✓ same&lt;/span&gt;&lt;br/&gt;Decision: MAP · edge_type = exact_synonym_of&lt;br/&gt;→ no LLM call needed&lt;br/&gt;&lt;br/&gt;&lt;div style=&quot;font-size:10px;font-weight:700;color:#64748b;letter-spacing:0.6px;&quot;&gt;STEP 3 — later, row 6 (&quot;AGM1&quot;) arrives&lt;/div&gt;Vector store now has &quot;asialo-GM1&quot; as an entry.&lt;br/&gt;Surface form doesn&apos;t normalize equal; LLM is called:&lt;br/&gt;&lt;span style=&quot;font-family:ui-monospace,Menlo,monospace;color:#0f172a;&quot;&gt;&amp;nbsp;&amp;nbsp;action:&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&quot;map&quot;&lt;br/&gt;&amp;nbsp;&amp;nbsp;edge_type:&amp;nbsp;&amp;nbsp;&quot;abbreviation_of&quot;&lt;br/&gt;&amp;nbsp;&amp;nbsp;rationale:&amp;nbsp;&amp;nbsp;&quot;AGM1 is a common abbreviation for asialo-GM1.&quot;&lt;/span&gt;&lt;br/&gt;&lt;i&gt;→ AGM1 appended to abbreviations[], no new node created&lt;/i&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ecfeff;strokeColor=#0891b2;strokeWidth=1.8;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="400" y="178" width="440" height="380" as="geometry" />
+        </mxCell>
+
+        <!-- Arrow from pipeline to merged node -->
+        <mxCell id="pipeline_to_node" style="edgeStyle=none;html=1;strokeColor=#334155;strokeWidth=1.6;endArrow=classic;endFill=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="368" as="sourcePoint" />
+            <mxPoint x="900" y="368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+
+        <!-- ============ RIGHT: MERGED NODE ============ -->
+        <mxCell id="merged_node" value="&lt;div style=&quot;padding:12px 14px;text-align:left;&quot;&gt;&lt;div style=&quot;font-size:16px;font-weight:700;color:#0f172a;&quot;&gt;asialo-GM1&lt;/div&gt;&lt;div style=&quot;font-family:ui-monospace,Menlo,monospace;font-size:10px;color:#64748b;margin-top:2px;&quot;&gt;GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5&lt;/div&gt;&lt;hr style=&quot;border:none;border-top:0.8px solid #16a34a;opacity:0.4;margin:8px 0;&quot;/&gt;&lt;div style=&quot;font-size:10px;font-weight:700;color:#64748b;letter-spacing:0.6px;&quot;&gt;PREFERRED LABEL&lt;/div&gt;&lt;div style=&quot;font-size:12px;color:#0f172a;&quot;&gt;asialo-GM1&lt;/div&gt;&lt;br/&gt;&lt;div style=&quot;font-size:10px;font-weight:700;color:#64748b;letter-spacing:0.6px;&quot;&gt;EXACT SYNONYMS (5)&lt;/div&gt;&lt;div style=&quot;font-size:12px;color:#0f172a;&quot;&gt;Asialo-GM1, asialoGM1, asialo-GM1a, Gg4Cer&lt;/div&gt;&lt;br/&gt;&lt;div style=&quot;font-size:10px;font-weight:700;color:#64748b;letter-spacing:0.6px;&quot;&gt;ABBREVIATIONS (3)&lt;/div&gt;&lt;div style=&quot;font-size:12px;color:#0f172a;&quot;&gt;AGM1, aGM1, as-GM1&lt;/div&gt;&lt;br/&gt;&lt;div style=&quot;font-size:10px;font-weight:700;color:#64748b;letter-spacing:0.6px;&quot;&gt;GLYTOUCAN IDS&lt;/div&gt;&lt;div style=&quot;font-family:ui-monospace,Menlo,monospace;font-size:11px;color:#0f172a;&quot;&gt;G21856LC, G00407UJ&lt;/div&gt;&lt;br/&gt;&lt;div style=&quot;font-size:10px;font-weight:700;color:#64748b;letter-spacing:0.6px;&quot;&gt;SOURCES (5)&lt;/div&gt;&lt;div style=&quot;font-family:ui-monospace,Menlo,monospace;font-size:10px;color:#64748b;line-height:1.4;&quot;&gt;EOG_VARKI_4E&lt;br/&gt;GSD_GLYGEN_V0&lt;br/&gt;PUBDICTIONARIES-GLYCAN-IMAGE&lt;br/&gt;CUMMINGS&lt;br/&gt;GLYCOMOTIF_GGM&lt;/div&gt;&lt;br/&gt;&lt;div style=&quot;font-size:10px;font-weight:700;color:#64748b;letter-spacing:0.6px;&quot;&gt;DESCRIPTION&lt;/div&gt;&lt;div style=&quot;font-size:12px;color:#0f172a;&quot;&gt;ganglioside missing the sialic acid residue found on GM1&lt;/div&gt;&lt;br/&gt;&lt;div style=&quot;font-size:10px;font-weight:700;color:#64748b;letter-spacing:0.6px;&quot;&gt;EVIDENCE&lt;/div&gt;&lt;div style=&quot;font-size:12px;color:#0f172a;&quot;&gt;EoG ch11 · PMID:17728258 (from GSD_GLYGEN_V0)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="900" y="132" width="310" height="450" as="geometry" />
+        </mxCell>
+
+        <!-- Class 1A badge on merged node -->
+        <mxCell id="class_badge" value="Class 1A" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#16a34a;strokeColor=#16a34a;fontSize=11;fontStyle=1;fontColor=#ffffff;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="144" width="58" height="20" as="geometry" />
+        </mxCell>
+
+        <!-- ============ RELATED NODES ============ -->
+        <mxCell id="related_hdr" value="Related nodes (kept separate, linked by edges)" style="text;html=1;strokeColor=none;fillColor=none;align=left;fontSize=14;fontStyle=1;fontColor=#0f172a;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="900" y="606" width="310" height="18" as="geometry" />
+        </mxCell>
+
+        <mxCell id="related_ga1" value="&lt;div style=&quot;padding:8px 10px;text-align:left;&quot;&gt;&lt;div style=&quot;font-size:14px;font-weight:700;color:#0f172a;&quot;&gt;GA1&lt;/div&gt;&lt;div style=&quot;font-family:ui-monospace,Menlo,monospace;font-size:10px;color:#64748b;&quot;&gt;GSD:a7868da4-…&lt;/div&gt;&lt;div style=&quot;font-size:10px;font-weight:700;color:#64748b;letter-spacing:0.6px;margin-top:6px;&quot;&gt;Class 1A&lt;/div&gt;&lt;div style=&quot;font-size:10px;color:#0f172a;&quot;&gt;from SRC:BIOOLIGO&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=1.6;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="900" y="628" width="150" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="related_gtc" value="&lt;div style=&quot;padding:8px 10px;text-align:left;&quot;&gt;&lt;div style=&quot;font-size:12px;font-weight:700;color:#0f172a;&quot;&gt;Gangliotetra-&lt;br/&gt;osylceramide&lt;/div&gt;&lt;div style=&quot;font-size:10px;font-weight:700;color:#64748b;letter-spacing:0.6px;margin-top:6px;&quot;&gt;Class 1A&lt;/div&gt;&lt;div style=&quot;font-size:10px;color:#0f172a;&quot;&gt;from SRC:SUGARBIND&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=1.6;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="628" width="150" height="66" as="geometry" />
+        </mxCell>
+
+        <!-- Edges from merged node to related nodes -->
+        <mxCell id="edge_to_ga1" value="has_related_synonym →" style="edgeStyle=none;html=1;strokeColor=#b91c1c;strokeWidth=1.6;dashed=1;dashPattern=5 3;endArrow=classic;endFill=1;endSize=8;fontSize=11;fontStyle=6;fontColor=#b91c1c;exitX=0.35;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="merged_node" target="related_ga1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_to_gtc" value="← related_synonym_of" style="edgeStyle=none;html=1;strokeColor=#b91c1c;strokeWidth=1.6;dashed=1;dashPattern=5 3;endArrow=classic;endFill=1;endSize=8;fontSize=11;fontStyle=6;fontColor=#b91c1c;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="merged_node" target="related_gtc">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+
+        <!-- ============ BOTTOM: EDGE ANNOTATION BOX ============ -->
+        <mxCell id="edges_box" value="&lt;div style=&quot;padding:10px 14px;text-align:left;font-size:11px;color:#0f172a;line-height:1.5;&quot;&gt;&lt;div style=&quot;font-size:14px;font-weight:700;color:#0f172a;&quot;&gt;Two edges live in &lt;span style=&quot;font-family:ui-monospace,Menlo,monospace;&quot;&gt;master_edges.json&lt;/span&gt; for this concept:&lt;/div&gt;&lt;br/&gt;&lt;span style=&quot;font-family:ui-monospace,Menlo,monospace;&quot;&gt;{ &quot;subj&quot;: &quot;GSD:asialo-GM1&quot;, &quot;pred&quot;: &quot;has_related_synonym&quot;, &quot;obj&quot;: &quot;GSD:GA1&quot;,&lt;br/&gt;&amp;nbsp;&amp;nbsp;&quot;comment&quot;: &quot;asialo-GM1 has related synonym GA1&quot; }&lt;br/&gt;{ &quot;subj&quot;: &quot;GSD:asialo-GM1&quot;, &quot;pred&quot;: &quot;related_synonym_of&quot;, &quot;obj&quot;: &quot;GSD:Gangliotetraosylceramide&quot;,&lt;br/&gt;&amp;nbsp;&amp;nbsp;&quot;comment&quot;: &quot;curator-hint: asialo-GM1 related_synonym_of Gangliotetraosylceramide&quot; }&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot;color:#64748b;&quot;&gt;GA1 and Gangliotetraosylceramide share the same underlying chemistry (GTC G21856LC) but are named-entity siblings, not synonyms.&lt;br/&gt;The resolver keeps them as separate concepts and connects them with edges — this is why the GTC-ID fast-path is disabled.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef2f2;strokeColor=#fca5a5;strokeWidth=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="30" y="720" width="840" height="140" as="geometry" />
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

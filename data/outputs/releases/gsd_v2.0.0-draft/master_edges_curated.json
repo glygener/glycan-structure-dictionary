@@ -1,0 +1,1808 @@
+[
+  {
+    "subj": "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5",
+    "pred": "has_related_synonym",
+    "obj": "GSD:a7868da4-a6c2-4825-97b9-c86700b1c213",
+    "comment": "asialo-GM1 has related synonym GA1"
+  },
+  {
+    "subj": "GSD:20e88f5c-c2b3-59f6-be89-7e0e58465d7c",
+    "pred": "has_related_synonym",
+    "obj": "GSD:94c78688-31d6-41ea-b885-c811f945864d",
+    "comment": "Gb3 has related synonym Pk antigen"
+  },
+  {
+    "subj": "GSD:20e88f5c-c2b3-59f6-be89-7e0e58465d7c",
+    "pred": "has_related_synonym",
+    "obj": "GSD:2721b555-911d-4079-a026-e761a752deb8",
+    "comment": "Gb3 has related synonym CD77"
+  },
+  {
+    "subj": "GSD:b137039e-0172-5d89-8fa3-68775f8d4016",
+    "pred": "has_related_synonym",
+    "obj": "GSD:cf106ff8-f5cf-494a-a7bd-47029cde0d2b",
+    "comment": "Gb4 has related synonym P antigen"
+  },
+  {
+    "subj": "GSD:b137039e-0172-5d89-8fa3-68775f8d4016",
+    "pred": "has_related_synonym",
+    "obj": "GSD:81b8b67f-335f-43bf-b121-bfef58adefa3",
+    "comment": "globotetraosylceramide has related synonym globoside"
+  },
+  {
+    "subj": "GSD:b137039e-0172-5d89-8fa3-68775f8d4016",
+    "pred": "has_related_synonym",
+    "obj": "GSD:ba254b85-f6cc-488f-9566-6222489e80a8",
+    "comment": "globotetraosylceramide has related synonym globoside I"
+  },
+  {
+    "subj": "GSD:b137039e-0172-5d89-8fa3-68775f8d4016",
+    "pred": "has_related_synonym",
+    "obj": "GSD:4f568f2a-42af-4cf8-8cb8-0beaaffed216",
+    "comment": "globotetraosylceramide has related synonym cytolipin K"
+  },
+  {
+    "subj": "GSD:41b2fe6b-f72e-4862-8242-b434ce339bf6",
+    "pred": "has_related_synonym",
+    "obj": "GSD:263b5566-6e4e-41d1-9f12-c8339e6bf126",
+    "comment": "globopentaosylceramide has related synonym SSEA-3"
+  },
+  {
+    "subj": "GSD:89e36335-2fea-5ef3-a3a8-559985883dad",
+    "pred": "has_related_synonym",
+    "obj": "GSD:1ea3fdb2-913c-49d2-8e5b-63f0120eae2b",
+    "comment": "sialyl Lewis a has related synonym CA19-9"
+  },
+  {
+    "subj": "GSD:5c444dc8-d458-53df-88a8-65344b643df1",
+    "pred": "has_related_synonym",
+    "obj": "GSD:0a5b0166-1241-5a4a-a0d8-d7d1970792c6",
+    "comment": "chondroitin-4-sulfate has related synonym chondroitin sulfate A"
+  },
+  {
+    "subj": "GSD:0ef0d5e3-6dad-54e6-9bde-79eec7ce6000",
+    "pred": "has_related_synonym",
+    "obj": "GSD:37210836-4c03-58ec-ae10-befc14eacc9e",
+    "comment": "dermatan sulfate has related synonym chondroitin sulfate B"
+  },
+  {
+    "subj": "GSD:38b53e04-c595-43d5-84ce-be2c1b8ff768",
+    "pred": "has_related_synonym",
+    "obj": "GSD:0d5ea83b-21ec-59e0-a01e-35fb322984f4",
+    "comment": "chondroitin-6-sulfate has related synonym chondroitin sulfate C"
+  },
+  {
+    "subj": "GSD:03eade63-065b-5266-b0d6-2d0feb657606",
+    "pred": "has_related_synonym",
+    "obj": "GSD:2815cc13-f565-4868-9cf2-9e7800568658",
+    "comment": "GM1b has related synonym cisGM1"
+  },
+  {
+    "subj": "GSD:3aa27544-ba80-5023-b104-e0747c328c0c",
+    "pred": "has_related_synonym",
+    "obj": "GSD:fbde2c9b-d9c5-4c7c-b3ef-93cbcc3ee9cb",
+    "comment": "GM1 has related synonym GM1a"
+  },
+  {
+    "subj": "GSD:9206a8e4-f606-4bab-b7e6-5c0a17da023e",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:f4233b5f-ac92-4c8f-9aa1-87d262bd38bd",
+    "comment": "curator-hint: 2-fucosyl GM1 broad_synonym_of fucosyl GM1"
+  },
+  {
+    "subj": "GSD:750c698e-8e07-41b0-9544-0913ce47c510",
+    "pred": "related_synonym_of",
+    "obj": "GSD:d20ccf9c-3c40-4598-8097-ee7784fc6485",
+    "comment": "curator-hint: 6-sialyl GalNAc related_synonym_of sialyl Tn antigen"
+  },
+  {
+    "subj": "GSD:62034e28-8d2d-44a0-8798-c5e7ac0ffbe3",
+    "pred": "related_synonym_of",
+    "obj": "GSD:f4e2edd2-8f3a-4f8d-8e43-ad6e98aa6688",
+    "comment": "curator-hint: 9-O-acetyl GD3 related_synonym_of CD60b"
+  },
+  {
+    "subj": "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5",
+    "pred": "related_synonym_of",
+    "obj": "GSD:c7365bd0-d36d-417e-afbd-f0ea279079a7",
+    "comment": "curator-hint: asialo-GM1 related_synonym_of Gangliotetraosylceramide"
+  },
+  {
+    "subj": "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5",
+    "pred": "related_synonym_of",
+    "obj": "GSD:c2985647-b5b6-4f5c-b821-849aaab0d1e7",
+    "comment": "curator-hint: asialo-GM1 related_synonym_of GgO4"
+  },
+  {
+    "subj": "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5",
+    "pred": "related_synonym_of",
+    "obj": "GSD:1cceb035-c686-4f32-a94e-fab3c6921c69",
+    "comment": "curator-hint: asialo-GM1 related_synonym_of Gg4"
+  },
+  {
+    "subj": "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5",
+    "pred": "related_synonym_of",
+    "obj": "GSD:e6012f56-e682-492d-88df-ad9ccaba878f",
+    "comment": "curator-hint: asialo-GM1 related_synonym_of ganglio-N-tetraosylceramide"
+  },
+  {
+    "subj": "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:0b1c510c-b4fc-446a-8099-092c4ce87f84",
+    "comment": "curator-hint: asialo-GM1 narrow_synonym_of Asialo-GM1a"
+  },
+  {
+    "subj": "GSD:2cfbb66d-c3bb-4bb7-b9b5-ba9fe800f805",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:7aacbe76-ef5d-4993-9eca-92c602ddd5f1",
+    "comment": "curator-hint: blood group B type 1 narrow_synonym_of blood group B type 1 tetrasaccharide"
+  },
+  {
+    "subj": "GSD:3d250b8c-6c0f-5d52-9fd3-1a58a7660e1d",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:6f3a5d68-62c5-4a41-982b-00b1320a4844",
+    "comment": "curator-hint: chondroitin sulfate narrow_synonym_of chondroitin polysulfate"
+  },
+  {
+    "subj": "GSD:50d1be21-660a-5e10-a72d-f832009f71db",
+    "pred": "related_synonym_of",
+    "obj": "GSD:e31f37b8-7c20-43b6-b039-c2839a395dec",
+    "comment": "curator-hint: core-fucose related_synonym_of Fuca6 to chitobiose core"
+  },
+  {
+    "subj": "GSD:50d1be21-660a-5e10-a72d-f832009f71db",
+    "pred": "related_synonym_of",
+    "obj": "GSD:27612916-64e5-4575-bda1-673156a9787d",
+    "comment": "curator-hint: core-fucose related_synonym_of Fuc a1-6 to chitobiose core"
+  },
+  {
+    "subj": "GSD:50d1be21-660a-5e10-a72d-f832009f71db",
+    "pred": "related_synonym_of",
+    "obj": "GSD:16552738-7144-4b2b-bdb7-8e079bf8548c",
+    "comment": "curator-hint: core-fucose related_synonym_of Fuca6 to internal GlcNAc"
+  },
+  {
+    "subj": "GSD:50d1be21-660a-5e10-a72d-f832009f71db",
+    "pred": "related_synonym_of",
+    "obj": "GSD:67160a1b-c6fb-4610-a608-dc8f874c1a0e",
+    "comment": "curator-hint: core-fucose related_synonym_of Fuc a1-6 to internal GlcNAc"
+  },
+  {
+    "subj": "GSD:50d1be21-660a-5e10-a72d-f832009f71db",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:d03ef1c0-55c8-42d1-b9ac-2e2e26a3e1d5",
+    "comment": "curator-hint: core-fucose broad_synonym_of 6-linked Fuc"
+  },
+  {
+    "subj": "GSD:50d1be21-660a-5e10-a72d-f832009f71db",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:9b94f6df-2be5-46c4-81e6-754662127527",
+    "comment": "curator-hint: core-fucose broad_synonym_of a6-linked Fuc"
+  },
+  {
+    "subj": "GSD:50d1be21-660a-5e10-a72d-f832009f71db",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:21dc3e1d-e82d-4466-8463-cefe881c76e6",
+    "comment": "curator-hint: core-fucose broad_synonym_of a1-6 Fuc"
+  },
+  {
+    "subj": "GSD:0ef0d5e3-6dad-54e6-9bde-79eec7ce6000",
+    "pred": "related_synonym_of",
+    "obj": "GSD:896ae2b0-3d98-4cd9-bcc6-20e315f40cd7",
+    "comment": "curator-hint: dermatan sulfate related_synonym_of Dermatan L-iduronate"
+  },
+  {
+    "subj": "GSD:e2a4d7b2-d63d-4a6f-903b-8b8496105935",
+    "pred": "related_synonym_of",
+    "obj": "GSD:13993f7f-fa8d-4a13-a480-df77999b11f6",
+    "comment": "curator-hint: disialosyl globopentaosylceramide related_synonym_of Disialosylgalactosylgloboside"
+  },
+  {
+    "subj": "GSD:a47dfc91-828d-439e-bc70-b72c8acea46a",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:53423702-cdf3-4e29-a90c-839dbbd00dbe",
+    "comment": "curator-hint: fucosylated biantennary N-glycan narrow_synonym_of fucosylated bisialo-diantennary"
+  },
+  {
+    "subj": "GSD:4a34d191-5be6-4d2c-a6d3-11af678e1f4f",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:4329acb4-672c-491c-bc94-700102d12028",
+    "comment": "curator-hint: globotriaosylceramide broad_synonym_of ceramide trihexoside"
+  },
+  {
+    "subj": "GSD:4a34d191-5be6-4d2c-a6d3-11af678e1f4f",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:086db3bf-b1ff-42ef-bd90-8e7675609b8b",
+    "comment": "curator-hint: globotriaosylceramide broad_synonym_of Trihexosylceramide"
+  },
+  {
+    "subj": "GSD:3d06d77f-0323-508b-8678-7e86c86b85c4",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:c84e0bdf-60de-4a49-a507-d7c19735946b",
+    "comment": "curator-hint: glucosylceramide broad_synonym_of Ceramide monohexoside"
+  },
+  {
+    "subj": "GSD:3d06d77f-0323-508b-8678-7e86c86b85c4",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:b5278efd-601c-4b52-b328-a6bc9048c472",
+    "comment": "curator-hint: glucosylceramide broad_synonym_of CMH"
+  },
+  {
+    "subj": "GSD:15331070-8cdb-43d9-a119-dd63f1a73802",
+    "pred": "related_synonym_of",
+    "obj": "GSD:a682658d-b125-4241-a0e8-ee640795c5a6",
+    "comment": "curator-hint: GM4 related_synonym_of Sialylated GalCer"
+  },
+  {
+    "subj": "GSD:928fc0f5-5bfb-5be8-9eb6-dd405155d720",
+    "pred": "related_synonym_of",
+    "obj": "GSD:437e53a7-3a6f-4e2f-afc1-b2b729793915",
+    "comment": "curator-hint: heparan sulfate related_synonym_of Heparan N-sulfate"
+  },
+  {
+    "subj": "GSD:928fc0f5-5bfb-5be8-9eb6-dd405155d720",
+    "pred": "related_synonym_of",
+    "obj": "GSD:661c571c-c079-477b-a5ec-649bf940667b",
+    "comment": "curator-hint: heparan sulfate related_synonym_of Heparin monosulfate"
+  },
+  {
+    "subj": "GSD:928fc0f5-5bfb-5be8-9eb6-dd405155d720",
+    "pred": "related_synonym_of",
+    "obj": "GSD:f432eac4-e2e4-417a-b332-be537cdc1a4d",
+    "comment": "curator-hint: heparan sulfate related_synonym_of Heparin sulfate"
+  },
+  {
+    "subj": "GSD:928fc0f5-5bfb-5be8-9eb6-dd405155d720",
+    "pred": "related_synonym_of",
+    "obj": "GSD:d65c00fb-f34f-4eae-a8ad-0dfcbbeb6867",
+    "comment": "curator-hint: heparan sulfate related_synonym_of Heparitin monosulfate"
+  },
+  {
+    "subj": "GSD:928fc0f5-5bfb-5be8-9eb6-dd405155d720",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:f9d2f914-da91-4ca1-a740-dd1e0612f800",
+    "comment": "curator-hint: heparan sulfate narrow_synonym_of N-Acetylheparan sulfate"
+  },
+  {
+    "subj": "GSD:1b759e1d-9070-5800-9001-ee81290ddc26",
+    "pred": "related_synonym_of",
+    "obj": "GSD:f628fe51-4aaf-4ac1-9558-f15e5bee8efe",
+    "comment": "curator-hint: heparin related_synonym_of Heparinic acid"
+  },
+  {
+    "subj": "GSD:1b759e1d-9070-5800-9001-ee81290ddc26",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:c123ce9b-c66d-4930-9b29-7d4539881bda",
+    "comment": "curator-hint: heparin narrow_synonym_of bemiparin"
+  },
+  {
+    "subj": "GSD:1b759e1d-9070-5800-9001-ee81290ddc26",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:eb025b5a-2990-4721-82ee-ac9024ba09ea",
+    "comment": "curator-hint: heparin narrow_synonym_of bemiparin"
+  },
+  {
+    "subj": "GSD:1b759e1d-9070-5800-9001-ee81290ddc26",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:3a205e0e-756e-4d1d-8a9f-311ff67e7389",
+    "comment": "curator-hint: heparin narrow_synonym_of certoparin"
+  },
+  {
+    "subj": "GSD:1b759e1d-9070-5800-9001-ee81290ddc26",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:ef72a9ae-62a9-4ab8-898b-d92b3020faf0",
+    "comment": "curator-hint: heparin narrow_synonym_of Cy 222"
+  },
+  {
+    "subj": "GSD:1b759e1d-9070-5800-9001-ee81290ddc26",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:1f001b39-6cb5-49e3-9ae2-756de8c54c69",
+    "comment": "curator-hint: heparin narrow_synonym_of enoxaparin"
+  },
+  {
+    "subj": "GSD:1b759e1d-9070-5800-9001-ee81290ddc26",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:0e118bcc-9d34-4cc3-bdff-05f0cefaa2aa",
+    "comment": "curator-hint: heparin narrow_synonym_of fluxum"
+  },
+  {
+    "subj": "GSD:1b759e1d-9070-5800-9001-ee81290ddc26",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:461b9a50-192f-43ed-96ad-6bbeadd60c48",
+    "comment": "curator-hint: heparin narrow_synonym_of parnaparin"
+  },
+  {
+    "subj": "GSD:1b759e1d-9070-5800-9001-ee81290ddc26",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:e02d68bf-6091-4776-b188-5a54a577ce3f",
+    "comment": "curator-hint: heparin narrow_synonym_of reviparin"
+  },
+  {
+    "subj": "GSD:1b759e1d-9070-5800-9001-ee81290ddc26",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:ccf7fdeb-9dbc-439b-94d4-38f0d0b0ea1e",
+    "comment": "curator-hint: heparin narrow_synonym_of sandoparin"
+  },
+  {
+    "subj": "GSD:4fc55ea7-72c4-4dd2-80f8-5501b1c81743",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:a4aab6f8-07af-4349-abb0-62df2bc1391c",
+    "comment": "curator-hint: i antigen narrow_synonym_of Type 2 LN2"
+  },
+  {
+    "subj": "GSD:55518b88-605c-5d07-a328-555ccbea84d0",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:939c9f0a-0edf-4a82-98a3-f78495e2c1d7",
+    "comment": "curator-hint: keratan sulfate broad_synonym_of keratan"
+  },
+  {
+    "subj": "GSD:55518b88-605c-5d07-a328-555ccbea84d0",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:23fa81d1-0f30-4f6a-a7dd-ac3b110d0f8a",
+    "comment": "curator-hint: keratan sulfate narrow_synonym_of kerato 6'-sulfate"
+  },
+  {
+    "subj": "GSD:55518b88-605c-5d07-a328-555ccbea84d0",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:27fc800f-55f0-4574-89b2-830ce3eb1c63",
+    "comment": "curator-hint: keratan sulfate narrow_synonym_of keratan 6'-sulfate"
+  },
+  {
+    "subj": "GSD:55518b88-605c-5d07-a328-555ccbea84d0",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:7abbce4e-1d37-43dc-bad0-c566e86c8c04",
+    "comment": "curator-hint: keratan sulfate narrow_synonym_of Kerato 6'-sulphate"
+  },
+  {
+    "subj": "GSD:55518b88-605c-5d07-a328-555ccbea84d0",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:55691b02-0bdf-4af1-bec6-dfcd33c42bc3",
+    "comment": "curator-hint: keratan sulfate narrow_synonym_of Keratan 6'-sulphate"
+  },
+  {
+    "subj": "GSD:0a063c08-7f72-5da7-9397-33bdcbc5315c",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:bb2a00ca-4971-4656-9f27-e1f1b510e015",
+    "comment": "curator-hint: lactosylceramide broad_synonym_of CDH"
+  },
+  {
+    "subj": "GSD:b869db3a-43f8-4298-a71e-a4654597d31a",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:955083b8-25b8-4d43-b3d0-3e8b2991dd22",
+    "comment": "curator-hint: Lewis x narrow_synonym_of Lewis x trisaccharide"
+  },
+  {
+    "subj": "GSD:185f10ba-89ae-4527-a8d7-5e4f0daa4565",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:5e916ba2-97b5-4424-b418-9a37c43b0f56",
+    "comment": "curator-hint: monosialylated biantennary N-glycan broad_synonym_of sialylated diantennary"
+  },
+  {
+    "subj": "GSD:185f10ba-89ae-4527-a8d7-5e4f0daa4565",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:9ef544ca-bb74-4506-8878-e861357959cc",
+    "comment": "curator-hint: monosialylated biantennary N-glycan broad_synonym_of sialylated biantennary"
+  },
+  {
+    "subj": "GSD:593531d5-b025-49cc-9e8e-bde0db60be92",
+    "pred": "related_synonym_of",
+    "obj": "GSD:afbe055f-3a4d-4852-ae72-a74e7b5b6ffc",
+    "comment": "curator-hint: monosialyl Gb5 related_synonym_of Sialosyl galactosyl globoside"
+  },
+  {
+    "subj": "GSD:593531d5-b025-49cc-9e8e-bde0db60be92",
+    "pred": "related_synonym_of",
+    "obj": "GSD:80a03e0d-9a0d-4597-9fba-a37e237bad2a",
+    "comment": "curator-hint: monosialyl Gb5 related_synonym_of GL-7 globoseries ganglioside"
+  },
+  {
+    "subj": "GSD:593531d5-b025-49cc-9e8e-bde0db60be92",
+    "pred": "related_synonym_of",
+    "obj": "GSD:02dc9c83-c96f-4757-8054-94abe2e70cf9",
+    "comment": "curator-hint: monosialyl Gb5 related_synonym_of SSEA-4"
+  },
+  {
+    "subj": "GSD:92dcd6b9-f368-4d91-90b7-04877d3248a9",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:33f1c603-48ee-4d93-a620-11de829a08d5",
+    "comment": "curator-hint: N-acetyllactosamine (type 2) broad_synonym_of LacNAc"
+  },
+  {
+    "subj": "GSD:801711dd-7758-4216-a3fd-1cb7365b46f8",
+    "pred": "related_synonym_of",
+    "obj": "GSD:ab6751e8-61e4-4688-bf9e-e3dfa8b3d6a3",
+    "comment": "curator-hint: sialylated LacdiNAc related_synonym_of Sialylated LDN"
+  },
+  {
+    "subj": "GSD:a79de7c9-d26d-401a-a575-0342fcf41dae",
+    "pred": "related_synonym_of",
+    "obj": "GSD:c31f1776-4121-4100-8f4f-7e6936441616",
+    "comment": "curator-hint: sulfated LacdiNAc related_synonym_of sulfated LDN"
+  },
+  {
+    "subj": "GSD:a79de7c9-d26d-401a-a575-0342fcf41dae",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:1f1956cc-884c-4fa5-a879-da1bb1b4e603",
+    "comment": "curator-hint: sulfated LacdiNAc narrow_synonym_of 4'-O-sulfated LacdiNAc"
+  },
+  {
+    "subj": "GSD:a79de7c9-d26d-401a-a575-0342fcf41dae",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:62f8c8a8-b807-4bd0-99a3-1f648b699539",
+    "comment": "curator-hint: sulfated LacdiNAc narrow_synonym_of 4'-sulfated LDN"
+  },
+  {
+    "subj": "GSD:f58e66b6-a333-454d-a680-cf8046554c05",
+    "pred": "related_synonym_of",
+    "obj": "GSD:79b59f4f-245f-4ce7-95bc-97cb3dc40e58",
+    "comment": "curator-hint: disialyl Gb5 related_synonym_of disialosyl Gn5"
+  },
+  {
+    "subj": "GSD:0b994b4c-7d17-42aa-b8fe-71d08800b960",
+    "pred": "has_related_synonym",
+    "obj": "GSD:a7c3ef02-2f8b-4b92-8f06-445cc22031c0",
+    "comment": "A2B has related synonym A2BG0"
+  },
+  {
+    "subj": "GSD:0605927f-fc12-42da-a5c2-1a52395ab7f8",
+    "pred": "has_related_synonym",
+    "obj": "GSD:bf0e78e7-7656-5f66-8677-a96d59743cfe",
+    "comment": "A2 has related synonym G0"
+  },
+  {
+    "subj": "GSD:558c6e29-6921-4fa8-81fb-105af7b1ac93",
+    "pred": "has_related_synonym",
+    "obj": "GSD:3eac30ef-5494-45c6-bdf5-108a05cf1890",
+    "comment": "A1 has related synonym G0-N"
+  },
+  {
+    "subj": "GSD:0b994b4c-7d17-42aa-b8fe-71d08800b960",
+    "pred": "has_related_synonym",
+    "obj": "GSD:6fb1b3d1-7810-41fc-917e-44634e577d3c",
+    "comment": "A2B has related synonym G0B"
+  },
+  {
+    "subj": "GSD:aeebc5be-14f5-4c03-b61f-a2936330a37e",
+    "pred": "has_related_synonym",
+    "obj": "GSD:e2868821-1995-4872-983f-4231e9fd8faf",
+    "comment": "FA2 has related synonym G0F"
+  },
+  {
+    "subj": "GSD:0f6dff69-e331-4e34-9d72-7bbb67a604b5",
+    "pred": "has_related_synonym",
+    "obj": "GSD:e2aedcf6-3412-4ce7-8768-970fff170c92",
+    "comment": "FA2B has related synonym G0FB"
+  },
+  {
+    "subj": "GSD:1950a6af-7cbb-49cf-aae3-59bc276a5980",
+    "pred": "has_related_synonym",
+    "obj": "GSD:e09b35de-0e6a-4fdd-a9b2-ad015b788603",
+    "comment": "A2G1 has related synonym G1"
+  },
+  {
+    "subj": "GSD:4263014e-957d-44f1-b733-12302704fc09",
+    "pred": "has_related_synonym",
+    "obj": "GSD:aeeaceb1-5530-4598-b828-31015aceeaa0",
+    "comment": "FA2G1 has related synonym G1F"
+  },
+  {
+    "subj": "GSD:2d0aec1a-2f4b-44d7-9ff3-796bfdd88636",
+    "pred": "has_related_synonym",
+    "obj": "GSD:a9dc8b21-25a3-4a48-8943-0c8e852ff46c",
+    "comment": "A2G2 has related synonym G2"
+  },
+  {
+    "subj": "GSD:7bf91264-a639-48f4-a992-f1ad65f6d1e5",
+    "pred": "has_related_synonym",
+    "obj": "GSD:c979ed9e-e4e2-4ec6-ae30-da5a7ad21b32",
+    "comment": "FA2G2 has related synonym G2F"
+  },
+  {
+    "subj": "GSD:2e04d1a2-3da5-458f-8573-39514b94b7b7",
+    "pred": "has_related_synonym",
+    "obj": "GSD:06a32dd0-c657-491d-bcf9-c719061df840",
+    "comment": "FA2G2S1 has related synonym G2FS1"
+  },
+  {
+    "subj": "GSD:54235f94-c902-44d0-994d-9235d7dc6fb7",
+    "pred": "has_related_synonym",
+    "obj": "GSD:5750e9ec-7e77-491e-a140-3b90e2b0df83",
+    "comment": "FA2G2S2 has related synonym G2FS2"
+  },
+  {
+    "subj": "GSD:162cbd87-3efc-432a-bc99-ace94feb3200",
+    "pred": "has_related_synonym",
+    "obj": "GSD:31920366-d0a5-4ca0-b9f7-3b9fceff0283",
+    "comment": "Man3 has related synonym M3 (N-glycan)"
+  },
+  {
+    "subj": "GSD:d7aaf087-4381-5ac9-889c-e4793293c978",
+    "pred": "has_related_synonym",
+    "obj": "GSD:f5c9087c-f814-4e25-8197-5801209af7e1",
+    "comment": "Man5 has related synonym M5"
+  },
+  {
+    "subj": "GSD:ac85d43d-be44-59fa-a524-580fbff1c6e3",
+    "pred": "has_related_synonym",
+    "obj": "GSD:2567d8db-d209-41bb-9f3e-86cc5bc11725",
+    "comment": "Man6 has related synonym M6"
+  },
+  {
+    "subj": "GSD:76f55f17-29ee-5938-bef1-bee233b36669",
+    "pred": "has_related_synonym",
+    "obj": "GSD:b09056c6-2f81-4d26-9e20-c4cf7d1406f5",
+    "comment": "Man7 has related synonym M7"
+  },
+  {
+    "subj": "GSD:652f4ddf-ec6a-59c8-ba0e-46a26173f4b7",
+    "pred": "has_related_synonym",
+    "obj": "GSD:e46355aa-9afd-475b-8df0-ac024fd4e49d",
+    "comment": "Man8 has related synonym M8"
+  },
+  {
+    "subj": "GSD:171cbaf9-e31b-5be4-ab4c-b9a60cf10330",
+    "pred": "has_related_synonym",
+    "obj": "GSD:7a9857d9-21b5-40a1-aa48-deb2cca160d8",
+    "comment": "Man9 has related synonym M9"
+  },
+  {
+    "subj": "GSD:c7365bd0-d36d-417e-afbd-f0ea279079a7",
+    "pred": "related_synonym_of",
+    "obj": "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5",
+    "comment": "curator-hint: Gangliotetraosylceramide related_synonym_of Asialo-GM1"
+  },
+  {
+    "subj": "GSD:c7365bd0-d36d-417e-afbd-f0ea279079a7",
+    "pred": "related_synonym_of",
+    "obj": "GSD:b74bdf1e-1f47-4838-b92b-a9f6f7f7d793",
+    "comment": "curator-hint: Gangliotetraosylceramide related_synonym_of GA1"
+  },
+  {
+    "subj": "GSD:c7365bd0-d36d-417e-afbd-f0ea279079a7",
+    "pred": "related_synonym_of",
+    "obj": "GSD:21eb871e-7e3b-422f-8287-43bbcba8b84c",
+    "comment": "curator-hint: Gangliotetraosylceramide related_synonym_of Asialo-GM1a"
+  },
+  {
+    "subj": "GSD:06280f60-1257-4d4c-8240-f963524ad72a",
+    "pred": "related_synonym_of",
+    "obj": "GSD:065722e6-4e4b-406c-b5a1-9868e3d9541d",
+    "comment": "curator-hint: Gangliotriaosylceramide related_synonym_of Asialo-GM2"
+  },
+  {
+    "subj": "GSD:06280f60-1257-4d4c-8240-f963524ad72a",
+    "pred": "related_synonym_of",
+    "obj": "GSD:b3a15cff-cc0a-40bc-8675-4de1436bd810",
+    "comment": "curator-hint: Gangliotriaosylceramide related_synonym_of GA2"
+  },
+  {
+    "subj": "GSD:06280f60-1257-4d4c-8240-f963524ad72a",
+    "pred": "related_synonym_of",
+    "obj": "GSD:ab07b5ab-fb51-4f86-b509-bde03c01491b",
+    "comment": "curator-hint: Gangliotriaosylceramide related_synonym_of Asialo-GM2a"
+  },
+  {
+    "subj": "GSD:3d06d77f-0323-508b-8678-7e86c86b85c4",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:560f5fc1-f6a7-440c-ad41-ed9a08197fb5",
+    "comment": "curator-hint: Glucosylceramide broad_synonym_of Ceramide monohexoside"
+  },
+  {
+    "subj": "GSD:3d06d77f-0323-508b-8678-7e86c86b85c4",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:30f3fcbd-4f73-4bb3-80d8-40f421310ab0",
+    "comment": "curator-hint: Glucosylceramide broad_synonym_of CMH"
+  },
+  {
+    "subj": "GSD:d9aa7fb1-12b1-4a92-8e9a-38382ba774de",
+    "pred": "related_synonym_of",
+    "obj": "GSD:e0d42b77-2980-40e5-8895-d79d4bb53063",
+    "comment": "curator-hint: Isoglobotriaosylceramide related_synonym_of Isoglobotri"
+  },
+  {
+    "subj": "GSD:607727e2-834e-4321-996e-0988b7f5c6f8",
+    "pred": "related_synonym_of",
+    "obj": "GSD:f7b6e825-8b34-45cf-8fa7-7ec398890a63",
+    "comment": "curator-hint: Monosialogangliotetraosylceramide related_synonym_of NeuAc-GM1"
+  },
+  {
+    "subj": "GSD:607727e2-834e-4321-996e-0988b7f5c6f8",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:d135ffd2-62b4-46ac-b1cb-e99c82b215ad",
+    "comment": "curator-hint: Monosialogangliotetraosylceramide broad_synonym_of Monosialoganglioside"
+  },
+  {
+    "subj": "GSD:607727e2-834e-4321-996e-0988b7f5c6f8",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:9c0b9dc2-6db6-480a-a900-bd9f87dcc1a9",
+    "comment": "curator-hint: Monosialogangliotetraosylceramide narrow_synonym_of GM1a"
+  },
+  {
+    "subj": "GSD:0cb4639d-8b29-45d0-8cde-27ad85020b35",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:66dbb1e4-e314-4438-b17b-f33e8f304732",
+    "comment": "curator-hint: Disialogangliotetraosylceramide broad_synonym_of Disialoganglioside"
+  },
+  {
+    "subj": "GSD:0cb4639d-8b29-45d0-8cde-27ad85020b35",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:234a3e9a-eaa4-4eb3-839b-85f08213ebed",
+    "comment": "curator-hint: Disialogangliotetraosylceramide narrow_synonym_of NeuAc-GD1b"
+  },
+  {
+    "subj": "GSD:0cb4639d-8b29-45d0-8cde-27ad85020b35",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:f924dbad-74ee-44c0-a2e2-8c3cfa356e2e",
+    "comment": "curator-hint: Disialogangliotetraosylceramide narrow_synonym_of GD1b"
+  },
+  {
+    "subj": "GSD:e413291c-5c2e-4ad5-9b62-20b158e633ce",
+    "pred": "related_synonym_of",
+    "obj": "GSD:0b5a8780-11ac-4afd-94c8-b9284c730573",
+    "comment": "curator-hint: Neolactotetraosylceramide related_synonym_of Paragloboside"
+  },
+  {
+    "subj": "GSD:dc369560-523e-4f21-8072-6a1cd9e5a552",
+    "pred": "related_synonym_of",
+    "obj": "GSD:0af7c57e-6fb6-467b-accf-52ab5a74494d",
+    "comment": "curator-hint: Globotetraosylceramide related_synonym_of Globoside"
+  },
+  {
+    "subj": "GSD:4a34d191-5be6-4d2c-a6d3-11af678e1f4f",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:59057ea5-2810-4313-93ee-cc1c78886d54",
+    "comment": "curator-hint: Globotriaosylceramide broad_synonym_of Trihexosylceramide"
+  },
+  {
+    "subj": "GSD:3bf6559b-91bf-4ff7-8af7-7c3d3a6a0dcb",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:1721824a-3ff8-4c57-9f39-cacc6f24ac9b",
+    "comment": "curator-hint: Trisialogangliotetraosylceramide narrow_synonym_of NeuAc-GT1b"
+  },
+  {
+    "subj": "GSD:a2c78d58-1d1e-5488-972e-60788bd92662",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:a17a4fc0-ff8f-4c5f-8211-8931e27cccd6",
+    "comment": "curator-hint: Galabiose broad_synonym_of Digalactoside"
+  },
+  {
+    "subj": "GSD:833e18dc-f06a-4873-b90c-b06c2b199b6e",
+    "pred": "related_synonym_of",
+    "obj": "GSD:3b80819c-8f0e-48ba-bd4f-bfa931c4a252",
+    "comment": "curator-hint: Galabiosylceramide related_synonym_of Digalactosylceramide"
+  },
+  {
+    "subj": "GSD:5e85053a-c1b5-4229-ae28-d8d75f7f7fe0",
+    "pred": "related_synonym_of",
+    "obj": "GSD:4f39b916-24d5-4873-9d0c-1ac5db24db66",
+    "comment": "curator-hint: Pentasaccharide N-linked glycan core related_synonym_of 6a-mannopentaose"
+  },
+  {
+    "subj": "GSD:5e85053a-c1b5-4229-ae28-d8d75f7f7fe0",
+    "pred": "related_synonym_of",
+    "obj": "GSD:86a7a048-e81c-44a3-aa56-573b57c17052",
+    "comment": "curator-hint: Pentasaccharide N-linked glycan core related_synonym_of 3a,6a-mannopentaose"
+  },
+  {
+    "subj": "GSD:529776fa-63d3-4754-bc9c-feb2b107e99d",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:4e5b0601-d0df-4a2a-ac36-56e2629494f1",
+    "comment": "curator-hint: N-acetylneuraminic acid broad_synonym_of Sialic acid"
+  },
+  {
+    "subj": "GSD:2f4047e2-bc8c-577d-9c8c-ed2e04227c65",
+    "pred": "related_synonym_of",
+    "obj": "GSD:ed44e7f7-a4bb-41cb-a12e-f7c31cae01f0",
+    "comment": "curator-hint: GQ1b related_synonym_of NeuAc-GQ1b"
+  },
+  {
+    "subj": "GSD:f05f9823-137e-586e-9ce6-90956a04b6bc",
+    "pred": "related_synonym_of",
+    "obj": "GSD:a99c8785-ce43-4e48-a7ef-cf7d95a28388",
+    "comment": "curator-hint: GM2 related_synonym_of NeuAc-GM2"
+  },
+  {
+    "subj": "GSD:662184b8-4ef9-426d-8391-7c163250ce9d",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:7f6bdba1-39db-4966-83ce-b182a4864547",
+    "comment": "curator-hint: Lewis a narrow_synonym_of Lea-5"
+  },
+  {
+    "subj": "GSD:df0149f4-cb5f-47bf-a72d-a5ba117bc023",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:fcb91bc0-7c6f-4fd8-930d-b0eaf2b50fb8",
+    "comment": "curator-hint: Mannose narrow_synonym_of Alpha-linked mannose"
+  },
+  {
+    "subj": "GSD:f422a3ed-87ae-4f9b-9534-dbdbb335288c",
+    "pred": "related_synonym_of",
+    "obj": "GSD:f372bdee-ac4a-4184-a95a-744feee192c4",
+    "comment": "curator-hint: Monosialodihexosylganglioside related_synonym_of II3NeuAc LacCer"
+  },
+  {
+    "subj": "GSD:f422a3ed-87ae-4f9b-9534-dbdbb335288c",
+    "pred": "related_synonym_of",
+    "obj": "GSD:d7847f56-215b-41d6-b1bf-5d0379ac3d9e",
+    "comment": "curator-hint: Monosialodihexosylganglioside related_synonym_of Hematoside"
+  },
+  {
+    "subj": "GSD:952df30c-5251-4ac1-afbb-b19256ecf82d",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:343e76f2-1231-4934-9c04-a6ebb565df84",
+    "comment": "curator-hint: Fucose narrow_synonym_of L-Fucose"
+  },
+  {
+    "subj": "GSD:fceea642-73e8-4ad0-9636-7ce85ab9e6ee",
+    "pred": "related_synonym_of",
+    "obj": "GSD:9128975b-614e-4e7f-a9af-ab168d26f412",
+    "comment": "curator-hint: GD2 related_synonym_of NeuAc-GD2"
+  },
+  {
+    "subj": "GSD:0a3ac62a-32cc-436d-92d9-761db7a26546",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:d98b4e1e-4cac-4998-a412-a7348a633ca6",
+    "comment": "curator-hint: Antigen H narrow_synonym_of H1 (tri-)"
+  },
+  {
+    "subj": "GSD:168bb902-d69d-4a2f-9739-1cf434d46db0",
+    "pred": "related_synonym_of",
+    "obj": "GSD:809be371-a91c-46d4-a5f0-c9eb6214b94f",
+    "comment": "curator-hint: Sialyl Lewis x Lewis x related_synonym_of NeuAca3-dimer-Lex"
+  },
+  {
+    "subj": "GSD:32e928fb-1550-5e0a-945f-2218ac79b83c",
+    "pred": "related_synonym_of",
+    "obj": "GSD:60b3a8a9-3682-4f94-84b5-5376c4bba5a3",
+    "comment": "curator-hint: Sialyl Lewis x related_synonym_of NeuAca3-Lex"
+  },
+  {
+    "subj": "GSD:6570d5b9-de57-4054-a8a2-7480d0e44229",
+    "pred": "related_synonym_of",
+    "obj": "GSD:a4a8aeec-bf1b-4a5d-ac56-f618174cbbe0",
+    "comment": "curator-hint: Sialosylparagloboside related_synonym_of NeuAca3SPG"
+  },
+  {
+    "subj": "GSD:6570d5b9-de57-4054-a8a2-7480d0e44229",
+    "pred": "related_synonym_of",
+    "obj": "GSD:6ec8426e-79e1-4a49-b648-63ce65929255",
+    "comment": "curator-hint: Sialosylparagloboside related_synonym_of IV3(NeuAc)nLc4Cer"
+  },
+  {
+    "subj": "GSD:6570d5b9-de57-4054-a8a2-7480d0e44229",
+    "pred": "related_synonym_of",
+    "obj": "GSD:b00729bd-b875-43cb-ab28-3356ec950e2b",
+    "comment": "curator-hint: Sialosylparagloboside related_synonym_of NeuAca2-3PG"
+  },
+  {
+    "subj": "GSD:c7e0a3bf-3c8d-469c-8882-4690af15faf9",
+    "pred": "related_synonym_of",
+    "obj": "GSD:0ecdb7cd-63d2-4769-8fde-8d932c1906d9",
+    "comment": "curator-hint: I-active ganglioside related_synonym_of NeuAca3-nLc6"
+  },
+  {
+    "subj": "GSD:c7e0a3bf-3c8d-469c-8882-4690af15faf9",
+    "pred": "related_synonym_of",
+    "obj": "GSD:7e1cfd1d-fa09-41d9-8be2-9dd07bb1450f",
+    "comment": "curator-hint: I-active ganglioside related_synonym_of NeuAca2-3i"
+  },
+  {
+    "subj": "GSD:c7e0a3bf-3c8d-469c-8882-4690af15faf9",
+    "pred": "related_synonym_of",
+    "obj": "GSD:3be4d721-2881-4051-ad35-f1078405b86a",
+    "comment": "curator-hint: I-Active ganglioside related_synonym_of NeuAc-G-10"
+  },
+  {
+    "subj": "GSD:c7e0a3bf-3c8d-469c-8882-4690af15faf9",
+    "pred": "related_synonym_of",
+    "obj": "GSD:91847563-6bb6-4e12-bf58-5e21ad587cff",
+    "comment": "curator-hint: I-Active ganglioside related_synonym_of NeuAca2-3I"
+  },
+  {
+    "subj": "GSD:4327ef94-5fff-5d27-8f23-207afe82a8d1",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:225df98a-0ce2-4ef9-9285-81dcd3bf4270",
+    "comment": "curator-hint: Lewis b narrow_synonym_of Leb-6"
+  },
+  {
+    "subj": "GSD:89e36335-2fea-5ef3-a3a8-559985883dad",
+    "pred": "related_synonym_of",
+    "obj": "GSD:a647e0b2-b686-4c94-9787-e88fca19cf29",
+    "comment": "curator-hint: Sialyl Lewis a related_synonym_of NeuAca3-Lea"
+  },
+  {
+    "subj": "GSD:5ffac077-d5c1-45b8-ba7a-219b725c7842",
+    "pred": "related_synonym_of",
+    "obj": "GSD:5d6a183c-3911-40b7-87e3-11324aa61c55",
+    "comment": "curator-hint: Fuc-gangliotetraosylceramide related_synonym_of H-5-ganglio"
+  },
+  {
+    "subj": "GSD:5ffac077-d5c1-45b8-ba7a-219b725c7842",
+    "pred": "related_synonym_of",
+    "obj": "GSD:3adc5e7b-3cf2-475d-9f94-3e7454273134",
+    "comment": "curator-hint: Fuc-gangliotetraosylceramide related_synonym_of Fuc-GgO4"
+  },
+  {
+    "subj": "GSD:e335814b-5d3a-4a42-8ba4-8a83b208723e",
+    "pred": "related_synonym_of",
+    "obj": "GSD:da36549a-a128-42ff-9736-c4384511931b",
+    "comment": "curator-hint: 3'-sialyl-N-acetyllactosamine related_synonym_of 3'SiaLacNAc(1-4)"
+  },
+  {
+    "subj": "GSD:617e2f3f-8304-4d9a-a5f4-12ac942ce840",
+    "pred": "related_synonym_of",
+    "obj": "GSD:97ce6674-9068-4d98-8035-07f025ad6ed1",
+    "comment": "curator-hint: Sialylparagloboside related_synonym_of NeuAca2-6PG"
+  },
+  {
+    "subj": "GSD:617e2f3f-8304-4d9a-a5f4-12ac942ce840",
+    "pred": "related_synonym_of",
+    "obj": "GSD:3b872fe0-98fa-4c31-826b-b738f738b889",
+    "comment": "curator-hint: Sialylparagloboside related_synonym_of IV6(NeuAc)nLc4Cer"
+  },
+  {
+    "subj": "GSD:d97e02e9-3b72-4008-85e6-5a23a682ec3b",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:ef920286-1016-4f73-931a-652ccf007eee",
+    "comment": "curator-hint: Sulfated sialyl-3-N-acetyllactosamine broad_synonym_of Sulfated trisaccharide"
+  },
+  {
+    "subj": "GSD:1f3ca278-ac37-468c-9498-5916f9536eb8",
+    "pred": "related_synonym_of",
+    "obj": "GSD:b8bb5d4d-687f-4ced-a644-fa38342e42b4",
+    "comment": "curator-hint: 6'-sialyl-N-acetyllactosamine related_synonym_of 6'SiaLacNAc(1-4)"
+  },
+  {
+    "subj": "GSD:4327ef94-5fff-5d27-8f23-207afe82a8d1",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:374da517-241c-4b06-8651-1b1856203304",
+    "comment": "curator-hint: Lewis b narrow_synonym_of Leb-4"
+  },
+  {
+    "subj": "GSD:b5f7962d-29e4-4374-8406-683e491676d9",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:4db8d1c9-b6d6-4214-b39d-ae58085040f7",
+    "comment": "curator-hint: Lewis y narrow_synonym_of Ley-4"
+  },
+  {
+    "subj": "GSD:662184b8-4ef9-426d-8391-7c163250ce9d",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:c306b6c9-28ac-44ac-b5dc-d482037bca71",
+    "comment": "curator-hint: Lewis a narrow_synonym_of Lea-3"
+  },
+  {
+    "subj": "GSD:b869db3a-43f8-4298-a71e-a4654597d31a",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:1c1b12b4-c682-4cf8-a80d-fc209609a5f5",
+    "comment": "curator-hint: Lewis x narrow_synonym_of Lex-3"
+  },
+  {
+    "subj": "GSD:e335814b-5d3a-4a42-8ba4-8a83b208723e",
+    "pred": "related_synonym_of",
+    "obj": "GSD:affb0a69-a53e-48ad-b844-2e92e0f11bd9",
+    "comment": "curator-hint: 3'-sialyl-N-acetyllactosamine related_synonym_of 3'SiaLacNAc(1-3)"
+  },
+  {
+    "subj": "GSD:be7d1884-cd32-4ed9-ac87-3a8f851da8e8",
+    "pred": "related_synonym_of",
+    "obj": "GSD:1093490a-aa77-46ef-bd74-afd2213a3484",
+    "comment": "curator-hint: Gg4Cer II3-sulfate related_synonym_of SM1a"
+  },
+  {
+    "subj": "GSD:397a5b93-23bc-4a7c-9bbf-3e109ef9ab6e",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:b2a214e0-a685-449f-b667-bb8a0e9ae3ab",
+    "comment": "curator-hint: Glucose narrow_synonym_of D-Glucose"
+  },
+  {
+    "subj": "GSD:df3c0164-2cf1-43f0-ba5e-c7859d233dc2",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:1249b530-64dd-4e4f-aa06-d3ebaeb7673f",
+    "comment": "curator-hint: alpha-oligomannoside narrow_synonym_of dimannoside"
+  },
+  {
+    "subj": "GSD:b5f7962d-29e4-4374-8406-683e491676d9",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:0cdbece8-869b-4cf3-b88c-8d80b0384300",
+    "comment": "curator-hint: Lewis y narrow_synonym_of Ley-6"
+  },
+  {
+    "subj": "GSD:b869db3a-43f8-4298-a71e-a4654597d31a",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:d41c8de7-d63e-4f0f-8193-da7135cb8b9b",
+    "comment": "curator-hint: Lewis x narrow_synonym_of Lex-5"
+  },
+  {
+    "subj": "GSD:91252642-e48c-4932-b194-16ec992c09db",
+    "pred": "related_synonym_of",
+    "obj": "GSD:1dcb4943-367b-467f-86cf-4b16f11928bc",
+    "comment": "curator-hint: Blood group H antigen tetraose type 4 related_synonym_of Globo H tetraose"
+  },
+  {
+    "subj": "GSD:a57ec013-3fba-4597-9ad0-639e41d73f0f",
+    "pred": "related_synonym_of",
+    "obj": "GSD:ad1a0f56-f59c-4967-be5b-bb9caad6b0f3",
+    "comment": "curator-hint: Lewis x triaose related_synonym_of SSEA-1"
+  },
+  {
+    "subj": "GSD:333e5932-8f42-49e1-9ebe-68750ab11dd8",
+    "pred": "related_synonym_of",
+    "obj": "GSD:78bf352d-45fa-4644-8e3f-e8e2ece658ed",
+    "comment": "curator-hint: Lewis y tetraose related_synonym_of Blood group H type 2"
+  },
+  {
+    "subj": "GSD:162cbd87-3efc-432a-bc99-ace94feb3200",
+    "pred": "related_synonym_of",
+    "obj": "GSD:1fd286b9-44e6-4893-84fc-6635414910c6",
+    "comment": "curator-hint: (Man)3 related_synonym_of chitobiose"
+  },
+  {
+    "subj": "GSD:162cbd87-3efc-432a-bc99-ace94feb3200",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:ec5167e3-fc41-4116-814a-f6e6020be88a",
+    "comment": "curator-hint: (Man)3 narrow_synonym_of (Man)3 chitobiose"
+  },
+  {
+    "subj": "GSD:a4aab6f8-07af-4349-abb0-62df2bc1391c",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:738002e1-fd10-47f4-9866-7a7a0c609731",
+    "comment": "curator-hint: Type 2 LN2 broad_synonym_of i\" antigen"
+  },
+  {
+    "subj": "GSD:a4aab6f8-07af-4349-abb0-62df2bc1391c",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:6dee525c-0482-47d3-b415-0dc170be8ec3",
+    "comment": "curator-hint: Type 2 LN2 broad_synonym_of i antigen"
+  },
+  {
+    "subj": "GSD:bcdec788-57db-4059-a9d7-7e41db1cbc36",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:89c74519-5663-41d2-ba94-b83ac774c644",
+    "comment": "curator-hint: H antigen type 3 broad_synonym_of H antigen"
+  },
+  {
+    "subj": "GSD:207fa7ce-3be1-4238-9f15-898b2619f3eb",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:97f21004-25aa-40d5-ae4a-a2bd28d8a42c",
+    "comment": "curator-hint: A antigen type 3 broad_synonym_of A antigen"
+  },
+  {
+    "subj": "GSD:b869db3a-43f8-4298-a71e-a4654597d31a",
+    "pred": "related_synonym_of",
+    "obj": "GSD:1be67a27-61c1-4b37-8bfd-268147fcb995",
+    "comment": "curator-hint: Lewis x related_synonym_of SSEA-1"
+  },
+  {
+    "subj": "GSD:89e36335-2fea-5ef3-a3a8-559985883dad",
+    "pred": "related_synonym_of",
+    "obj": "GSD:1ea3fdb2-913c-49d2-8e5b-63f0120eae2b",
+    "comment": "curator-hint: Sialyl Lewis a related_synonym_of CA19-9 antigen"
+  },
+  {
+    "subj": "GSD:d95c86dc-5486-4223-95b7-8161bf28b412",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:bb187f23-5c0e-4c0a-826d-ceb89de95aa4",
+    "comment": "curator-hint: 3-Sialyl-LN type 2 broad_synonym_of type 2"
+  },
+  {
+    "subj": "GSD:d95c86dc-5486-4223-95b7-8161bf28b412",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:600f1680-c139-4ea0-9013-037a270128e6",
+    "comment": "curator-hint: 3-Sialyl-LN type 2 broad_synonym_of 3-Sialyl-LN"
+  },
+  {
+    "subj": "GSD:21b06f4b-72a6-44ef-843b-ee9e7b9f882b",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:6f36ca97-fab4-4730-8faa-68961133adf7",
+    "comment": "curator-hint: Blood group H - type 2 chain broad_synonym_of type 2"
+  },
+  {
+    "subj": "GSD:21b06f4b-72a6-44ef-843b-ee9e7b9f882b",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:e6595c34-0f00-4faa-9d9c-79624535d62f",
+    "comment": "curator-hint: Blood group H - type 2 chain broad_synonym_of Blood group H"
+  },
+  {
+    "subj": "GSD:1a6a9019-47b8-4344-93e1-49963d0fd217",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:13755596-62f7-4d4a-b23b-c98a37d6b127",
+    "comment": "curator-hint: Blood group B - type 2 chain broad_synonym_of type 2"
+  },
+  {
+    "subj": "GSD:1a6a9019-47b8-4344-93e1-49963d0fd217",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:33c41ef4-5d0d-489b-a130-63c7f9b47626",
+    "comment": "curator-hint: Blood group B - type 2 chain broad_synonym_of Blood group B"
+  },
+  {
+    "subj": "GSD:472ff3df-4f0f-40ae-94cf-d3e88ad3b8c1",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:3e4c5545-efa0-4c79-bd2e-87f981dca6e8",
+    "comment": "curator-hint: Blood group A - type 2 chain broad_synonym_of type 2"
+  },
+  {
+    "subj": "GSD:472ff3df-4f0f-40ae-94cf-d3e88ad3b8c1",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:1576c08d-22de-4f7a-9f50-f27224e191f7",
+    "comment": "curator-hint: Blood group A - type 2 chain broad_synonym_of Blood group A"
+  },
+  {
+    "subj": "GSD:4bbb81b8-45ca-4cfc-9f42-9bc502ff80ab",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:03649c61-6e8c-41ae-bdde-f0353e769751",
+    "comment": "curator-hint: Blood group A1 - type 3 chain broad_synonym_of type 3"
+  },
+  {
+    "subj": "GSD:4bbb81b8-45ca-4cfc-9f42-9bc502ff80ab",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:30431411-3698-40ad-9d8e-19f673acb3dc",
+    "comment": "curator-hint: Blood group A1 - type 3 chain broad_synonym_of Blood group A1"
+  },
+  {
+    "subj": "GSD:8563613e-ab0f-49c2-9e7c-a2403c8503ea",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:83245157-ba0e-4e01-88e7-2cddc874293c",
+    "comment": "curator-hint: Blood group A2 - A-associated H type 3 chain broad_synonym_of Blood group A2"
+  },
+  {
+    "subj": "GSD:94c78688-31d6-41ea-b885-c811f945864d",
+    "pred": "related_synonym_of",
+    "obj": "GSD:352e075f-9ed1-4f96-8042-f6a310341886",
+    "comment": "curator-hint: Pk antigen related_synonym_of globotriaosylceramide"
+  },
+  {
+    "subj": "GSD:94c78688-31d6-41ea-b885-c811f945864d",
+    "pred": "related_synonym_of",
+    "obj": "GSD:0c3617c0-b16b-4ce0-adb8-510c9e509f36",
+    "comment": "curator-hint: Pk antigen related_synonym_of Gb3"
+  },
+  {
+    "subj": "GSD:adf49fc3-0a1f-4b18-99de-e79cc11af3ee",
+    "pred": "related_synonym_of",
+    "obj": "GSD:fab1804b-8882-47e9-98d1-699e43dab161",
+    "comment": "curator-hint: Globoside related_synonym_of P antigen"
+  },
+  {
+    "subj": "GSD:adf49fc3-0a1f-4b18-99de-e79cc11af3ee",
+    "pred": "related_synonym_of",
+    "obj": "GSD:7e6aa4ba-4cc3-442e-9e69-1a3c346f0019",
+    "comment": "curator-hint: Globoside related_synonym_of Gb4"
+  },
+  {
+    "subj": "GSD:e45665f0-4131-4b87-9070-5a899beb203d",
+    "pred": "related_synonym_of",
+    "obj": "GSD:8f55cec5-621c-411e-aeea-3bf9b370fc63",
+    "comment": "curator-hint: fucosylated GL-6 related_synonym_of globo H"
+  },
+  {
+    "subj": "GSD:fadbbaa0-e26a-43ce-a9df-5fd1926f9847",
+    "pred": "related_synonym_of",
+    "obj": "GSD:79cca9c8-f2f8-4b54-b5cb-3c5220ac78c1",
+    "comment": "curator-hint: GL-7 related_synonym_of SSEA-4 Has related synonym SSEA-4"
+  },
+  {
+    "subj": "GSD:d0c0ead3-30f7-5dbf-97a0-dc0aaf2624c4",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:faeb3da6-a00b-4f61-89c5-432b50b31ebe",
+    "comment": "curator-hint: GD1 narrow_synonym_of GD1c"
+  },
+  {
+    "subj": "GSD:92dcd6b9-f368-4d91-90b7-04877d3248a9",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:6c32a656-f51c-46c5-b0d7-57780dba2146",
+    "comment": "curator-hint: Type 2 LN broad_synonym_of N-acetyllactosamine"
+  },
+  {
+    "subj": "GSD:a4aab6f8-07af-4349-abb0-62df2bc1391c",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:4fc55ea7-72c4-4dd2-80f8-5501b1c81743",
+    "comment": "curator-hint: Type 2 LN2 broad_synonym_of i-antigen"
+  },
+  {
+    "subj": "GSD:a4aab6f8-07af-4349-abb0-62df2bc1391c",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:50cc7c97-a14a-4c1d-87ba-0d5866e8c54f",
+    "comment": "curator-hint: Type 2 LN2 broad_synonym_of N-acetyllactosamine type 2"
+  },
+  {
+    "subj": "GSD:6f6e40d8-ff18-4f4d-b1d5-43c5dd730fec",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:20fefbac-dde0-46c3-ade9-2577471363fa",
+    "comment": "curator-hint: Type 1 LN broad_synonym_of N-acetyllactosamine"
+  },
+  {
+    "subj": "GSD:74e3545d-6d77-44c3-8433-8c26f434e72a",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:0e4bf3a6-45fd-42fd-b4a6-a6687995a8b5",
+    "comment": "curator-hint: Type 1 LN2 broad_synonym_of N-acetyllactosamine type 1"
+  },
+  {
+    "subj": "GSD:0c4406ec-9b99-4cd0-8a6d-f2b4d1aad1ca",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:4e0d5b59-5eba-44f3-b619-a73819f03caf",
+    "comment": "curator-hint: Type 1 LN3 broad_synonym_of N-acetyllactosamine type 1"
+  },
+  {
+    "subj": "GSD:ddacfbac-b848-45dd-9472-d6a0bf963de8",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:cea1d668-1fe6-50d0-9982-477ee729a810",
+    "comment": "curator-hint: Fucosylated LDN broad_synonym_of LacdiNAc"
+  },
+  {
+    "subj": "GSD:b869db3a-43f8-4298-a71e-a4654597d31a",
+    "pred": "related_synonym_of",
+    "obj": "GSD:d7ac640f-24fb-4b26-a459-b5f6f6d1f2ac",
+    "comment": "curator-hint: Lewis x related_synonym_of SSEA-1"
+  },
+  {
+    "subj": "GSD:89e36335-2fea-5ef3-a3a8-559985883dad",
+    "pred": "related_synonym_of",
+    "obj": "GSD:a04e415a-875f-4453-91a3-0851294e6572",
+    "comment": "curator-hint: Sialyl Lewis a related_synonym_of CA19-9 antigen"
+  },
+  {
+    "subj": "GSD:93783264-bc71-4521-a412-c6b24cbae82c",
+    "pred": "related_synonym_of",
+    "obj": "GSD:e815d9a0-23d8-447c-9eed-103980850978",
+    "comment": "curator-hint: 6,6'-bisSulfo-Lewis x related_synonym_of 6,6'-Disulfo Sialyl Lewis x"
+  },
+  {
+    "subj": "GSD:750c698e-8e07-41b0-9544-0913ce47c510",
+    "pred": "related_synonym_of",
+    "obj": "GSD:8a301b6e-a72a-4c97-8bbc-193ce073e88d",
+    "comment": "curator-hint: 6-Sialyl-GalNAc related_synonym_of 6-Sialyl LN (type 1)"
+  },
+  {
+    "subj": "GSD:750c698e-8e07-41b0-9544-0913ce47c510",
+    "pred": "related_synonym_of",
+    "obj": "GSD:98f042b0-bc53-42e9-83b9-c8f8193b8954",
+    "comment": "curator-hint: 6-Sialyl-GalNAc related_synonym_of 6-Sialyl LN (type 2)"
+  },
+  {
+    "subj": "GSD:21b06f4b-72a6-44ef-843b-ee9e7b9f882b",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:4fed905a-0d05-4abd-be8e-1e3f3784352d",
+    "comment": "curator-hint: Blood group H (type 2) broad_synonym_of Blood group H"
+  },
+  {
+    "subj": "GSD:21b06f4b-72a6-44ef-843b-ee9e7b9f882b",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:3480a7c2-50d9-4367-be69-b022a948c3ab",
+    "comment": "curator-hint: Blood group H (type 2) broad_synonym_of Blood group type 2"
+  },
+  {
+    "subj": "GSD:94c78688-31d6-41ea-b885-c811f945864d",
+    "pred": "related_synonym_of",
+    "obj": "GSD:59155a0d-ede2-414b-9b61-79f464445a80",
+    "comment": "curator-hint: Pk antigen related_synonym_of Gb3"
+  },
+  {
+    "subj": "GSD:94c78688-31d6-41ea-b885-c811f945864d",
+    "pred": "related_synonym_of",
+    "obj": "GSD:d0482ecf-d24b-4028-8b87-367f6230e57a",
+    "comment": "curator-hint: Pk antigen related_synonym_of Gb_3"
+  },
+  {
+    "subj": "GSD:94c78688-31d6-41ea-b885-c811f945864d",
+    "pred": "related_synonym_of",
+    "obj": "GSD:99fff8c7-9a63-41c9-b453-c87595b34855",
+    "comment": "curator-hint: Pk antigen related_synonym_of globotriaosylceramide"
+  },
+  {
+    "subj": "GSD:fc74ecf8-c12e-4ae7-bdc0-9ce2b47a267f",
+    "pred": "related_synonym_of",
+    "obj": "GSD:13905206-16f6-4c29-94ab-3204020a11ae",
+    "comment": "curator-hint: Sulfo-isogloboside related_synonym_of Mono-sulfated isoglobotetraosylceramide"
+  },
+  {
+    "subj": "GSD:fadbbaa0-e26a-43ce-a9df-5fd1926f9847",
+    "pred": "related_synonym_of",
+    "obj": "GSD:1695bff7-3e13-409c-828c-42b18acec68e",
+    "comment": "curator-hint: GL-7 globoseries ganglioside related_synonym_of SSEA-4"
+  },
+  {
+    "subj": "GSD:23de9483-620f-4f09-8254-aadec36ed27e",
+    "pred": "related_synonym_of",
+    "obj": "GSD:2212f5b5-5c25-40bd-b52e-7a15e926016c",
+    "comment": "curator-hint: Forssman glycolipid related_synonym_of Globopentosylceramide"
+  },
+  {
+    "subj": "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5",
+    "pred": "related_synonym_of",
+    "obj": "GSD:dfe5e55b-53a3-4b14-a76d-b2a322638732",
+    "comment": "curator-hint: Asialo-GM1 related_synonym_of Gangliotetraosylceramide"
+  },
+  {
+    "subj": "GSD:580a2f8b-a7c3-4e54-bdb6-d9becfb6f91a",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:3862b897-d7a0-42b8-a3b6-e77c64ee0035",
+    "comment": "curator-hint: GD1c broad_synonym_of GD1"
+  },
+  {
+    "subj": "GSD:ce08ddcb-1567-5caa-9ad2-9c2209277bcc",
+    "pred": "related_synonym_of",
+    "obj": "GSD:4bfe28a5-d5c8-43d5-b8fa-6904d89a4280",
+    "comment": "curator-hint: GD1a related_synonym_of GD1alpha"
+  },
+  {
+    "subj": "GSD:24d335a2-51a3-5232-96e6-2d60815f8e55",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:cc105310-a225-4627-a651-9fffa19f2c86",
+    "comment": "curator-hint: N-Glycan core narrow_synonym_of N-Glycan core basic"
+  },
+  {
+    "subj": "GSD:5229def0-f0cf-462e-8dbb-eb7d03d88e36",
+    "pred": "related_synonym_of",
+    "obj": "GSD:359e8047-35ce-4ed4-b6d6-f77505ebc5ab",
+    "comment": "curator-hint: O-Fucose Core EGF Type related_synonym_of O-Fucose Core Thrombospondin Type 1"
+  },
+  {
+    "subj": "GSD:5229def0-f0cf-462e-8dbb-eb7d03d88e36",
+    "pred": "related_synonym_of",
+    "obj": "GSD:2c8401cd-613e-4851-b851-0988678696ca",
+    "comment": "curator-hint: O-Fucose Core EGF Type related_synonym_of O-Fucose Core 2"
+  },
+  {
+    "subj": "GSD:5229def0-f0cf-462e-8dbb-eb7d03d88e36",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:50702cc6-699e-4d6e-98f4-9f26f8e8b109",
+    "comment": "curator-hint: O-Fucose Core EGF Type broad_synonym_of O-Fucose"
+  },
+  {
+    "subj": "GSD:3b8f083e-ede4-4292-a642-967f9497cb97",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:7cb7be5f-abd7-4556-81c6-5ecb6c382120",
+    "comment": "curator-hint: Human milk oligosaccharide core broad_synonym_of Human milk oligosaccharide"
+  },
+  {
+    "subj": "GSD:94c78688-31d6-41ea-b885-c811f945864d",
+    "pred": "related_synonym_of",
+    "obj": "GSD:fa4ab85b-bb1d-402e-8718-72d1b2ab1833",
+    "comment": "curator-hint: Pk antigen related_synonym_of globotriaosylceramide"
+  },
+  {
+    "subj": "GSD:adf49fc3-0a1f-4b18-99de-e79cc11af3ee",
+    "pred": "related_synonym_of",
+    "obj": "GSD:fe8a5116-848c-485c-9f69-e4e24b453633",
+    "comment": "curator-hint: Globoside related_synonym_of P antigen"
+  },
+  {
+    "subj": "GSD:42d15d6c-3af7-48d4-b3c9-54405ebc70d3",
+    "pred": "related_synonym_of",
+    "obj": "GSD:5e59eeae-b33e-4570-9b31-bb005adfd064",
+    "comment": "curator-hint: Lactotriaosylceramide related_synonym_of Glucosylceramide"
+  },
+  {
+    "subj": "GSD:fadbbaa0-e26a-43ce-a9df-5fd1926f9847",
+    "pred": "related_synonym_of",
+    "obj": "GSD:3bf2be7c-515c-4ba9-80bd-5b9b9d45869d",
+    "comment": "curator-hint: GL-7 globoseries ganglioside related_synonym_of SSEA-4"
+  },
+  {
+    "subj": "GSD:b0b9ec2f-d80a-495f-b797-7db77a5c3083",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:38e235d9-6de4-4803-a9b0-51fa4ef4dac0",
+    "comment": "curator-hint: LN2 broad_synonym_of i antigen"
+  },
+  {
+    "subj": "GSD:1ea3fdb2-913c-49d2-8e5b-63f0120eae2b",
+    "pred": "related_synonym_of",
+    "obj": "GSD:b9b0f788-a0ac-4e3d-905f-a5484bf22f35",
+    "comment": "curator-hint: CA19-9 antigen related_synonym_of Sialyl Lewis a"
+  },
+  {
+    "subj": "GSD:42e76ba0-441a-4b80-b4b3-d4ee48728446",
+    "pred": "related_synonym_of",
+    "obj": "GSD:f89fe5c2-90c8-4ecc-872a-8cbd7133b895",
+    "comment": "curator-hint: Lactotetraosylceramide related_synonym_of Lewis C"
+  },
+  {
+    "subj": "GSD:6048df8d-01b1-53ec-93b6-3b712d0b5eeb",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:928fc0f5-5bfb-5be8-9eb6-dd405155d720",
+    "comment": "curator: heparan sulfate backbone narrow_synonym_of heparan sulfate"
+  },
+  {
+    "subj": "GSD:665bc960-7f45-40fc-9b9c-507364b0dadc",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:cc352622-e501-4189-98f3-ef1e958b98c2",
+    "comment": "curator: SSEA broad_synonym_of SSEA-1"
+  },
+  {
+    "subj": "GSD:665bc960-7f45-40fc-9b9c-507364b0dadc",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:51344d15-206a-41ea-8ad1-a8e30f00b1a5",
+    "comment": "curator: SSEA broad_synonym_of SSEA-3"
+  },
+  {
+    "subj": "GSD:665bc960-7f45-40fc-9b9c-507364b0dadc",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:eb14b505-7275-5888-9bc7-4b07107af0b3",
+    "comment": "curator: SSEA broad_synonym_of SSEA-4"
+  },
+  {
+    "subj": "GSD:9be48202-88cd-40b6-ab89-a0a4d4aebbdd",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:04d45d70-b2b3-5f73-bbe0-cf1fd8a53b5d",
+    "comment": "curator: N-acetyllactosamine (type 1) narrow_synonym_of N-acetyllactosamine"
+  },
+  {
+    "subj": "GSD:92dcd6b9-f368-4d91-90b7-04877d3248a9",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:04d45d70-b2b3-5f73-bbe0-cf1fd8a53b5d",
+    "comment": "curator: N-acetyllactosamine (type 2) narrow_synonym_of N-acetyllactosamine"
+  },
+  {
+    "subj": "GSD:142af41f-6c67-467f-aa3e-d23ebad850e6",
+    "pred": "related_synonym_of",
+    "obj": "GSD:99bcbb99-d2a4-44c1-83d4-39911cd9392c",
+    "comment": "curator: Lewis X–Lewis X related_synonym_of dimeric Lewis x"
+  },
+  {
+    "subj": "GSD:404bf970-2534-5f2f-86e1-746f0302e08a",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:69988744-7296-5f26-8c2b-7a2cf6cd3ad3",
+    "comment": "curator: bisecting α1-4GlcNAc narrow_synonym_of bisecting GlcNAc"
+  },
+  {
+    "subj": "GSD:7fc01df9-8288-52ae-934e-2e65dfab5a1d",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:ff4ec627-d237-5bcb-a389-251ba334d130",
+    "comment": "curator: Rhamnogalacturonan-I narrow_synonym_of rhamnogalacturonan"
+  },
+  {
+    "subj": "GSD:32bec96f-bd7c-5876-85ff-5a7ef6c01be7",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:ff4ec627-d237-5bcb-a389-251ba334d130",
+    "comment": "curator: Rhamnogalacturonan-II narrow_synonym_of rhamnogalacturonan"
+  },
+  {
+    "subj": "GSD:602bc4bf-da9f-505c-8a5d-d3de8020b72d",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:6c978e40-5b00-580b-b7c6-94bc0e970ccc",
+    "comment": "curator: β-(1,3)-glucan narrow_synonym_of β-glucan"
+  },
+  {
+    "subj": "GSD:3f1f513f-f9df-5475-8bb2-ca5235e3de00",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:6c978e40-5b00-580b-b7c6-94bc0e970ccc",
+    "comment": "curator: β-(1,4)-glucan narrow_synonym_of β-glucan"
+  },
+  {
+    "subj": "GSD:57fe1544-36ee-52f8-9802-d4ffc1867028",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:caf303a2-143f-51b8-887a-9fdc7e34a48c",
+    "comment": "curator: terminal α-linked fucose narrow_synonym_of terminal fucose"
+  },
+  {
+    "subj": "GSD:a7da3922-7453-5cc0-897b-4bb463ece798",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:9b46c1bc-c89c-51be-a6bd-cb98e416888c",
+    "comment": "curator: terminal α-linked mannose narrow_synonym_of terminal mannose"
+  },
+  {
+    "subj": "GSD:8759d2e6-5d43-508d-bec0-a9cdf395b049",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:a7da3922-7453-5cc0-897b-4bb463ece798",
+    "comment": "curator: terminal α1-6 mannose narrow_synonym_of terminal α-linked mannose"
+  },
+  {
+    "subj": "GSD:ddda1d65-b417-51b2-8b8a-d5e9e86509b5",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:0c32fd16-6ba8-5f21-aacc-e67e0b71acc1",
+    "comment": "curator: terminal α-linked-galactose narrow_synonym_of terminal galactose"
+  },
+  {
+    "subj": "GSD:2d13a3a8-39c6-5ce0-ba08-9ea5582c6ff4",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:0c32fd16-6ba8-5f21-aacc-e67e0b71acc1",
+    "comment": "curator: terminal β-linked galactose broad_synonym_of terminal galactose"
+  },
+  {
+    "subj": "GSD:e16fd11e-688e-51f7-b405-dd0bb8b17879",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:cd483672-3ab7-5734-a40a-b489a133c301",
+    "comment": "curator: terminal β-linked N-acetylgalactosamine broad_synonym_of terminal N-acetylgalactosamine"
+  },
+  {
+    "subj": "GSD:2ecd47eb-1349-5683-b84c-d6986496c78d",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:672c9b68-8cc9-5b73-a41f-4f1912dbe84b",
+    "comment": "curator: sulfated galactan narrow_synonym_of galactan"
+  },
+  {
+    "subj": "GSD:b467b6e9-26e7-467b-b9be-e4f1d6b20e35",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:6c978e40-5b00-580b-b7c6-94bc0e970ccc",
+    "comment": "curator: mixed-linkage beta glucan narrow_synonym_of β-glucan"
+  },
+  {
+    "subj": "GSD:32bfa27a-d28a-584a-9a53-7b24e852853f",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:038734aa-0f88-58d2-9ee6-d2f72d775a65",
+    "comment": "curator: α-mannan narrow_synonym_of mannan"
+  },
+  {
+    "subj": "GSD:162cbd87-3efc-432a-bc99-ace94feb3200",
+    "pred": "related_synonym_of",
+    "obj": "GSD:0efdf83c-def5-4353-bee1-e251faca6648",
+    "comment": "curator: M3 (N-glycan) related_synonym_of trimannosyl core"
+  },
+  {
+    "subj": "GSD:162cbd87-3efc-432a-bc99-ace94feb3200",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:5b1b3271-118b-41d7-b8a7-2fc2970d8e4a",
+    "comment": "curator: Man3 broad_synonym_of (Man)3a"
+  },
+  {
+    "subj": "GSD:162cbd87-3efc-432a-bc99-ace94feb3200",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:dcf167a2-1224-42e7-b68d-59a07b0afe56",
+    "comment": "curator: Man3 broad_synonym_of (Man)3b"
+  },
+  {
+    "subj": "GSD:76f55f17-29ee-5938-bef1-bee233b36669",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:f53a8841-69ae-424a-9707-ef50a8f84acb",
+    "comment": "curator: Man7 broad_synonym_of M7AB"
+  },
+  {
+    "subj": "GSD:76f55f17-29ee-5938-bef1-bee233b36669",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:649ec44c-8ca8-51fc-ab09-791ddb37fde2",
+    "comment": "curator: Man7 broad_synonym_of M7BC"
+  },
+  {
+    "subj": "GSD:76f55f17-29ee-5938-bef1-bee233b36669",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:4b1ebf65-553c-491f-9dc3-c0972d504b26",
+    "comment": "curator: Man7 broad_synonym_of M7AC"
+  },
+  {
+    "subj": "GSD:652f4ddf-ec6a-59c8-ba0e-46a26173f4b7",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:45b9775b-cfc1-4a8e-b872-c36948dfef72",
+    "comment": "curator: Man8 broad_synonym_of M8A"
+  },
+  {
+    "subj": "GSD:652f4ddf-ec6a-59c8-ba0e-46a26173f4b7",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:3b8d8834-2436-5048-9e58-0a0c4ed97585",
+    "comment": "curator: Man8 broad_synonym_of M8B"
+  },
+  {
+    "subj": "GSD:652f4ddf-ec6a-59c8-ba0e-46a26173f4b7",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:41948cb9-4e7f-46c7-a4af-2687d94bd70b",
+    "comment": "curator: Man8 broad_synonym_of M8C"
+  },
+  {
+    "subj": "GSD:7cee9dd6-9c05-54fc-947b-afca69f08b9e",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:0fd86f52-404f-45fb-afd7-fa20adcb0fad",
+    "comment": "curator: O-GalNAc core structures broad_synonym_of core 1"
+  },
+  {
+    "subj": "GSD:7cee9dd6-9c05-54fc-947b-afca69f08b9e",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:ca236d51-3a64-4e03-acc2-f15ecaca0569",
+    "comment": "curator: O-GalNAc core structures broad_synonym_of core 2"
+  },
+  {
+    "subj": "GSD:7cee9dd6-9c05-54fc-947b-afca69f08b9e",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:bf830cb7-4464-4a6d-bc6e-bde254b86ad3",
+    "comment": "curator: O-GalNAc core structures broad_synonym_of core 3"
+  },
+  {
+    "subj": "GSD:7cee9dd6-9c05-54fc-947b-afca69f08b9e",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:3c4ce89a-46ca-4cbe-a61e-bc6b468df9e7",
+    "comment": "curator: O-GalNAc core structures broad_synonym_of core 4"
+  },
+  {
+    "subj": "GSD:7cee9dd6-9c05-54fc-947b-afca69f08b9e",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:00748dfd-e05e-4ba2-bbd6-b63d66565b00",
+    "comment": "curator: O-GalNAc core structures broad_synonym_of core 5"
+  },
+  {
+    "subj": "GSD:7cee9dd6-9c05-54fc-947b-afca69f08b9e",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:ffc436ea-284b-4aec-a7e9-14eb6c20de51",
+    "comment": "curator: O-GalNAc core structures broad_synonym_of core 6"
+  },
+  {
+    "subj": "GSD:7cee9dd6-9c05-54fc-947b-afca69f08b9e",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:f8f2ebab-fda4-476d-b0ad-03353daf4a73",
+    "comment": "curator: O-GalNAc core structures broad_synonym_of core 7"
+  },
+  {
+    "subj": "GSD:7cee9dd6-9c05-54fc-947b-afca69f08b9e",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:d064fac6-1f8a-41ac-984a-fb0079162653",
+    "comment": "curator: O-GalNAc core structures broad_synonym_of core 8"
+  },
+  {
+    "subj": "GSD:cabb56b2-34c2-5250-be10-65af64594104",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:662184b8-4ef9-426d-8391-7c163250ce9d",
+    "comment": "curator: Lewis antigens broad_synonym_of Lewis a"
+  },
+  {
+    "subj": "GSD:cabb56b2-34c2-5250-be10-65af64594104",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:4327ef94-5fff-5d27-8f23-207afe82a8d1",
+    "comment": "curator: Lewis antigens broad_synonym_of Lewis b"
+  },
+  {
+    "subj": "GSD:cabb56b2-34c2-5250-be10-65af64594104",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:b869db3a-43f8-4298-a71e-a4654597d31a",
+    "comment": "curator: Lewis antigens broad_synonym_of Lewis x"
+  },
+  {
+    "subj": "GSD:cabb56b2-34c2-5250-be10-65af64594104",
+    "pred": "broad_synonym_of",
+    "obj": "GSD:b5f7962d-29e4-4374-8406-683e491676d9",
+    "comment": "curator: Lewis antigens broad_synonym_of Lewis y"
+  },
+  {
+    "subj": "GSD:b5b819f5-8bea-4357-9e17-9e9fb3865fe8",
+    "pred": "related_synonym_of",
+    "obj": "GSD:4a34d191-5be6-4d2c-a6d3-11af678e1f4f",
+    "comment": "curator: Globotriose related_synonym_of globotriaosylceramide"
+  },
+  {
+    "subj": "GSD:1a46cfa0-029c-4662-8ee0-458d7046d568",
+    "pred": "related_synonym_of",
+    "obj": "GSD:dc369560-523e-4f21-8072-6a1cd9e5a552",
+    "comment": "curator: Globotetraose related_synonym_of globotetraosylceramide"
+  },
+  {
+    "subj": "GSD:15331070-8cdb-43d9-a119-dd63f1a73802",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GM4 narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:40982fbc-1026-5333-acdb-aafdf94892be",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GM3 narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:f05f9823-137e-586e-9ce6-90956a04b6bc",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GM2 narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:3aa27544-ba80-5023-b104-e0747c328c0c",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GM1 narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:2f24f668-fcdb-401e-a0e7-8f1d3d9e9b85",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GM1a narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:03eade63-065b-5266-b0d6-2d0feb657606",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GM1b narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:2a2043ea-58d4-4eb6-9cc7-26aba2edeb34",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GD3 narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:fceea642-73e8-4ad0-9636-7ce85ab9e6ee",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GD2 narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:ce08ddcb-1567-5caa-9ad2-9c2209277bcc",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GD1a narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:e4e3df0d-c881-5a91-97fc-fbe47b595923",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GD1b narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:d0c0ead3-30f7-5dbf-97a0-dc0aaf2624c4",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GD1 narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:0faf2439-6ae7-4f74-84c4-9008692b7086",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GT3 narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:e5e9762a-3708-4f4d-a675-4a469995e3ca",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GT1a narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:926d7349-2069-5615-b469-3b6c845ce149",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GT1b narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:3b3e1c65-614e-57dc-aa07-85a170fcf39a",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GT1c narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:2f4047e2-bc8c-577d-9c8c-ed2e04227c65",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GQ1b narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:a7868da4-a6c2-4825-97b9-c86700b1c213",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GA1 narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:950ade62-6782-4b96-90d7-c12b0bd81409",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: GA2 narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: asialo-GM1 narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:c5e6b584-e1d9-4517-beaf-b443d1575d86",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:5ae2babc-746b-4b06-af90-f971716a5a10",
+    "comment": "curator: asialo-GM2 narrow_synonym_of Glycosphingolipid Ganglio series"
+  },
+  {
+    "subj": "GSD:20e88f5c-c2b3-59f6-be89-7e0e58465d7c",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:07c8860f-19e2-46ef-adc2-0af72c54fc94",
+    "comment": "curator: Gb3 narrow_synonym_of Glycosphingolipid Globo series"
+  },
+  {
+    "subj": "GSD:b137039e-0172-5d89-8fa3-68775f8d4016",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:07c8860f-19e2-46ef-adc2-0af72c54fc94",
+    "comment": "curator: Gb4 narrow_synonym_of Glycosphingolipid Globo series"
+  },
+  {
+    "subj": "GSD:adf49fc3-0a1f-4b18-99de-e79cc11af3ee",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:07c8860f-19e2-46ef-adc2-0af72c54fc94",
+    "comment": "curator: globoside narrow_synonym_of Glycosphingolipid Globo series"
+  },
+  {
+    "subj": "GSD:4a34d191-5be6-4d2c-a6d3-11af678e1f4f",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:07c8860f-19e2-46ef-adc2-0af72c54fc94",
+    "comment": "curator: globotriaosylceramide narrow_synonym_of Glycosphingolipid Globo series"
+  },
+  {
+    "subj": "GSD:dc369560-523e-4f21-8072-6a1cd9e5a552",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:07c8860f-19e2-46ef-adc2-0af72c54fc94",
+    "comment": "curator: globotetraosylceramide narrow_synonym_of Glycosphingolipid Globo series"
+  },
+  {
+    "subj": "GSD:98d075fe-32ec-4d87-a3d3-aade96f0fdfb",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:07c8860f-19e2-46ef-adc2-0af72c54fc94",
+    "comment": "curator: globopentaosylceramide narrow_synonym_of Glycosphingolipid Globo series"
+  },
+  {
+    "subj": "GSD:d9aa7fb1-12b1-4a92-8e9a-38382ba774de",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:b30012e8-9390-459f-b894-b0c85043892b",
+    "comment": "curator: Isoglobotriaosylceramide narrow_synonym_of Glycosphingolipid Isoglobo series"
+  },
+  {
+    "subj": "GSD:7b856b41-1677-461c-99d7-e25aeddf8ecf",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:b30012e8-9390-459f-b894-b0c85043892b",
+    "comment": "curator: Isoglobotriose narrow_synonym_of Glycosphingolipid Isoglobo series"
+  },
+  {
+    "subj": "GSD:e0c82481-c093-4c49-a100-015f5f128086",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:b30012e8-9390-459f-b894-b0c85043892b",
+    "comment": "curator: Isoglobotetraose narrow_synonym_of Glycosphingolipid Isoglobo series"
+  },
+  {
+    "subj": "GSD:633ac980-2249-4dcb-925b-d2d5342ac673",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:b30012e8-9390-459f-b894-b0c85043892b",
+    "comment": "curator: Isoglobopentaose narrow_synonym_of Glycosphingolipid Isoglobo series"
+  },
+  {
+    "subj": "GSD:42d15d6c-3af7-48d4-b3c9-54405ebc70d3",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:ed8a7cbb-b3c1-40fc-8240-0768284cd0c0",
+    "comment": "curator: lactotriaosylceramide narrow_synonym_of Glycosphingolipid Lacto series"
+  },
+  {
+    "subj": "GSD:42e76ba0-441a-4b80-b4b3-d4ee48728446",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:ed8a7cbb-b3c1-40fc-8240-0768284cd0c0",
+    "comment": "curator: lactotetraosylceramide narrow_synonym_of Glycosphingolipid Lacto series"
+  },
+  {
+    "subj": "GSD:bc4cbbeb-af02-4261-9be3-3801c0b6373e",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:ed8a7cbb-b3c1-40fc-8240-0768284cd0c0",
+    "comment": "curator: Lc3 narrow_synonym_of Glycosphingolipid Lacto series"
+  },
+  {
+    "subj": "GSD:be204c7c-6af2-4316-a743-c4c6cf9b987d",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:ed8a7cbb-b3c1-40fc-8240-0768284cd0c0",
+    "comment": "curator: Lc4 narrow_synonym_of Glycosphingolipid Lacto series"
+  },
+  {
+    "subj": "GSD:39ce5ee5-3f7f-4d8d-8e28-64c928b7fcf0",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:33337b59-fc7c-4716-b832-99e5af01baaf",
+    "comment": "curator: nLc4 narrow_synonym_of Glycosphingolipid Neo-lacto series"
+  },
+  {
+    "subj": "GSD:943e6166-a2c1-44cd-b071-1ce69e335a13",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:33337b59-fc7c-4716-b832-99e5af01baaf",
+    "comment": "curator: nLc6 narrow_synonym_of Glycosphingolipid Neo-lacto series"
+  },
+  {
+    "subj": "GSD:59303526-22bb-44e3-bdb0-5786c559a2d9",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:33337b59-fc7c-4716-b832-99e5af01baaf",
+    "comment": "curator: paragloboside narrow_synonym_of Glycosphingolipid Neo-lacto series"
+  },
+  {
+    "subj": "GSD:e413291c-5c2e-4ad5-9b62-20b158e633ce",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:33337b59-fc7c-4716-b832-99e5af01baaf",
+    "comment": "curator: Neolactotetraosylceramide narrow_synonym_of Glycosphingolipid Neo-lacto series"
+  },
+  {
+    "subj": "GSD:b4f83ac5-e741-4787-93e6-efafd2149d60",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:33337b59-fc7c-4716-b832-99e5af01baaf",
+    "comment": "curator: Neolactohexosylceramide narrow_synonym_of Glycosphingolipid Neo-lacto series"
+  },
+  {
+    "subj": "GSD:d357ac13-df30-4206-b9ad-399750f3adb2",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:33337b59-fc7c-4716-b832-99e5af01baaf",
+    "comment": "curator: Neolactotetraose narrow_synonym_of Glycosphingolipid Neo-lacto series"
+  },
+  {
+    "subj": "GSD:833e18dc-f06a-4873-b90c-b06c2b199b6e",
+    "pred": "narrow_synonym_of",
+    "obj": "GSD:49e6d8b0-43a6-4415-94f3-997d32c8ce36",
+    "comment": "curator: galabiosylceramide narrow_synonym_of Glycosphingolipid Gala series"
+  }
+]

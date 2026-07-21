@@ -1,0 +1,26 @@
+# --- Secrets ---
+.env
+.env.*
+!.env.example
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# --- OS / editor cruft ---
+.DS_Store
+# office (Excel/Word) lock files
+~$*
+
+# --- Backups & logs (regenerable build artifacts) ---
+# includes the curator's per-file .bak safety copies
+*.bak
+*.log
+ollama.log
+backup/
+backup.md
+
+# --- Large regenerable vector stores (not tracked) ---
+data/workspace/chroma/

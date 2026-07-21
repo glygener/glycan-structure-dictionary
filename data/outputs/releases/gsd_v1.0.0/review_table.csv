@@ -1,0 +1,624 @@
+lbl,gsd_id
+β3-linked glucose,None
+1-4-linked α-L-guluronic acid,None
+1-4-linked β-D-mannuronic acid,None
+β6-linked galactose,None
+β6-linked glucose,None
+2-6-branch of complex N-glycans,None
+2′-fucosyllactose,None
+3-O-sulfated galactose,None
+3-O-sulfated GlcNS6S,None
+chondroitin-4-sulfate,None
+6-O-sulfated glucosamine,None
+6-sulfo-sialyl Lewis x,GSD000188
+6′-sulfo-sialyl Lewis x,GSD000011
+9-O-acetylated sialic acid,GSD000013
+ABO blood group antigens,None
+alkylacylphosphatidylinositol-anchored glycan,None
+amylopectin,None
+apiogalacturonan,None
+arabinoglucuronoxylan,None
+arthroseries glycosphingolipids,None
+a-series gangliosides,None
+asialo-GM1,GSD000019
+GA1,None
+biantennary complex-type N-glycan,GSD000023
+biantennary N-glycan,GSD000022
+bisected complex-type N-glycan,None
+bisecting GlcNAc,GSD000024
+bisecting α1-4GlcNAc,None
+blood group A determinant,GSD000029
+blood group antigens,None
+blood group B determinant,None
+blood group H determinant,None
+blood group H type-1,GSD000036
+branched N-glycan,None
+b-series gangliosides,None
+callose,None
+cellobiose,None
+cellulose,None
+chitin,None
+chitobiose,None
+chondroitin,None
+chondroitin sulfate A,None
+chondroitin sulfate B,None
+chondroitin sulfate C,None
+chondroitin sulfate,GSD000043
+C-mannose,None
+complex ganglioside,None
+complex glycan,None
+complex glycolipid,None
+complex O-glycan,None
+complex-type N-glycan,GSD000045
+sialylated complex-type N-glycan,GSD000155
+core 1 O-glycan,GSD000186
+core 2 O-glycan,GSD000046
+core 3 O-glycan,GSD000047
+core 4 O-glycan,GSD000048
+core fucose,GSD000049
+core M1 O-mannose glycan,None
+core M2 O-mannose glycan,None
+core M3 O-mannose glycan,None
+c-series gangliosides,None
+cyclic β1-2 glucan,None
+dermatan sulfate,GSD000054
+dextran,None
+di-N-acetylbacillosamine,None
+disialyl Lewis a,GSD000063
+extended core-1 O-glycan,None
+fructans,None
+fucoidans,None
+fucosylated glycans,None
+fucosylated N-glycan,GSD000076
+Fucα1-2Gal,None
+G0,None
+galabiose,None
+galactan,None
+galactolipid,None
+galactomannan,None
+galactose-terminated N-glycan branch,None
+galactosylceramide,GSD000079
+GalNAcα1-3Gal,None
+GalNAcα1-4GalNAcα1-3-diNAcBac,None
+GalNAcα1-4GalNAcα1-4,None
+Galα1-3GalNAc,None
+Galα1-3Galα,None
+Galα1-3Galβ1-4GlcNAc,None
+Galα1-3Glcα,None
+Galβ1-3GalNAcβ1-4Gal,None
+Galβ1-3GlcNAcβ1-3Galβ1-4GlcNAc,None
+ganglio-series glycosphingolipid,None
+ganglioside,None
+Gb3,GSD000089
+Pk antigen,None
+CD77,None
+Gb4,GSD000088
+P antigen,GSD000088
+GD1a,GSD000083
+GD1b,GSD000084
+GD1,GSD000082
+Gg4,None
+Glc3Man9GlcNAc2,None
+GlcA-GlcNAc repeating unit,None
+GlcAβ1-3GalNAc repeating unit,None
+GlcAβ1-3Galβ,None
+GlcNAc-P-Man phosphodiester,None
+GlcNAcβ1-2Manα1-3,None
+GlcNAcβ1-2Manα1-6,None
+GlcNAcβ1-4Gal,None
+GlcNAcβ1-4GlcNAc,None
+GlcNAcβ1-4Glc,None
+GlcNAcβ1-4Man,None
+Glcα1-4Glc repeating unit,None
+Glcα1-phosphate-Man,None
+Glcβ1-3Fucα-O-,None
+globo-series glycospingolipids,GSD000087
+glucan,None
+glucomannan,None
+glucosylceramide,GSD000090
+glucuronoarabinoxylan,None
+glucuronoxylan,None
+glycogen,None
+glycoglycerolipid,None
+glycoinositolphospholipids,None
+glycolipids,None
+glycosaminoglycans,None
+glycosphingolipids,None
+glycosylceramide,None
+glycosyldiacylglycerolipid,None
+glycosylinositolphosphorylceramide,None
+GM1b,None
+GM1,GSD000091
+GM2,GSD000092
+GM3,GSD000093
+GPI glycan,None
+GQ1b,GSD000096
+GT1b,GSD000101
+GT1c,GSD000102
+hemicellulose,None
+heparan sulfate backbone,None
+heparan sulfate,GSD000106
+heparin,GSD000107
+heteroxylan,None
+highly branched complex-type N-glycan,None
+high-mannose N-glycan,GSD000108
+HNK-1,GSD000109
+homogalacturonan,None
+hyaluronan,GSD000183
+hybrid N-glycan,GSD000110
+I antigen,GSD000112
+i antigen,GSD000111
+keratan sulfate–related glycan antigens,None
+keratan sulfate,GSD000114
+LacdiNAc,GSD000115
+LacNAc,None
+lacto-series glycosphingolipids,None
+lactosylceramide,GSD000116
+Leishmania lipophosphoglycan repeat unit,None
+levan-type fructan,None
+Lewis antigens,None
+Lewis a,GSD000119
+Lewis b,GSD000120
+Lewis x,GSD000121
+lipid A core oligosaccharide,None
+lipo-chitooligosaccharide,None
+lipoglycan,None
+lipopeptidophosphoglycan,None
+lipophosphoglycan,None
+lipopolysaccharide,None
+lipoteichoic acid,None
+M7BC,None
+M8B,None
+Man3,None
+Man5,None
+Man6,None
+Man-6-P-containing N-glycan,None
+Man7,None
+Man8,None
+Man9,None
+mannan,None
+mannose-terminated N-glycan,None
+mannosylated lipoarabinomannan,None
+Manα1-2Manα1-2Manα1-6Manα1-4GlcN-inositolphosphoceramide,None
+Manα1-3Man disaccharide,None
+Manβ1-4Glc-ceramide,None
+matriglycan,None
+methanochondroitin,None
+monoantennary N-glycan,None
+monoglucosylated N-glycan,None
+monosialylated ganglioside,None
+mucin-type O-glycans,None
+multiantennary complex-type N-glycan,None
+neolacto-series glycosphingolipids,None
+Neu5Acα2-3Gal,None
+Neu5Acα2-6Gal,None
+Neu5Gcα2-3Galβ1-4Glc,None
+N-glycan core,None
+N-glycan corneal-type keratan sulfate,None
+N-glycans,GSD000131
+O-acetylated sialic acids,None
+O-antigen,None
+O-fucose glycan,GSD000137
+O-GalNAc core structures,None
+O-GalNAc glycans,None
+O-GalNAc-linked sialoglycans,None
+O-glucose glycan,None
+O-glycans,GSD000139
+oligogalacturonides,None
+oligoglucosides,None
+oligomannose,None
+O-linked fucose,None
+O-linked Glc-Gal disaccharide,None
+O-linked glucose,None
+O-linked keratan sulfate,None
+O-linked mannose,None
+O-linked N-acetylglucosamine,GSD000138
+O-linked sialoglycan,None
+O-mannose glycan,GSD000140
+Outer arm fucose,None
+O-xylose-linked glycosaminoglycan,None
+P1 antigen,GSD000141
+paucimannose N-glycan,GSD000144
+P blood group antigens,None
+pectin,None
+phosphomannan,None
+phosphopeptidomannan,None
+polyfucose branch,None
+polyglycosylceramide,None
+poly-lacto-N-biose,None
+polymannose,None
+polymannosyl N-glycan,None
+poly-N-acetylglucosamine,None
+poly-N-acetyllactosamine,None
+polysaccharide A,None
+polysialic acid,GSD000182
+pseudomurein,None
+raffinose,None
+Rhamnogalacturonan-II,None
+Rhamnogalacturonan-I,None
+rhamnogalacturonan,None
+rhamnomannan,None
+R-linked α-N-acetylglucosamine,None
+Sda antigen,GSD000145
+sialofucosylated glycolipid,None
+sialoglycan polymer,None
+sialoglycan,None
+sialoglycolipid,None
+sialylated biantennary N-glycan,GSD000154
+sialylated glycolipid,None
+sialylated glycosphingolipid,None
+sialylated N-acetyllactosamine,None
+sialylated N-glycan,None
+sialylated O-GalNAc glycan,None
+sialylated O-glycan,None
+sialyl Lewis a,GSD000150
+CA19-9,None
+sialyl Lewis x,GSD000151
+sialyl-Tn antigen,None
+sialyl-Tn,GSD000157
+Siaα2-3Galβ1-4GlcNAc,None
+Siaα2-6Galβ1-4GlcNAc,None
+S-linked glucose,None
+SSEA-4,GSD000161
+starch,None
+sulfated galactan,None
+sulfated glucuronosyl glycan,None
+sulfated glycan,None
+sulfated glycosaminoglycan,None
+sulfated N-glycan,None
+sulfated O-GalNAc glycan,None
+sulfated terminal β-linked GalNAc,None
+sulfatide,GSD000162
+T antigen,GSD000163
+teichoic acid,None
+terminal fucose,None
+terminal galactose,None
+terminal glucuronic acid,None
+terminal mannose,None
+terminal N-acetylgalactosamine,None
+terminal N-acetylglucosamine,None
+terminal sialic acid,None
+terminal α1-6 mannose,None
+terminal α-linked fucose,None
+terminal α-linked-galactose,None
+terminal α-linked mannose,None
+terminal β-linked galactose,None
+terminal β-linked N-acetylgalactosamine,None
+tetraantennary N-glycan,GSD000164
+Tn antigen,GSD000167
+"trehalose-6,6-dimycolate",None
+triantennary N-glycan,GSD000170
+tri-mannose,None
+truncated core 1 O-glycan,None
+truncated N-glycan,None
+truncated O-GalNAc glycan,None
+truncated O-glycan,None
+type-1 unit,None
+type-2 unit,None
+type-4 chain,None
+xylan,None
+xylogalacturonan,None
+xyloglucan,None
+xyloside,None
+xylosylated glycans,None
+α(1-3)-linked N-acetylgalactosamine,None
+α(1-6)-linked glucose branch,None
+α2-3 sialic acid branch,None
+α2-3 sialyllactosamine,None
+α-Gal epitope,GSD000016
+α-linked mannose,None
+α-linked O-fucose modification,None
+α-linked polyglucose,None
+α-mannan,None
+α-mannose-containing glycan,None
+α-sialyl linkage,None
+"β-(1,3)-glucan",None
+"β-(1,4)-glucan",None
+"β-(1,4)-mannuronate",None
+β2-linked mannose polymer,None
+β2-linked N-acetylglucosamine,None
+β4-linked N-acetylgalactosamine,None
+β4-linked N-acetylglucosamine,None
+β6-linked N-acetylglucosamine,None
+β-D-xyloside,None
+β-glucan,None
+β-linked galactose,None
+β-linked Kdo,None
+β-N-acetylgalactosaminide,None
+β-N-acetylglucosaminide,None
+α2-6-sialylated 6-sulfo-LacNAc,GSD000002
+2-fucosyl GD1b,GSD000003
+2-fucosyl GM1,GSD000004
+3-sialyl LN (type 2),GSD000005
+3'-sulfo Lewis a,GSD000006
+3'-sulfo Lewis X,GSD000007
+"6,6′-dissulfo sialyl Lewis X",GSD000008
+6-sialyl GalNAc,GSD000009
+9-O-acetyl GD3,GSD000012
+alpha-galactosylceramide,GSD000017
+asialylated biantennary N-glycan,GSD000018
+B-GM1,GSD000021
+blood group A type 1,GSD000030
+blood group A type 2,GSD000014
+blood group A type 3,GSD000187
+blood group A type 4,GSD000028
+blood group B type 1,GSD000033
+blood group B type 2,GSD000034
+blood group B type 4,GSD000035
+blood group H type 2,GSD000037
+blood group H type 3,GSD000105
+blood group H type 4,GSD000039
+chondroitin sulfate/dermatan sulfate,GSD000184
+core-fucosylated biantennary N-glycan,GSD000050
+core-fucosylated biantennary complex-type N-glycan,GSD000051
+Cytolipin R,GSD000053
+desialylated glycan,GSD000055
+difucosylated tetraantennary N-glycan,GSD000057
+dimeric Lewis x,GSD000058
+diphosphorylated Man6,GSD000059
+disialosyl globopentaosylceramide,GSD000060
+disialyl T antigen,GSD000064
+disialylated fucosylated glycan,GSD000067
+Forssman glycolipid,GSD000069
+fucosylated tetraantennary N-glycan,GSD000070
+fucosylated asialo-biantennary N-glycan,GSD000072
+fucosylated biantennary N-glycan,GSD000073
+fucosylated disialylated biantennary N-glycan,GSD000074
+fucosylated lacdiNAc,GSD000075
+fucosylated triantennary N-glycan,GSD000077
+galabiosylceramide,GSD000078
+globopentaosylceramide,GSD000081
+GD2,GSD000085
+GD3,GSD000086
+globoside,GSD000088
+globoside I,GSD000088
+cytolipin K,GSD000088
+GM4,GSD000094
+GP1c,GSD000095
+GQ1c,GSD000098
+GT1a,GSD000099
+GT2,GSD000103
+GT3,GSD000104
+isoglobotetraosylceramide,GSD000113
+lactotriaosylceramide,GSD000117
+LcGg4,GSD000118
+Lewis y,GSD000122
+monosialylated N-glycan,GSD000123
+monosialylated biantennary N-glycan,GSD000124
+monosialyl Gb5,GSD000125
+monosulfated globopentaosylceramide,GSD000126
+monosulfated globotetraosylceramide,GSD000127
+N-acetyl GM2,GSD000128
+N-acetyllactosamine (type 1),GSD000181
+N-acetyllactosamine (type 2),GSD000129
+N-glycolyl GM2,GSD000130
+nonfucosylated N-glycan,GSD000132
+nonfucosylated biantennary N-glycan,GSD000133
+nonfucosylated triantennary N-glycan,GSD000135
+nonsialylated N-glycan,GSD000136
+Para-Forssman glycolipid,GSD000142
+paragloboside,GSD000143
+seminolipid,GSD000147
+sialopentaosylceramide,GSD000148
+sialosyl paragloboside,GSD000149
+sialyl T antigen,GSD000153
+sialylated LacdiNAc,GSD000192
+sialylated tetraantennary N-glycan,GSD000156
+SSEA-1,GSD000159
+SSEA-3,GSD000160
+sulfated LacdiNAc,GSD000191
+tetraantennary complex-type N-glycan,GSD000165
+triantennary complex-type N-glycan,GSD000169
+fucosylated trisialylated triantennary N-glycan,GSD000172
+trifucosyl Lewis b,GSD000173
+trifucosyl lewis y,GSD000174
+trimannosyl core,GSD000175
+trisialylated biantennary N-glycan,GSD000178
+trisialylated triantennary N-glycan,GSD000179
+VIM-2,GSD000180
+cyclic sialyl 6-sulfo Lewis x,GSD000052
+sialyl Lewis x-i antigen,GSD000152
+6-sulfo LacNAc,GSD000010
+disialyl Gb5,GSD000061
+GalNAc disialyl Lc4 hexasaccharide,GSD000080
+GQ1b alpha,GSD000097
+GT1a alpha,GSD000100
+disialyl I antigen,GSD000062
+"2,6-branched O-mannose",GSD000001
+disialylated biantennary N-glycan,GSD000065
+tetrasialylated biantennary N-glycan,GSD000166
+ceramide dihexosyl sulfate,GSD000041
+cisGM1,GSD000044
+disialylated biantennary complex-type N-glycan,GSD000066
+asialo-GM2,None
+asialo-GM3,None
+arabinan,None
+chondroitin-6-sulfate,None
+Fuc(a1-3)GalNAc(b1),None
+GA2,None
+GM1a,None
+Gal(b1-3)GalNAc,None
+Gal(b1-4)[Fuc(a1-3)]Glc(b1),None
+Gal-CTH,None
+GalNAc(b1-3)Gal(b1-4)GlcNAc,None
+GalNAc(b1-4)Gal,None
+GalNAc(b1-4)[Neu5Ac(a2-3)]Gal(b1),None
+GalNAc(b1-4)[Neu5Gc(a2-3)]Gal(b1),None
+GalNAc-GD1a,None
+galactosylgloboside,None
+Gb4,None
+Gg3,None
+Gg4,None
+Gg5,None
+GlcNAc(b1-3)Gal,None
+GlcNAc(b1-3)Gal(b1-4)GlcNAc,None
+KDN-Gal,None
+LacNAc-Gal,None
+lacto-N-neotetraose,None
+lacto-N-tetraose,None
+lactogangliotetraosylceramide,None
+lactotetraosylceramide,None
+Lc4,None
+M3FX,None
+Neu5Ac(a2-3)Gal(b1-3)GalNAc,None
+Neu5Ac(a2-3)Gal(b1-4)Glc,None
+Neu5Ac(a2-3)Gal(b1-4)GlcNAc,None
+Neu5Ac(a2-6)GalNAc,None
+Neu5Ac(a2-8)Neu5Ac(a2-3)Gal,None
+Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-3)GalNAc,None
+Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-4)Glc,None
+Neu5Ac(a2-8)Neu5Gc(a2-3)Gal,None
+Neu5Ac(a2-8)Neu5Gc(a2-3)Gal(b1-4)Glc,None
+Neu5Gc(a2-3)Gal,None
+Neu5Gc(a2-3)Gal(b1-4)GlcNAc,None
+Neu5Gc(a2-8)Neu5Ac(a2-3)Gal,None
+Neu5Gc(a2-8)Neu5Gc(a2-3)Gal,None
+poly-KDN,None
+SD1a,None
+SM3,None
+SM4s,None
+amylose,None
+cellotriose,None
+gellan,None
+gentiobiose,None
+iGb3,None
+iGb4,None
+isomaltose,None
+isopanose,None
+lactose,None
+maltose,None
+melibiose,None
+nLc4,None
+nLc6,None
+panose,None
+primeverose,None
+rutinose,None
+core 5,None
+core 6,None
+core 7,None
+GD1 alpha pentasaccharide,None
+GD1 alpha,None
+2-3 sialyl-lacto-N-tetraose,None
+"6,6'-sulfo LacNAc",None
+acharan sulfate,None
+delta-heparan sulfate,None
+"2-9,2-6 disialyllactosylceramide",None
+core 0,None
+fucosyl asialo-GM1,None
+F1 alpha,None
+N-glycolyl GM3,None
+core 8,None
+poly-N-acetylneuraminic acid,None
+2-6 sialylparagloboside,None
+N-glycolyl GD3,None
+N-acetyl GM3,None
+poly-N-glycolylneuraminic acid,None
+N-acetyl GD3,None
+Lewis y (extended) / hexasaccharide,None
+O-mannosyl glycan / mammalian,None
+O-mannosyl glycan / yeast,None
+O-fucose glycan / EGF repeat,None
+O-fucose glycan / thrombospondin type 1 repeat,None
+blood group A trisaccharide,None
+blood group A type 1 (difucosyl),None
+blood group A type 2 (difucosyl),None
+chondroitin sulfate D,None
+beta 1-6 galactan,None
+beta 1-4 galactan,None
+mixed-linkage beta glucan,None
+blood group H disaccharide,None
+arabinogalactan type I,None
+sialyl 6-sulfo LacNAc,None
+Lewis a- Lewis X hybrid antigen,None
+Neu5Gc(a2-3)Gal / monosialoganglioside,None
+dimeric Lewis a,None
+disialyl Lewis c,None
+sialyl Lewis c,None
+2-6 sialyl i-Lewis x,None
+arabinogalactan type II,None
+internal Lewis x,None
+6-sulfo Lewis x,None
+β-linked lactose,None
+A1,None
+A1G1,None
+A2,None
+A2[3]G1,None
+A2[6]G1,None
+A2B,None
+A2BG0,None
+A2BG1,None
+A2BG2,None
+A2BG2S1,None
+A2BG2S2,None
+A2F1,None
+A2F1G2S2,None
+A2G1,None
+A2G2,None
+A2G2S1,None
+A2G2S2,None
+A3,None
+A3F1,None
+A3F1G3S2,None
+A3F1G3S3,None
+A3F2G3S3,None
+A3G3,None
+A3G3S2,None
+A3G3S3,None
+A4,None
+A4F1,None
+A4F1G4,None
+A4F1G4S4,None
+A4G4,None
+A4G4S1,None
+A4G4S2,None
+A4G4S3,None
+A4G4S4,None
+FA1,None
+FA1G1,None
+FA2,None
+FA2[3]BG1,None
+FA2[3]G1,None
+FA2[3]G1S1,None
+FA2[6]BG1,None
+FA2[6]G1,None
+FA2B,None
+FA2BG2,None
+FA2BG2S1,None
+FA2BG2S2,None
+FA2F1G2S2,None
+FA2G1,None
+FA2G1S1,None
+FA2G2,None
+FA2G2S1,None
+FA2G2S2,None
+FA3,None
+FA3B,None
+FA3F1G3S3,None
+FA3G3,None
+FA3G3S3,None
+FA4,None
+FA4F1G4S4,None
+FA4G4,None
+FA4G4S4,None
+G0-N,None
+G0B,None
+G0F,None
+G0FB,None
+G1,None
+G1F,None
+G2,None
+G2F,None
+G2FS1,None
+G2FS2,None
+G1M9,None
+G2M9,None
+M3 (N-glycan),None
+M5,None
+M6,None
+M7,None
+M7AB,None
+M7AC,None
+M8A,None
+M8C,None
+M8,None
+M9,None

@@ -1,0 +1,117 @@
+id	label	glytoucan_id	aliases	url
+CCRC.000001	LN, N-acetyllactosamine	G00055MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000001
+CCRC.000002	LN2, I antigen	G45207BM		https://glycomotif.glyomics.org/glycomotif/CCRC.000002
+CCRC.000004	I antigen	G26929DQ		https://glycomotif.glyomics.org/glycomotif/CCRC.000004
+CCRC.000005	LN	G04616ST		https://glycomotif.glyomics.org/glycomotif/CCRC.000005
+CCRC.000006	LN2	G11259JT		https://glycomotif.glyomics.org/glycomotif/CCRC.000006
+CCRC.000007	LN3	G85779MY		https://glycomotif.glyomics.org/glycomotif/CCRC.000007
+CCRC.000009	T or TF antigen	G78436BB		https://glycomotif.glyomics.org/glycomotif/CCRC.000009
+CCRC.000010	H antigen	G46868TY		https://glycomotif.glyomics.org/glycomotif/CCRC.000010
+CCRC.000011	A antigen	G71832QJ		https://glycomotif.glyomics.org/glycomotif/CCRC.000011
+CCRC.000012	Sialyl Tn antigen	G08371CD		https://glycomotif.glyomics.org/glycomotif/CCRC.000012
+CCRC.000013	Sialyl T antigen	G56299XO		https://glycomotif.glyomics.org/glycomotif/CCRC.000013
+CCRC.000014	Di-sialyl T antigen	G65191ST		https://glycomotif.glyomics.org/glycomotif/CCRC.000014
+CCRC.000015	a-Gal antigen	G00046MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000015
+CCRC.000016	LDN,  LacdiNAc	G00057MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000016
+CCRC.000017	Fucosylated LDN	G02240AO		https://glycomotif.glyomics.org/glycomotif/CCRC.000017
+CCRC.000018	Lewis x	G00051MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000018
+CCRC.000019	Lewis y	G00052MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000019
+CCRC.000020	Lewis a	G00047MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000020
+CCRC.000021	Lewis b	G00048MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000021
+CCRC.000022	Sialyl Lewis x	G00054MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000022
+CCRC.000023	Cyclic sialyl 6-sulfo Lewis x	G23322RK		https://glycomotif.glyomics.org/glycomotif/CCRC.000023
+CCRC.000024	Sialyl Lewis a	G81971FM		https://glycomotif.glyomics.org/glycomotif/CCRC.000024
+CCRC.000025	6'-Sulfo-sialyl Lewis x	G77659VW		https://glycomotif.glyomics.org/glycomotif/CCRC.000025
+CCRC.000026	2,6-sialyl-Sulfo-LN	G41145LF		https://glycomotif.glyomics.org/glycomotif/CCRC.000026
+CCRC.000027	6-Sulfo-sialyl Lewis x	G23322RK		https://glycomotif.glyomics.org/glycomotif/CCRC.000027
+CCRC.000028	6,6'-bisSulfo-Lewis x	G46799JK		https://glycomotif.glyomics.org/glycomotif/CCRC.000028
+CCRC.000029	3'-Sulfo-Lewis x	G26555CS		https://glycomotif.glyomics.org/glycomotif/CCRC.000029
+CCRC.000030	3'-Sulfo-Lewis a	G36845IZ		https://glycomotif.glyomics.org/glycomotif/CCRC.000030
+CCRC.000031	Lex–Lex	G45673KX		https://glycomotif.glyomics.org/glycomotif/CCRC.000031
+CCRC.000032	SDLex	G69360KJ		https://glycomotif.glyomics.org/glycomotif/CCRC.000032
+CCRC.000033	VIM-2	G00065MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000033
+CCRC.000034	3-Sialyl-LN	G10203DW		https://glycomotif.glyomics.org/glycomotif/CCRC.000034
+CCRC.000035	6-Sialyl-GalNAc or 6-Sialyl LN	G08371CD		https://glycomotif.glyomics.org/glycomotif/CCRC.000035
+CCRC.000036	Blood group H	G43391VM		https://glycomotif.glyomics.org/glycomotif/CCRC.000036
+CCRC.000037	Blood group B	G41865GQ		https://glycomotif.glyomics.org/glycomotif/CCRC.000037
+CCRC.000038	Blood group A	G17108EX		https://glycomotif.glyomics.org/glycomotif/CCRC.000038
+CCRC.000039	Blood group A	G33888AF		https://glycomotif.glyomics.org/glycomotif/CCRC.000039
+CCRC.000040	Blood group A1	G03986GH		https://glycomotif.glyomics.org/glycomotif/CCRC.000040
+CCRC.000041	Blood group A2	G19804SF		https://glycomotif.glyomics.org/glycomotif/CCRC.000041
+CCRC.000042	Blood group H	G50899UD		https://glycomotif.glyomics.org/glycomotif/CCRC.000042
+CCRC.000043	Blood group B	G26934CO		https://glycomotif.glyomics.org/glycomotif/CCRC.000043
+CCRC.000044	Blood group A	G58507AZ		https://glycomotif.glyomics.org/glycomotif/CCRC.000044
+CCRC.000045	Blood group H	G49963IQ		https://glycomotif.glyomics.org/glycomotif/CCRC.000045
+CCRC.000046	Blood group B	G60395SO		https://glycomotif.glyomics.org/glycomotif/CCRC.000046
+CCRC.000047	Blood group A	G48600JD		https://glycomotif.glyomics.org/glycomotif/CCRC.000047
+CCRC.000048	Lewis b	G49963IQ		https://glycomotif.glyomics.org/glycomotif/CCRC.000048
+CCRC.000049	4'-sulfated LDN	G18464VS		https://glycomotif.glyomics.org/glycomotif/CCRC.000049
+CCRC.000050	Sialylated LDN	G55583HW		https://glycomotif.glyomics.org/glycomotif/CCRC.000050
+CCRC.000051	Sda/CT antigen	G00062MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000051
+CCRC.000053	SLex Core 2 O-glycan glycan	G71121NN		https://glycomotif.glyomics.org/glycomotif/CCRC.000053
+CCRC.000057	O-Mannose Lex	G72060BE		https://glycomotif.glyomics.org/glycomotif/CCRC.000057
+CCRC.000058	HNK-1 antigen	G54406UD		https://glycomotif.glyomics.org/glycomotif/CCRC.000058
+CCRC.000059	HNK-1 on O-mannose	G60606QD		https://glycomotif.glyomics.org/glycomotif/CCRC.000059
+CCRC.000063	Sulfatide	G40843KY		https://glycomotif.glyomics.org/glycomotif/CCRC.000063
+CCRC.000064	Lactosylceramide	G74621DY		https://glycomotif.glyomics.org/glycomotif/CCRC.000064
+CCRC.000065	Ceramide dihexosyl sulfate	G04416BG		https://glycomotif.glyomics.org/glycomotif/CCRC.000065
+CCRC.000066	Monosulfated gangliotetraosylceramide	G59736KH		https://glycomotif.glyomics.org/glycomotif/CCRC.000066
+CCRC.000067	Lactotriaosylceramide	G87727XV		https://glycomotif.glyomics.org/glycomotif/CCRC.000067
+CCRC.000068	Pk antigen	G00059MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000068
+CCRC.000069	P1 antigen	G00060MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000069
+CCRC.000070	P antigen	G00061MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000070
+CCRC.000071	Isoglobotetraosylceramide	G19926LY		https://glycomotif.glyomics.org/glycomotif/CCRC.000071
+CCRC.000073	Mono-sulfated globotetraosylceramide	G50866KI		https://glycomotif.glyomics.org/glycomotif/CCRC.000073
+CCRC.000074	Sulfo-isogloboside	G56133NW		https://glycomotif.glyomics.org/glycomotif/CCRC.000074
+CCRC.000075	LcGg4	G85237WB		https://glycomotif.glyomics.org/glycomotif/CCRC.000075
+CCRC.000076	Gb5	G19298OA		https://glycomotif.glyomics.org/glycomotif/CCRC.000076
+CCRC.000077	Paragloboside	G48059CD		https://glycomotif.glyomics.org/glycomotif/CCRC.000077
+CCRC.000078	GL-6 fucosylated	G83120FP		https://glycomotif.glyomics.org/glycomotif/CCRC.000078
+CCRC.000079	SSEA-3	G19298OA		https://glycomotif.glyomics.org/glycomotif/CCRC.000079
+CCRC.000080	GL-7 globoseries ganglioside	G42784QY		https://glycomotif.glyomics.org/glycomotif/CCRC.000080
+CCRC.000081	Sialosyl paragloboside	G98750DB		https://glycomotif.glyomics.org/glycomotif/CCRC.000081
+CCRC.000082	Disialosyl globopentaosylceramide	G75814EP		https://glycomotif.glyomics.org/glycomotif/CCRC.000082
+CCRC.000083	Cytolipin R	G19926LY		https://glycomotif.glyomics.org/glycomotif/CCRC.000083
+CCRC.000084	Forssman glycolipid	G00064MO		https://glycomotif.glyomics.org/glycomotif/CCRC.000084
+CCRC.000085	para-Forssman glycolipid	G98848EU		https://glycomotif.glyomics.org/glycomotif/CCRC.000085
+CCRC.000087	Blood group B	G65112QB		https://glycomotif.glyomics.org/glycomotif/CCRC.000087
+CCRC.000088	Blood group A	G88356HA		https://glycomotif.glyomics.org/glycomotif/CCRC.000088
+CCRC.000089	GM4	G77824XV		https://glycomotif.glyomics.org/glycomotif/CCRC.000089
+CCRC.000090	GM3	G56516VH		https://glycomotif.glyomics.org/glycomotif/CCRC.000090
+CCRC.000091	GD3	G81928IQ		https://glycomotif.glyomics.org/glycomotif/CCRC.000091
+CCRC.000092	GT3	G33570YF		https://glycomotif.glyomics.org/glycomotif/CCRC.000092
+CCRC.000093	9-O-Acetyl GD3	G81928IQ		https://glycomotif.glyomics.org/glycomotif/CCRC.000093
+CCRC.000094	GD2	G41759HA		https://glycomotif.glyomics.org/glycomotif/CCRC.000094
+CCRC.000095	GM2	G61168WC		https://glycomotif.glyomics.org/glycomotif/CCRC.000095
+CCRC.000096	N-Glycolyl-GM2	G18221CF		https://glycomotif.glyomics.org/glycomotif/CCRC.000096
+CCRC.000097	Sialopentaosylceramide	G96400MT		https://glycomotif.glyomics.org/glycomotif/CCRC.000097
+CCRC.000098	GM1	G46613JI		https://glycomotif.glyomics.org/glycomotif/CCRC.000098
+CCRC.000099	Asialo-GM1	G00407UJ		https://glycomotif.glyomics.org/glycomotif/CCRC.000099
+CCRC.000100	cisGM1	G14633CL		https://glycomotif.glyomics.org/glycomotif/CCRC.000100
+CCRC.000101	2-Fucosyl-GM1	G56526JU		https://glycomotif.glyomics.org/glycomotif/CCRC.000101
+CCRC.000102	B-GM1	G46884IT		https://glycomotif.glyomics.org/glycomotif/CCRC.000102
+CCRC.000103	2-Fucosyl-GD1b	G67383AR		https://glycomotif.glyomics.org/glycomotif/CCRC.000103
+CCRC.000104	B-GD1b	G29966WK		https://glycomotif.glyomics.org/glycomotif/CCRC.000104
+CCRC.000105	GD1	G24638PB		https://glycomotif.glyomics.org/glycomotif/CCRC.000105
+CCRC.000106	GD1a	G13258LA		https://glycomotif.glyomics.org/glycomotif/CCRC.000106
+CCRC.000107	GD1a	G69277LC		https://glycomotif.glyomics.org/glycomotif/CCRC.000107
+CCRC.000108	GD1b	G97612UN		https://glycomotif.glyomics.org/glycomotif/CCRC.000108
+CCRC.000109	GT2	G35228ZS		https://glycomotif.glyomics.org/glycomotif/CCRC.000109
+CCRC.000110	GT1a	G93468NI		https://glycomotif.glyomics.org/glycomotif/CCRC.000110
+CCRC.000111	GT1aa	G17486WU		https://glycomotif.glyomics.org/glycomotif/CCRC.000111
+CCRC.000112	GT1b	G05952XV		https://glycomotif.glyomics.org/glycomotif/CCRC.000112
+CCRC.000113	GT1c	G50762GU		https://glycomotif.glyomics.org/glycomotif/CCRC.000113
+CCRC.000114	GQ1aa	G26199BG		https://glycomotif.glyomics.org/glycomotif/CCRC.000114
+CCRC.000115	GQ1b	G17077FL		https://glycomotif.glyomics.org/glycomotif/CCRC.000115
+CCRC.000116	GQ1ba	G49791FJ		https://glycomotif.glyomics.org/glycomotif/CCRC.000116
+CCRC.000117	GQ1c	G54442GQ		https://glycomotif.glyomics.org/glycomotif/CCRC.000117
+CCRC.000118	GP1c	G77608BK		https://glycomotif.glyomics.org/glycomotif/CCRC.000118
+CCRC.000119	GP1ca	G16999RL		https://glycomotif.glyomics.org/glycomotif/CCRC.000119
+CCRC.000120	GH1ca	G86139YL		https://glycomotif.glyomics.org/glycomotif/CCRC.000120
+CCRC.000121	Mono-fucosyl LN5	G93536PN		https://glycomotif.glyomics.org/glycomotif/CCRC.000121
+CCRC.000122	Mono-fucosyl LN3	G80291PD		https://glycomotif.glyomics.org/glycomotif/CCRC.000122
+CCRC.000124	Extended tetrafucosyl-Leb338	G75811PV		https://glycomotif.glyomics.org/glycomotif/CCRC.000124
+CCRC.000126	Dimeric Lea	G06148DR		https://glycomotif.glyomics.org/glycomotif/CCRC.000126
+CCRC.000127	Sialyl Lea glycolipid	G91326YS		https://glycomotif.glyomics.org/glycomotif/CCRC.000127
+CCRC.000128	Monosialylganglioside LSTb	G72506RN		https://glycomotif.glyomics.org/glycomotif/CCRC.000128
+CCRC.000129	HNK-expressing SGLPG	G43040ZY		https://glycomotif.glyomics.org/glycomotif/CCRC.000129

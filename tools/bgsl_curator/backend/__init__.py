@@ -1,0 +1,1 @@
+"""bGSL Curator backend package."""

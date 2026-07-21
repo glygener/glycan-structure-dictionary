@@ -1,0 +1,43 @@
+project_root: .
+
+data:
+  inputs: data/inputs
+  outputs: data/outputs
+  workspace: data/workspace
+
+resources:
+  eog:
+    raw_chapters: data/inputs/eog/raw_chapters
+    indexed_sentences: data/inputs/eog/indexed_sentences
+    gliner_mentions: data/inputs/eog/gliner_mentions
+    merged_terms: data/inputs/eog/merged_terms
+    metadata: data/inputs/eog/metadata
+
+  seed_gsd_v1:
+    raw: data/inputs/seed_gsd_v1/raw
+    normalized: data/inputs/seed_gsd_v1/normalized
+    metadata: data/inputs/seed_gsd_v1/metadata
+
+workspace:
+  chroma: data/workspace/chroma
+  embeddings_cache: data/workspace/embeddings_cache
+  retrieval_runs: data/workspace/retrieval_runs
+  resolver_runs: data/workspace/resolver_runs
+  checkpoints: data/workspace/checkpoints
+  temp: data/workspace/temp
+
+outputs:
+  releases: data/outputs/releases
+
+prompts:
+  glycan_classification_scheme: configs/prompts/glycan_classification_scheme.md
+  glycan_term_extraction_from_tagged_chunk: configs/prompts/glycan_term_extraction_from_tagged_chunk.md
+  glycan_term_extraction_only: configs/prompts/glycan_term_extraction_only.md
+  glycan_surface_form_verification: configs/prompts/glycan_surface_form_verification.md
+  glycan_term_classification_only: configs/prompts/glycan_term_classification_only.md
+  glycan_classification_validation: configs/prompts/glycan_classification_validation.md
+  gsd_entity_resolution: configs/prompts/gsd_entity_resolution.md
+
+schemas:
+  eog_glycan_term_extraction: configs/schemas/eog_glycan_term_extraction.schema.json
+  gsd_entity_resolution: configs/schemas/gsd_entity_resolution.schema.json

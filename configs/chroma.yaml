@@ -1,0 +1,15 @@
+eog:
+  persist_directory: data/workspace/chroma/eog
+  collection_name: eog_chunks
+  top_k: 5
+
+enrichment:
+  persist_directory: data/workspace/chroma/enrichment
+  collection_name: glycan_structure_dictionary
+  embedding_model: mxbai-embed-large:335m
+  top_k: 5
+  score_threshold: 0.3
+
+fields:
+  document_text: label
+  id_field: term_id

@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 880" font-family="ui-sans-serif, -apple-system, 'Segoe UI', sans-serif">
+  <style>
+    .title { font-size: 22px; font-weight: 700; fill: #0f172a; }
+    .subtitle { font-size: 13px; fill: #475569; }
+    .col-header { font-size: 14px; font-weight: 700; fill: #0f172a; }
+    .row-src { font-size: 10px; fill: #64748b; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    .row-lbl { font-size: 13px; font-weight: 600; fill: #0f172a; }
+    .row-meta { font-size: 11px; fill: #334155; }
+    .node-lbl { font-size: 16px; font-weight: 700; fill: #0f172a; }
+    .field-lbl { font-size: 10px; font-weight: 700; fill: #64748b; letter-spacing: 0.6px; }
+    .field-val { font-size: 12px; fill: #0f172a; }
+    .edge-lbl { font-size: 11px; font-weight: 600; fill: #b91c1c; font-style: italic; }
+    .edge-comment { font-size: 10px; fill: #64748b; font-style: italic; }
+    .caption { font-size: 11px; fill: #64748b; }
+    .code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 11px; fill: #0f172a; }
+    .badge-class { fill: #16a34a; }
+    .badge-txt { font-size: 11px; font-weight: 700; fill: #ffffff; }
+
+    .row-box { fill: #f8fafc; stroke: #cbd5e1; stroke-width: 1; rx: 6; }
+    .pipe-box { fill: #ecfeff; stroke: #0891b2; stroke-width: 1.8; rx: 8; }
+    .node-box { fill: #dcfce7; stroke: #16a34a; stroke-width: 2; rx: 10; }
+    .related-box { fill: #fef3c7; stroke: #d97706; stroke-width: 1.6; rx: 8; }
+    .arrow { fill: none; stroke: #334155; stroke-width: 1.6; }
+    .arrow-relation { fill: none; stroke: #b91c1c; stroke-width: 1.6; stroke-dasharray: 5,3; }
+  </style>
+
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#334155"/>
+    </marker>
+    <marker id="a-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#b91c1c"/>
+    </marker>
+  </defs>
+
+  <!-- ============ HEADER ============ -->
+  <text x="30" y="34" class="title">How different surface forms collapse into one bGSL entry</text>
+  <text x="30" y="54" class="subtitle">Worked example: the Class 1A entity <tspan font-weight="700">asialo-GM1</tspan>. Real rows from the v2.0.0-draft (2026-06-18) curated release.</text>
+
+  <!-- ============ COLUMN HEADERS ============ -->
+  <text x="150" y="98" text-anchor="middle" class="col-header">Raw rows from 6 sources</text>
+  <text x="150" y="114" text-anchor="middle" class="caption">same concept, different spellings + abbreviations</text>
+
+  <text x="620" y="98" text-anchor="middle" class="col-header">Resolver pipeline</text>
+  <text x="620" y="114" text-anchor="middle" class="caption">retrieve → resolve → register (one term at a time)</text>
+
+  <text x="1050" y="98" text-anchor="middle" class="col-header">One bGSL node</text>
+  <text x="1050" y="114" text-anchor="middle" class="caption">all forms merged; relations kept as edges</text>
+
+  <!-- ============ LEFT: 6 SOURCE ROWS ============ -->
+  <g transform="translate(30, 132)">
+    <!-- Row 1 -->
+    <rect x="0" y="0" width="240" height="52" class="row-box"/>
+    <text x="12" y="18" class="row-src">SRC:EOG_VARKI_4E</text>
+    <text x="12" y="36" class="row-lbl">asialo-GM1</text>
+    <text x="12" y="49" class="row-meta">description: "ganglioside missing the sialic acid…"</text>
+
+    <!-- Row 2 -->
+    <rect x="0" y="62" width="240" height="52" class="row-box"/>
+    <text x="12" y="80" class="row-src">SRC:GSD_GLYGEN_V0</text>
+    <text x="12" y="98" class="row-lbl">asialo-GM1</text>
+    <text x="12" y="111" class="row-meta">gtc_id: G21856LC · gsd_id: GSD000024</text>
+
+    <!-- Row 3 -->
+    <rect x="0" y="124" width="240" height="52" class="row-box"/>
+    <text x="12" y="142" class="row-src">SRC:PUBDICTIONARIES-GLYCAN-IMAGE</text>
+    <text x="12" y="160" class="row-lbl">asialo-GM1</text>
+    <text x="12" y="173" class="row-meta">iupac: Gal(b1-3)GalNAc(b1-4)Gal(b1-4)Glc</text>
+
+    <!-- Row 4 -->
+    <rect x="0" y="186" width="240" height="52" class="row-box"/>
+    <text x="12" y="204" class="row-src">SRC:CUMMINGS</text>
+    <text x="12" y="222" class="row-lbl">Asialo-GM1</text>
+    <text x="12" y="235" class="row-meta">(case differs — same concept)</text>
+
+    <!-- Row 5 -->
+    <rect x="0" y="248" width="240" height="52" class="row-box"/>
+    <text x="12" y="266" class="row-src">SRC:GLYCOMOTIF_GGM</text>
+    <text x="12" y="284" class="row-lbl">Asialo-GM1</text>
+    <text x="12" y="297" class="row-meta">glycomotif_id: GGM.000040 · keyword: ganglioside</text>
+
+    <!-- Row 6 -->
+    <rect x="0" y="310" width="240" height="52" class="row-box"/>
+    <text x="12" y="328" class="row-src">SRC:PUBDICTIONARIES-GLYCAN-IMAGE</text>
+    <text x="12" y="346" class="row-lbl">AGM1</text>
+    <text x="12" y="359" class="row-meta">raw_term looked like an abbreviation, not a concept</text>
+
+    <!-- Row 7 (related but distinct) -->
+    <rect x="0" y="380" width="240" height="52" class="row-box" stroke="#b91c1c" stroke-dasharray="3,3"/>
+    <text x="12" y="398" class="row-src">SRC:BIOOLIGO</text>
+    <text x="12" y="416" class="row-lbl" fill="#b91c1c">GA1</text>
+    <text x="12" y="429" class="row-meta">gtc_id: G21856LC · "asialo ganglio-tetraosylceramide"</text>
+
+    <!-- annotation -->
+    <text x="0" y="452" class="caption" font-style="italic">Note: GA1 shares the SAME GlyTouCan ID as asialo-GM1</text>
+    <text x="0" y="466" class="caption" font-style="italic">but stays a SEPARATE node — GA1 is a different name-</text>
+    <text x="0" y="480" class="caption" font-style="italic">tradition entity even if the chemistry overlaps.</text>
+  </g>
+
+  <!-- Bracket + arrow into the pipeline -->
+  <path d="M 280 158 L 330 158 L 330 380 L 280 380" class="arrow"/>
+  <path d="M 330 270 L 400 270" class="arrow" marker-end="url(#a)"/>
+  <text x="365" y="262" text-anchor="middle" class="caption">fed one row</text>
+  <text x="365" y="278" text-anchor="middle" class="caption">at a time</text>
+
+  <!-- Separate arrow for GA1 -->
+  <path d="M 280 512 L 320 512 L 320 720 L 900 720" class="arrow-relation" marker-end="url(#a-red)"/>
+  <text x="530" y="712" class="edge-lbl">GA1 → separate node, edge added at merge time ↓</text>
+
+  <!-- ============ MIDDLE: PIPELINE ============ -->
+  <g transform="translate(400, 178)">
+    <rect x="0" y="0" width="440" height="380" class="pipe-box"/>
+    <text x="20" y="24" class="col-header">Term-by-term resolver</text>
+
+    <!-- Retrieve -->
+    <text x="20" y="52" class="field-lbl">STEP 1 — retrieve</text>
+    <text x="20" y="70" class="field-val">Vector search for row 4 <tspan class="code">"Asialo-GM1"</tspan>:</text>
+    <text x="20" y="86" class="code">  best candidate: asialo-GM1 · score 0.92</text>
+    <text x="20" y="102" class="code">  runner-up:      GA1         · score 0.71</text>
+
+    <!-- Resolve fast-path -->
+    <text x="20" y="130" class="field-lbl">STEP 2 — resolve (fast-path fires)</text>
+    <text x="20" y="148" class="field-val">Normalised surface form matches after case-fold:</text>
+    <text x="20" y="164" class="code">  "Asialo-GM1" → asialogm1</text>
+    <text x="20" y="180" class="code">  "asialo-GM1" → asialogm1     ✓ same</text>
+    <text x="20" y="196" class="field-val">Decision: MAP · edge_type = exact_synonym_of</text>
+    <text x="20" y="212" class="field-val">→ no LLM call needed</text>
+
+    <!-- Row 6 (AGM1 abbreviation) -->
+    <text x="20" y="242" class="field-lbl">STEP 3 — later, row 6 ("AGM1") arrives</text>
+    <text x="20" y="260" class="field-val">Vector store now has "asialo-GM1" as an entry.</text>
+    <text x="20" y="276" class="field-val">Surface form doesn't normalize equal; LLM is called:</text>
+    <text x="20" y="292" class="code">  action:     "map"</text>
+    <text x="20" y="308" class="code">  edge_type:  "abbreviation_of"</text>
+    <text x="20" y="324" class="code">  rationale:  "AGM1 is a common abbreviation</text>
+    <text x="20" y="340" class="code">              for asialo-GM1."</text>
+    <text x="20" y="360" class="field-val" font-style="italic">→ AGM1 appended to abbreviations[], no new node created</text>
+  </g>
+
+  <!-- Arrow from pipeline to merged node -->
+  <path d="M 840 350 L 900 350" class="arrow" marker-end="url(#a)"/>
+
+  <!-- ============ RIGHT: MERGED NODE + RELATED ============ -->
+  <g transform="translate(900, 132)">
+    <!-- The main node -->
+    <rect x="0" y="0" width="310" height="450" class="node-box"/>
+    <rect x="240" y="12" width="58" height="20" class="badge-class"/>
+    <text x="269" y="27" text-anchor="middle" class="badge-txt">Class 1A</text>
+
+    <text x="14" y="34" class="node-lbl">asialo-GM1</text>
+    <text x="14" y="52" class="row-src">GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5</text>
+
+    <line x1="14" y1="66" x2="296" y2="66" stroke="#16a34a" stroke-width="0.8" opacity="0.4"/>
+
+    <text x="14" y="82" class="field-lbl">PREFERRED LABEL</text>
+    <text x="14" y="98" class="field-val">asialo-GM1</text>
+
+    <text x="14" y="122" class="field-lbl">EXACT SYNONYMS (5)</text>
+    <text x="14" y="138" class="field-val">Asialo-GM1, asialoGM1,</text>
+    <text x="14" y="154" class="field-val">asialo-GM1a, Gg4Cer</text>
+
+    <text x="14" y="178" class="field-lbl">ABBREVIATIONS (3)</text>
+    <text x="14" y="194" class="field-val">AGM1, aGM1, as-GM1</text>
+
+    <text x="14" y="218" class="field-lbl">GLYTOUCAN IDS</text>
+    <text x="14" y="234" class="code">G21856LC, G00407UJ</text>
+
+    <text x="14" y="258" class="field-lbl">SOURCES (5)</text>
+    <text x="14" y="274" class="row-src">EOG_VARKI_4E</text>
+    <text x="14" y="288" class="row-src">GSD_GLYGEN_V0</text>
+    <text x="14" y="302" class="row-src">PUBDICTIONARIES-GLYCAN-IMAGE</text>
+    <text x="14" y="316" class="row-src">CUMMINGS</text>
+    <text x="14" y="330" class="row-src">GLYCOMOTIF_GGM</text>
+
+    <text x="14" y="354" class="field-lbl">DESCRIPTION</text>
+    <text x="14" y="370" class="field-val">ganglioside missing the sialic acid</text>
+    <text x="14" y="384" class="field-val">residue found on GM1</text>
+
+    <text x="14" y="408" class="field-lbl">EVIDENCE</text>
+    <text x="14" y="424" class="field-val">EoG ch11 · PMID:17728258 (from</text>
+    <text x="14" y="438" class="field-val">GSD_GLYGEN_V0)</text>
+  </g>
+
+  <!-- Related nodes -->
+  <g transform="translate(900, 606)">
+    <text x="0" y="0" class="col-header">Related nodes (kept separate, linked by edges)</text>
+
+    <rect x="0" y="12" width="150" height="66" class="related-box"/>
+    <text x="10" y="30" class="node-lbl" font-size="14">GA1</text>
+    <text x="10" y="46" class="row-src">GSD:a7868da4-…</text>
+    <text x="10" y="60" class="field-lbl">Class 1A</text>
+    <text x="10" y="74" class="field-val" font-size="10">from SRC:BIOOLIGO</text>
+
+    <rect x="160" y="12" width="150" height="66" class="related-box"/>
+    <text x="170" y="30" class="node-lbl" font-size="12">Gangliotetra-</text>
+    <text x="170" y="46" class="node-lbl" font-size="12">osylceramide</text>
+    <text x="170" y="60" class="field-lbl">Class 1A</text>
+    <text x="170" y="74" class="field-val" font-size="10">from SRC:SUGARBIND</text>
+  </g>
+
+  <!-- Edges going out from main node -->
+  <path d="M 1055 592 L 1055 618" class="arrow-relation" marker-end="url(#a-red)"/>
+  <path d="M 995 592 L 995 618" class="arrow-relation" marker-end="url(#a-red)"/>
+  <text x="900" y="596" class="edge-lbl">has_related_synonym →</text>
+  <text x="1100" y="596" class="edge-lbl">← related_synonym_of</text>
+
+  <!-- Edge annotations at the bottom -->
+  <g transform="translate(30, 720)">
+    <rect x="0" y="0" width="840" height="140" fill="#fef2f2" stroke="#fca5a5" stroke-width="1" rx="6"/>
+    <text x="14" y="20" class="col-header">Two edges live in <tspan class="code">master_edges.json</tspan> for this concept:</text>
+
+    <text x="14" y="46" class="code">{ "subj": "GSD:asialo-GM1", "pred": "has_related_synonym", "obj": "GSD:GA1",</text>
+    <text x="14" y="62" class="code">  "comment": "asialo-GM1 has related synonym GA1" }</text>
+    <text x="14" y="82" class="code">{ "subj": "GSD:asialo-GM1", "pred": "related_synonym_of", "obj": "GSD:Gangliotetraosylceramide",</text>
+    <text x="14" y="98" class="code">  "comment": "curator-hint: asialo-GM1 related_synonym_of Gangliotetraosylceramide" }</text>
+
+    <text x="14" y="122" class="caption">GA1 and Gangliotetraosylceramide share the same underlying chemistry (GTC G21856LC) but are named-entity siblings, not synonyms.</text>
+    <text x="14" y="136" class="caption">The resolver keeps them as separate concepts and connects them with edges — this is why the GTC-ID fast-path is disabled.</text>
+  </g>
+</svg>

@@ -1,0 +1,726 @@
+sheet	row	raw_term	class_code	method	evidence
+biooligo	163	Galactosyl lactose	3C	1A_cross_sheet	{'3C': 1}
+cummings	12	A antigen (type 3)	1A	1A_cross_sheet	{'1A': 2}
+cummings	18	Fucosylated LDN (LDNF)	1B	1A_cross_sheet	{'1B': 1}
+glycomotif_ccrc	117	HNK-expressing SGLPG	1A	1A_cross_sheet	{'1A': 1}
+glycomotif_gdv	49	Ceramide dihexosyl sulfate	1B	1A_cross_sheet	{'1B': 3}
+glycomotif_gdv	80	HNK-expressing SGLPG	1A	1A_cross_sheet	{'1A': 1}
+glycomotif_ggm	53	O-Linked mannose	2B	1A_cross_sheet	{'3A': 1, '2B': 2}
+glycomotif_ggm	54	2,6-Branched O-mannose	2C	1A_cross_sheet	{'2C': 2}
+glycomotif_ggm	61	Sulfatide	1A	1A_cross_sheet	{'1A': 6}
+glycomotif_ggm	63	Ceramide dihexosyl sulfate	1B	1A_cross_sheet	{'1B': 3}
+glycomotif_ggm	65	Lactotriaosylceramide	1A	1A_cross_sheet	{'1A': 2}
+glycomotif_ggm	70	Mono-sulfated globopentaosylceramide	1A	1A_cross_sheet	{'1A': 3}
+glycomotif_ggm	71	Mono-sulfated globotetraosylceramide	1A	1A_cross_sheet	{'1A': 5}
+glycomotif_ggm	95	Sialopentaosylceramide	1A	1A_cross_sheet	{'1B': 1, '1A': 3}
+gsdv1	17	biantennary N-glycan	1B	1A_cross_sheet	{'1B': 1}
+gsdv1	46	diphosphorylated Man6	2C	1A_cross_sheet	{'2C': 1, '2D': 1}
+gsdv1	89	high-mannose N-glycan	1B	1A_cross_sheet	{'1B': 1}
+gsdv1	119	O-fucose glycan	2B	1A_cross_sheet	{'2B': 1}
+gsdv1	120	O-linked N-acetylglucosamine	2B	1A_cross_sheet	{'2B': 1}
+gsdv1	122	O-mannose glycan	2B	1A_cross_sheet	{'2B': 1}
+gsdv1	143	sulfatide	1A	1A_cross_sheet	{'1A': 6}
+gsdv1	169	2,6-branched O-mannose	2C	1A_cross_sheet	{'2C': 2}
+n-compo	89	Man5	2D	1A_cross_sheet	{'2D': 2}
+n-compo	90	Man6	2D	1A_cross_sheet	{'2D': 2}
+n-compo	91	Man7	2D	1A_cross_sheet	{'2D': 3}
+n-compo	92	Man8	2D	1A_cross_sheet	{'2D': 1}
+n-compo	93	Man9	2D	1A_cross_sheet	{'2D': 1}
+pubdict-glycan-motif	90	Type 2 LN2	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glycan-motif	94	globotriaosylceramide	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	109	Sda/CT antigen	1A	1A_cross_sheet	{'1A': 5}
+pubdict-glycan-motif	155	Fucosylated LDN (LDNF)	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glycan-motif	165	Blood group A1	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	166	Ceramide dihexosyl sulfate	1B	1A_cross_sheet	{'1B': 3}
+pubdict-glycan-motif	170	Mono-sulfated globotetraosylceramide	1A	1A_cross_sheet	{'1A': 5}
+pubdict-glycan-motif	178	Lc3	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	180	LacNAc-Gal	1B	1A_cross_sheet	{'1B': 2}
+pubdict-glycan-motif	183	2,6-Branched O-mannose	2C	1A_cross_sheet	{'2C': 2}
+pubdict-glycan-motif	190	6-Sialyl-GalNAc or 6-Sialyl LN	2A	1A_cross_sheet	{'2A': 1}
+pubdict-glycan-motif	194	Sulfo-isogloboside	1A	1A_cross_sheet	{'1A': 5}
+pubdict-glycan-motif	195	3-Sialyl-LN	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glycan-motif	198	Neu5Ac(a2-3)Gal(b1-4)GlcNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	199	HNK-expressing SGLPG	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	202	LN2	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glycan-motif	209	Arabinogalactan Type ll	1C	1A_cross_sheet	{'1C': 1}
+pubdict-glycan-motif	210	6-Sulfo LacNAc	1B	1A_cross_sheet	{'1B': 2}
+pubdict-glycan-motif	211	Sialopentaosylceramide	1A	1A_cross_sheet	{'1B': 1, '1A': 3}
+pubdict-glycan-motif	217	cisGM1	1A	1A_cross_sheet	{'1A': 3}
+pubdict-glycan-motif	225	GT1aa	1A	1A_cross_sheet	{'1A': 5}
+pubdict-glycan-motif	226	Delta-Heparan Sulfate	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	228	Type 1 LN3	1B	1A_cross_sheet	{'1B': 3}
+pubdict-glycan-motif	231	4'-sulfated LDN	1B	1A_cross_sheet	{'1B': 3}
+pubdict-glycan-motif	236	SDLex	1A	1A_cross_sheet	{'1A': 4}
+pubdict-glycan-motif	237	Blood group A2	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	241	SM3	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	245	F1 Alpha	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	250	VIM-2	1A	1A_cross_sheet	{'1A': 8}
+pubdict-glycan-motif	258	GalNAc(b1-4)[Neu5Gc(a2-3)]Gal(b1)	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	260	6, 6'-Sulfo LacNAc	1B	1A_cross_sheet	{'1B': 2}
+pubdict-glycan-motif	262	a-Gal antigen	1A	1A_cross_sheet	{'1A': 4}
+pubdict-glycan-motif	269	Xyloglucan	1C	1A_cross_sheet	{'1C': 3}
+pubdict-glycan-motif	270	O-Mannosyl Glycan / Yeast	3C	1A_cross_sheet	{'3C': 1}
+pubdict-glycan-motif	272	Acharan Sulfate	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	274	GQ1aa	1A	1A_cross_sheet	{'1A': 4}
+pubdict-glycan-motif	285	GalNAc(b1-4)[Neu5Gc(a2-3)]Gal(b1)	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	287	2-9, 2-6 Disialyllactosylceramide	1A	1A_cross_sheet	{'1B': 1, '1A': 1}
+pubdict-glycan-motif	292	Mono-sulfated globopentaosylceramide	1A	1A_cross_sheet	{'1A': 3}
+pubdict-glycan-motif	309	GalNAc Disialyl Lc4	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	343	GL-7 globoseries ganglioside	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	344	Poly-KDN	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glycan-motif	345	HNK-expressing SGLPG	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	347	2,6-sialyl-Sulfo-LN	1B	1A_cross_sheet	{'1A': 1, '1B': 2}
+pubdict-glycan-motif	349	Neu5Ac(a2-8)Neu5Ac(a2-3)Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	352	Type 1 LN2	1B	1A_cross_sheet	{'1B': 2}
+pubdict-glycan-motif	354	Blood Group A1	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	355	Blood group A1 (type 3)	1A	1A_cross_sheet	{'1A': 3}
+pubdict-glycan-motif	359	GalNAc(b1-4)[Neu5Ac(a2-3)]Gal(b1)	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	361	Lex_Lex	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	363	C-Series Gangliosides  Oligosaccharide / Hemato- or Ganglio-Type	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glycan-motif	367	''I'' antigen	1A	1A_cross_sheet	{'1A': 16}
+pubdict-glycan-motif	368	I' antigen'	1A	1A_cross_sheet	{'1A': 16}
+pubdict-glycan-motif	369	I' antigen	1A	1A_cross_sheet	{'1A': 16}
+pubdict-glycan-motif	372	Disialogangliotetraosylceramide	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	374	Chindroitin Sulfate D Unit	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	376	Sialyl Lewis c	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	377	Sialyl-Lewis c	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	389	GlcNAc(b1-3)Gal(b1-4)GlcNAc	1A	1A_cross_sheet	{'2A': 1, '1A': 1}
+pubdict-glycan-motif	390	Neu5Gc(a2-3)Gal(b1-4)GlcNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	394	O-GlcNAc	2B	1A_cross_sheet	{'2B': 2}
+pubdict-glycan-motif	395	GQ1ba	1A	1A_cross_sheet	{'1A': 4}
+pubdict-glycan-motif	402	Mono-sulfated globotetraosylceramide	1A	1A_cross_sheet	{'1A': 5}
+pubdict-glycan-motif	404	Ceramide dihexosyl sulfate	1B	1A_cross_sheet	{'1B': 3}
+pubdict-glycan-motif	411	Neu5Gc(a2-3)Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	412	Neu5Gc(a2-3)Gal / Monosialoganglioside	2A	1A_cross_sheet	{'2A': 1}
+pubdict-glycan-motif	414	Glucronoarabinoxylan	1C	1A_cross_sheet	{'1C': 2}
+pubdict-glycan-motif	418	GQ1ba	1A	1A_cross_sheet	{'1A': 4}
+pubdict-glycan-motif	425	Disialyl-branched Type 2	1B	1A_cross_sheet	{'1B': 2}
+pubdict-glycan-motif	426	Disialyl I	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	428	Neu5Gc(a2-8)Neu5Ac(a2-3)Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	429	Sialylated LDN	1B	1A_cross_sheet	{'1B': 4}
+pubdict-glycan-motif	430	''I'' antigen	1A	1A_cross_sheet	{'1A': 16}
+pubdict-glycan-motif	431	I' antigen'	1A	1A_cross_sheet	{'1A': 16}
+pubdict-glycan-motif	432	I' antigen	1A	1A_cross_sheet	{'1A': 16}
+pubdict-glycan-motif	434	Sulfo-isogloboside	1A	1A_cross_sheet	{'1A': 5}
+pubdict-glycan-motif	435	Neu5Ac(a2-3)Gal(b1-3)GalNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	440	Neu5Ac(a2-3)Gal(b1-4)Glc	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	443	Sulfo-isogloboside	1A	1A_cross_sheet	{'1A': 5}
+pubdict-glycan-motif	444	Extended tetrafucosyl-Le	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	447	Gal(b1-4)[Fuc(a1-3)]Glc(b1)	2A	1A_cross_sheet	{'2A': 3}
+pubdict-glycan-motif	448	Fuc(a1-3)GalNac(b1)	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	449	Fuc(a1-3)GalNAc(b1)	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	452	Mono-sulfated globopentaosylceramide	1A	1A_cross_sheet	{'1A': 3}
+pubdict-glycan-motif	459	Gal(b1-3)GalNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	462	O-Linked mannose	2B	1A_cross_sheet	{'3A': 1, '2B': 2}
+pubdict-glycan-motif	463	O-Mannosyl Glycan / Mammalian	3C	1A_cross_sheet	{'3C': 2}
+pubdict-glycan-motif	464	O-Mannosyl Glycan-Mammalian	3C	1A_cross_sheet	{'3C': 2}
+pubdict-glycan-motif	472	GalNAc(b1-4)Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	473	GalNAc(b1-3)Gal(b1-4)GlcNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	477	Neu5Gc(a2-8)Neu5Ac(a2-3)Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	479	F1 Alpha	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	480	Lactogangliotetraosylceramide	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	481	LcGg4	1A	1A_cross_sheet	{'1A': 5}
+pubdict-glycan-motif	483	Blood group A2 (A-associated H type 3)	1A	1A_cross_sheet	{'1A': 3}
+pubdict-glycan-motif	484	Blood Group A2	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	485	Galabiose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glycan-motif	486	Neu5Ac)a2-6)Gal	2A	1A_cross_sheet	{'2A': 5}
+pubdict-glycan-motif	487	O-Mannosyl Glycan-Yeast	3C	1A_cross_sheet	{'3C': 1}
+pubdict-glycan-motif	488	SD1a	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	490	Mono-fucosyl LN5	1B	1A_cross_sheet	{'1B': 3}
+pubdict-glycan-motif	491	Mono-fucosyl LN	1B	1A_cross_sheet	{'1B': 2}
+pubdict-glycan-motif	495	Mono-fucosyl LN3	1B	1A_cross_sheet	{'1B': 3}
+pubdict-glycan-motif	496	Mono-fucosyl LN	1B	1A_cross_sheet	{'1B': 2}
+pubdict-glycan-motif	498	Bata Galactose	2A	1A_cross_sheet	{'2A': 1}
+pubdict-glycan-motif	505	Galabiosylceramide	1A	1A_cross_sheet	{'1A': 2, '1B': 1}
+pubdict-glycan-motif	512	SDLex	1A	1A_cross_sheet	{'1A': 4}
+pubdict-glycan-motif	519	A antigen	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	521	Monosialylganglioside LSTb	1A	1A_cross_sheet	{'1B': 1, '1A': 2}
+pubdict-glycan-motif	523	SM4s	1A	1A_cross_sheet	{'2A': 1, '1A': 1}
+pubdict-glycan-motif	524	Sulfatide	1A	1A_cross_sheet	{'1A': 6}
+pubdict-glycan-motif	526	6-Sialyl-GalNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	527	6-Sialyl-GalNAc or 6-Sialyl LN (type 1 or 2)	2A	1A_cross_sheet	{'2A': 1}
+pubdict-glycan-motif	539	Extended tetrafucosyl-Leb338	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycan-motif	545	Neu5Ac(a2-3)Gal / Monosialoganglioside	2A	1A_cross_sheet	{'2A': 1}
+pubdict-glycan-motif	547	Gal(b1-3)GalNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	555	C-Series Gangliosides Oligosaccharide / Gangliotetraosyl Core Structure	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glycan-motif	561	Lex_Lex	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	565	Mono-fucosyl LN3	1B	1A_cross_sheet	{'1B': 3}
+pubdict-glycan-motif	566	Poly-N-Acetylneuraminic Acid	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glycan-motif	579	Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-4)Glc	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	588	O-Fucose	1B	1A_cross_sheet	{'1B': 2}
+pubdict-glycan-motif	589	KDN-Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	590	KDN-Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	593	Neu5Ac(a2-8)Neu5Ac(a2-3)Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	595	Neu5Ac(a2-8)Neu5Gc(a2-3)Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	596	GL-6 fucosylated	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	598	Monosialylganglioside LSTb	1A	1A_cross_sheet	{'1B': 1, '1A': 2}
+pubdict-glycan-motif	605	Lactogangliotetraosylceramide	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	606	LcGg4	1A	1A_cross_sheet	{'1A': 5}
+pubdict-glycan-motif	609	LN3	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glycan-motif	610	GH1ca	1A	1A_cross_sheet	{'1A': 5}
+pubdict-glycan-motif	611	Mono-sulfated globotetraosylceramide	1A	1A_cross_sheet	{'1A': 5}
+pubdict-glycan-motif	612	Lactotriaosylceramide	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	614	Glucomannan	1C	1A_cross_sheet	{'1C': 3}
+pubdict-glycan-motif	620	O-GlcNAc	2B	1A_cross_sheet	{'2B': 2}
+pubdict-glycan-motif	624	GQ1aa	1A	1A_cross_sheet	{'1A': 4}
+pubdict-glycan-motif	632	Gal-CTH	1B	1A_cross_sheet	{'1B': 1, '2A': 1}
+pubdict-glycan-motif	634	2,6-sialyl-Sulfo-LN (6-sialyl-6-sulfo LN)	1B	1A_cross_sheet	{'1B': 2}
+pubdict-glycan-motif	636	Galactomannan	1C	1A_cross_sheet	{'1C': 2, '1A': 1}
+pubdict-glycan-motif	638	Mono-fucosyl LN5	1B	1A_cross_sheet	{'1B': 3}
+pubdict-glycan-motif	645	Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-3)GalNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	646	Glucronoxylan	1C	1A_cross_sheet	{'1C': 2}
+pubdict-glycan-motif	652	Sulfatide	1A	1A_cross_sheet	{'1A': 6}
+pubdict-glycan-motif	653	Neu5Ac(a2-8)Neu5Gc(a2-3)Gal(b1-4)Glc	2A	1A_cross_sheet	{'2A': 2}
+pubdict-glycan-motif	654	Poly-N-Glycolylneuraminic Acid	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glycan-motif	656	Sialopentaosylceramide	1A	1A_cross_sheet	{'1B': 1, '1A': 3}
+pubdict-glycan-motif	670	Arabinogalactan Type I	1C	1A_cross_sheet	{'1C': 2}
+pubdict-glycan-motif	672	GL-6 fucosylated (globoH)	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	673	GL-6 fucosylated	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	675	Ceramide dihexosyl sulfate	1B	1A_cross_sheet	{'1B': 3}
+pubdict-glycan-motif	681	Galactosylgloboside	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	686	A antigen (type 3)	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycan-motif	689	Sialyl 6-Sulfo LacNAc	1B	1A_cross_sheet	{'1B': 2}
+pubdict-glyconavi-abbrev	2	alpha()2-6)sialyl lactotetraosylceramide	2A	1A_cross_sheet	{'2A': 1}
+pubdict-glyconavi-abbrev	15	3'SLDN	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glyconavi-abbrev	63	Galabiose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-abbrev	64	Galili-tri	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glyconavi-abbrev	76	LN	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glyconavi-abbrev	80	Lac	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	17	3'SLDN	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glyconavi-name	108	Galabiose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	113	Galili-tri	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glyconavi-name	140	Isomaltose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	142	Isopanose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	148	LN	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glyconavi-name	152	Lac	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	178	Melibiose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	194	Panose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	200	Primeverose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	205	Raffinose	1C	1A_cross_sheet	{'1C': 1}
+pubdict-glyconavi-name	215	STn	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glyconavi-name	225	Sulfatide	1A	1A_cross_sheet	{'1A': 6}
+pubdict-glyconavi-name	226	TF	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glyconavi-name	245	3'SLDN	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glyconavi-name	336	Galabiose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	341	Galili-tri	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glyconavi-name	368	Isomaltose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	370	Isopanose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	376	LN	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glyconavi-name	380	Lac	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	406	Melibiose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	422	Panose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	428	Primeverose	3B	1A_cross_sheet	{'3B': 1}
+pubdict-glyconavi-name	433	Raffinose	1C	1A_cross_sheet	{'1C': 1}
+pubdict-glycosmos	84	O-GlcNAc	2B	1A_cross_sheet	{'2B': 2}
+pubdict-glycosmos	87	Poly-KDN	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glycosmos	133	6-Sulfo LacNAc	1B	1A_cross_sheet	{'1B': 2}
+pubdict-glycosmos	134	Delta-Heparan Sulfate	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycosmos	137	Acharan Sulfate	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycosmos	138	Alpha-Galactosyl Epitope	1A	1A_cross_sheet	{'1A': 2}
+pubdict-glycosmos	141	Galactose 3-O-Sulfate	3B	1A_cross_sheet	{'2A': 1, '3B': 1}
+pubdict-glycosmos	143	Disialyl I	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycosmos	151	F1 Alpha	1A	1A_cross_sheet	{'1A': 1}
+pubdict-glycosmos	152	Bata Galactose	2A	1A_cross_sheet	{'2A': 1}
+pubdict-glycosmos	158	Poly-N-Acetylneuraminic Acid	1B	1A_cross_sheet	{'1B': 1}
+pubdict-glycosmos	165	Poly-N-Glycolylneuraminic Acid	1B	1A_cross_sheet	{'1B': 1}
+pubdict-motifglytoucan	16	Neo Lactosamine	1B	1A_cross_sheet	{'1B': 1}
+pubdict-motifglytoucan	41	Lewis D	1A	1A_cross_sheet	{'1A': 1}
+pubdict-motifglytoucan	43	CAD	1A	1A_cross_sheet	{'1A': 1}
+pubdict-motifglytoucan	45	SDA	1A	1A_cross_sheet	{'1A': 1}
+pubdict-motifglytoucan	50	Lewis C	1A	1A_cross_sheet	{'1A': 2}
+pubdict-motifglytoucan	65	N-Glycan core	1B	1A_cross_sheet	{'1B': 1}
+pubdict-motifglytoucan	73	VIM	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	9	Fuc(a1-3)GalNAc(b1)	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	29	Gal(b1-3)GalNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	30	Gal(b1-4)[Fuc(a1-3)]Glc(b1)	2A	1A_cross_sheet	{'2A': 3}
+pubdictionaries-glycan-image	31	Gal-CTH	1B	1A_cross_sheet	{'1B': 1, '2A': 1}
+pubdictionaries-glycan-image	32	GalNAc(b1-3)Gal(b1-4)GlcNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	33	GalNAc(b1-4)Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	34	GalNAc(b1-4)[Neu5Ac(a2-3)]Gal(b1)	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	35	GalNAc(b1-4)[Neu5Gc(a2-3)]Gal(b1)	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	37	Galabiosylceramide	1A	1A_cross_sheet	{'1A': 2, '1B': 1}
+pubdictionaries-glycan-image	38	Galactomannan	1C	1A_cross_sheet	{'1C': 2, '1A': 1}
+pubdictionaries-glycan-image	40	Galactosylgloboside	1A	1A_cross_sheet	{'1A': 2}
+pubdictionaries-glycan-image	44	Gg3	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	45	Gg4	1A	1A_cross_sheet	{'1A': 2}
+pubdictionaries-glycan-image	46	Gg5	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	47	GlcNAc(b1-3)Gal	2A	1A_cross_sheet	{'2A': 2, '1A': 1}
+pubdictionaries-glycan-image	48	GlcNAc(b1-3)Gal(b1-4)GlcNAc	1A	1A_cross_sheet	{'2A': 1, '1A': 1}
+pubdictionaries-glycan-image	50	Glucomannan	1C	1A_cross_sheet	{'1C': 3}
+pubdictionaries-glycan-image	51	Glucronoarabinoxylan	1C	1A_cross_sheet	{'1C': 2}
+pubdictionaries-glycan-image	52	Glucronoxylan	1C	1A_cross_sheet	{'1C': 2}
+pubdictionaries-glycan-image	55	KDN-Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	57	LDN-F	1B	1A_cross_sheet	{'1B': 2}
+pubdictionaries-glycan-image	59	LacNAc-Gal	1B	1A_cross_sheet	{'1B': 2}
+pubdictionaries-glycan-image	62	Lactogangliotetraosylceramide	1A	1A_cross_sheet	{'1A': 2}
+pubdictionaries-glycan-image	65	Lc3	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	66	Lc4	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	68	Neu5Ac(a2-3)Gal(b1)	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	69	Neu5Ac(a2-3)Gal(b1-3)GalNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	70	Neu5Ac(a2-3)Gal(b1-4)Glc	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	71	Neu5Ac(a2-3)Gal(b1-4)GlcNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	72	Neu5Ac(a2-6)Gal	2A	1A_cross_sheet	{'2A': 5}
+pubdictionaries-glycan-image	73	Neu5Ac(a2-6)GalNAc	2A	1A_cross_sheet	{'2A': 3}
+pubdictionaries-glycan-image	74	Neu5Ac(a2-8)Neu5Ac(a2-3)Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	75	Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-3)GalNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	76	Neu5Ac(a2-8)Neu5Ac(a2-3)Gal(b1-4)Glc	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	77	Neu5Ac(a2-8)Neu5Gc(a2-3)Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	78	Neu5Ac(a2-8)Neu5Gc(a2-3)Gal(b1-4)Glc	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	79	Neu5Gc(a2-3)Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	80	Neu5Gc(a2-3)Gal(b1-4)Glc	2A	1A_cross_sheet	{'2A': 4}
+pubdictionaries-glycan-image	81	Neu5Gc(a2-3)Gal(b1-4)GlcNAc	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	82	Neu5Gc(a2-8)Neu5Ac(a2-3)Gal	2A	1A_cross_sheet	{'2A': 2}
+pubdictionaries-glycan-image	83	Neu5Gc(a2-8)Neu5Gc(a2-3)Gal	2A	1A_cross_sheet	{'2A': 4}
+pubdictionaries-glycan-image	84	O-GlcNAc	2B	1A_cross_sheet	{'2B': 2}
+pubdictionaries-glycan-image	87	Poly-KDN	1B	1A_cross_sheet	{'1B': 1}
+pubdictionaries-glycan-image	88	SD1a	1A	1A_cross_sheet	{'1A': 2}
+pubdictionaries-glycan-image	89	SM3	1A	1A_cross_sheet	{'1A': 2}
+pubdictionaries-glycan-image	90	SM4s	1A	1A_cross_sheet	{'2A': 1, '1A': 1}
+pubdictionaries-glycan-image	94	VIM-2	1A	1A_cross_sheet	{'1A': 8}
+pubdictionaries-glycan-image	95	Xylogalacturonan	1C	1A_cross_sheet	{'1C': 4}
+pubdictionaries-glycan-image	96	Xyloglucan	1C	1A_cross_sheet	{'1C': 3}
+pubdictionaries-glycan-image	103	iGb3	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	104	iGb4	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	105	isomaltose	3B	1A_cross_sheet	{'3B': 1}
+pubdictionaries-glycan-image	106	isopanose	3B	1A_cross_sheet	{'3B': 1}
+pubdictionaries-glycan-image	109	melibiose	3B	1A_cross_sheet	{'3B': 1}
+pubdictionaries-glycan-image	110	nLc4	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	111	nLc6	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	112	panose	3B	1A_cross_sheet	{'3B': 1}
+pubdictionaries-glycan-image	113	primeverose	3B	1A_cross_sheet	{'3B': 1}
+pubdictionaries-glycan-image	134	6-Sulfo LacNAc	1B	1A_cross_sheet	{'1B': 2}
+pubdictionaries-glycan-image	138	6,6'-Sulfo LacNAc	1B	1A_cross_sheet	{'1B': 2}
+pubdictionaries-glycan-image	139	Acharan Sulfate	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	140	Delta-Heparan Sulfate	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	141	Alpha-Galactosyl Epitope	1A	1A_cross_sheet	{'1A': 2}
+pubdictionaries-glycan-image	142	2-9,2-6 Disialyllactosylceramide	1A	1A_cross_sheet	{'1B': 1, '1A': 1}
+pubdictionaries-glycan-image	143	6,6,6'-Sulfo LacNAc	1B	1A_cross_sheet	{'1B': 2}
+pubdictionaries-glycan-image	146	Galactose 3-O-Sulfate	3B	1A_cross_sheet	{'2A': 1, '3B': 1}
+pubdictionaries-glycan-image	147	6,6'-Sulfo LacNAc	1B	1A_cross_sheet	{'1B': 2}
+pubdictionaries-glycan-image	148	6,6,6'-Sulfo LacNAc	1B	1A_cross_sheet	{'1B': 2}
+pubdictionaries-glycan-image	150	Disialyl I	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	158	F1 Alpha	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	159	Bata Galactose	2A	1A_cross_sheet	{'2A': 1}
+pubdictionaries-glycan-image	160	2-9,2-6 Disialyllactosylceramide	1A	1A_cross_sheet	{'1B': 1, '1A': 1}
+pubdictionaries-glycan-image	166	Poly-N-Acetylneuraminic Acid	1B	1A_cross_sheet	{'1B': 1}
+pubdictionaries-glycan-image	173	Poly-N-Glycolylneuraminic Acid	1B	1A_cross_sheet	{'1B': 1}
+pubdictionaries-glycan-image	179	O-Mannosyl Glycan / Mammalian	3C	1A_cross_sheet	{'3C': 2}
+pubdictionaries-glycan-image	180	O-Mannosyl Glycan / Yeast	3C	1A_cross_sheet	{'3C': 1}
+pubdictionaries-glycan-image	181	O-Fucose Glycan /EGF Repeat	1B	1A_cross_sheet	{'3C': 1, '1B': 1}
+pubdictionaries-glycan-image	182	O-Fucose Glycan /Thrombospondin Type 1 Repeat	3C	1A_cross_sheet	{'3C': 1}
+pubdictionaries-glycan-image	198	Chindroitin Sulfate D Unit	1A	1A_cross_sheet	{'1A': 2}
+pubdictionaries-glycan-image	208	Arabinogalactan Type I	1C	1A_cross_sheet	{'1C': 2}
+pubdictionaries-glycan-image	210	Sialyl 6-Sulfo LacNAc	1B	1A_cross_sheet	{'1B': 2}
+pubdictionaries-glycan-image	211	GalNAc Disialyl Lc4	1A	1A_cross_sheet	{'1A': 1}
+pubdictionaries-glycan-image	212	GalNAc Disialyl Lc4 (Hexasaccharide)	1A	1A_cross_sheet	{'1A': 1, '1B': 1}
+pubdictionaries-glycan-image	217	Neu5Gc(a2-3)Gal / Monosialoganglioside	2A	1A_cross_sheet	{'2A': 1}
+pubdictionaries-glycan-image	218	Neu5Ac(a2-3)Gal / Monosialoganglioside	2A	1A_cross_sheet	{'2A': 1}
+pubdictionaries-glycan-image	219	C-Series Gangliosides Oligosaccharide / Hemato- or Ganglio-Type	1B	1A_cross_sheet	{'1B': 1}
+pubdictionaries-glycan-image	225	Disialyl Lewis c	1A	1A_cross_sheet	{'1A': 3}
+pubdictionaries-glycan-image	226	Sialyl Lewis c	1A	1A_cross_sheet	{'1A': 2}
+pubdictionaries-glycan-image	228	Arabinogalactan Type ll	1C	1A_cross_sheet	{'1C': 1}
+pubdictionaries-glycan-image	235	Lac	3B	1A_cross_sheet	{'3B': 1}
+sugarbind	21	Lactotriaosylceramide (Lc3)	1A	1A_cross_sheet	{'1A': 3}
+sugarbind	83	Sulfatide	1A	1A_cross_sheet	{'1A': 6}
+sugarbind	108	VIM-2	1A	1A_cross_sheet	{'1A': 8}
+sugarbind	119	Sulfatide	1A	1A_cross_sheet	{'1A': 6}
+sugarbind	123	Sialyllactotetraosylceramide	1A	1A_cross_sheet	{'1A': 3}
+sugarbind	134	Sialyllactotetraosylceramide	1A	1A_cross_sheet	{'1A': 3}
+sugarbind	136	I-active ganglioside	1A	1A_cross_sheet	{'1A': 2}
+sugarbind	140	Sulfatide	1A	1A_cross_sheet	{'1A': 6}
+sugarbind	143	Sulfatide	1A	1A_cross_sheet	{'1A': 6}
+sugarbind	164	Melibiose	3B	1A_cross_sheet	{'3B': 1}
+biooligo	55	N-Acetyl-D-Lactosamine (LacNAc)	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	65	A-tetra Lactose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	66	A-tetra type 2	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	67	B-tetra Lactose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	68	B-tetra type 2	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	69	Difucosyllactose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	71	Chondroitin tetrasaccharide	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	82	Hyalonuric acid hexasaccharide	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	83	Hyalonuric acid tetrasaccharide	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	85	Hyaluronic acid hexasaccharide	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	87	Hyaluronic acid hexasaccharide	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	144	3′-KDNLN	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	145	6P-Man3	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	146	deoxy Chitotetraose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	147	deoxy Chitotriose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	148	Fuc-Gal-Xyl	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	159	Neu5Ac-Gal-(Neu5Ac)-GlcNAc	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	161	Tk	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	166	Chitohexose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	167	Chitopentose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	168	Chitotetraose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	169	Chitotriose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	170	deoxy chitotriose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	171	deoxy chitotetraose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	172	Chitopentaose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	173	Chitohexaose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+biooligo	194	Disialosylpentaose	2A	1B_rule_engine	rules fired on raw+synonyms+extras
+pubdict-glycan-motif	13	Peptidoglycan	DISCARD	1B_rule_engine	rules fired on raw+synonyms+extras
+pubdict-motifglytoucan	12	Peptidoglycan	DISCARD	1B_rule_engine	rules fired on raw+synonyms+extras
+pubdict-motifglytoucan	15	LPS	DISCARD	1B_rule_engine	rules fired on raw+synonyms+extras
+sugarbind	5	Gangliotriaosylceramide (Gg3, Asialo-GM2, GA2, Asialo-GM2a)	1A	1B_rule_engine	rules fired on raw+synonyms+extras
+sugarbind	14	Monosialogangliotetraosylceramide (Monosialoganglioside, NeuAc-GM1, GM1a, GM1)	1A	1B_rule_engine	rules fired on raw+synonyms+extras
+sugarbind	15	Disialogangliotetraosylceramide (NeuAc-GD1b, Disialoganglioside, GD1b)	1A	1B_rule_engine	rules fired on raw+synonyms+extras
+sugarbind	29	Trisialogangliotetraosylceramide (NeuAc-GT1b, GT1b)	1A	1B_rule_engine	rules fired on raw+synonyms+extras
+pubdict-glyconavi-name	2	Î±,Î±-Trehalose	3B	1C_openai:gpt-5.4	trehalose is a named free disaccharide
+pubdict-glyconavi-name	3	2'F-A type 2	DISCARD	1C_openai:gpt-5.4	synthetic-style term explicitly listed outside scheme
+pubdict-glyconavi-name	4	2'F-B type 2	DISCARD	1C_openai:gpt-5.4	synthetic-style shorthand outside defined classes
+pubdict-glyconavi-name	8	3'-KDNLec	1A	1C_openai:gpt-5.4	modified Lewis c named glycan entity
+pubdict-glyconavi-name	9	3'GN type1	2B	1C_openai:gpt-5.4	single named substitution on type-1 chain
+pubdict-glyconavi-name	10	3'GN-Di-LN	2C	1C_openai:gpt-5.4	multiple descriptors stacked on lactosamine chain
+pubdict-glyconavi-name	11	3'KDNLN	2B	1C_openai:gpt-5.4	single named substitution on lactosamine
+pubdict-glyconavi-name	12	3'S-Di-LN	2C	1C_openai:gpt-5.4	sialylated di-lactosamine has stacked descriptors
+pubdict-glyconavi-name	14	3'S-Di-Lec	1A	1C_openai:gpt-5.4	modified Lewis c named glycan entity
+pubdict-glyconavi-name	18	3'SLN	2B	1C_openai:gpt-5.4	single named substitution on lactosamine
+pubdict-glyconavi-name	19	3'SLN (Gc)	2B	1C_openai:gpt-5.4	single named substitution on lactosamine
+pubdict-glyconavi-name	20	3'SLN-Lec	1A	1C_openai:gpt-5.4	Lewis c-containing named glycan variant
+pubdict-glyconavi-name	22	3'SLec	1A	1C_openai:gpt-5.4	sialyl Lewis c is modified Lewis antigen
+pubdict-glyconavi-name	23	3'SLec (Gc)	1A	1C_openai:gpt-5.4	modified Lewis c named glycan entity
+pubdict-glyconavi-name	24	3'SLecLN	1A	1C_openai:gpt-5.4	Lewis c-containing named glycan variant
+pubdict-glyconavi-name	26	3'STri-LN	2C	1C_openai:gpt-5.4	sialylated tri-lactosamine has stacked descriptors
+pubdict-glyconavi-name	27	6'S-Di-LN	2C	1C_openai:gpt-5.4	sialylated di-lactosamine has stacked descriptors
+pubdict-glyconavi-name	29	6'SLDN	2B	1C_openai:gpt-5.4	single named substitution on LacdiNAc
+pubdict-glyconavi-name	30	6'SLN	2B	1C_openai:gpt-5.4	single named substitution on lactosamine
+pubdict-glyconavi-name	31	6'SLN (Gc)	2B	1C_openai:gpt-5.4	single named substitution on lactosamine
+pubdict-glyconavi-name	32	6'STF	1A	1C_openai:gpt-5.4	modified TF antigen shorthand
+pubdict-glyconavi-name	33	6SLN-Lec	1A	1C_openai:gpt-5.4	modified Lewis c epitope shorthand
+pubdict-glyconavi-name	34	9OAc3'SLN	2B	1C_openai:gpt-5.4	modified sialyllactosamine shorthand
+pubdict-glyconavi-name	35	9OAc3'Slec	1A	1C_openai:gpt-5.4	modified Lewis c epitope shorthand
+pubdict-glyconavi-name	36	A tetra L	1A	1C_openai:gpt-5.4	blood group A tetra variant
+pubdict-glyconavi-name	37	A tetra type 1	1A	1C_openai:gpt-5.4	blood group A type 1 variant
+pubdict-glyconavi-name	38	A tetra type 2	1A	1C_openai:gpt-5.4	blood group A type 2 variant
+pubdict-glyconavi-name	39	Abequose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	40	Acosamine	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	41	Allose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	42	Altrose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	43	Amicetose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	45	Apiose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	47	Arcanose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	48	Ascarylose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	49	Ascorbic acid	DISCARD	1C_openai:gpt-5.4	non-glycan small molecule
+pubdict-glyconavi-name	50	B tetra L	1A	1C_openai:gpt-5.4	blood group B tetra variant
+pubdict-glyconavi-name	51	B tetra type 1	1A	1C_openai:gpt-5.4	blood group B type 1 variant
+pubdict-glyconavi-name	52	B tetra type 2	1A	1C_openai:gpt-5.4	blood group B type 2 variant
+pubdict-glyconavi-name	53	B2-tri	1A	1C_openai:gpt-5.4	blood group B trisaccharide variant
+pubdict-glyconavi-name	55	Boivinose	3B	1C_openai:gpt-5.4	standalone monosaccharide trivial name
+pubdict-glyconavi-name	56	CT/Sda	1A	1C_openai:gpt-5.4	canonical CT and Sda antigen names
+pubdict-glyconavi-name	58	Cellotriose	DISCARD	1C_openai:gpt-5.4	named trisaccharide outside scheme
+pubdict-glyconavi-name	59	Ceramide trihexosides(CTH)	1A	1C_openai:gpt-5.4	ceramide trihexoside is globotriaosylceramide
+pubdict-glyconavi-name	60	Chacotriose	DISCARD	1C_openai:gpt-5.4	named trisaccharide outside scheme
+pubdict-glyconavi-name	61	Chalcose	3B	1C_openai:gpt-5.4	standalone monosaccharide trivial name
+pubdict-glyconavi-name	62	Cladinose	3B	1C_openai:gpt-5.4	standalone monosaccharide trivial name
+pubdict-glyconavi-name	63	Colitose	3B	1C_openai:gpt-5.4	standalone monosaccharide trivial name
+pubdict-glyconavi-name	64	Cymarose	3B	1C_openai:gpt-5.4	standalone monosaccharide trivial name
+pubdict-glyconavi-name	65	D-Fucitol	3B	1C_openai:gpt-5.4	modified monosaccharide as standalone noun
+pubdict-glyconavi-name	66	D-Galactosaminitol	3B	1C_openai:gpt-5.4	modified monosaccharide as standalone noun
+pubdict-glyconavi-name	67	Daunosamine	3B	1C_openai:gpt-5.4	standalone monosaccharide trivial name
+pubdict-glyconavi-name	68	Desosamine	3B	1C_openai:gpt-5.4	standalone monosaccharide trivial name
+pubdict-glyconavi-name	69	Di-LN	1B	1C_openai:gpt-5.4	lactosamine repeat feature name
+pubdict-glyconavi-name	71	Di-Lec	1A	1C_openai:gpt-5.4	Lewis c variant shorthand
+pubdict-glyconavi-name	73	Diginose	3B	1C_openai:gpt-5.4	standalone monosaccharide trivial name
+pubdict-glyconavi-name	74	Digitalose	3B	1C_openai:gpt-5.4	standalone monosaccharide trivial name
+pubdict-glyconavi-name	75	Digitoxose	3B	1C_openai:gpt-5.4	standalone monosaccharide trivial name
+pubdict-glyconavi-name	76	Erythrose	3B	1C_openai:gpt-5.4	standalone monosaccharide trivial name
+pubdict-glyconavi-name	77	Erythrulose	3B	1C_openai:gpt-5.4	standalone monosaccharide trivial name
+pubdict-glyconavi-name	78	Evalose	3B	1C_openai:gpt-5.4	Trivial monosaccharide name
+pubdict-glyconavi-name	79	Evernitrose	3B	1C_openai:gpt-5.4	Trivial monosaccharide name
+pubdict-glyconavi-name	80	Forosamine	3B	1C_openai:gpt-5.4	Trivial monosaccharide name
+pubdict-glyconavi-name	81	Fructose	3B	1C_openai:gpt-5.4	Standalone monosaccharide noun
+pubdict-glyconavi-name	82	Fucosamine	3B	1C_openai:gpt-5.4	Trivial monosaccharide name
+pubdict-glyconavi-name	99	GN	3B	1C_openai:gpt-5.4	Monosaccharide shorthand residue name
+pubdict-glyconavi-name	100	GNLN	2D	1C_openai:gpt-5.4	Short alphanumeric glycan shorthand
+pubdict-glyconavi-name	106	Gala3-type1	1A	1C_openai:gpt-5.4	Specific named glycan epitope
+pubdict-glyconavi-name	107	Gala3Lex	1A	1C_openai:gpt-5.4	Lewis-based canonical glycan name
+pubdict-glyconavi-name	109	Galactocerebroside (2-hydoxy fatty acid)	1A	1C_openai:gpt-5.4	Specific named glycolipid entity
+pubdict-glyconavi-name	110	Galactocerebroside (non-hydroxy fatty acid)	1A	1C_openai:gpt-5.4	Specific named glycolipid entity
+pubdict-glyconavi-name	111	Galactosamine	3B	1C_openai:gpt-5.4	Standalone monosaccharide noun
+pubdict-glyconavi-name	114	Gangliotetraose	1A	1C_openai:gpt-5.4	Specific named oligosaccharide entity
+pubdict-glyconavi-name	115	Gangliotriose	1A	1C_openai:gpt-5.4	Specific named oligosaccharide entity
+pubdict-glyconavi-name	116	Garosamine	3B	1C_openai:gpt-5.4	Trivial monosaccharide name
+pubdict-glyconavi-name	118	Gentianose	1A	1C_openai:gpt-5.4	Specific named oligosaccharide entity
+pubdict-glyconavi-name	119	Gentiobiose	3B	1C_openai:gpt-5.4	Named free disaccharide
+pubdict-glyconavi-name	120	Globotetraose	1A	1C_openai:gpt-5.4	Specific named oligosaccharide entity
+pubdict-glyconavi-name	121	Globotriose	1A	1C_openai:gpt-5.4	Specific named oligosaccharide entity
+pubdict-glyconavi-name	122	Glucocerebrosides	1A	1C_openai:gpt-5.4	Specific named glycolipid entity
+pubdict-glyconavi-name	123	Glucopsychosine	DISCARD	1C_openai:gpt-5.4	specific glycolipid name not covered by scheme
+pubdict-glyconavi-name	124	Glucosamine	3B	1C_openai:gpt-5.4	standalone monosaccharide amino sugar
+pubdict-glyconavi-name	125	Glucosaminitol	3B	1C_openai:gpt-5.4	standalone modified monosaccharide alditol
+pubdict-glyconavi-name	127	Glyceraldehyde	3B	1C_openai:gpt-5.4	standalone monosaccharide triose
+pubdict-glyconavi-name	128	Glycerol	DISCARD	1C_openai:gpt-5.4	polyol, not a monosaccharide noun here
+pubdict-glyconavi-name	129	Glycerone	3B	1C_openai:gpt-5.4	standalone monosaccharide ketotriose
+pubdict-glyconavi-name	130	Gulose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	131	H-type1	1A	1C_openai:gpt-5.4	canonical ABH blood group epitope
+pubdict-glyconavi-name	132	H-type2	1A	1C_openai:gpt-5.4	canonical ABH blood group epitope
+pubdict-glyconavi-name	133	H2	1A	1C_openai:gpt-5.4	shorthand for H type 2 antigen
+pubdict-glyconavi-name	134	H3	1A	1C_openai:gpt-5.4	shorthand for H type 3 antigen
+pubdict-glyconavi-name	135	Hamamelose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	136	Idose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	138	Isoglobotriose	1A	1C_openai:gpt-5.4	canonical named glycosphingolipid trisaccharide
+pubdict-glyconavi-name	139	Isolevoglucosenone	DISCARD	1C_openai:gpt-5.4	non-glycan small molecule derivative
+pubdict-glyconavi-name	141	Isomaltotriose	DISCARD	1C_openai:gpt-5.4	specific free trisaccharide not covered
+pubdict-glyconavi-name	143	Kanosamine	3B	1C_openai:gpt-5.4	standalone modified monosaccharide noun
+pubdict-glyconavi-name	144	Kansosamine	3B	1C_openai:gpt-5.4	standalone modified monosaccharide noun
+pubdict-glyconavi-name	145	Kojibiose	3B	1C_openai:gpt-5.4	named free disaccharide noun
+pubdict-glyconavi-name	146	L-Fucitol	3B	1C_openai:gpt-5.4	standalone modified monosaccharide alditol
+pubdict-glyconavi-name	157	Lactosediamine	3B	1C_openai:gpt-5.4	Named free disaccharide noun
+pubdict-glyconavi-name	158	Lactosylceramides	1A	1C_openai:gpt-5.4	Specific named glycosphingolipid entity
+pubdict-glyconavi-name	159	Lactotetraose	1A	1C_openai:gpt-5.4	Specific lacto-series oligosaccharide name
+pubdict-glyconavi-name	160	Laminarabiose	3B	1C_openai:gpt-5.4	Named free disaccharide noun
+pubdict-glyconavi-name	162	LeALex	1A	1C_openai:gpt-5.4	Contains canonical Lewis epitope names
+pubdict-glyconavi-name	163	Lec	DISCARD	1C_openai:gpt-5.4	Unrecognized shorthand, outside scheme
+pubdict-glyconavi-name	165	Levoglucosan	3B	1C_openai:gpt-5.4	Standalone modified monosaccharide derivative
+pubdict-glyconavi-name	166	Levoglucosenone	DISCARD	1C_openai:gpt-5.4	Chemical derivative, not glycan class term
+pubdict-glyconavi-name	172	Lyxose	3B	1C_openai:gpt-5.4	Standalone monosaccharide noun
+pubdict-glyconavi-name	174	Manninotriose	2B	1C_openai:gpt-5.4	Uncertain — fell through to default 2B
+pubdict-glyconavi-name	175	Mannosamine	3B	1C_openai:gpt-5.4	Standalone modified monosaccharide noun
+pubdict-glyconavi-name	177	Melezitose	2B	1C_openai:gpt-5.4	Uncertain — fell through to default 2B
+pubdict-glyconavi-name	179	Muramic acid	3B	1C_openai:gpt-5.4	Standalone modified monosaccharide noun
+pubdict-glyconavi-name	180	Mycaminose	3B	1C_openai:gpt-5.4	Standalone modified monosaccharide noun
+pubdict-glyconavi-name	181	Mycarose	3B	1C_openai:gpt-5.4	Standalone monosaccharide noun
+pubdict-glyconavi-name	182	Mycinose	3B	1C_openai:gpt-5.4	Standalone monosaccharide noun
+pubdict-glyconavi-name	183	Mycosamine	3B	1C_openai:gpt-5.4	Standalone modified monosaccharide noun
+pubdict-glyconavi-name	184	Neolactotetraose	1A	1C_openai:gpt-5.4	Specific neolacto-series oligosaccharide name
+pubdict-glyconavi-name	186	Nigerose	3B	1C_openai:gpt-5.4	Named free disaccharide noun
+pubdict-glyconavi-name	187	Nojirimycin	3B	1C_openai:gpt-5.4	Standalone modified monosaccharide derivative
+pubdict-glyconavi-name	188	Noviose	3B	1C_openai:gpt-5.4	Standalone monosaccharide trivial name
+pubdict-glyconavi-name	189	Oleandrose	3B	1C_openai:gpt-5.4	Standalone monosaccharide trivial name
+pubdict-glyconavi-name	190	P1 penta	1A	1C_openai:gpt-5.4	Named P1 antigen oligosaccharide form
+pubdict-glyconavi-name	191	P1 penta	1A	1C_openai:gpt-5.4	Named P1 antigen oligosaccharide form
+pubdict-glyconavi-name	192	P1 tetra	1A	1C_openai:gpt-5.4	Named P1 antigen oligosaccharide form
+pubdict-glyconavi-name	193	P1 tri	1A	1C_openai:gpt-5.4	Named P1 antigen oligosaccharide form
+pubdict-glyconavi-name	195	Paratose	3B	1C_openai:gpt-5.4	Standalone monosaccharide trivial name
+pubdict-glyconavi-name	196	Perosamine	3B	1C_openai:gpt-5.4	Modified monosaccharide trivial name
+pubdict-glyconavi-name	197	Pk	1A	1C_openai:gpt-5.4	Canonical Pk antigen abbreviation
+pubdict-glyconavi-name	198	Planteose	2B	1C_openai:gpt-5.4	uncertain — fell through to default 2B
+pubdict-glyconavi-name	199	Pneumosamine	3B	1C_openai:gpt-5.4	Modified monosaccharide trivial name
+pubdict-glyconavi-name	201	Psicose	3B	1C_openai:gpt-5.4	Standalone monosaccharide trivial name
+pubdict-glyconavi-name	202	Purpurosamine C	3B	1C_openai:gpt-5.4	Modified monosaccharide trivial name
+pubdict-glyconavi-name	203	Quinovosamine	3B	1C_openai:gpt-5.4	Modified monosaccharide trivial name
+pubdict-glyconavi-name	204	Quinovose	3B	1C_openai:gpt-5.4	Standalone monosaccharide trivial name
+pubdict-glyconavi-name	206	Rhamnitol	3B	1C_openai:gpt-5.4	Monosaccharide derivative noun
+pubdict-glyconavi-name	207	Rhamnosamine	3B	1C_openai:gpt-5.4	Modified monosaccharide trivial name
+pubdict-glyconavi-name	209	Rhodinose	3B	1C_openai:gpt-5.4	Standalone monosaccharide trivial name
+pubdict-glyconavi-name	210	Rhodosamine	3B	1C_openai:gpt-5.4	Modified monosaccharide trivial name
+pubdict-glyconavi-name	212	Ribulose	3B	1C_openai:gpt-5.4	Standalone monosaccharide trivial name
+pubdict-glyconavi-name	213	Rutinose	3B	1C_openai:gpt-5.4	Named free disaccharide noun
+pubdict-glyconavi-name	216	Sarmentose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	217	Sedoheptulosan	1C	1C_openai:gpt-5.4	Non-GAG polymer name
+pubdict-glyconavi-name	218	Sedoheptulose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	219	Solatriose	2A	1C_openai:gpt-5.4	Specific named oligosaccharide
+pubdict-glyconavi-name	220	Sophorose	3B	1C_openai:gpt-5.4	Named free disaccharide noun
+pubdict-glyconavi-name	221	Sorbose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	222	Stachyose	2A	1C_openai:gpt-5.4	Specific named oligosaccharide
+pubdict-glyconavi-name	223	Streptose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	227	Tagatose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	228	Talose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	229	Tartaric acid	DISCARD	1C_openai:gpt-5.4	Non-glycan organic acid
+pubdict-glyconavi-name	230	Threose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	231	Trehalosamine	3B	1C_openai:gpt-5.4	Standalone saccharide noun
+pubdict-glyconavi-name	232	Tri-LN	1B	1C_openai:gpt-5.4	Named lactosamine repeat feature
+pubdict-glyconavi-name	234	Turanose	3B	1C_openai:gpt-5.4	Named free disaccharide noun
+pubdict-glyconavi-name	235	Tyvelose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	236	Umbelliferose	2A	1C_openai:gpt-5.4	Specific named oligosaccharide
+pubdict-glyconavi-name	238	Xylulose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	246	3'SLN	2A	1C_openai:gpt-5.4	Specific abbreviated oligosaccharide
+pubdict-glyconavi-name	247	3'SLN (Gc)	2B	1C_openai:gpt-5.4	sialylated lactosamine motif shorthand
+pubdict-glyconavi-name	248	3'SLN-Lec	1A	1C_openai:gpt-5.4	contains Lewis c canonical epitope
+pubdict-glyconavi-name	250	3'SLec	1A	1C_openai:gpt-5.4	sialyl Lewis c canonical epitope
+pubdict-glyconavi-name	251	3'SLec (Gc)	1A	1C_openai:gpt-5.4	modified sialyl Lewis c epitope
+pubdict-glyconavi-name	252	3'SLecLN	1A	1C_openai:gpt-5.4	contains Lewis c canonical epitope
+pubdict-glyconavi-name	254	3'STri-LN	2B	1C_openai:gpt-5.4	sialylated lactosamine repeat shorthand
+pubdict-glyconavi-name	255	6'S-Di-LN	2B	1C_openai:gpt-5.4	sialylated lactosamine repeat shorthand
+pubdict-glyconavi-name	257	6'SLDN	2B	1C_openai:gpt-5.4	sialylated LacdiNAc motif shorthand
+pubdict-glyconavi-name	258	6'SLN	2B	1C_openai:gpt-5.4	sialylated lactosamine motif shorthand
+pubdict-glyconavi-name	259	6'SLN (Gc)	2B	1C_openai:gpt-5.4	modified sialylated lactosamine shorthand
+pubdict-glyconavi-name	260	6'STF	1A	1C_openai:gpt-5.4	modified TF antigen shorthand
+pubdict-glyconavi-name	261	6SLN-Lec	1A	1C_openai:gpt-5.4	contains Lewis c canonical epitope
+pubdict-glyconavi-name	262	9OAc3'SLN	2B	1C_openai:gpt-5.4	acetylated sialyl lactosamine shorthand
+pubdict-glyconavi-name	263	9OAc3'Slec	1A	1C_openai:gpt-5.4	acetylated sialyl Lewis c epitope
+pubdict-glyconavi-name	264	A tetra L	1A	1C_openai:gpt-5.4	blood group A tetrasaccharide name
+pubdict-glyconavi-name	265	A tetra type 1	1A	1C_openai:gpt-5.4	A type 1 is canonical blood-group epitope
+pubdict-glyconavi-name	266	A tetra type 2	1A	1C_openai:gpt-5.4	A type 2 is canonical blood-group epitope
+pubdict-glyconavi-name	267	Abequose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	268	Acosamine	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	269	Allose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	270	Altrose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	271	Amicetose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	273	Apiose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	275	Arcanose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	276	Ascarylose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	277	Ascorbic acid	DISCARD	1C_openai:gpt-5.4	not a glycan or sugar term
+pubdict-glyconavi-name	278	B tetra L	1A	1C_openai:gpt-5.4	blood group B canonical determinant
+pubdict-glyconavi-name	279	B tetra type 1	1A	1C_openai:gpt-5.4	blood group B type 1 determinant
+pubdict-glyconavi-name	280	B tetra type 2	1A	1C_openai:gpt-5.4	blood group B type 2 determinant
+pubdict-glyconavi-name	281	B2-tri	1A	1C_openai:gpt-5.4	blood group B canonical shorthand
+pubdict-glyconavi-name	283	Boivinose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	284	CT/Sda	1A	1C_openai:gpt-5.4	contains canonical CT and Sda antigens
+pubdict-glyconavi-name	286	Cellotriose	DISCARD	1C_openai:gpt-5.4	named trisaccharide outside listed classes
+pubdict-glyconavi-name	287	Ceramide trihexosides(CTH)	3A	1C_openai:gpt-5.4	glycosphingolipid family-level term
+pubdict-glyconavi-name	288	Chacotriose	DISCARD	1C_openai:gpt-5.4	named trisaccharide outside listed classes
+pubdict-glyconavi-name	289	Chalcose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	290	Cladinose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	291	Colitose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	292	Cymarose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	293	D-Fucitol	3B	1C_openai:gpt-5.4	modified monosaccharide noun
+pubdict-glyconavi-name	294	D-Galactosaminitol	3B	1C_openai:gpt-5.4	Standalone monosaccharide derivative name
+pubdict-glyconavi-name	295	Daunosamine	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	296	Desosamine	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	297	Di-LN	1B	1C_openai:gpt-5.4	Named lactosamine repeat feature
+pubdict-glyconavi-name	299	Di-Lec	1A	1C_openai:gpt-5.4	Lewis c variant, canonical named epitope
+pubdict-glyconavi-name	301	Diginose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	302	Digitalose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	303	Digitoxose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	304	Erythrose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	305	Erythrulose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	306	Evalose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	307	Evernitrose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	308	Forosamine	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	309	Fructose	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	310	Fucosamine	3B	1C_openai:gpt-5.4	Standalone monosaccharide name
+pubdict-glyconavi-name	327	GN	3B	1C_openai:gpt-5.4	GlcNAc abbreviation, monosaccharide noun
+pubdict-glyconavi-name	328	GNLN	1B	1C_openai:gpt-5.4	Lactosamine-based named structural feature
+pubdict-glyconavi-name	334	Gala3-type1	1A	1C_openai:gpt-5.4	Alpha-gal/type 1 canonical epitope variant
+pubdict-glyconavi-name	335	Gala3Lex	1A	1C_openai:gpt-5.4	Lewis x variant, canonical epitope
+pubdict-glyconavi-name	337	Galactocerebroside (2-hydoxy fatty acid)	DISCARD	1C_openai:gpt-5.4	Specific glycolipid outside listed classes
+pubdict-glyconavi-name	338	Galactocerebroside (non-hydroxy fatty acid)	1A	1C_openai:gpt-5.4	Named glycosphingolipid entity
+pubdict-glyconavi-name	339	Galactosamine	3B	1C_openai:gpt-5.4	Standalone monosaccharide noun
+pubdict-glyconavi-name	342	Gangliotetraose	1A	1C_openai:gpt-5.4	Canonical ganglio-series oligosaccharide name
+pubdict-glyconavi-name	343	Gangliotriose	1A	1C_openai:gpt-5.4	Canonical ganglio-series oligosaccharide name
+pubdict-glyconavi-name	344	Garosamine	3B	1C_openai:gpt-5.4	Standalone monosaccharide noun
+pubdict-glyconavi-name	346	Gentianose	DISCARD	1C_openai:gpt-5.4	Named trisaccharide outside scheme
+pubdict-glyconavi-name	347	Gentiobiose	3B	1C_openai:gpt-5.4	Named free disaccharide
+pubdict-glyconavi-name	348	Globotetraose	1A	1C_openai:gpt-5.4	Canonical globo-series oligosaccharide name
+pubdict-glyconavi-name	349	Globotriose	1A	1C_openai:gpt-5.4	Canonical globo-series oligosaccharide name
+pubdict-glyconavi-name	350	Glucocerebrosides	1A	1C_openai:gpt-5.4	Named glycosphingolipid entity
+pubdict-glyconavi-name	351	Glucopsychosine	1A	1C_openai:gpt-5.4	Named glycosphingolipid entity
+pubdict-glyconavi-name	352	Glucosamine	3B	1C_openai:gpt-5.4	Standalone monosaccharide noun
+pubdict-glyconavi-name	353	Glucosaminitol	3B	1C_openai:gpt-5.4	Modified monosaccharide noun
+pubdict-glyconavi-name	355	Glyceraldehyde	3B	1C_openai:gpt-5.4	Standalone monosaccharide noun
+pubdict-glyconavi-name	356	Glycerol	DISCARD	1C_openai:gpt-5.4	Non-glycan small molecule
+pubdict-glyconavi-name	357	Glycerone	3B	1C_openai:gpt-5.4	Standalone monosaccharide noun
+pubdict-glyconavi-name	358	Gulose	3B	1C_openai:gpt-5.4	Standalone monosaccharide noun
+pubdict-glyconavi-name	359	H-type1	1A	1C_openai:gpt-5.4	ABH blood-group canonical name
+pubdict-glyconavi-name	360	H-type2	1A	1C_openai:gpt-5.4	ABH blood-group canonical name
+pubdict-glyconavi-name	361	H2	1A	1C_openai:gpt-5.4	Abbreviation for H type 2
+pubdict-glyconavi-name	362	H3	1A	1C_openai:gpt-5.4	H type 3 blood-group shorthand
+pubdict-glyconavi-name	363	Hamamelose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	364	Idose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	366	Isoglobotriose	2B	1C_openai:gpt-5.4	uncertain — fell through to default 2B
+pubdict-glyconavi-name	367	Isolevoglucosenone	DISCARD	1C_openai:gpt-5.4	non-glycan chemical derivative
+pubdict-glyconavi-name	369	Isomaltotriose	2B	1C_openai:gpt-5.4	uncertain — fell through to default 2B
+pubdict-glyconavi-name	371	Kanosamine	3B	1C_openai:gpt-5.4	modified monosaccharide noun
+pubdict-glyconavi-name	372	Kansosamine	3B	1C_openai:gpt-5.4	modified monosaccharide noun
+pubdict-glyconavi-name	373	Kojibiose	3B	1C_openai:gpt-5.4	named free disaccharide
+pubdict-glyconavi-name	374	L-Fucitol	3B	1C_openai:gpt-5.4	modified monosaccharide noun
+pubdict-glyconavi-name	385	Lactosediamine	2B	1C_openai:gpt-5.4	uncertain — fell through to default 2B
+pubdict-glyconavi-name	386	Lactosylceramides	3A	1C_openai:gpt-5.4	glycosphingolipid family term
+pubdict-glyconavi-name	387	Lactotetraose	2B	1C_openai:gpt-5.4	uncertain — fell through to default 2B
+pubdict-glyconavi-name	388	Laminarabiose	3B	1C_openai:gpt-5.4	named free disaccharide
+pubdict-glyconavi-name	390	LeALex	1A	1C_openai:gpt-5.4	Lewis antigen variant shorthand
+pubdict-glyconavi-name	391	Lec	1A	1C_openai:gpt-5.4	Lewis c antigen shorthand
+pubdict-glyconavi-name	393	Levoglucosan	DISCARD	1C_openai:gpt-5.4	non-glycan chemical derivative
+pubdict-glyconavi-name	394	Levoglucosenone	DISCARD	1C_openai:gpt-5.4	non-glycan chemical derivative
+pubdict-glyconavi-name	400	Lyxose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	402	Manninotriose	2B	1C_openai:gpt-5.4	uncertain — fell through to default 2B
+pubdict-glyconavi-name	403	Mannosamine	3B	1C_openai:gpt-5.4	standalone amino monosaccharide noun
+pubdict-glyconavi-name	405	Melezitose	DISCARD	1C_openai:gpt-5.4	named trisaccharide outside listed classes
+pubdict-glyconavi-name	407	Muramic acid	3B	1C_openai:gpt-5.4	standalone modified monosaccharide noun
+pubdict-glyconavi-name	408	Mycaminose	3B	1C_openai:gpt-5.4	standalone deoxy sugar noun
+pubdict-glyconavi-name	409	Mycarose	3B	1C_openai:gpt-5.4	standalone deoxy sugar noun
+pubdict-glyconavi-name	410	Mycinose	3B	1C_openai:gpt-5.4	standalone deoxy sugar noun
+pubdict-glyconavi-name	411	Mycosamine	3B	1C_openai:gpt-5.4	standalone amino sugar noun
+pubdict-glyconavi-name	412	Neolactotetraose	DISCARD	1C_openai:gpt-5.4	named oligosaccharide outside listed classes
+pubdict-glyconavi-name	414	Nigerose	3B	1C_openai:gpt-5.4	named free disaccharide
+pubdict-glyconavi-name	415	Nojirimycin	3B	1C_openai:gpt-5.4	standalone sugar analogue noun
+pubdict-glyconavi-name	416	Noviose	3B	1C_openai:gpt-5.4	standalone deoxy sugar noun
+pubdict-glyconavi-name	417	Oleandrose	3B	1C_openai:gpt-5.4	standalone deoxy sugar noun
+pubdict-glyconavi-name	418	P1 penta	1A	1C_openai:gpt-5.4	P1 blood-group glycan variant
+pubdict-glyconavi-name	419	P1 penta	1A	1C_openai:gpt-5.4	P1 blood-group glycan variant
+pubdict-glyconavi-name	420	P1 tetra	1A	1C_openai:gpt-5.4	P1 blood-group glycan variant
+pubdict-glyconavi-name	421	P1 tri	1A	1C_openai:gpt-5.4	P1 blood-group glycan variant
+pubdict-glyconavi-name	423	Paratose	3B	1C_openai:gpt-5.4	standalone deoxy sugar noun
+pubdict-glyconavi-name	424	Perosamine	3B	1C_openai:gpt-5.4	standalone amino sugar noun
+pubdict-glyconavi-name	425	Pk	1A	1C_openai:gpt-5.4	canonical Pk antigen name
+pubdict-glyconavi-name	426	Planteose	DISCARD	1C_openai:gpt-5.4	named trisaccharide outside listed classes
+pubdict-glyconavi-name	427	Pneumosamine	3B	1C_openai:gpt-5.4	standalone monosaccharide derivative noun
+pubdict-glyconavi-name	429	Psicose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	430	Purpurosamine C	3B	1C_openai:gpt-5.4	standalone monosaccharide derivative noun
+pubdict-glyconavi-name	431	Quinovosamine	3B	1C_openai:gpt-5.4	standalone monosaccharide derivative noun
+pubdict-glyconavi-name	432	Quinovose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	434	Rhamnitol	3B	1C_openai:gpt-5.4	standalone sugar alcohol derivative noun
+pubdict-glyconavi-name	435	Rhamnosamine	3B	1C_openai:gpt-5.4	standalone monosaccharide derivative noun
+pubdict-glyconavi-name	437	Rhodinose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	438	Rhodosamine	3B	1C_openai:gpt-5.4	standalone monosaccharide derivative noun
+pubdict-glyconavi-name	440	Ribulose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	441	Rutinose	3B	1C_openai:gpt-5.4	named free disaccharide noun
+pubdict-glyconavi-name	444	Sarmentose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	445	Sedoheptulosan	3B	1C_openai:gpt-5.4	standalone monosaccharide derivative noun
+pubdict-glyconavi-name	446	Sedoheptulose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	447	Solatriose	DISCARD	1C_openai:gpt-5.4	free trisaccharide noun not covered
+pubdict-glyconavi-name	448	Sophorose	3B	1C_openai:gpt-5.4	named free disaccharide noun
+pubdict-glyconavi-name	449	Sorbose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	450	Stachyose	DISCARD	1C_openai:gpt-5.4	free tetrasaccharide noun not covered
+pubdict-glyconavi-name	451	Streptose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	455	Tagatose	3B	1C_openai:gpt-5.4	standalone monosaccharide noun
+pubdict-glyconavi-name	456	Talose	3B	1C_openai:gpt-5.4	standalone monosaccharide name
+pubdict-glyconavi-name	457	Tartaric acid	DISCARD	1C_openai:gpt-5.4	non-glycan organic acid
+pubdict-glyconavi-name	458	Threose	3B	1C_openai:gpt-5.4	standalone monosaccharide name
+pubdict-glyconavi-name	459	Trehalosamine	3B	1C_openai:gpt-5.4	standalone sugar derivative noun
+pubdict-glyconavi-name	460	Tri-LN	1B	1C_openai:gpt-5.4	named lactosamine repeat feature
+pubdict-glyconavi-name	462	Turanose	3B	1C_openai:gpt-5.4	named free disaccharide
+pubdict-glyconavi-name	463	Tyvelose	3B	1C_openai:gpt-5.4	standalone monosaccharide name
+pubdict-glyconavi-name	464	Umbelliferose	DISCARD	1C_openai:gpt-5.4	trisaccharide outside defined classes
+pubdict-glyconavi-name	466	Xylulose	3B	1C_openai:gpt-5.4	standalone monosaccharide name
+pubdict-glyconavi-abbrev	4	2'F-A type 2	DISCARD	1C_openai:gpt-5.4	synthetic labeled term explicitly excluded
+pubdict-glyconavi-abbrev	5	2'F-B type 2	DISCARD	1C_openai:gpt-5.4	synthetic labeled term explicitly excluded
+pubdict-glyconavi-abbrev	7	3'-KDNLec	1A	1C_openai:gpt-5.4	modified Lewis c glycan name
+pubdict-glyconavi-abbrev	8	3'GN type1	2B	1C_openai:gpt-5.4	specific glycan name fell through
+pubdict-glyconavi-abbrev	9	3'GN-Di-LN	2C	1C_openai:gpt-5.4	multiple descriptors around lactosamine motif
+pubdict-glyconavi-abbrev	10	3'KDNLN	2B	1C_openai:gpt-5.4	specific glycan name fell through
+pubdict-glyconavi-abbrev	11	3'S-Di-LN	2C	1C_openai:gpt-5.4	sialylated plus di-lactosamine descriptors
+pubdict-glyconavi-abbrev	13	3'S-Di-Lec	1A	1C_openai:gpt-5.4	modified Lewis c glycan name
+pubdict-glyconavi-abbrev	16	3'SLN	2B	1C_openai:gpt-5.4	specific glycan name fell through
+pubdict-glyconavi-abbrev	17	3'SLN-Lec	2C	1C_openai:gpt-5.4	stacked SLN and Lewis c descriptors
+pubdict-glyconavi-abbrev	19	3'SLec	1A	1C_openai:gpt-5.4	modified Lewis c glycan name
+pubdict-glyconavi-abbrev	20	3'SLecLN	1A	1C_openai:gpt-5.4	Contains Lewis c canonical epitope variant
+pubdict-glyconavi-abbrev	22	3'STri-LN	2B	1C_openai:gpt-5.4	Sialylated Tri-LN named by single glycan descriptor
+pubdict-glyconavi-abbrev	23	6'S-Di-LN	2B	1C_openai:gpt-5.4	Sialylated Di-LN with single glycan descriptor
+pubdict-glyconavi-abbrev	25	6'SLDN	2B	1C_openai:gpt-5.4	Sialylated LDN feature with one descriptor
+pubdict-glyconavi-abbrev	26	6'SLN	2B	1C_openai:gpt-5.4	Sialylated lactosamine feature with one descriptor
+pubdict-glyconavi-abbrev	27	6SLN-Lec	1A	1C_openai:gpt-5.4	Lewis c variant remains canonical Lewis epitope
+pubdict-glyconavi-abbrev	28	A tetra L	1A	1C_openai:gpt-5.4	Blood group A tetraose canonical entity
+pubdict-glyconavi-abbrev	29	A tetra type 1	1A	1C_openai:gpt-5.4	A type 1 blood-group determinant
+pubdict-glyconavi-abbrev	30	A tetra type 2	1A	1C_openai:gpt-5.4	A type 2 blood-group determinant
+pubdict-glyconavi-abbrev	31	B tetra L	1A	1C_openai:gpt-5.4	Blood group B tetraose canonical entity
+pubdict-glyconavi-abbrev	32	B tetra type 1	1A	1C_openai:gpt-5.4	B type 1 blood-group determinant
+pubdict-glyconavi-abbrev	33	B tetra type 2	1A	1C_openai:gpt-5.4	B type 2 blood-group determinant
+pubdict-glyconavi-abbrev	34	B2-tri	1A	1C_openai:gpt-5.4	Blood group B type 2 trisaccharide variant
+pubdict-glyconavi-abbrev	35	CT/Sda	1A	1C_openai:gpt-5.4	Sda antigen is a canonical epitope
+pubdict-glyconavi-abbrev	36	Ceramide trihexosides(CTH)	1A	1C_openai:gpt-5.4	Ceramide trihexoside equals globotriaosylceramide
+pubdict-glyconavi-abbrev	37	Di-LN	1B	1C_openai:gpt-5.4	Di-LN is a lactosamine structural feature
+pubdict-glyconavi-abbrev	39	Di-Lec	1A	1C_openai:gpt-5.4	Di-Lewis c based canonical Lewis epitope
+pubdict-glyconavi-abbrev	55	GNLN	2B	1C_openai:gpt-5.4	Falls through as specific glycan shorthand term
+pubdict-glyconavi-abbrev	61	Gala3-type1	1A	1C_openai:gpt-5.4	Alpha-gal type 1 canonical epitope variant
+pubdict-glyconavi-abbrev	62	Gala3Lex	1A	1C_openai:gpt-5.4	Lewis x canonical epitope with alpha-gal variant
+pubdict-glyconavi-abbrev	65	Gangliotetraose	1A	1C_openai:gpt-5.4	canonical named ganglio-series oligosaccharide
+pubdict-glyconavi-abbrev	66	Gangliotriose	1A	1C_openai:gpt-5.4	canonical named ganglio-series oligosaccharide
+pubdict-glyconavi-abbrev	68	Globotetraose	1A	1C_openai:gpt-5.4	canonical named globo-series oligosaccharide
+pubdict-glyconavi-abbrev	69	Globotriose	1A	1C_openai:gpt-5.4	canonical named globo-series oligosaccharide
+pubdict-glyconavi-abbrev	70	H-type1	1A	1C_openai:gpt-5.4	H type 1 blood-group epitope
+pubdict-glyconavi-abbrev	71	H-type2	1A	1C_openai:gpt-5.4	H type 2 blood-group epitope
+pubdict-glyconavi-abbrev	72	H2	1A	1C_openai:gpt-5.4	shorthand for canonical H antigen type
+pubdict-glyconavi-abbrev	73	H3	1A	1C_openai:gpt-5.4	shorthand for canonical H antigen type
+pubdict-glyconavi-abbrev	74	Isoglobotriose	1A	1C_openai:gpt-5.4	canonical named globo-series oligosaccharide
+pubdict-glyconavi-abbrev	83	Lactosylceramides	1A	1C_openai:gpt-5.4	specific lactosylceramide named entity
+pubdict-glyconavi-abbrev	84	Lactotetraose	1A	1C_openai:gpt-5.4	canonical named lacto-series oligosaccharide
+pubdict-glyconavi-abbrev	86	LeALex	1A	1C_openai:gpt-5.4	canonical Lewis epitope name
+pubdict-glyconavi-abbrev	87	Lec	1A	1C_openai:gpt-5.4	Lewis c canonical epitope shorthand
+pubdict-glyconavi-abbrev	94	Neolactotetraose	1A	1C_openai:gpt-5.4	canonical named neolacto-series oligosaccharide
+pubdict-glyconavi-abbrev	95	P1 penta	1A	1C_openai:gpt-5.4	canonical P1-series glycan name
+pubdict-glyconavi-abbrev	96	P1 penta	1A	1C_openai:gpt-5.4	canonical P1-series glycan name
+pubdict-glyconavi-abbrev	97	P1 tetra	1A	1C_openai:gpt-5.4	canonical P1-series glycan name
+pubdict-glyconavi-abbrev	98	P1 tri	1A	1C_openai:gpt-5.4	canonical P1-series glycan name
+pubdict-glyconavi-abbrev	99	Pk	1A	1C_openai:gpt-5.4	Pk antigen canonical name
+pubdict-glyconavi-abbrev	101	Tri-LN	1B	1C_openai:gpt-5.4	lactosamine repeat feature shorthand

@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "GSD Entity Resolution",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "action": {
+      "type": "string",
+      "enum": ["map", "add"],
+      "description": "Whether to map this term to an existing entry or add it as new."
+    },
+    "mapped_to_uuid": {
+      "type": "string",
+      "description": "The UUID of the existing term to map to. Required if action is 'map', empty string if 'add'."
+    },
+    "edge_type": {
+      "type": "string",
+      "enum": ["exact_synonym_of", "related_synonym_of", "abbreviation_of", "broad_synonym_of", "narrow_synonym_of", "is_a", ""],
+      "description": "The relationship between the query term and the matched term. Only required when action is 'map'."
+    },
+    "rationale": {
+      "type": "string",
+      "description": "Brief explanation of why this decision was made."
+    }
+  },
+  "required": ["action", "mapped_to_uuid", "edge_type", "rationale"]
+}

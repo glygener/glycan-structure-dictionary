@@ -1,0 +1,314 @@
+[
+  {
+    "subj": "GSD:8ce1f4e6-8cbe-5167-8ece-a1cfc850d3a5",
+    "pred": "has_related_synonym",
+    "obj": "GSD:a7868da4-a6c2-4825-97b9-c86700b1c213",
+    "comment": "asialo-GM1 has related synonym GA1"
+  },
+  {
+    "subj": "GSD:20e88f5c-c2b3-59f6-be89-7e0e58465d7c",
+    "pred": "has_related_synonym",
+    "obj": "GSD:94c78688-31d6-41ea-b885-c811f945864d",
+    "comment": "Gb3 has related synonym Pk antigen"
+  },
+  {
+    "subj": "GSD:20e88f5c-c2b3-59f6-be89-7e0e58465d7c",
+    "pred": "has_related_synonym",
+    "obj": "GSD:2721b555-911d-4079-a026-e761a752deb8",
+    "comment": "Gb3 has related synonym CD77"
+  },
+  {
+    "subj": "GSD:b137039e-0172-5d89-8fa3-68775f8d4016",
+    "pred": "has_related_synonym",
+    "obj": "GSD:cf106ff8-f5cf-494a-a7bd-47029cde0d2b",
+    "comment": "Gb4 has related synonym P antigen"
+  },
+  {
+    "subj": "GSD:b137039e-0172-5d89-8fa3-68775f8d4016",
+    "pred": "has_related_synonym",
+    "obj": "GSD:81b8b67f-335f-43bf-b121-bfef58adefa3",
+    "comment": "globotetraosylceramide has related synonym globoside"
+  },
+  {
+    "subj": "GSD:b137039e-0172-5d89-8fa3-68775f8d4016",
+    "pred": "has_related_synonym",
+    "obj": "GSD:ba254b85-f6cc-488f-9566-6222489e80a8",
+    "comment": "globotetraosylceramide has related synonym globoside I"
+  },
+  {
+    "subj": "GSD:b137039e-0172-5d89-8fa3-68775f8d4016",
+    "pred": "has_related_synonym",
+    "obj": "GSD:4f568f2a-42af-4cf8-8cb8-0beaaffed216",
+    "comment": "globotetraosylceramide has related synonym cytolipin K"
+  },
+  {
+    "subj": "GSD:41b2fe6b-f72e-4862-8242-b434ce339bf6",
+    "pred": "has_related_synonym",
+    "obj": "GSD:263b5566-6e4e-41d1-9f12-c8339e6bf126",
+    "comment": "globopentaosylceramide has related synonym SSEA-3"
+  },
+  {
+    "subj": "GSD:07f53917-abb0-5512-9eb2-b97850950eee",
+    "pred": "has_related_synonym",
+    "obj": "GSD:07f53917-abb0-5512-9eb2-b97850950eee",
+    "comment": "O-GalNAc glycans has related synonym mucin-type O-glycans"
+  },
+  {
+    "subj": "GSD:89e36335-2fea-5ef3-a3a8-559985883dad",
+    "pred": "has_related_synonym",
+    "obj": "GSD:d5606d4d-5018-4a71-997a-6b29f4187a99",
+    "comment": "sialyl Lewis a has related synonym CA19-9"
+  },
+  {
+    "subj": "GSD:5c444dc8-d458-53df-88a8-65344b643df1",
+    "pred": "has_related_synonym",
+    "obj": "GSD:0a5b0166-1241-5a4a-a0d8-d7d1970792c6",
+    "comment": "chondroitin-4-sulfate has related synonym chondroitin sulfate A"
+  },
+  {
+    "subj": "GSD:0ef0d5e3-6dad-54e6-9bde-79eec7ce6000",
+    "pred": "has_related_synonym",
+    "obj": "GSD:37210836-4c03-58ec-ae10-befc14eacc9e",
+    "comment": "dermatan sulfate has related synonym chondroitin sulfate B"
+  },
+  {
+    "subj": "GSD:38b53e04-c595-43d5-84ce-be2c1b8ff768",
+    "pred": "has_related_synonym",
+    "obj": "GSD:0d5ea83b-21ec-59e0-a01e-35fb322984f4",
+    "comment": "chondroitin-6-sulfate has related synonym chondroitin sulfate C"
+  },
+  {
+    "subj": "GSD:03eade63-065b-5266-b0d6-2d0feb657606",
+    "pred": "has_related_synonym",
+    "obj": "GSD:2815cc13-f565-4868-9cf2-9e7800568658",
+    "comment": "GM1b has related synonym cisGM1"
+  },
+  {
+    "subj": "GSD:3aa27544-ba80-5023-b104-e0747c328c0c",
+    "pred": "has_related_synonym",
+    "obj": "GSD:fbde2c9b-d9c5-4c7c-b3ef-93cbcc3ee9cb",
+    "comment": "GM1 has related synonym GM1a"
+  },
+  {
+    "subj": "GSD:0b994b4c-7d17-42aa-b8fe-71d08800b960",
+    "pred": "has_related_synonym",
+    "obj": "GSD:a7c3ef02-2f8b-4b92-8f06-445cc22031c0",
+    "comment": "A2B has related synonym A2BG0"
+  },
+  {
+    "subj": "GSD:0605927f-fc12-42da-a5c2-1a52395ab7f8",
+    "pred": "has_related_synonym",
+    "obj": "GSD:bf0e78e7-7656-5f66-8677-a96d59743cfe",
+    "comment": "A2 has related synonym G0"
+  },
+  {
+    "subj": "GSD:558c6e29-6921-4fa8-81fb-105af7b1ac93",
+    "pred": "has_related_synonym",
+    "obj": "GSD:3eac30ef-5494-45c6-bdf5-108a05cf1890",
+    "comment": "A1 has related synonym G0-N"
+  },
+  {
+    "subj": "GSD:0b994b4c-7d17-42aa-b8fe-71d08800b960",
+    "pred": "has_related_synonym",
+    "obj": "GSD:6fb1b3d1-7810-41fc-917e-44634e577d3c",
+    "comment": "A2B has related synonym G0B"
+  },
+  {
+    "subj": "GSD:aeebc5be-14f5-4c03-b61f-a2936330a37e",
+    "pred": "has_related_synonym",
+    "obj": "GSD:e2868821-1995-4872-983f-4231e9fd8faf",
+    "comment": "FA2 has related synonym G0F"
+  },
+  {
+    "subj": "GSD:0f6dff69-e331-4e34-9d72-7bbb67a604b5",
+    "pred": "has_related_synonym",
+    "obj": "GSD:e2aedcf6-3412-4ce7-8768-970fff170c92",
+    "comment": "FA2B has related synonym G0FB"
+  },
+  {
+    "subj": "GSD:1950a6af-7cbb-49cf-aae3-59bc276a5980",
+    "pred": "has_related_synonym",
+    "obj": "GSD:e09b35de-0e6a-4fdd-a9b2-ad015b788603",
+    "comment": "A2G1 has related synonym G1"
+  },
+  {
+    "subj": "GSD:4263014e-957d-44f1-b733-12302704fc09",
+    "pred": "has_related_synonym",
+    "obj": "GSD:aeeaceb1-5530-4598-b828-31015aceeaa0",
+    "comment": "FA2G1 has related synonym G1F"
+  },
+  {
+    "subj": "GSD:2d0aec1a-2f4b-44d7-9ff3-796bfdd88636",
+    "pred": "has_related_synonym",
+    "obj": "GSD:a9dc8b21-25a3-4a48-8943-0c8e852ff46c",
+    "comment": "A2G2 has related synonym G2"
+  },
+  {
+    "subj": "GSD:7bf91264-a639-48f4-a992-f1ad65f6d1e5",
+    "pred": "has_related_synonym",
+    "obj": "GSD:c979ed9e-e4e2-4ec6-ae30-da5a7ad21b32",
+    "comment": "FA2G2 has related synonym G2F"
+  },
+  {
+    "subj": "GSD:2e04d1a2-3da5-458f-8573-39514b94b7b7",
+    "pred": "has_related_synonym",
+    "obj": "GSD:06a32dd0-c657-491d-bcf9-c719061df840",
+    "comment": "FA2G2S1 has related synonym G2FS1"
+  },
+  {
+    "subj": "GSD:54235f94-c902-44d0-994d-9235d7dc6fb7",
+    "pred": "has_related_synonym",
+    "obj": "GSD:5750e9ec-7e77-491e-a140-3b90e2b0df83",
+    "comment": "FA2G2S2 has related synonym G2FS2"
+  },
+  {
+    "subj": "GSD:dd1653b0-671f-5a14-872b-aaa5a18bcd82",
+    "pred": "has_related_synonym",
+    "obj": "GSD:31920366-d0a5-4ca0-b9f7-3b9fceff0283",
+    "comment": "Man3 has related synonym M3 (N-glycan)"
+  },
+  {
+    "subj": "GSD:d7aaf087-4381-5ac9-889c-e4793293c978",
+    "pred": "has_related_synonym",
+    "obj": "GSD:f5c9087c-f814-4e25-8197-5801209af7e1",
+    "comment": "Man5 has related synonym M5"
+  },
+  {
+    "subj": "GSD:ac85d43d-be44-59fa-a524-580fbff1c6e3",
+    "pred": "has_related_synonym",
+    "obj": "GSD:2567d8db-d209-41bb-9f3e-86cc5bc11725",
+    "comment": "Man6 has related synonym M6"
+  },
+  {
+    "subj": "GSD:76f55f17-29ee-5938-bef1-bee233b36669",
+    "pred": "has_related_synonym",
+    "obj": "GSD:b09056c6-2f81-4d26-9e20-c4cf7d1406f5",
+    "comment": "Man7 has related synonym M7"
+  },
+  {
+    "subj": "GSD:652f4ddf-ec6a-59c8-ba0e-46a26173f4b7",
+    "pred": "has_related_synonym",
+    "obj": "GSD:e46355aa-9afd-475b-8df0-ac024fd4e49d",
+    "comment": "Man8 has related synonym M8"
+  },
+  {
+    "subj": "GSD:171cbaf9-e31b-5be4-ab4c-b9a60cf10330",
+    "pred": "has_related_synonym",
+    "obj": "GSD:7a9857d9-21b5-40a1-aa48-deb2cca160d8",
+    "comment": "Man9 has related synonym M9"
+  },
+  {
+    "subj": "GSD:18ddd830-8974-4494-a880-47eed3c79f17",
+    "pred": "has_related_synonym",
+    "obj": "GSD:18ddd830-8974-4494-a880-47eed3c79f17",
+    "comment": "lactotetraosylceramide has related synonym Lc4"
+  },
+  {
+    "subj": "GSD:de87508d-2426-4ab8-a6c5-a46317be5b5e",
+    "pred": "is_a",
+    "obj": "GSD:70e33abf-b5a9-49ec-8e9b-852ae250f059",
+    "comment": "is_a GSD:70e33abf-b5a9-49ec-8e9b-852ae250f059"
+  },
+  {
+    "subj": "GSD:d905c79f-ef1f-44cd-af2b-7577731de585",
+    "pred": "related_synonym_of",
+    "obj": "GSD:33654432-0fbb-5d63-964b-04779c68d99e",
+    "comment": "related_synonym_of GSD:33654432-0fbb-5d63-964b-04779c68d99e"
+  },
+  {
+    "subj": "GSD:b19656a2-2510-4c75-b4c8-cdd766ba3ec4",
+    "pred": "is_a",
+    "obj": "GSD:b6aa2621-651c-5dc5-af13-e3dc0b932d37",
+    "comment": "is_a GSD:b6aa2621-651c-5dc5-af13-e3dc0b932d37"
+  },
+  {
+    "subj": "GSD:e27291ff-fd91-4124-91d4-88996c9b3969",
+    "pred": "related_synonym_of",
+    "obj": "GSD:75e78000-a05e-4f0f-8d44-06fb7e7669d3",
+    "comment": "related_synonym_of GSD:75e78000-a05e-4f0f-8d44-06fb7e7669d3"
+  },
+  {
+    "subj": "GSD:298aaa26-ad3d-4d71-833c-8e1cecd48b78",
+    "pred": "is_a",
+    "obj": "GSD:11202984-bddb-45f1-8290-ec4c55c3bb32",
+    "comment": "is_a GSD:11202984-bddb-45f1-8290-ec4c55c3bb32"
+  },
+  {
+    "subj": "GSD:a76b26d7-9b09-4e05-8a68-19b9c67bb277",
+    "pred": "is_a",
+    "obj": "GSD:32bfa27a-d28a-584a-9a53-7b24e852853f",
+    "comment": "is_a GSD:32bfa27a-d28a-584a-9a53-7b24e852853f"
+  },
+  {
+    "subj": "GSD:33d9096a-c8c5-4bda-83f9-d86fa495a255",
+    "pred": "related_synonym_of",
+    "obj": "GSD:ad4eef06-adc3-5576-ab88-d97ecabba171",
+    "comment": "related_synonym_of GSD:ad4eef06-adc3-5576-ab88-d97ecabba171"
+  },
+  {
+    "subj": "GSD:41247aa3-0ad9-4f32-9e8b-c2152b10ae53",
+    "pred": "related_synonym_of",
+    "obj": "GSD:ad1e80a4-92ce-5bc2-b892-ffbbfaff2a25",
+    "comment": "related_synonym_of GSD:ad1e80a4-92ce-5bc2-b892-ffbbfaff2a25"
+  },
+  {
+    "subj": "GSD:2a3d9cad-aecf-48e9-bcbb-d71b773b0e63",
+    "pred": "is_a",
+    "obj": "GSD:c2c341af-933d-5fc8-9481-74150676c0bb",
+    "comment": "is_a GSD:c2c341af-933d-5fc8-9481-74150676c0bb"
+  },
+  {
+    "subj": "GSD:9179ab05-0f7d-486c-8d9e-f23f2d7bfe38",
+    "pred": "is_a",
+    "obj": "GSD:7cee9dd6-9c05-54fc-947b-afca69f08b9e",
+    "comment": "is_a GSD:7cee9dd6-9c05-54fc-947b-afca69f08b9e"
+  },
+  {
+    "subj": "GSD:f898955b-c4dc-4fde-962e-1129551106c1",
+    "pred": "related_synonym_of",
+    "obj": "GSD:bbf32d7b-5489-45cb-8bfb-4cd871452fe7",
+    "comment": "3'GN type1 related_synonym_of GSD:bbf32d7b-5489-45cb-8bfb-4cd871452fe7"
+  },
+  {
+    "subj": "GSD:4c3457af-58a9-4495-8649-59b807675824",
+    "pred": "related_synonym_of",
+    "obj": "GSD:4e3ab171-f09f-45a7-9646-9acce1a64587",
+    "comment": "3'S-Di-LN related_synonym_of GSD:4e3ab171-f09f-45a7-9646-9acce1a64587"
+  },
+  {
+    "subj": "GSD:a7471fb4-dd05-4893-a1bc-c74b4772affd",
+    "pred": "related_synonym_of",
+    "obj": "GSD:3ebd8581-25fb-4c7c-901c-614bc9cc9740",
+    "comment": "6'SLN (Gc) related_synonym_of GSD:3ebd8581-25fb-4c7c-901c-614bc9cc9740"
+  },
+  {
+    "subj": "GSD:053983c4-4c8f-4d26-a07f-4cc296328114",
+    "pred": "is_a",
+    "obj": "GSD:7829c0b5-3df6-5e54-baad-fb4c64380426",
+    "comment": "Galactocerebroside (2-hydoxy fatty acid) is_a GSD:7829c0b5-3df6-5e54-baad-fb4c64380426"
+  },
+  {
+    "subj": "GSD:e2c8595b-aed1-418d-a169-450990acf1da",
+    "pred": "is_a",
+    "obj": "GSD:cd5c19d8-26c9-5540-b4b5-005c0b9f735c",
+    "comment": "is_a GSD:cd5c19d8-26c9-5540-b4b5-005c0b9f735c"
+  },
+  {
+    "subj": "GSD:7dc514b2-b242-4a82-90e1-c6335bdddd33",
+    "pred": "related_synonym_of",
+    "obj": "GSD:50d1be21-660a-5e10-a72d-f832009f71db",
+    "comment": "related_synonym_of GSD:50d1be21-660a-5e10-a72d-f832009f71db"
+  },
+  {
+    "subj": "GSD:a1107ed5-312a-405b-a554-da1db8ec3c21",
+    "pred": "is_a",
+    "obj": "GSD:7f2b0e5a-45b8-5366-9e6d-892f75c98d6a",
+    "comment": "is_a GSD:7f2b0e5a-45b8-5366-9e6d-892f75c98d6a"
+  },
+  {
+    "subj": "GSD:602aa846-6009-45cb-a544-535b7fcc194d",
+    "pred": "is_a",
+    "obj": "GSD:e3c2f3c1-093c-4a24-82cb-4917c780d3ba",
+    "comment": "is_a GSD:e3c2f3c1-093c-4a24-82cb-4917c780d3ba"
+  }
+]
