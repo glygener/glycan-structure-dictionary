@@ -21,7 +21,7 @@ import json
 import re
 from pathlib import Path
 
-ROOT = Path("/Users/cyrusay/Desktop/github_repo/gsd_v3")
+ROOT = Path(__file__).resolve().parents[1]
 RELEASE_DIR = ROOT / "data" / "outputs" / "releases" / "gsd_v2.0.0-draft"
 
 

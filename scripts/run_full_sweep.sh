@@ -9,7 +9,9 @@
 
 set -e
 
-PY=/Users/cyrusay/anaconda3/envs/gly_env/bin/python
+source "$(dirname "${BASH_SOURCE[0]}")/_env.sh"
+cd "$ROOT"
+
 SCRIPT="src/gsd/part2_enrichment/1_ai-assisted_term_matching/graph.py"
 LOG_DIR=data/workspace/resolver_runs
 mkdir -p "$LOG_DIR"
@@ -53,7 +55,7 @@ for src in "${NEW_SOURCES[@]}"; do
   echo "Resolving $src"
   echo "=========================================="
   log="$LOG_DIR/${src}.log"
-  $PY $SCRIPT --source "$src" > "$log" 2>&1 || echo "[WARN] $src exited non-zero"
+  "$PY" "$SCRIPT" --source "$src" > "$log" 2>&1 || echo "[WARN] $src exited non-zero"
   tail -8 "$log"
   echo "  -> log: $log"
 done

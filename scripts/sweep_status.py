@@ -3,7 +3,7 @@
 import json
 from pathlib import Path
 
-ROOT = Path("/Users/cyrusay/Desktop/github_repo/gsd_v3")
+ROOT = Path(__file__).resolve().parents[1]
 INPUTS = ROOT / "data" / "inputs"
 
 NEW_SOURCES = [

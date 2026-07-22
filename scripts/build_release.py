@@ -12,7 +12,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-ROOT = Path("/Users/cyrusay/Desktop/github_repo/gsd_v3")
+ROOT = Path(__file__).resolve().parents[1]
 RELEASE_DIR = ROOT / "data" / "outputs" / "releases" / "gsd_v2.0.0-draft"
 INPUTS = ROOT / "data" / "inputs"
 
@@ -117,7 +117,7 @@ def main() -> None:
     print("\n" + "=" * 80 + "\nIterative deduplication of master_nodes")
     print("=" * 80)
     subprocess.run(
-        ["/Users/cyrusay/anaconda3/bin/python3", str(ROOT / "scripts" / "dedup_master_nodes.py")],
+        [sys.executable, str(ROOT / "scripts" / "dedup_master_nodes.py")],
         check=False,
     )
 

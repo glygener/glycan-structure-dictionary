@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import json
 import subprocess
+import sys
 from datetime import datetime
 from pathlib import Path
 
@@ -23,7 +24,7 @@ from .propagate import sync_to_sources
 from .store import RELEASE_DIR, ROOT, DataStore
 
 FRONTEND_DIR = Path(__file__).resolve().parent.parent / "frontend"
-GLY_PY = "/Users/cyrusay/anaconda3/envs/gly_env/bin/python"
+GLY_PY = sys.executable  # the interpreter running this server (gly_env under run.sh)
 
 app = FastAPI(title="bGSL Curator")
 

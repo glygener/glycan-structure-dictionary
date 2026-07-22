@@ -38,7 +38,7 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-ROOT = Path("/Users/cyrusay/Desktop/github_repo/gsd_v3")
+ROOT = Path(__file__).resolve().parents[1]
 SRC_ROOT = ROOT / "src"
 sys.path.insert(0, str(SRC_ROOT))
 

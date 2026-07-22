@@ -26,7 +26,7 @@ import json
 from pathlib import Path
 from typing import Any
 
-ROOT = Path("/Users/cyrusay/Desktop/github_repo/gsd_v3")
+ROOT = Path(__file__).resolve().parents[3]  # backend -> bgsl_curator -> tools -> repo root
 RELEASE_DIR = ROOT / "data" / "outputs" / "releases" / "gsd_v2.0.0-draft"
 INPUTS = ROOT / "data" / "inputs"
 

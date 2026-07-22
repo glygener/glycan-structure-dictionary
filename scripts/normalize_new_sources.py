@@ -29,7 +29,7 @@ import sys
 import uuid
 from pathlib import Path
 
-ROOT = Path("/Users/cyrusay/Desktop/github_repo/gsd_v3")
+ROOT = Path(__file__).resolve().parents[1]
 INPUTS = ROOT / "data" / "inputs"
 
 NAMESPACE = uuid.UUID("12345678-1234-5678-1234-1234567890ab")  # stable seed

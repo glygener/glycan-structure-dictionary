@@ -14,7 +14,7 @@ import json
 from pathlib import Path
 from collections import OrderedDict
 
-ROOT = Path("/Users/cyrusay/Desktop/github_repo/gsd_v3")
+ROOT = Path(__file__).resolve().parents[1]
 INPUTS = ROOT / "data" / "inputs"
 
 LIST_FIELDS = {"exact_synonyms", "gtc_id", "db_xref", "publication"}
